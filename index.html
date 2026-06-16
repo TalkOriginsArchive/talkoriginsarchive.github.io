@@ -1,124 +1,437 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>TalkOrigins Archive Portable Lite</title>
-<link href="theme/style.css" rel="stylesheet"/>
-<link href="assets/poc3-legacy.css" rel="stylesheet"/>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TalkOrigins Archive: Exploring the Creation/Evolution Controversy</title>
+<meta name="description" content="Essays, FAQs, bibliographies, claim responses, and discussion resources on biological and physical origins and the creation/evolution controversy." />
+<meta name="scisiteforge:theme" content="talkorigins-dark-legacy" />
+<meta name="toa:legacy-route" content="/" />
+<meta name="toa:content-kind" content="root" />
+<link rel="canonical" href="https://talkorigins.org/" />
+<link rel="icon" href="/theme/assets/toa.ico" sizes="any" />
+<link rel="alternate" type="application/rss+xml" title="TalkOrigins Archive updates" href="/rss/talkorigins.xml" />
+<link rel="alternate" type="application/atom+xml" title="TalkOrigins Archive updates" href="/rss/talkorigins.atom" />
+<link rel="alternate" type="application/rss+xml" title="TalkOrigins feedback compilations" href="/rss/feedback.xml" />
+<link rel="alternate" type="application/rss+xml" title="TalkOrigins translation status" href="/rss/translations.xml" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@id":"https://talkorigins.org/#website","@type":"WebSite","name":"TalkOrigins Archive","publisher":{"@id":"https://talkorigins.org/#organization"},"url":"https://talkorigins.org/"},{"@id":"https://talkorigins.org/#organization","@type":"Organization","name":"TalkOrigins Archive","url":"https://talkorigins.org/"},{"@id":"https://talkorigins.org/#webpage","@type":"CollectionPage","description":"Essays, FAQs, bibliographies, claim responses, and discussion resources on biological and physical origins and the creation/evolution controversy.","headline":"TalkOrigins Archive: Exploring the Creation/Evolution Controversy","identifier":"/","inLanguage":"en","isPartOf":{"@id":"https://talkorigins.org/#website"},"mainEntityOfPage":"https://talkorigins.org/","name":"TalkOrigins Archive: Exploring the Creation/Evolution Controversy","publisher":{"@id":"https://talkorigins.org/#organization"},"url":"https://talkorigins.org/"}]}</script>
 <style>
-    body.portable-lite-landing {
-      min-height: 100vh;
-      color: #f8fbff;
-      background:
-        radial-gradient(circle at 18% 12%, rgba(177, 141, 51, 0.28), transparent 28%),
-        radial-gradient(circle at 80% 8%, rgba(84, 139, 211, 0.2), transparent 24%),
-        linear-gradient(135deg, #0b1421 0%, #14243a 54%, #07111f 100%);
-    }
-
-    .portable-lite-landing a {
-      color: #f3d57b;
-    }
-
-    .portable-lite-landing .site-shell {
-      width: min(1040px, calc(100vw - 28px));
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      padding: 32px 0;
-    }
-
-    .portable-lite-card {
-      width: 100%;
-      padding: clamp(28px, 5vw, 56px);
-      border: 1px solid rgba(243, 213, 123, 0.26);
-      border-radius: 18px;
-      background:
-        linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.035));
-      box-shadow: 0 28px 90px rgba(0, 0, 0, 0.38);
-    }
-
-    .portable-lite-card .eyebrow {
-      color: #f3d57b;
-    }
-
-    .portable-lite-card h1 {
-      max-width: 760px;
-      margin: 0;
-      color: #fffdf6;
-      font-size: clamp(2.45rem, 7vw, 5.4rem);
-      line-height: 0.96;
-    }
-
-    .portable-lite-card .lede {
-      max-width: 720px;
-      margin: 22px 0 0;
-      color: rgba(248, 251, 255, 0.84);
-      font-size: clamp(1.05rem, 2vw, 1.32rem);
-      line-height: 1.58;
-    }
-
-    .portable-lite-actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin-top: 28px;
-    }
-
-    .portable-lite-actions .button-link {
-      border-color: rgba(243, 213, 123, 0.5);
-      background: #f3d57b;
-      color: #101827;
-    }
-
-    .portable-lite-actions .button-link-secondary {
-      background: transparent;
-      color: #f8fbff;
-    }
-
-    .portable-lite-meta {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-      gap: 12px;
-      margin-top: 34px;
-    }
-
-    .portable-lite-meta p {
-      margin: 0;
-      padding: 14px 16px;
-      border: 1px solid rgba(255, 255, 255, 0.14);
-      border-radius: 10px;
-      background: rgba(255, 255, 255, 0.055);
-      color: rgba(248, 251, 255, 0.76);
-    }
-
-    .portable-lite-meta strong {
-      display: block;
-      color: #ffffff;
-      font-size: 1.08rem;
-    }
-  </style>
-<meta content="." name="scisiteforge:portable-root"/><script defer="" src="theme/portable-lite.js"></script></head>
-<body class="theme-talkorigins-modern poc3-augmented portable-lite-landing">
+:root {
+  --bg: #090d12;
+  --bg-blue: #101c2d;
+  --panel: #11151d;
+  --panel-2: #171c25;
+  --panel-3: #202630;
+  --ink: #e9e1d1;
+  --muted: #c5bbac;
+  --line: rgba(225, 210, 167, 0.18);
+  --gold: #c8a646;
+  --gold-soft: #f1dc91;
+  --white: #fffaf0;
+  --max: 1180px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 12% 0%, rgba(38, 74, 109, 0.34), transparent 24rem),
+    radial-gradient(circle at 88% 10%, rgba(45, 31, 9, 0.24), transparent 22rem),
+    linear-gradient(120deg, #07090b 0%, var(--bg-blue) 52%, #07090b 100%);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+a { color: #efe5c9; font-weight: 700; }
+a:hover { color: var(--gold-soft); }
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  z-index: 10;
+  padding: 0.65rem 0.8rem;
+  color: #111;
+  background: var(--gold-soft);
+}
+.site-shell {
+  width: min(var(--max), calc(100vw - 28px));
+  margin: 0 auto;
+  padding: 22px 0 54px;
+}
+.top-card,
+.intro-card,
+.reader-paths,
+.site-footer {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: rgba(13, 17, 24, 0.92);
+  box-shadow: 0 26px 80px rgba(0, 0, 0, 0.38);
+}
+.top-card {
+  padding: 28px 32px 24px;
+  text-align: center;
+}
+.banner-frame {
+  width: 100%;
+  margin: 0 auto 18px;
+  padding: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: #050505;
+}
+.banner-frame img {
+  display: block;
+  width: min(640px, 100%);
+  height: auto;
+  margin: 0 auto;
+}
+.kicker,
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--gold);
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+.top-card h1 {
+  margin: 0;
+  color: var(--white);
+  font-size: clamp(2.35rem, 5.6vw, 4.7rem);
+  line-height: 0.96;
+  text-shadow: 0 2px 0 rgba(255, 255, 255, 0.08);
+}
+.tagline {
+  margin: 12px auto 20px;
+  max-width: 740px;
+  color: var(--ink);
+  font-size: 1.08rem;
+}
+.top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+.top-nav a,
+.top-nav select,
+.rail a {
+  min-height: 40px;
+  padding: 0.62rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 3px;
+  color: var(--ink);
+  background: linear-gradient(180deg, #46484d, #202329);
+  text-decoration: none;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.16);
+}
+.top-nav select {
+  font: 700 1rem Georgia, "Times New Roman", Times, serif;
+}
+.intro-card {
+  margin-top: 22px;
+  padding: 34px 38px;
+}
+.intro-grid {
+  display: grid;
+  grid-template-columns: 270px minmax(0, 1fr);
+  gap: 36px;
+}
+.rail {
+  display: grid;
+  gap: 8px;
+  align-content: start;
+}
+.rail a {
+  display: block;
+}
+.intro-copy {
+  font-size: 1.08rem;
+  line-height: 1.62;
+}
+.memory {
+  margin: 0 0 24px;
+  color: var(--muted);
+  text-align: right;
+  font-style: italic;
+}
+.intro-copy p {
+  margin: 0 0 1.08rem;
+}
+.legacy-groups {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 26px;
+  margin-top: 26px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+}
+.legacy-groups h2,
+.reader-paths h2,
+.site-footer h2 {
+  margin: 0 0 8px;
+  color: var(--gold);
+  font-size: 1.18rem;
+}
+.legacy-groups ul,
+.site-footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 1.58;
+}
+.reader-paths {
+  margin-top: 34px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+.reader-paths > p {
+  max-width: 760px;
+  margin: 0 0 16px;
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+.path-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+.path-card {
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  background: linear-gradient(180deg, rgba(32, 38, 48, 0.9), rgba(14, 18, 25, 0.95));
+}
+.path-card h3 {
+  margin: 0 0 8px;
+  color: var(--white);
+  font-size: 1.25rem;
+}
+.path-card p {
+  margin: 0 0 12px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+.path-card .link-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+}
+.site-footer {
+  display: grid;
+  grid-template-columns: 1.45fr 0.8fr 0.8fr;
+  gap: 28px;
+  margin-top: 24px;
+  padding: 26px 30px;
+  border-top: 3px solid var(--gold);
+}
+.site-footer p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.35;
+}
+@media (max-width: 860px) {
+  .intro-grid,
+  .legacy-groups,
+  .path-grid,
+  .site-footer {
+    grid-template-columns: 1fr;
+  }
+  .memory {
+    text-align: left;
+  }
+}
+@media (max-width: 640px) {
+  .site-shell {
+    width: min(100vw - 12px, var(--max));
+    padding-top: 10px;
+  }
+  .top-card,
+  .intro-card,
+  .site-footer {
+    padding: 16px;
+    border-radius: 7px;
+  }
+  .top-card h1 {
+    font-size: clamp(2rem, 12vw, 3rem);
+  }
+  .tagline,
+  .intro-copy,
+  .reader-paths > p {
+    font-size: 1rem;
+  }
+  .top-nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .top-nav a,
+  .top-nav select {
+    width: 100%;
+    text-align: center;
+  }
+}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
 <div class="site-shell">
-<main id="main">
-<section class="portable-lite-card">
-<p class="eyebrow">Portable Static Edition</p>
-<h1>TalkOrigins Archive Portable Lite</h1>
-<p class="lede">A public-files-only static edition of the TalkOrigins Archive for offline reading, classroom use, review, and preservation. Dynamic services, private workbench state, translation work orders, and restricted source material are excluded.</p>
-<div class="portable-lite-actions">
-<a class="button-link" href="archive-home.html">Open the Archive</a>
-<a class="button-link button-link-secondary" href="search/index.html">Offline Search</a>
-<a class="button-link button-link-secondary" href="README.html">Package Notes</a>
-</div>
-<div aria-label="Portable package summary" class="portable-lite-meta">
-<p><strong>16,090</strong> public files copied</p>
-<p><strong>5</strong> private/dynamic directories excluded</p>
-<p><strong>Static-only</strong> opens from GitHub Pages, USB, or local disk</p>
-</div>
-</section>
-</main>
+  <header class="top-card">
+    <div class="banner-frame">
+      <img src="pictures/title-no-text.jpg" alt="" />
+    </div>
+    <p class="kicker">Exploring the Creation/Evolution Controversy</p>
+    <h1>TalkOrigins Archive</h1>
+    <p class="tagline">Essays, FAQs, bibliographies, and discussion resources on biological and physical origins.</p>
+    <nav class="top-nav" aria-label="Primary navigation">
+      <a href="/">Home</a>
+      <a href="/origins/faqs-qa.html">FAQs</a>
+      <a href="/origins/faqs.html">Browse</a>
+      <a href="/indexcc/list.html">Claims Index</a>
+      <a href="/timeline/">Timeline</a>
+      <a href="/dossiers/">Dossiers</a>
+      <a href="/search/">Search</a>
+      <a href="/fb/">Feedback</a>
+      <a href="/origins/other-links.html">Links</a>
+      <a href="/workbench/">Workbench</a>
+      <a href="/notebook/">Notebook</a>
+      <a href="/downloads/toa-lite/">Downloads</a>
+      <a href="/translation-status/">Translations</a>
+      <select aria-label="Language" onchange="if (this.value) location.href=this.value">
+        <option value="/" selected>English</option>
+        <option value="/es/">Español</option>
+        <option value="/fr/">Français</option>
+        <option value="/de/">Deutsch</option>
+        <option value="/pt/">Português</option>
+        <option value="/00/">Legacy</option>
+      </select>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="intro-card" aria-labelledby="about-archive">
+      <div class="intro-grid">
+        <nav class="rail" aria-label="Archive entry points">
+          <a href="/origins/welcome.html">Welcome!</a>
+          <a href="/origins/faqs-qa.html">The FAQ</a>
+          <a href="/origins/faqs.html">Browse the Archive</a>
+          <a href="/search/">Search the Archive</a>
+          <a href="/indexcc/list.html">Index to Claims</a>
+          <a href="/origins/outline.html">Site Map</a>
+          <a href="/origins/whats-new.html">What's New</a>
+          <a href="/fb/">Feedback</a>
+          <a href="/origins/postmonth/">Post of the Month</a>
+        </nav>
+        <div class="intro-copy">
+          <p class="memory">In warm memory of <a href="/tsand.html">Tero Sand</a> and <a href="https://web.archive.org/web/20061206051843if_/http://www.ncseweb.org/resources/rncse_content/vol20/8191_in_memory_of_bob_schadewald_12_30_1899.asp">Bob Schadewald</a></p>
+          <h2 id="about-archive" class="eyebrow">About the Archive</h2>
+          <p><strong><a href="/origins/welcome.html#newsgroup">Talk.origins</a></strong> is a Usenet newsgroup devoted to the discussion and debate of biological and physical origins. Most discussions in the newsgroup center on the creation/evolution controversy, but other topics of discussion include the origin of life, geology, biology, catastrophism, cosmology, and theology.</p>
+          <p>The <strong>TalkOrigins Archive</strong> is a collection of articles and essays, most of which appeared in talk.origins at one time or another. The archive provides mainstream scientific responses to frequently asked questions and recurring creationist claims.</p>
+          <p>The archive also collects bibliographies, discussion resources, feedback, post archives, administration notes, awards, and background material for readers who want to follow the details beyond short answers.</p>
+        </div>
+      </div>
+      <div class="legacy-groups" aria-label="Additional archive links">
+        <section>
+          <h2>Discussion</h2>
+          <ul>
+            <li><a href="/origins/welcome.html#newsgroup">Reading talk.origins</a></li>
+            <li><a href="/origins/other-links.html">Other Web Sites</a></li>
+            <li><a href="http://www.pandasthumb.org/">Panda's Thumb</a></li>
+            <li><a href="https://web.archive.org/web/20170422022829if_/http://www.ediacara.org/">University of Ediacara</a></li>
+          </ul>
+        </section>
+        <section>
+          <h2>Foundation</h2>
+          <ul>
+            <li><a href="/foundation/2026-update/">Foundation Update</a></li>
+            <li><a href="/foundation/donate.html">Make a Donation</a></li>
+            <li><a href="/foundation/">TalkOrigins Foundation</a></li>
+            <li><a href="/origins/admin.html">Administration</a></li>
+          </ul>
+        </section>
+        <section>
+          <h2>Site</h2>
+          <ul>
+            <li><a href="/faqs/awards/">Awards</a></li>
+            <li><a href="/rss/talkorigins.xml">RSS Syndication</a></li>
+            <li><a href="/origins/contact.html">Contact Administrator</a></li>
+            <li><a href="/origins/privacy.html">Privacy Policy</a></li>
+          </ul>
+        </section>
+      </div>
+    </section>
+
+    <section class="reader-paths" aria-labelledby="reader-paths-title">
+      <h2 id="reader-paths-title">Reader Paths</h2>
+      <p>Choose a route by the kind of work you are doing: orientation, quick answers, topic browsing, claims lookup, search, or historical context.</p>
+      <div class="path-grid">
+        <article class="path-card">
+          <h3>New to the Archive</h3>
+          <p>Start with the welcome page for orientation to talk.origins, the Archive, and the creation/evolution controversy.</p>
+          <a href="/origins/welcome.html">Read the welcome</a>
+        </article>
+        <article class="path-card">
+          <h3>Find an Answer</h3>
+          <p>Use the FAQ question-and-answer page for common questions before moving into longer articles.</p>
+          <a href="/origins/faqs-qa.html">Open the FAQ</a>
+        </article>
+        <article class="path-card">
+          <h3>Browse by Topic</h3>
+          <p>Use the archive topic page when you want the historical document collection organized by subject.</p>
+          <a href="/origins/faqs.html">Browse the Archive</a>
+        </article>
+        <article class="path-card">
+          <h3>Search Across Corpora</h3>
+          <p>Search converted articles, claim responses, navigation records, and other modernized site exports.</p>
+          <a href="/search/">Search the Archive</a>
+        </article>
+        <article class="path-card">
+          <h3>Reference Tools</h3>
+          <p>Use these when you know a term, a creationist claim, or need a structural view of the site.</p>
+          <div class="link-row">
+            <a href="/origins/faqs-index.html">Alphabetical Index</a>
+            <a href="/indexcc/list.html">Claims Index</a>
+            <a href="/origins/outline.html">Site Map</a>
+          </div>
+        </article>
+        <article class="path-card">
+          <h3>Research Context</h3>
+          <p>Follow events, publications, court cases, and structured records connected to Archive topics.</p>
+          <div class="link-row">
+            <a href="/timeline/">Timeline</a>
+            <a href="/dossiers/">Dossiers</a>
+          </div>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <section>
+      <h2>TalkOrigins Archive</h2>
+      <p>Copyright 1998-2016 TalkOrigins Archive. The archive is maintained as a resource for readers following the creation/evolution controversy and related scientific topics.</p>
+    </section>
+    <section>
+      <h2>Support</h2>
+      <ul>
+        <li><a href="/foundation/2026-update/">Foundation Update</a></li>
+        <li><a href="/foundation/donate.html">Make a Donation</a></li>
+        <li><a href="/origins/contact.html">Contact Administrator</a></li>
+      </ul>
+    </section>
+    <section>
+      <h2>Policies</h2>
+      <ul>
+        <li><a href="/origins/privacy.html">Privacy Policy</a></li>
+        <li><a href="/origins/admin.html">Administration</a></li>
+        <li><a href="/rss/talkorigins.xml">RSS Syndication</a></li>
+      </ul>
+    </section>
+  </footer>
 </div>
 </body>
 </html>

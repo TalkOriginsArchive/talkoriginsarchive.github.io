@@ -7,19 +7,117 @@
 <title>TalkOrigins Archive Portable Lite</title>
 <link href="theme/style.css" rel="stylesheet"/>
 <link href="assets/poc3-legacy.css" rel="stylesheet"/>
+<style>
+    body.portable-lite-landing {
+      min-height: 100vh;
+      color: #f8fbff;
+      background:
+        radial-gradient(circle at 18% 12%, rgba(177, 141, 51, 0.28), transparent 28%),
+        radial-gradient(circle at 80% 8%, rgba(84, 139, 211, 0.2), transparent 24%),
+        linear-gradient(135deg, #0b1421 0%, #14243a 54%, #07111f 100%);
+    }
+
+    .portable-lite-landing a {
+      color: #f3d57b;
+    }
+
+    .portable-lite-landing .site-shell {
+      width: min(1040px, calc(100vw - 28px));
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      padding: 32px 0;
+    }
+
+    .portable-lite-card {
+      width: 100%;
+      padding: clamp(28px, 5vw, 56px);
+      border: 1px solid rgba(243, 213, 123, 0.26);
+      border-radius: 18px;
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.035));
+      box-shadow: 0 28px 90px rgba(0, 0, 0, 0.38);
+    }
+
+    .portable-lite-card .eyebrow {
+      color: #f3d57b;
+    }
+
+    .portable-lite-card h1 {
+      max-width: 760px;
+      margin: 0;
+      color: #fffdf6;
+      font-size: clamp(2.45rem, 7vw, 5.4rem);
+      line-height: 0.96;
+    }
+
+    .portable-lite-card .lede {
+      max-width: 720px;
+      margin: 22px 0 0;
+      color: rgba(248, 251, 255, 0.84);
+      font-size: clamp(1.05rem, 2vw, 1.32rem);
+      line-height: 1.58;
+    }
+
+    .portable-lite-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 28px;
+    }
+
+    .portable-lite-actions .button-link {
+      border-color: rgba(243, 213, 123, 0.5);
+      background: #f3d57b;
+      color: #101827;
+    }
+
+    .portable-lite-actions .button-link-secondary {
+      background: transparent;
+      color: #f8fbff;
+    }
+
+    .portable-lite-meta {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin-top: 34px;
+    }
+
+    .portable-lite-meta p {
+      margin: 0;
+      padding: 14px 16px;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.055);
+      color: rgba(248, 251, 255, 0.76);
+    }
+
+    .portable-lite-meta strong {
+      display: block;
+      color: #ffffff;
+      font-size: 1.08rem;
+    }
+  </style>
 <meta content="." name="scisiteforge:portable-root"/><script defer="" src="theme/portable-lite.js"></script></head>
-<body class="theme-talkorigins-modern poc3-augmented">
+<body class="theme-talkorigins-modern poc3-augmented portable-lite-landing">
 <div class="site-shell">
 <main id="main">
-<section class="article-header">
-<p class="eyebrow">USB Edition</p>
+<section class="portable-lite-card">
+<p class="eyebrow">Portable Static Edition</p>
 <h1>TalkOrigins Archive Portable Lite</h1>
-<p class="article-meta">Public-files-only static edition generated from talkorigins.org poc3-portable-lite.</p>
+<p class="lede">A public-files-only static edition of the TalkOrigins Archive for offline reading, classroom use, review, and preservation. Dynamic services, private workbench state, translation work orders, and restricted source material are excluded.</p>
+<div class="portable-lite-actions">
+<a class="button-link" href="archive-home.html">Open the Archive</a>
+<a class="button-link button-link-secondary" href="search/index.html">Offline Search</a>
+<a class="button-link button-link-secondary" href="README.html">Package Notes</a>
+</div>
+<div aria-label="Portable package summary" class="portable-lite-meta">
+<p><strong>16,090</strong> public files copied</p>
+<p><strong>5</strong> private/dynamic directories excluded</p>
+<p><strong>Static-only</strong> opens from GitHub Pages, USB, or local disk</p>
+</div>
 </section>
-<article class="article-body legacy-converted-page">
-<p>This portable edition is intended for offline review from a USB flash drive. It contains public static pages and excludes dynamic services, private workbench state, translation work orders, and restricted source material.</p>
-<p><a class="button-link" href="index.html">Open the Archive</a> <a class="button-link button-link-secondary" href="README.html">Read package notes</a></p>
-</article>
 </main>
 </div>
 </body>

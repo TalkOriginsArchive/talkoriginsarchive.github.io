@@ -1,0 +1,56 @@
+BriefClaim: The first individual of a new species would not find a mate.
+Title: First of species seeks mate
+Keywords: speciation, sex, reproduction.
+
+Claim:
+
+The first individual of the new species would be very unlikely to find a
+mate.  Hybrids are infertile, so a newly evolved individual would not be
+able to breed successfully with the original species.  The mutation that
+caused that individual to be a new species would also have to occur in an
+individual of the opposite sex.
+
+Source:
+
+TCCOP. 1998. Evolutionism vs. creationism:
+ Evidence, extinction, and the evolutionarian "spin doctors" 
+ https://web.archive.org/web/20091024171235if_/http://www.geocities.com/deke1942/tccop/evolution.htm
+
+Response:
+
+1. This objection falsely assumes that speciation must happen suddenly when
+   one individual gives rise to an individual of another species.  In
+   fact, populations, not individuals, evolve, and most speciation occurs
+   gradually.  In one common mode of speciation ("allopatric" speciation),
+   two populations of the same species are split apart geographically.
+   Small changes accumulate in both populations, causing them to be more
+   and more different from each other.  Eventually, the differences are
+   great enough that the two populations cannot interbreed when they do get
+   together (Otte and Endler 1989).
+
+   It is also possible for speciation to occur without the geographical
+   separation (sympatric speciation; see Diekmann and Doebeli 1999;
+   Kondrashov and Kondrashov 1999; Otte and Endler 1989), but the process
+   is still gradual.
+
+2. Sometimes new species can form suddenly, but this occurs with species
+   that are asexual or hermaphroditic and do not need to find mates.
+
+Links:
+
+References:
+
+1. Dieckmann, Ulf and Michael Doebeli. 1999.  On the origin of species by
+   sympatric speciation.  _Nature_ 400: 354-357.
+2. Kondrashov, Alexey S. and Fyodor A. Kondrashov. 1999.  Interactions
+   among quantitative traits in the course of sympatric speciation.
+   _Nature_ 400: 351-354.
+3. Otte, D. and J. A. Endler, eds. 1989.  _Speciation and Its
+   Consequences_.  Sunderland, MA: Sinauer Assoc.
+
+Further Reading:
+
+Schilthuizen, Menno. 2001.  _Frogs, Flies, and Dandelions: the making of
+ species_, Oxford Univ. Press.
+
+Date: 2001-2-17, 2004-2-24

@@ -1,0 +1,82 @@
+BriefClaim: Evolution is only a theory.
+Title: Only a theory
+Keywords: theory, fact.
+
+Claim:
+
+Evolution is only a theory.  It is not a fact.
+
+Source:
+
+State of Oklahoma. 2003.  House Bill HB1504: Schools; requiring all
+ textbooks to have an evolution disclaimer; codification; effective date;
+ emergency.  https://web.archive.org/web/20040217190841if_/http://www2.lsb.state.ok.us/2003-04hb/hb1504_int.rtf
+
+Response:
+
+1. The word theory, in the context of science, does not imply
+   uncertainty.  It means "a coherent group of general propositions used
+   as principles of explanation for a class of phenomena" (Barnhart
+   1948).  In the case of the theory of evolution, the following are some
+   of the phenomena involved.  All are facts:
+    - Life appeared on earth more than two billion years ago;
+    - Life forms have changed and diversified over life's history;
+    - Species are related via common descent from one or a few common
+      ancestors;
+    - Natural selection is a significant factor affecting how species
+      change.
+   Many other facts are explained by the theory of evolution as well.
+
+2. The theory of evolution has proved itself in practice.  It has useful
+   applications in epidemiology, pest control, drug discovery, and other
+   areas (Bull and Wichman 2001; Eisen and Wu 2002; Searls 2003).
+
+3. Besides the theory, there is the fact of evolution, the observation
+   that life has changed greatly over time.  The fact of evolution was
+   recognized even before Darwin's theory.  The theory of evolution
+   explains the fact.
+
+4. If "only a theory" were a real objection, creationists would also be
+   issuing disclaimers complaining about the theory of gravity, atomic
+   theory, the germ theory of disease, and the theory of limits (on which
+   calculus is based).  The theory of evolution is no less valid than any
+   of these.  Even the theory of gravity still receives serious challenges
+   (Milgrom 2002).  Yet the phenomenon of gravity, like evolution, is
+   still a fact.
+
+5. Creationism is neither theory nor fact; it is, at best, only an
+   opinion.  Since it explains nothing, it is scientifically useless.
+
+Links:
+
+Moran, Laurence. 1993.  Evolution is a fact and a theory,
+  http://www.talkorigins.org/faqs/evolution-fact.html
+
+Isaak, Mark. 1995.  Five major misconceptions about evolution,
+  http://www.talkorigins.org/faqs/faq-misconceptions.html
+
+References:
+
+1. Barnhart, Clarence L., ed. 1948.  _The American College Dictionary_,
+   New York: Random House.
+2. Bull, J. J. and H. A. Wichman. 2001.  Applied evolution.  _Annual
+   Review of Ecology and Systematics_ 32: 183-217.
+3. Eisen, J. A. and M. Wu. 2002.  Phylogenetic analysis and gene
+   functional predictions: Phylogenomics in action.  _Theoretical
+   Population Biology_ 61: 481-487.
+4. Milgrom, Mordehai. 2002.  Does dark matter really exist?  _Scientific
+   American_ 287(2) (Aug.): 42-52.
+4. Searls, D. 2003.  Pharmacophylogenomics: Genes, evolution and drug
+   targets.  _Nature Reviews Drug Discovery_ 2: 613-623.
+   https://web.archive.org/web/20170101082107if_/http://www.nature.com/nature/view/030731.html
+
+Further Reading:
+
+AIG. n.d.  Arguments we think creationists should NOT use.
+ http://www.answersingenesis.org/home/area/faq/dont_use.asp
+
+Gould, Stephen J. 1983.  Evolution as fact and theory.  In _Hen's Teeth
+ and Horse's Toes_, New York: W. W. Norton & Company, pp. 253-262.
+ http://www.stephenjaygould.org/library/gould_fact-and-theory.html
+
+Date: 2003-4-10, 2004-11-25

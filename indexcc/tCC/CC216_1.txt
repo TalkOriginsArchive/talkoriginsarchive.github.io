@@ -1,0 +1,112 @@
+BriefClaim: There are gaps between land mammals and whales.
+Title: Transitional Whales
+Keywords: whale, transitional, fossil, Ambulocetus, Pakicetus.
+
+Claim:
+
+There are gaps between land mammals and whales.
+
+Source:
+
+Gish, Duane T., 1994.  When is a whale a whale?  _Impact_ 250 (Apr.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=379
+
+Response:
+
+1. The transitional sequence from a land mammal to whales is quite robust.
+   See Babinski (2003) or Zimmer (1998) for pictures of some of these.
+
+    a. _Pakicetus inachus_: latest Early Eocene (Gingerich et al. 1983;
+       Thewissen and Hussain 1993).
+    b. _Ambulocetus natans_: Early to Middle Eocene, above _Pakicetus_.  It
+       had short front limbs and hind legs adapted for swimming; undulating
+       its spine up and down helped its swimming.  It apparently could walk
+       on land as well as swim (Thewissen et al. 1994).
+    c. _Indocetus ramani_: earliest Middle Eocene (Gingerich et al. 1993).
+    d. _Dorudon_: the dominant cetacean of the late Eocene.  Their tiny
+       hind limbs were not involved in locomotion.
+    e. _Basilosaurus_: middle Eocene and younger.  A fully aquatic whale
+       with structurally complete legs (Gingerich et al. 1990).
+    f. an early baleen whale with its blowhole far forward and some
+       structural features found in land animals but not later
+       whales (Stricherz 1998).
+
+   The whale's closest living relative is the hippopotamus.  A fossil
+   group known as anthracotheres links hippos with whales (Boisserie et
+   al. 2005).  The common ancestor of whales and hippos likely was a
+   primitive artiodactyl (cloven-hoofed mammal); ankle bones from the
+   primitive whales _Artiocetus_ and _Rodhocetus_ show distinctive
+   artiodactyl traits (Gingerich et al. 2001).
+
+Links:
+
+Babinski, E. T., 2003.  Cetacean evolution (whales, dolphins,
+ porpoises)
+ http://www.edwardtbabinski.us/babinski/whale_evolution.html
+
+Sutera, Raymond, 2001.  The origin of whales and the power of independent
+ evidence.  RNCSE 20(5): 33-41.
+ http://www.talkorigins.org/features/whales/
+
+References:
+
+#1. Banta, Josh, 2001.  Whale transitional fossil evidence.
+#   https://web.archive.org/web/20040429111308if_/http://fp.bio.utk.edu/darwin/1997/whale.html [broken link]
+2. Boisserie, Jean-Renaud, Fabrice Lihoreau and Michel Brunet. 2005.  The
+   position of Hippopotamidae within Cetartiodactyla.  PNAS 102(5):
+   1537-1541.
+1. Gingerich, P. D. et al., 1983.  Origin of whales in epicontinental
+   remnant seas: New evidence from the Early Eocene of Pakistan.
+   _Science_ 220: 403-406.
+2. Gingerich, P. D., B. H. Smith, and E. L. Simons, 1990.  Hind limb of
+   Eocene _Basilosaurus_: Evidence of feet in whales.  _Science_ 249:
+   154-157.
+3. Gingerich, P. D. et al., 1993. Partial skeletons of _Indocetus ramani_
+   [Mammalia, Cetacea] from the Lower Middle Eocene Domanda Shale in the
+   Sulaiman Range of Punjab [Pakistan].  _Contributions from the Museum of
+   Paleontology of the University of Michigan_ 28: 393-416.
+5. Gingerich, P. D. et al., 1994.  New whale from the Eocene of Pakistan
+   and the origin of cetacean swimming.  _Nature_ 368: 844-847.
+7. Gingerich, P. D. et al. 2001.  Origin of whales from early
+   artiodactyls: Hands and feet of Eocene Protocetidae from Pakistan.
+   _Science_ 293: 2239-2242.  See also: Rose, K. D. 2001.  The ancestry of
+   whales.  _Science_ 293: 2216-2217.
+4. Thewissen, J. G. M. and S. T. Hussain, 1993.  Origin of underwater
+   hearing in whales.  _Nature_ 361: 444-445.
+7. Thewissen, J. G. M., S. T. Hussain and M. Arif, 1994.  Fossil evidence
+   for the origin of aquatic locomotion in archaeocete whales.  _Science_
+   263: 210-212. See also Berta, A., 1994.  What is a whale?  _Science_
+   263: 180-181.
+8. Stricherz, Vince, 1998 (10 Oct.).  Burke displays fossil of toothless
+   whale. 
+   http://depts.washington.edu/uweek/archives/1998.10.OCT_29/\_article2.html
+   See also
+   https://web.archive.org/web/20010308214505if_/http://more.abcnews.go.com/sections/science/DailyNews/baleen980916.html
+
+Further Reading:
+
+Gould, S. J. 1995. Hooking leviathan by its past. In: _Dinosaur in a
+ Haystack_.  New York: Harmony Books, pp. 359-376.
+
+Pojeta, John Jr. and Dale A. Springer. 2001.  _Evolution and the Fossil
+ Record_, American Geological Institute, Alexandria, VA. 
+ https://web.archive.org/web/20250523075732if_/http://www.agiweb.org/news/spot_06apr01_evolutionbk.htm ,
+ https://web.archive.org/web/20030315041121if_/http://www.agiweb.org/news/evolution.pdf .
+
+Thewissen, J. G. M. (ed.). 1998.  _The Emergence of Whales: evolutionary
+ patterns in the origin of Cetacea_. New York: Plenum. (technical)
+
+Thewissen, J. G. M., S. I. Madar, and S. T. Hussain. 1998.  Whale ankles 
+ and evolutionary relationships. _Nature_ 395: 452.  See also Wong, K.,
+ 1999 (Jan.).  Cetacean creation.  SciAm 280(1): 26,30.
+
+Thewissen, J. G. M. and E. M. Williams. 2002.  The early radiations of
+ Cetacea (Mammalia): Evolutionary pattern and developmental correlations.
+ _Annual Review of Ecology and Systematics_ 33: 73-90. (technical)
+
+Zimmer, Carl. 1995.  Back to the sea.  _Discover_ 16(1) (Jan.): 82-84.
+
+Zimmer, Carl. 1998.  _At the Water's Edge_.  New York: Touchstone,
+ ch. 6-10.
+
+Date: 2001-4-29, 2006-2-25

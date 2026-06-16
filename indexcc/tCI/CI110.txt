@@ -1,0 +1,93 @@
+BriefClaim: Complex specified information indicates design.
+Title: Complex Specified Information indicates design.
+Keywords: design, information, complexity, specification, explanatory
+  filter.
+
+Claim:
+
+Design can be recognized by the following <CI111>filter>:
+
+  1. If an event E has high probability, accept regularity as an
+     explanation; otherwise move to the next step.
+  2. If the chance hypothesis assigns E a high probability or E is
+     not specified, then accept chance; otherwise move down the list.
+  3. Having eliminated regularity and chance, accept design.
+
+This filter is equivalent to detecting complex specified information.
+
+Source:
+
+Dembski, William A., 1998.  _The Design Inference: Eliminating chance
+ through small probabilities_.  Cambridge University Press.
+
+
+Response:
+
+1. The filter is useless in practice because the probabilities it asks for
+   can never be known.  Step 1, in particular, does not ask us to accept
+   or reject just one regularity hypothesis, it asks us about all
+   regulatory hypotheses, even ones that nobody has thought of before.
+   Similarly, rejecting chance requires a complete list of all chance
+   processes that might apply to the event.
+
+2. The filter is based on the premise that the categories of regularity,
+   chance, and design are "mutually exclusive and exhaustive" (Dembski
+   1998, 36).  But they are not mutually exclusive.  R. A. Fisher, for
+   example, included mutations in all three categories.  Individually,
+   they were due to chance, but collectively they were governed by laws,
+   and all of this was planned by God (Ruse 2001, 121).
+
+3. Although the filter claims to detect design, it really says nothing
+   about design.  The filter defines design as the elimination of
+   regularity and chance, not, as most people would define design, as
+   purposeful, intelligent arrangement.  The two definitions are not
+   equivalent.  Dembski himself noted that some intelligent design will be
+   eliminated in the first two steps.  And what the filter actually
+   detects is copying, not <CI111.2>intelligent agency>.
+
+4. Since the filter does not say anything about design, there is no
+   intelligent design hypothesis that can be used scientifically or for
+   any practical purposes.
+
+5. Key terms in the filter, especially "chance hypothesis" and
+   "specified," are poorly defined.
+
+6. Dembski does not consider that design is a process.  The process that
+   produces design is itself not regularity (or the resulting design would
+   have high probability) or chance (or the design would likely not
+   result), so the filter says the process must itself be design.  Thus,
+   the design process must have another design process to produce it,
+   which needs a design process of its own, ad infinitum, or somewhere
+   along the way there must be no process at all and design must come out
+   of nowhere.  In actuality, design is typically done as an iterative
+   process involving lots of trial and error.  Regularity and chance are
+   both parts of the process, as is selection.  Evolution uses the same
+   processes.
+
+
+Links:
+
+Elsberry, Wesley, and Jeffrey Shallit, 2003.  Information theory,
+ evolutionary computation, and Dembski's "complex specified information".
+ https://web.archive.org/web/20170324125223if_/http://www.talkreason.org/articles/eandsdembski.pdf
+
+Wilkins, John S. and Wesley R. Elsberry, 2001.  The advantages of theft
+ over toil: the design inference and arguing from ignorance.  _Biology and
+ Philosophy_ 16: 711-724.
+ https://web.archive.org/web/20030713193115if_/http://www.users.bigpond.com/thewilkins/papers/dembski/ or
+ http://www.talkdesign.org/faqs/theftovertoil/theftovertoil.html
+
+References:
+
+1. Ruse, Michael, 2001.  _Can a Darwinian Be a Christian?_, Cambridge
+   University Press.
+
+Further Reading:
+
+Fitelson, Brandon, Christopher Stephens and Elliott Sober, 1999.  How not
+ to detect design.  _Philosophy of Science_ 66: 472-488. 
+ http://philosophy.wisc.edu/sober/dembski.pdf
+
+Pennock, Robert T., 1999.  _Tower of Babel_.  Cambridge, MA: MIT Press.
+
+Date: 2003-2-18, 2003-11-8

@@ -1,0 +1,40 @@
+BriefClaim: Orientations show Specimen Creek fossil trees were transported.
+Title: Specimen Creek fossil tree orientations.
+Keywords: fossil, transport
+
+Claim:
+
+The prostrate trees in the Specimen Creek fossil forests show similar
+orientation.  This is consistent with the trees having been transported
+(as by a flood), not with the trees having grown in place over many years.
+
+Source:
+
+Coffin, H. A., 1983.  _Origin by Design_,
+ Review and Herald.
+Morris, John D., 1995.  The Yellowstone petrified forests.
+ _Impact_ 268 (Oct.): ii.
+
+Response:
+
+1. Some trees in the Specimen Creek fossil forests have been transported,
+   but others clearly grew in place, including those on <CC332>Specimen
+   Ridge> (Fritz 1980; Yuretich 1984a; 1984b).
+
+Links:
+
+MacRae, Andrew, 1994.  Yellowstone National Park (U.S.) fossil forests.
+ http://www.talkorigins.org/faqs/polystrate/yellowstone.html
+
+References:
+
+1. Fritz, W. J., 1980. Reinterpretation of the depositional environment of
+   the Yellowstone "fossil forests". _Geology_ 8: 309-313.
+2. Yuretich, R. F., 1984a. Yellowstone fossil forests: New evidence for
+   burial in place. _Geology_ 12: 159-162.
+3. Yuretich, R. F., 1984b. Comment and reply on "Yellowstone fossil forests:
+   New evidence for burial in place." _Geology_ 12: 639.
+
+Further Reading:
+
+Date: 2003-4-17, 2003-8-28

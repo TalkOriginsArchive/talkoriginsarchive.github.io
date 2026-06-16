@@ -1,0 +1,40 @@
+BriefClaim: The ear is too complex to have evolved.
+Title: Ear evolution
+Keywords: ear
+
+Claim:
+
+The ear is too complex to have evolved.
+
+Source:
+
+Brown, Walt. 1995. _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 7.
+
+Response:
+
+1. Not much complexity is needed for a functional ear.  All that is
+   necessary is a nerve connected to something that can vibrate.  Insects
+   have evolved "ears" on at least eleven different parts of their bodies,
+   from antennae to legs (Hoy and Robert 1996).  Even humans detect very
+   low frequencies via tactile sensation, not through their ears.
+
+2. The <CC215>transition from reptile to mammal> shows some of the
+   intermediate stages in human hearing.  Jaw bones, which likely helped
+   the hearing of therapsid reptiles, became co-opted exclusively for
+   hearing in the middle ear.
+
+3. This is an example of the <CA100>argument from incredulity>.  That one
+   does not know how something happened does not mean it cannot have
+   happened.
+
+Links:
+
+References:
+
+1. Hoy, R. R. and D. Robert. 1996.  Tympanal hearing in insects.  _Annual
+   Review of Entomology_ 41: 433-450.
+
+Further Reading:
+
+Date: 2003-6-13

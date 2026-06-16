@@ -1,0 +1,52 @@
+BriefClaim: An iron pot was found encased in Carboniferous coal.
+Title: Iron pot in coal
+Keywords: out-of-place artifact, oopart, coal
+
+Claim:
+
+In 1912, Frank Kennard, an electric plant worker, broke apart a large lump
+of coal, and an iron cup fell from the center, leaving a cast of the pot
+in the coal.  The coal came from the Wilurton Coal Mines and is about 295
+million years old, from the Mid-Pennsylvanian.
+
+Source:
+
+CEM Online. n.d.  The iron cup in coal.
+ https://web.archive.org/web/20070406081048if_/http://www.creationevidence.org/museum_tour/ironpot/ironpot.html
+
+Response:
+
+1. The evidence in support of the claim is so weak as to be scientifically
+   useless.  The only evidence is a letter from 1948, thirty-six years
+   after the artifact was discovered.  The letter says that the coal was
+   not found _in situ_ but went through an unknown amount of processing
+   between the mine and the discovery of the iron cup after the coal was
+   delivered.
+
+2. The cup appears to be cast iron, and cast iron technology began in the
+   eighteenth century.  Its design is much like pots used to hold molten
+   metals and may have been used by a tinsmith, tinker, or person casting
+   bullets.  Without the original pot to analyze, we cannot say exactly
+   how it was used.
+
+3. The cup was likely dropped by a worker either inside a coal mine or in
+   a mine's surface workings.  Mineralization is common in the coal and
+   surrounding debris of coal mines because rainwater reacts with the
+   newly exposed minerals and produces highly mineralized solutions.
+   Coal, sediments, and rocks are commonly cemented together in just a few
+   years.  It could easily appear that a pot cemented in such a concretion
+   could appear superficially as if it were encased in the original coal.
+   Or small pieces of coal, including powder, could have been recompressed
+   around the cup by weight.
+
+Links:
+
+#http://www.bibleandscience.com/science/footprints.htm
+
+References:
+
+Further Reading:
+
+#Acknowledgments: John Cole, Paul Heinrich, Andy Dingley
+
+Date: 2005-5-4

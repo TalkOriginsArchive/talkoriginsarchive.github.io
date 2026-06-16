@@ -1,0 +1,37 @@
+BriefClaim: KP 271 (a fossil humerus) was human.
+Title: KP 271 (a fossil humerus) was human.
+Keywords: Australopithecus
+
+Claim:
+
+The fossil humerus KP 271 is an apparently human fossil from four million
+years ago, which, according to the standard evolutionary model, is well
+before the appearance of modern humans.
+
+Source:
+
+Lubenow, Marvin L. 1992. _Bones of Contention: A creationist assessment
+ of the human fossils_. Grand Rapids, MI: Baker Books, pp. 54-58.
+
+Response:
+
+1. Even a humerus from a chimpanzee looks similar to a human humerus; it
+   should not be surprising that the humerus from a closer relative would
+   look even more similar.  However, the anatomical evidence strongly
+   indicates that the specimen is not human and is a good match with
+   _Australopithecus anamensis_ (Lague and Jungers 1996).
+
+Links:
+
+Foley, Jim. 2004.  Creationist arguments: Anomalous fossils.
+ http://www.talkorigins.org/faqs/homs/a_anomaly.html#kp271
+
+References:
+
+1. Lague, M. R. and W. L. Jungers, 1996.  Morphometric variation in
+   Plio-Pleistocene hominid distal humeri.  _American Journal of Physical
+   Anthropology_ 101: 401-427.
+
+Further Reading:
+
+Date: 2003-5-13

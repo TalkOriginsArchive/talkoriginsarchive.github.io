@@ -1,0 +1,36 @@
+BriefClaim: Helmholtz's contraction theory says the sun is young.
+Title: Helmholtz's solar contraction theory
+Keywords: sun
+
+Claim:
+
+Helmholtz proposed that the sun's energy comes from gravitational
+contraction.  Under this theory, the sun could not be more than about 20
+million years old.
+
+Source:
+
+McDowell, Josh and Don Stewart, 1981.  _Reasons Skeptics should consider
+ Christianity_.  San Bernardino, CA: Here's Life Publishers, Inc.
+ https://web.archive.org/web/20250817130902if_/http://www.greatcom.org/resources/reasons_skeptics/ch_12/default.htm
+
+Response:
+
+1. Helmholtz's theory has been discredited.  It is now known that the sun
+   gets its energy from nuclear fusion.
+
+   Even ignoring the evidence for fusion, gravitational contraction fails
+   for other reasons.  It does not explain the relationship between
+   stellar temperatures and luminosity, and it is inconsistent with
+   variable stars.
+
+Links:
+
+Johansson, Sverker, 1998.  The solar FAQ.
+ http://www.talkorigins.org/faqs/faq-solar.html
+
+References:
+
+Further Reading:
+
+Date: 2003-4-22

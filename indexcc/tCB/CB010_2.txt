@@ -1,0 +1,181 @@
+BriefClaim: First cells could not come together by chance.
+Title: Origin of the first cells
+Keywords: abiogenesis, chance, cell, complexity, proteinoid microsphere,
+panspermy, hypercycles.
+
+Claim:
+
+The most primitive cells are too complex to have come together by chance. 
+(See also <CB010>Probability of abiogenesis>.)
+
+Source:
+
+LifeHow,
+ pg. 44.
+SciCre,
+ pp. 59-69.
+#Hoyle, Fred and Chandra Wickramsinghe, 1984.  _Evolution from Space_.
+# Simon & Schuster. pg. 24.
+
+
+Response:
+
+1. Biochemistry is not chance.  It inevitably produces complex products.
+   Amino acids and other complex molecules are even known to form in
+   space.
+
+2. Nobody knows what the most primitive cells looked like.  All the cells
+   around today are the product of billions of years of evolution.  The
+   earliest self-replicator was likely very much simpler than anything
+   alive today; self-replicating molecules need not be all that complex
+   (Lee et al. 1996), and protein-building systems can also be simple
+   (Ball 2001; Tamura and Schimmel 2001).
+
+3. This claim is an example of the <CA100>argument from incredulity>.
+   Nobody denies that the origin of life is an extremely difficult
+   problem.  That it has not been solved, though, does not mean it is
+   impossible.  In fact, there has been much work in this area, leading to
+   several possible origins for life on earth:
+
+   - Panspermia, which says life came from someplace other than earth.
+     This theory, however, still does not answer how the first life arose.
+   - Proteinoid microspheres (Fox 1960, 1984; Fox and Dose 1977; Fox et
+     al. 1995; Pappelis and Fox 1995):  This theory gives a plausible
+     account of how some replicating structures, which might well be
+     called alive, could have arisen.  Its main difficulty is explaining
+     how modern cells arose from the microspheres.
+   - Clay crystals (Cairn-Smith 1985):  This says that the first
+     replicators were crystals in clay.  Though they do not have a
+     metabolism or respond to the environment, these crystals carry
+     information and reproduce.  Again, there is no known mechanism for
+     moving from clay to DNA.
+   - Emerging hypercycles:  This proposes a gradual origin of the first
+     life, roughly in the following stages: (1) a primordial soup of
+     simple organic compounds.  This seems to be almost inevitable; (2)
+     nucleoproteins, somewhat like modern tRNA (de Duve 1995a) or peptide
+     nucleic acid (Nelson et al. 2000), and semicatalytic; (3)
+     hypercycles, or pockets of primitive biochemical pathways that
+     include some approximate self-replication; (4) cellular hypercycles,
+     in which more complex hypercycles are enclosed in a primitive
+     membrane; (5) first simple cell.  Complexity theory suggests that the
+     self-organization is not improbable.  This view of abiogenesis is the
+     current front-runner.
+   - The iron-sulfur world (Russell and Hall 1997;
+     W&auml;chtersh&auml;user 2000): It has been found that all the steps
+     for the conversion of carbon monoxide into peptides can occur at high
+     temperature and pressure, catalyzed by iron and nickel sulfides.
+     Such conditions exist around submarine hydrothermal vents.  Iron
+     sulfide precipitates could have served as precursors of cell walls as
+     well as catalysts (Martin and Russell 2003).  A peptide cycle, from
+     peptides to amino acids and back, is a prerequisite to metabolism,
+     and such a cycle could have arisen in the iron-sulfur world (Huber et
+     al. 2003).
+   - Polymerization on sheltered organophilic surfaces (Smith et al.
+     1999):  The first self-replicating molecules may have formed within
+     tiny indentations of silica-rich surfaces so that the surrounding
+     rock was its first cell wall.
+   - Something that no one has thought of yet.
+
+Links:
+
+Robinson, Richard. 2005.  Jump-starting a cellular world: Investigating
+ the origin of life, from soup to networks.  _PLoS Biology_ 3(11): e396.
+ https://web.archive.org/web/20090211072504if_/http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0030396
+
+References:
+
+1. Ball, Philip. 2001.  Missing links made simple.  _Nature Science
+   Update_ (15 Mar.).  https://web.archive.org/web/20080723203744if_/http://www.nature.com/nsu/010308/010308-5.html
+1. Cairn-Smith, A. G. 1985. _Seven Clues to the Origin of Life_,
+   Cambridge University Press.
+2. de Duve, Christian. 1995a.  The beginnings of life on
+   earth.  _American Scientist_ 83: 428-437.
+   https://web.archive.org/web/20170513163507if_/http://www.americanscientist.org/template/AssetDetail/assetid/21438?fulltext=true
+3. Fox, S. W. 1960. How did life begin? _Science_ 132: 200-208.
+4. Fox, S. W. 1984. Creationism and evolutionary protobiogenesis.  In:
+   _Science and Creationism_, ed. A. Montagu, Oxford
+   University Press, pp. 194-239.
+5. Fox, S. W. and K. Dose. 1977.  _Molecular Evolution and the Origin of
+   Life_, Revised ed.  New York: Marcel Dekker.
+6. Fox, S. W. et al. 1995.  Experimental retracement of the origins of a
+   protocell: It was also a protoneuron.  In Ponnamperuma, C. and J.
+   Chela-Flores, pp. 17-36.
+7. Huber, Claudia, Wolfgang Eisenreich, Stefan Hecht and G&uuml;nter
+   W&auml;chtersh&auml;user.  2003.  A possible primordial peptide cycle.
+   _Science_ 301: 938-940.
+7. Lee, D. H. et al. 1996. A self-replicating peptide. _Nature_ 382:
+   525-528.
+9. Martin, W. and M. J. Russell. 2003.  (see below)
+8. Nelson, Kevin E., M. Levy and S. L. Miller. 2000.  Peptide nucleic acids
+   rather than RNA may have been the first genetic molecule.  PNAS 97:
+   3868-3871.
+9. Ponnamperuma, C. and J. Chela-Flores (eds.). 1995.  _Chemical
+   Evolution: Structure and Model of the First Cell_.  Dordrecht: Kluwer
+   Academic Publishers.
+10. Pappelis, A. and S. W. Fox. 1995.  Domain protolife: Protocells and
+    metaprotocells within thermal protein matrices.  In Ponnamperuma, C. and
+    Chela-Flores, pp. 129-132.
+11. Russell, M. J. and A. J. Hall. 1997.  The emergence of life from iron
+    monosulphide bubbles at a submarine hydrothermal redox and pH front.
+    _Journal of the Geological Society of London_ 154: 377-402.
+    https://web.archive.org/web/20051117064716if_/http://www.gla.ac.uk/Project/originoflife/html/2001/pdf_articles.htm
+12. Smith, J. V., F. P. Arnold Jr., I. Parsons, and M. R. Lee. 1999.
+    Biochemical evolution III: Polymerization on organophilic silica-rich
+    surfaces, crystal-chemical modeling, formation of first cells, and
+    geological clues.  PNAS 96(7): 3479-3485.
+    https://web.archive.org/web/20080313130147if_/http://www.pnas.org/cgi/content/full/96/7/3479
+9. Tamura, K. and P. Schimmel. 2001. Oligonucleotide-directed peptide
+   synthesis in a ribosome- and ribozyme-free system. PNAS 98: 1393-1397.
+13. W&auml;chtersh&auml;user, G&uuml;nter. 2000.  Life as we don't know
+    it.  _Science_ 289: 1307-1308.
+
+
+Further Reading:
+
+Fry, Iris. 2000.  _The Emergence of Life on Earth: A Historical and
+ Scientific Overview_.  New Brunswick, NJ: Rutgers University Press.
+
+Cohen, Phil. 1996.  Let there be life.  _New Scientist_ 151 (6 July):
+ 22-27.  https://web.archive.org/web/20080724123822if_/http://www.newscientist.com/hottopics/astrobiology/letthere.jsp
+
+de Duve, Christian. 1995a. 
+ (see above)
+de Duve, Christian. 1995b.  _Vital Dust: Life as a cosmic imperative_.
+ New York: Basic Books.
+
+Fox, S. 1988.  _The Emergence of Life: Darwinian Evolution from the
+ Inside_.  New York: Basic Books.
+
+Lacey, J. C., N. S. Wickramasinghe, and G. W. Cook. 1992. Experimental
+ studies on the origin of the genetic code and the process of protein
+ synthesis: A review update.  _Origins of Life and Evolution of the
+ Biosphere_ 22(5): 243-275. (technical)
+
+Lewis, Ricki. 1997.  Scientists debate RNA's role at beginning
+ of life on earth.  _The Scientist_ 11(7) (31 Mar.): 11. 
+ https://web.archive.org/web/20100301075757if_/http://www.the-scientist.com/yr1997/mar/research_970331.html
+ (registration required), or
+ http://www.mhhe.com/biosci/genbio/life/articles/article28.mhtml
+
+Martin, W. and M. J. Russell. 2003. On the origins of cells: A hypothesis
+ for the evolutionary transitions from abiotic geochemistry to
+ chemoautotrophic prokaryotes, and from prokaryotes to nucleated cells.
+ _Philosophical Transactions, Biological Sciences_ 358: 59-85. (technical)
+
+McClendon, John H. 1999. The origin of life. _Earth-Science Reviews_ 47:
+ 71-93. (technical)
+
+Orgel, L. E. 1994.  The origin of life on the earth.  SciAm 271(4) (Oct):
+ 76-83.
+
+Pigliucci, Massimo. 1999. Where do we come from? a humbling look at the
+ biology of life's origin. _Skeptical Inquirer_ 23(5): 21-27.
+
+Russell, Michael. 2003.  Evolution: Five big questions: 1. How
+ did life begin?  _New Scientist_ 178(2399) (14 June): 33-34.
+
+Willis, Peter. 1997.  Turning a corner in the search for the origin of
+ life.  _Santa Fe Institute Bulletin_ 12(2). 
+ https://web.archive.org/web/20001202010000if_/http://www.santafe.edu/sfi/publications/Bulletins/bulletin-summer97/turning.html
+
+Date: 2001-3-31, 2005-12-14

@@ -1,0 +1,222 @@
+BriefClaim: Intelligent design has been published in peer-reviewed journals.
+Title: Intelligent Design and peer review
+Keywords: intelligent design, peer review, publishing
+
+Claim:
+
+Intelligent design in biology has been supported by several peer-reviewed
+journals and books.  As of December 2005, intelligent design supporters
+offer, in support of this claim, the following articles:
+
+ - Axe, D. D., 2000. Extreme functional sensitivity to conservative amino
+   acid changes on enzyme exteriors.  _Journal of Molecular Biology_ 301:
+   585-595.
+ - Behe, M. J. and D. W. Snoke. 2004.  Simulating evolution by gene
+   duplication of protein features that require multiple amino acid
+   residues.  _Protein Science_ 13: 2651-2664.
+ - Chiu, D. K. Y. and T. H. Lui. 2002.  Integrated use of multiple
+   interdependent patterns for biomolecular sequence analysis.
+   _International Journal of Fuzzy Systems_ 4(3): 766-775.
+ - Denton, M. J. and J. C. Marshall. 2001.  The laws of form revisited.
+   _Nature_ 410: 417.
+ - Denton, M. J., J. C. Marshall and M. Legge. 2002.  The protein folds as
+   Platonic forms: New support for the pre-Darwinian conception of
+   evolution by natural law.  _Journal of Theoretical Biology_ 219:
+   325-342.
+ - L&ouml;nnig, W.-E. 2004.  _Dynamic genomes, morphological stasis and
+   the origin of irreducible complexity_.  In: V. Parisi, V. de Fonzo and
+   F. Aluffi-Pentini, eds.  _Dynamical Genetics_, 101-119.  Research
+   Signpost.
+ - L&ouml;nnig, W.-E. and H. Saedler. 2002.  Chromosome rearrangements and
+   transposable elements.  _Annual Review of Genetics_ 36: 389-410.
+ - Meyer, Stephen. 2004.  The origin of biological information and the
+   higher taxonomic categories.  _Proceedings of the Biological Society of
+   Washington_ 117: 213-239.
+ - Wells, Jonathan. 2005.  Do centrioles generate a polar ejection force?
+   _Rivista di Biologia/Biology Forum_ 98: 37-62.
+
+and books (Discovery Institute 2005):
+
+ - Behe, Michael. 1996. _Darwin's Black Box: The Biochemical Challenge to
+   Evolution_.   New York: The Free Press.
+ - Campbell, John Angus and Stephen C. Meyer. 2003.  _Darwinism, Design,
+   and Public Education_.  Michigan State University Press.
+ - Denton, Michael. 1985.  _Evolution: A Theory in Crisis_. Adler and
+   Adler.
+ - Dembski, W. A. 1998.  _The Design Inference: Eliminating chance
+   through small probabilities_.  Cambridge: Cambridge University Press.
+ - Dembski, William. 2002.  _No Free Lunch: Why Specified Complexity
+   Cannot be Purchased without Intelligence_.  Rowman and Littlefield
+   Publishers.
+ - Gonzalez, Guillermo and Jay W. Richards. 2004.  _The Privileged Planet:
+   How Our Place in the Cosmos is Designed for Discovery_.  Regnery
+   Publishing.
+ - Minnich, Scott and Stephen C. Meyer. 2004.  Genetic analysis of
+   coordinate flagellar and type III regulatory circuits.  _Proceedings of
+   the Second International Conference on Design and Nature_, Rhodes,
+   Greece, ed. M. W. Collins and C. A. Brebbia, WIT Press.
+ - Thaxton, Charles B., Walter L. Bradley and Roger L. Olsen. 1984.  _The
+   Mystery of Life's Origin: Reassessing Current Theories_.  Philosophical
+   Library. (4th ed., Lewis and Stanley, 1992).
+
+The journal _Progress in Information, Complexity and Design_ (PCID) is
+also peer-reviewed.
+
+Source:
+
+Discovery Institute. 2005.  Peer-reviewed and peer-edited publications
+ supporting the theory of intelligent design (annotated).
+ http://www.discovery.org/scripts/viewDB/index.php?command=view&id=2640&program=CSC
+
+Discovery Institute Top Questions.
+ http://www.discovery.org/csc/topQuestions.php
+
+Dembski, William A., 2003.
+ Three frequently asked questions about intelligent design.
+ http://www.designinference.com/documents/2003.09.ID_FAQ.pdf
+
+#Leiter, Brian, 2004 (March 14).  The Leiter reports: Lies and the lying
+# liars who tell them--round 5.
+# https://web.archive.org/web/20040316235957if_/http://webapp.utexas.edu/blogs/archives/bleiter/000939.html#000939
+
+Response:
+
+1. Even by the most generous criteria, the peer-reviewed scientific output
+   from the intelligent design (ID) movement is very low, especially
+   considering the long history and generous funding of the movement.  The
+   list of papers and books above is not exhaustive, but there is not a
+   lot else.  One week's worth of peer-reviewed papers on evolutionary
+   biology exceeds the entire history of ID peer-review.
+
+   Virtually none of the papers show any original research.  The only
+   paper for which original data was gathered is Axe (2000), and see below
+   regarding it.
+
+   The point which discredits ID is not that it has few peer-reviewed
+   papers, but *why* there are so few.  ID proponents appear to have no
+   interest in conducting original research that would be appropriate for
+   peer-reviewed journals, and other researchers see nothing in ID worth
+   paying attention to.  Despite empty claims that ID is a serious
+   challenge to evolution, nobody takes ID seriously as a science, so
+   nobody writes about it in the professional literature.
+
+2. The papers and books cited by the Discovery Institute do not make a
+   good case for peer-reviewed intelligent design for one or more reasons.
+
+   a. Many of the papers do not talk about design.  Some do not even
+      attempt to.  For example:
+
+       - Axe (2000) finds that changing 20 percent of the external amino
+         acids in a couple proteins causes them to lose their original
+         function, even though individual amino acid changes did not.
+         There was no investigation of change of function.  Axe's paper is
+         not even a challenge to Darwinian evolution, much less support
+         for intelligent design.  Axe himself has said that he has not
+         attempted to make an argument for design in any of his
+         publications (Forrest and Gross 2004, 42).
+
+       - Behe and Snoke (2004) argues against one common genetic mechanism
+         of evolution.  It says nothing at all in support of design.  Its
+         assumptions and conclusion have been rebutted (M. Lynch 2005).
+
+       - L&ouml;nnig and Saedler (2002) cite Behe and Dembski only in a couple
+         long lists of references indicating a variety of different
+         options.  Neither author is singled out; nor is the word "design"
+         used.
+
+       - Denton and Marshall (2001) and Denton et al. (2002) deal with
+         non-Darwinian evolutionary processes, but they do not support
+         intelligent design.  In fact, Denton et al. (2002) explicitly
+         refers to *natural* law.
+
+       - Chiu and Lui (2002) mention complex specified information in
+         passing, but go on to develop another method of pattern
+         analysis.
+
+   b. The peer-review that the works were subject to was often weak or
+      absent.  The sort of review which books receive is quite different
+      from the stringent peer review of journal articles.  There are no
+      formal review standards for trade and university presses, and often
+      no standards at all for popular presses.  Dembski has commented that
+      he prefers writing books in part because he gets faster turnaround
+      than by submitting to journals (McMurtrie 2001).  Anthologies and
+      conference proceedings do not have well-defined peer review
+      standards, either.  Here are some other examples of weak peer
+      review:
+
+       - Dembski (1998) was reviewed by philosophers, not biologists.
+
+       - Meyer (2004) apparently subverted the peer-review process for the
+         sole purpose of getting an "intelligent design" article in a
+         respectable journal that would never have accepted it otherwise.
+         Even notwithstanding its poor quality (Gishlick et al. 2004,
+         Elsberry 2004a), the article is clearly not appropriate for the
+         almost purely taxonomic content of the _Proceedings of the
+         Biological Society of Washington_, and the Biological Society of
+         Washington repudiated it (BSW n.d., NCSE 2004).  For more
+         information, see Elsberry (2004b).
+
+       - Wells (2005) was published in _Rivista di Biologia_, a journal
+         which caters to papers which are speculative and controversial to
+         the point of crackpottery (J. M. Lynch 2005).  Its editor,
+         Giuseppe Sermonti, is a Darwin denier sympathetic to the
+         Discovery Institute.
+
+   c. With some of the claims for peer review, notably Campbell and Meyer
+      (2003) and the e-journal PCID, the reviewers are themselves ardent
+      supporters of intelligent design.  The purpose of peer review is to
+      expose errors, weaknesses, and significant omissions in fact and
+      argument.  That purpose is not served if the reviewers are
+      uncritical.
+
+      This same criticism applies to any reviewers who are "true
+      believers" of any aspect of biology.  However, mainstream scientists
+      recognize that science grows stronger through criticism, not through
+      mere agreement, because criticism helps weed out the bad science.
+      Most any evolutionary biologist can attest that supporting evolution
+      is not enough to get a paper accepted; the paper has to describe
+      sound science, too.
+
+3. Publishing is not an end in itself.  Scientific ideas mean nothing
+   unless they can withstand criticism and be built upon.  None of the
+   "intelligent design" publications have led to any productive work.
+   Most have had their main ideas rebutted (e.g. <CB200>Behe 1996>,
+   <CI110>Dembski 1998>, <CF011.2>Dembski 2002>, <CI302>Gonzalez and
+   Richards 2004>).
+
+Links:
+
+Schafersman, Steven, 2004.  Frequently asked questions about the Texas
+ science textbook adoption controversy.
+ https://web.archive.org/web/20041016183121if_/http://texscience.org/files/faqs.htm
+
+Wikipedia, 2004.  Talk:Intelligent design.
+ http://en.wikipedia.org/wiki/Talk%3AIntelligent_design#scientific_peer_review
+
+References:
+
+1. BSW. n.d.  Statement from the Council of
+   the Biological Society of Washington.
+   http://www.biolsocwash.org/id_statement.html
+2. Discovery Institute.  2005.  (see "Sources" above)
+3. Elsberry, Wesley R. 2004a.  Meyer 2004 and deja vu all over again.
+   https://web.archive.org/web/20051018151459if_/http://www.pandasthumb.org/pt-archives/000455.html
+4. Elsberry, Wesley R. 2004b.  The "Meyer 2004" medley.
+   https://web.archive.org/web/20051001120732if_/http://www.pandasthumb.org/pt-archives/000484.html
+5. Forrest, Barbara, and Paul R. Gross, 2004.  _Creationism's Trojan
+   Horse: The wedge of intelligent design_.  Oxford University Press.
+6. Gishlick, Alan, Nick Matzke, and Wesley R. Elsberry, 2004.  Meyer's
+   hopeless monster.  https://web.archive.org/web/20080512035727if_/http://www.pandasthumb.org/pt-archives/000430.html
+7. Lynch, John M.  2005.  Revisiting Rivista.
+   https://web.archive.org/web/20160930161123if_/http://darwin.bc.asu.edu/blog/?p=351 (June 2).
+8. Lynch, Michael.  2005.  Simple evolutionary pathways to complex
+   proteins.  _Protein Science_ 14: 2217-2225.
+9. McMurtrie, Beth. 2001.  Darwinism under attack.
+   _Chronicle of Higher Education_, Dec. 21.
+   https://web.archive.org/web/20220705023106if_/http://chronicle.com/free/v48/i17/17a00801.htm
+10. NCSE. 2004.  BSW repudiates Meyer.
+    https://web.archive.org/web/20070110130355if_/http://www.ncseweb.org/resources/news/2004/ZZ/608_bsw_repudiates_meyer_9_7_2004.asp
+
+Further Reading:
+
+Date: 2004-3-19, 2005-12-22

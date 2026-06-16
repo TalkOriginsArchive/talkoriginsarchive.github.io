@@ -1,0 +1,66 @@
+BriefClaim: Fossils are sorted by ecological zonation.
+Title: Ecological zonation
+Keywords: flood, fossils, faunal zones
+
+Claim:
+
+Patterns of fossil deposition in Noah's Flood can be explained by
+ecological zonation.  The lower strata, in general, would contain animals
+that lived in the lower elevations.  Thus, marine invertebrates would be
+buried first, then fish, then amphibians and reptiles (who live at the
+boundaries of land and water), and finally mammals and birds.  Also,
+animals would be found buried with other animals from the same
+communities.
+
+Source:
+
+SciCre, pp. 118-120.
+
+Response:
+
+1. The fossil record does not show such a pattern of organisms sorted
+   ecologically:
+    - Many animals that appear in the lower strata appear in all strata,
+      even recent ones.  Corals and clams, for example, appear at all
+      levels.
+    - Whales do not appear until much later than fish, despite living in
+      the same ecological zones.
+    - Birds do not appear until after flying reptiles.
+    - Dinosaurs consistently appear in strata before modern land animals.
+    - Grasses live in virtually all land areas, but they appear in the
+      geological record only near the top, long after other land animals
+      and plants.
+
+2. Even if ecological zonation could explain how deeply various faunal
+   zones are buried, it does not explain how they came to be buried atop
+   one another.  How did a terrestial ecology come to be transported on
+   top of a marine ecology, such that fine details such as footprints,
+   burrows, and paleosols were undisturbed and such that the layer
+   extends over hundreds of square miles?  How did many such layers get
+   stacked on top of each other?  Ecological zonation implies that the
+   ecological zones got buried in place.  What we see is ecological zones
+   forming and living for awhile on top of the fossils of older ecological
+   zones, repeatedly.
+
+3. Fossil strata often appear in orders that contradict ecological
+   zonation (and other flood deposition explanations).  For example, North
+   American midcontinent outcrops record at least fifty-five cycles of
+   marine inundation and withdrawal (Boardman and Heckel 1989; Heckel
+   1986).  That is, marine ecologies are interleaved with terrestrial
+   ecologies.
+
+Links:
+
+References:
+
+1. Heckel, Philip H., 1986.  Sea-level curve for Pennsylvanian eustatic
+   marine transgressive-regressive depositional cycles along midcontinent
+   outcrop belt, North America.  _Geology_ 14: 330-334.
+2. Boardman, D. R. II and P. H. Heckel, 1989.  Glacial-eustatic sea-level
+   curve for early Late Pennsylvanian sequence in north-central Texas and
+   biostratigraphic correlation with curve for midcontinent North
+   America.  _Geology_ 17: 802-805.
+
+Further Reading:
+
+Date: 2003-7-20

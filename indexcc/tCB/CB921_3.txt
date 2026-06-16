@@ -1,0 +1,34 @@
+BriefClaim: Reptile heart to bird heart couldn't happen gradually.
+Title: 3- to 4-chambered heart
+Keywords: heart, lungfish, reptile, mammal
+
+Claim:
+
+The evolution of the four-chamber mammalian heart from the three-chamber
+reptilian heart is implausible because there are no plausible
+intermediates.  Simply extending the interventricular septum would block
+bloodflow from the atria to the pulmonary trunk, which would kill the
+reptile.
+
+Source:
+
+Thomas, Julie, 1992.  More on three and four chamber hearts.
+ Message-ID 1992Apr9.050422.21424@usenet.ins.cwru.edu,
+ http://www.google.com/groups?as_umsgid=1992Apr9.050422.21424%40usenet.ins.cwru.edu
+
+Partial Response:
+
+1. The mammalian four-chamber heart did not evolve from the three-chamber
+   hearts of modern reptiles.  Rather, both evolved from a common
+   ancestor.  
+
+Links:
+
+References:
+
+Further Reading:
+
+Pough, Heiser and McFarland, 1989.  _Vertebrate Life_.  Macmillan,
+ New York.  (has a basic discussion of heart evolution)
+
+Date: 2003-5-7

@@ -1,0 +1,88 @@
+BriefClaim: The Bible must be accurate because archaeology supports it.
+Title: Biblical Archaeology
+Keywords: Bible, archaeology, inerrant.
+
+Claim:
+
+Archaeology supports the accuracy of the Bible.  The Bible's historical
+account has many times been substantiated by new archaeological
+information.
+
+Source:
+
+LifeHow, pp. 207-214.
+
+Response:
+
+1. Archaeology supports at most the general background of the Bible and
+   some relatively recent details.  It does not support every biblical
+   claim.  In particular, archaeology does not support anything about
+   creation, the Flood, or the conquest of the Holy Land.
+
+   If a few instances of historical accuracy are so significant, then an
+   equal claim for accuracy can be made for the _Iliad_ and _Gone with the
+   Wind_.
+
+2. Archaeology contradicts significant parts of the Bible:
+#    - Luke 2:4 describes Nazareth as being Joseph's home, but the
+#      archaeological evidence indicates that the town did not exist at the
+#      time (Humphreys 2003).
+# Now, to the evidence showing that in fact this tiny village did indeed
+# exist: -18 tombs of kokim type (burial style c. 200bce outside of the
+# village proper) -4 tombs sealed with rolling stones (burial style of the
+# Roman period [B. Bagatti DB Supplumente VI cols 318-329 and Stiassny
+# p. 70) -Caesarean inscription refering to Nazareth. While inscribed
+# possibly in the 4th century, the fragment preserves the movement of
+# priestly courses after expulsion from Aeilio Capitalina and into Galilee
+# [M. Avi-Yonah IEJ 12 (1962), The Teachers Yoke: Studies in Memory of Henry
+# Trantham ed. Jerry Vardaman and JL Garret, Jr (1964)]
+    - The Bible contains anachronisms.  Details attributed to one era
+      actually apply to a much later era.  For example, camels, mentioned
+      in Genesis 24:10, were not widely used until after 1000 B.C.E.
+      (Finkelstein and Silberman 2001).
+    - The Exodus, which should have been a major event, does not appear in
+      Egyptian records.  There are no traces in the Sinai that one would
+      expect from forty years of wandering of more than half a million
+      people.  And other archaeological evidence contradicts it, showing
+      instead that the Hebrews were a native people (Finkelstein and
+      Silberman 2001; Lazare 2002).
+    - There is no evidence that the kingdoms of David and Solomon were
+      nearly as powerful as the Bible indicates; they may not have existed
+      at all (Finkelstein and Silberman 2001; Lazare 2002).
+
+   Many claims that archaeology supports the Bible, especially earlier
+   ones, were based on the scientists trying to force the evidence to fit
+   their own preconceptions.
+
+Links:
+
+Lazare, Daniel, 2002.  False testament: archaeology refutes the
+ Bible's claim to history.  _Harper's_ 304(1822) (Mar.): 39-47.
+ https://web.archive.org/web/20150614011832if_/http://www.findarticles.com/cf_0/m1111/1822_304/83553507/p1/article.jhtml?term=bible++!2Barchaeology
+
+References:
+
+1. Finkelstein, Israel and Neil A. Silberman, 2001.  _The Bible Unearthed_,
+   New York: Free Press.
+#2. Humphreys, Kenneth, 2003.  Nazareth -- The town that theology built.
+#   https://web.archive.org/web/20230607090454if_/http://www.jesusneverexisted.com/nazareth.html
+3. Lazare, 2002. (see above)
+
+Further Reading:
+
+#BAR 22:4 (1996), pp. 30-39 & 62-63; concluded in BAR 22:5 (1996), pp.
+# 30-37,74-77.,
+
+Bimson, J. J. and D. Livingstone, 1987.  Redating the Exodus.  BAR 13(5):
+ 40-53.
+
+Finkelstein, Israel and Neil A. Silberman, 2001.  _The Bible Unearthed_,
+ New York: Free Press.
+
+Miller, Laura, 2001 (7 Feb.).  King David was a nebbish.  Salon.com,
+ https://web.archive.org/web/20110624024951if_/http://dir.salon.com/books/feature/2001/02/07/solomon/index.html
+
+Moorey, P. R. S., 1991.  _A Century of Biblical Archaeology_.
+ Westminster/John Knox Press.
+
+Date: 2003-5-7, 2004-4-8

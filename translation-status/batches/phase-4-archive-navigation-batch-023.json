@@ -1,0 +1,920 @@
+{
+  "id": "phase-4-archive-navigation-batch-023",
+  "phase": "phase-4-archive-navigation",
+  "phase_label": "Archive Navigation and Feedback",
+  "sequence": 23,
+  "status": "complete",
+  "page_count": 50,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/origins/feedback/feb97.html",
+      "source_path": "origins/feedback/feb97.html",
+      "title": "TalkOrigins Archive - Feedback for February 1997",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 843
+    },
+    {
+      "route": "/origins/feedback/feb98.html",
+      "source_path": "origins/feedback/feb98.html",
+      "title": "TalkOrigins Archive - Feedback for February 1998",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 50583
+    },
+    {
+      "route": "/origins/feedback/feb99.html",
+      "source_path": "origins/feedback/feb99.html",
+      "title": "TalkOrigins Archive - Feedback for February 1999",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 101960
+    },
+    {
+      "route": "/origins/feedback/figs/jan06.html",
+      "source_path": "origins/feedback/figs/jan06.html",
+      "title": "TalkOrigins Archive - Feedback for January 2006",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 55376
+    },
+    {
+      "route": "/origins/feedback/index_20090524.html",
+      "source_path": "origins/feedback/index_20090524.html",
+      "title": "The TalkOrigins Archive: Feedback",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2297
+    },
+    {
+      "route": "/origins/feedback/index_20121004.html",
+      "source_path": "origins/feedback/index_20121004.html",
+      "title": "The TalkOrigins Archive: Feedback",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2169
+    },
+    {
+      "route": "/origins/feedback/jan00.html",
+      "source_path": "origins/feedback/jan00.html",
+      "title": "TalkOrigins Archive - Feedback for January 2000",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 97435
+    },
+    {
+      "route": "/origins/feedback/jan01.html",
+      "source_path": "origins/feedback/jan01.html",
+      "title": "TalkOrigins Archive - Feedback for January 2001",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 80319
+    },
+    {
+      "route": "/origins/feedback/jan02.html",
+      "source_path": "origins/feedback/jan02.html",
+      "title": "TalkOrigins Archive - Feedback for January 2002",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 75391
+    },
+    {
+      "route": "/origins/feedback/jan03.html",
+      "source_path": "origins/feedback/jan03.html",
+      "title": "TalkOrigins Archive - Feedback for January 2003",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 52085
+    },
+    {
+      "route": "/origins/feedback/jan04.html",
+      "source_path": "origins/feedback/jan04.html",
+      "title": "TalkOrigins Archive - Feedback for January\n2004",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 46022
+    },
+    {
+      "route": "/origins/feedback/jan05.html",
+      "source_path": "origins/feedback/jan05.html",
+      "title": "TalkOrigins Archive - Feedback for January\n2005",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 84095
+    },
+    {
+      "route": "/origins/feedback/jan06.html",
+      "source_path": "origins/feedback/jan06.html",
+      "title": "TalkOrigins Archive - Feedback for January 2006",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 55385
+    },
+    {
+      "route": "/origins/feedback/jan97.html",
+      "source_path": "origins/feedback/jan97.html",
+      "title": "TalkOrigins Archive - Feedback for January 1997",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 796
+    },
+    {
+      "route": "/origins/feedback/jan98.html",
+      "source_path": "origins/feedback/jan98.html",
+      "title": "TalkOrigins Archive - Feedback for January 1998",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 40120
+    },
+    {
+      "route": "/origins/feedback/jan99.html",
+      "source_path": "origins/feedback/jan99.html",
+      "title": "TalkOrigins Archive - Feedback for January 1999",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 148393
+    },
+    {
+      "route": "/origins/feedback/jan99.prev.html",
+      "source_path": "origins/feedback/jan99.prev.html",
+      "title": "TalkOrigins Archive - Feedback for January 1999",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 146979
+    },
+    {
+      "route": "/origins/feedback/jul00.html",
+      "source_path": "origins/feedback/jul00.html",
+      "title": "TalkOrigins Archive - Feedback for July 2000",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 80582
+    },
+    {
+      "route": "/origins/feedback/jul02.html",
+      "source_path": "origins/feedback/jul02.html",
+      "title": "TalkOrigins Archive - Feedback for July 2002",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 55591
+    },
+    {
+      "route": "/origins/feedback/jul03.html",
+      "source_path": "origins/feedback/jul03.html",
+      "title": "TalkOrigins Archive - Feedback for July 2003",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 99453
+    },
+    {
+      "route": "/origins/feedback/jul04.html",
+      "source_path": "origins/feedback/jul04.html",
+      "title": "TalkOrigins Archive - Feedback for July 2004",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 35851
+    },
+    {
+      "route": "/origins/feedback/jul05.html",
+      "source_path": "origins/feedback/jul05.html",
+      "title": "TalkOrigins Archive - Feedback for July 2005",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 65922
+    },
+    {
+      "route": "/origins/feedback/jul06.html",
+      "source_path": "origins/feedback/jul06.html",
+      "title": "TalkOrigins Archive - Feedback for July 2006",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 30160
+    },
+    {
+      "route": "/origins/feedback/jul96.html",
+      "source_path": "origins/feedback/jul96.html",
+      "title": "TalkOrigins Archive - Feedback for July 1996",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 787
+    },
+    {
+      "route": "/origins/feedback/jul97.html",
+      "source_path": "origins/feedback/jul97.html",
+      "title": "TalkOrigins Archive - Feedback for July 1997",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 55027
+    },
+    {
+      "route": "/origins/feedback/jul98.html",
+      "source_path": "origins/feedback/jul98.html",
+      "title": "TalkOrigins Archive - Feedback for July 1998",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 33116
+    },
+    {
+      "route": "/origins/feedback/jul99.html",
+      "source_path": "origins/feedback/jul99.html",
+      "title": "TalkOrigins Archive - Feedback for July 1999",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 69917
+    },
+    {
+      "route": "/origins/feedback/jun00.html",
+      "source_path": "origins/feedback/jun00.html",
+      "title": "TalkOrigins Archive - Feedback for June 2000",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 60490
+    },
+    {
+      "route": "/origins/feedback/jun01.html",
+      "source_path": "origins/feedback/jun01.html",
+      "title": "TalkOrigins Archive - Feedback for June 2001",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 37820
+    },
+    {
+      "route": "/origins/feedback/jun02.html",
+      "source_path": "origins/feedback/jun02.html",
+      "title": "TalkOrigins Archive - Feedback for June 2002",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 54550
+    },
+    {
+      "route": "/origins/feedback/jun03.html",
+      "source_path": "origins/feedback/jun03.html",
+      "title": "TalkOrigins Archive - Feedback for June 2003",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 74794
+    },
+    {
+      "route": "/origins/feedback/jun04.html",
+      "source_path": "origins/feedback/jun04.html",
+      "title": "TalkOrigins Archive - Feedback for June 2004",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 27966
+    },
+    {
+      "route": "/origins/feedback/jun05.html",
+      "source_path": "origins/feedback/jun05.html",
+      "title": "TalkOrigins Archive - Feedback for June 2005",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 51699
+    },
+    {
+      "route": "/origins/feedback/jun06.html",
+      "source_path": "origins/feedback/jun06.html",
+      "title": "TalkOrigins Archive - Feedback for June 2006",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 30263
+    },
+    {
+      "route": "/origins/feedback/jun96.html",
+      "source_path": "origins/feedback/jun96.html",
+      "title": "TalkOrigins Archive - Feedback for June 1996",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 787
+    },
+    {
+      "route": "/origins/feedback/jun97.html",
+      "source_path": "origins/feedback/jun97.html",
+      "title": "TalkOrigins Archive - Feedback for June 1997",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 38915
+    },
+    {
+      "route": "/origins/feedback/jun98.html",
+      "source_path": "origins/feedback/jun98.html",
+      "title": "TalkOrigins Archive - Feedback for June 1998",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 66839
+    },
+    {
+      "route": "/origins/feedback/jun99.html",
+      "source_path": "origins/feedback/jun99.html",
+      "title": "TalkOrigins Archive - Feedback for June 1999",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 69572
+    },
+    {
+      "route": "/origins/feedback/mar00.html",
+      "source_path": "origins/feedback/mar00.html",
+      "title": "TalkOrigins Archive - Feedback for March 2000",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 90798
+    },
+    {
+      "route": "/origins/feedback/mar01.html",
+      "source_path": "origins/feedback/mar01.html",
+      "title": "TalkOrigins Archive - Feedback for March/April 2001",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 110372
+    },
+    {
+      "route": "/origins/feedback/mar02.html",
+      "source_path": "origins/feedback/mar02.html",
+      "title": "TalkOrigins Archive - Feedback for March 2002",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 78507
+    },
+    {
+      "route": "/origins/feedback/mar03.html",
+      "source_path": "origins/feedback/mar03.html",
+      "title": "TalkOrigins Archive - Feedback for March 2003",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 113986
+    },
+    {
+      "route": "/origins/feedback/mar04.html",
+      "source_path": "origins/feedback/mar04.html",
+      "title": "TalkOrigins Archive - Feedback for March 2004",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 71230
+    },
+    {
+      "route": "/origins/feedback/mar05.html",
+      "source_path": "origins/feedback/mar05.html",
+      "title": "TalkOrigins Archive - Feedback for March 2005",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 47751
+    },
+    {
+      "route": "/origins/feedback/mar06.html",
+      "source_path": "origins/feedback/mar06.html",
+      "title": "TalkOrigins Archive - Feedback for March 2006",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 58417
+    },
+    {
+      "route": "/origins/feedback/mar06x.html",
+      "source_path": "origins/feedback/mar06x.html",
+      "title": "TalkOrigins Archive - Feedback for March 2006",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 59474
+    },
+    {
+      "route": "/origins/feedback/mar97.html",
+      "source_path": "origins/feedback/mar97.html",
+      "title": "TalkOrigins Archive - Feedback for March 1997",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 834
+    },
+    {
+      "route": "/origins/feedback/mar98.html",
+      "source_path": "origins/feedback/mar98.html",
+      "title": "TalkOrigins Archive - Feedback for March 1998",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 43100
+    },
+    {
+      "route": "/origins/feedback/mar99.html",
+      "source_path": "origins/feedback/mar99.html",
+      "title": "TalkOrigins Archive - Feedback for March\n1999",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 182307
+    },
+    {
+      "route": "/origins/feedback/may00.html",
+      "source_path": "origins/feedback/may00.html",
+      "title": "TalkOrigins Archive - Feedback for May 2000",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-023",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 39154
+    }
+  ],
+  "status_counts": {
+    "translated": 200
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

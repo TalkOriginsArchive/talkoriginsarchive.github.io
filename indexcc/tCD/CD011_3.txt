@@ -1,0 +1,100 @@
+BriefClaim: Living snails were C-14 dated at 2,300 and 27,000 years old.
+Title: C-14 dates of living snails
+Keywords: radiometric dating
+
+Claim:
+
+Living snails were carbon-14 dated at 2,300 and 27,000 years old, showing
+that the dating method is invalid.
+
+Source:
+
+Hovind, Kent, n.d.  Doesn't carbon dating or potassium argon dating prove
+ the Earth is millions of years old? 
+ https://web.archive.org/web/20210609153702if_/http://www.drdino.com/QandA/index.jsp?varFolder=CreationEvolution&varPage=CarbonPotassiumargondating.jsp
+
+Response:
+
+1. The source of the 2,300-year-old radiocarbon date (Keith and Anderson
+   1963, discussed by Strahler 1987, 156-157), has been abused and
+   misused to discredit radiocarbon dating.
+#   Keith and Andersen stated:
+#    "The most noteworthy feature of the results is that the analyzed
+#     modern mollusk shells from river environments are not only deficient
+#     in C13, relative to marine shells, as noted by Keith _et al._ (16),
+#     but are also extremely deficient in C14, relative to modern wood, and
+#     give uncorrected radiocarbon ages in the range 1010 to 2300 years.
+   The article discussed the potential errors that the presence of "dead
+   carbon" would introduce into the dating of mollusks.  For example,
+   carbon dioxide in the water can partially come from Paleozoic
+   limestone, which lacks carbon-14.  As a result, the carbon dioxide in
+   the water is deficient in carbon-14 relative to the atmosphere, and
+   mollusks living in the water build shells that give apparent dates
+   older than they really are.  This is a type of "reservoir effect."
+
+   The 27,000 year old date comes from Riggs (1984, 224), who wrote:
+
+    "Carbon-14 contents as low as 3.3 +/- 0.2 percent modern (apparent
+     age, 27,000 years) measured from the shells of snails _Melanoides
+     tuberculatus_ living in artesian springs in southern Nevada are
+     attributed to fixation of dissolved HCO<sub>3</sub><sup>-</sup> with
+     which the shells are in carbon isotope equilibrium.
+
+   In other words, the apparent age of 27,000 years for these snail shells
+   is another example of the reservoir effect.  The springs, from which
+   the snails came, were fed by carbonate aquifers.  As this water
+   percolated through the enclosing carbonates, it dissolved limestone and
+   dolomite hundreds of millions of years old.  The dissolution of
+   limestone and dolomite introduced considerable quantities of "dead
+   carbon" into the groundwater.  As a result, the groundwater which fed
+   the spring and in which the snails lived was significantly deficient in
+   carbon-14 relative to what is found in the atmosphere.  When the snails
+   made their shells, they incorporated an excess amount of "dead carbon,"
+   relative to modern atmosphere, into their shells, which resulted in the
+   excessively old apparent date.
+
+   Contrary to the complaints of creationists, conventional scientists are
+   well aware of this problem.  They test for it and take it into account
+   when interpreting radiocarbon data.  In cases where corrections for
+   presence of dead carbon cannot be made, such dates are readily
+   recognized as erroneous and can be safely disregarded.  This is not the
+   fatal flaw to radiometric dating that some creationists claim it to be.
+   It just shows that dates from mollusks from streams and lakes need to
+   be carefully evaluated as to their reliability.  Other materials, such
+   as wood, charcoal, bone, and hide, would remain unaffected by this type
+   of reservoir effect.  If found with shells in the same layer, these
+   materials could be dated to determine if shells are locally affected by
+   the reservoir effect and, if so, how much their radiocarbon dates have
+   been skewed by it.
+
+   (See also the <CD011_4>C14-dating of a seal> for another example of
+   the reservoir effect.)
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-c14.html#R3
+
+References:
+
+1. Keith, M. L., and G. M. Anderson, 1963. Radiocarbon dating: Fictitious
+   results with mollusk shells.  _Science_ 141: 634-637.
+2. Riggs, A. C., 1984.  Major carbon-14 deficiency in modern snail shells
+   from southern Nevada springs.  _Science_ 224: 58-61.
+3. Strahler, Arthur N., 1987.  _Science and Earth History: The
+   evolution/creation controversy_, Buffalo, NY: Prometheus Books.
+
+Further Reading:
+
+Aitken, M. J., 1990.  _Science-based Dating in Archaeology_.
+ Longman, England. 
+
+Bowman, Sheridan, 1990.  _Radiocarbon Dating_.  Berkeley: University of
+ California Press.
+
+Faure, G., 1986.  _Principles of Isotope Geology_, 2nd ed.  New York: Wiley.
+
+Taylor, R. E., 1987.  _Radiocarbon Dating: An Archaeological Perspective_.
+ Orlando, USA: Academic Press.
+
+Date: 2003-6-4, 2004-7-8

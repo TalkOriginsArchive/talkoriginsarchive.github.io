@@ -1,0 +1,73 @@
+BriefClaim: Plate tectonics occurred catastrophically and has since slowed.
+Title: Catastrophic plate tectonics
+Keywords: plate tectonics, subduction, global flood.
+
+Claim:
+
+Plate tectonics occurred, but catastrophically.  Slabs of oceanic crust
+broke loose and subducted along continental margins.  This lowered the
+viscosity of the mantle, leading to meters-per-second runaway subduction.
+The earth's magnetic field rapidly reversed several times.  Steam caused a
+global rain.  Flood basalts erupted.  The lighter mantle material of the
+new ocean floors made them rise, causing the oceans to flood the
+continents.  The flood carried and redistributed sediments.  The process
+slowed almost to a stop when nearly all the old ocean floor had been
+subducted.  Subsequent cooling of the ocean basins caused them to sink to
+where they are today.
+
+Source:
+
+Austin, S. A., J. R. Baumgardner, D. R. Humphreys, A. A. Snelling, L.
+ Vardiman and K. P. Wise, 1994.  Catastrophic plate tectonics: A global
+ flood model of earth history.  _Proceedings of the third international
+ conference on creationism_. Pittsburgh, PA: Creation Science Fellowship,
+ Inc., pp. 609-621.
+
+Response:
+
+1. Much geological evidence is incompatible with catastrophic plate
+   tectonics:
+    - Island chains, such as the Hawaiian islands, indicate that the ocean
+      floor moved slowly over erupting "hot spots."  Radiometric dating and
+      relative amounts of erosion both indicate that the older islands are
+      very much older, not close to the same age as catastrophic tectonics
+      would require.
+    - Catastrophic plate tectonics says that all ocean floor should be
+      essentially the same age.  But both radiometric dating and
+      amounts of sedimentation indicate that the age changes gradually,
+      from brand new to tens of millions of years old.
+    - As sea-floor basalt cools, it becomes denser and sinks.  The
+      elevation of sea floors is consistent with cooling appropriate for
+      its age, assuming gradual spreading.
+    - Guyots are flat-topped underwater mountains.  The tops were eroded
+      flat from a long time at the ocean surface, and they sank with the
+      sea floor.  Catastrophic tectonics does not allow enough time for
+      the sea mountain to form, erode, and sink.
+    - Runaway subduction does not account for continent-continent
+      collisions, such as between India and the Eurasian plate.
+
+2. Catastrophic plate tectonics has no plausible mechanism.  In
+   particular, the greatly lowered viscosity of the mantle, the rapid
+   magnetic reversals, and the sudden cooling of the ocean floor
+   afterwards cannot be explained under conventional physics.
+
+3. Conventional plate tectonics accounts for the evidence already and
+   does a much better job of it.  It explains innumerable details that
+   catastrophic plate tectonics cannot, such as why there is gold in
+   California, silver in Nevada, salt flats in Utah, and coal in
+   Pennsylvania (McPhee 1998).  It requires no extraordinary mechanisms to
+   do so.  Catastrophic plate tectonics would be a giant step backwards in
+   the progress of science.
+
+Links:
+
+References:
+
+1. McPhee, J., 1998.  (See below)
+
+Further Reading:
+
+McPhee, John, 1998.  _Annals of the Former World_.  New York: Farrar,
+ Straus and Giroux.
+
+Date: 2004-3-31

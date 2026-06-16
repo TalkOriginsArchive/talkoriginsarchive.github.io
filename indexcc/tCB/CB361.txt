@@ -1,0 +1,34 @@
+BriefClaim: Vestigial organs are just evidence of decay, not evolution.
+Title: Function of vestigial organs.
+Keywords: vestigial.
+
+Claim:
+
+Vestigial organs (if <CB360>any really exist>) are not evidence of
+evolution.  They just show decay consistent with the second law of
+thermodynamics.
+
+Source:
+
+SciCre, 75-76.
+
+Response:
+
+1. Vestigial organs include more than atrophied organs.  The bones of the
+   middle ear, for example, are vestiges of jaw bones of ancestral
+   tetrapods.
+
+2. Loss of organs is sometimes an advantage.  For example, loss of legs is
+   adaptive in whales.  Thus, losses of organs often are evolution driven
+   by natural selection.  They are evidence of evolution when their
+   vestigial forms show similarities to earlier nonvestigial forms.
+
+3. The <CF001>second law of thermodynamics> allows for more than decay.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-6-9

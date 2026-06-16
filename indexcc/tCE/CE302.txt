@@ -1,0 +1,35 @@
+BriefClaim: The sun has most of the mass but little angular momentum of the solar system.
+Title: Sun's small angular momentum
+Keywords: angular momentum, magnetohydrodynamics
+
+Claim:
+
+The sun has 99 percent of the mass of the solar system, but less than 1
+percent of the angular momentum.  It is spinning too slowly to have formed
+naturally.
+
+Source:
+
+Brown, Walt, 1995.  _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 19.
+
+Response:
+
+1. Among solar-type stars, there is a strong correlation between age and
+   rotation rate; the younger stars spin more rapidly (Baliunas et
+   al. 1995).  This implies some kind of braking mechanism that slows a
+   star's rotation.  A likely candidate is an interaction between the
+   star's magnetic field and its solar wind (Parker 1965).
+
+Links:
+
+References:
+
+1. Baliunas, S. L. et al., 1995.  Chromospheric variations in
+   main-sequence stars.  _Astrophysical Journal_ 438: 269-287.
+2. Parker, E. N., 1965.  Dynamical theory of the solar wind.  _Space
+   Science Reviews_ 4: 666-708.
+
+Further Reading:
+
+Date: 2004-3-25

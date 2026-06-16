@@ -1,0 +1,46 @@
+BriefClaim: Explosions such as the big bang do not produce order or information.
+Title: big bang, explosions, and information
+Keywords: cosmology
+
+Claim:
+
+The universe was supposedly formed in the big bang, but explosions do not
+produce order or information.
+
+Source:
+
+Big-Bang-Theory, 2002.  https://web.archive.org/web/20250914031613if_/http://www.big-bang-theory.com
+
+Response:
+
+1. The total entropy of the universe at the start of the big bang was
+   minimal, perhaps almost zero.  Because it was so compact, it had
+   considerably more order than the universe we are in now.  The
+   complexity we observe around us today can be produced from the ultimate
+   order of the hot but cooling gas of the big bang.
+
+2. The big bang was not an explosion.  It was an expansion.  Besides the
+   fact that it got bigger over time, the big bang has almost nothing in
+   common with an explosion.
+
+3. Explosions do produce some order amidst their other effects:
+      
+    - Large surface explosions, such as nuclear bombs, produce the
+      familiar mushroom clouds.  There are not very highly ordered, but
+      they are not purely random, either.
+    - Supernovae produce heavy elements, and the shock waves from them
+      compress interstellar gases, which begins the formation of new
+      stars.
+    - Powerful explosions can compress carbon into diamond crystals, the
+      most ordered arrangement.
+    - Explosions of atomized gasoline produce compressed gas, which is
+      harnessed in internal combustion engines to power automobiles and
+      other equipment.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-8-13

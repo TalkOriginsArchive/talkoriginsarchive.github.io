@@ -1,0 +1,46 @@
+BriefClaim: The coelacanth, thought extinct for ages, is still living.
+Title: Coelacanth: A living fossil
+Keywords: coelacanth, living fossil.
+
+Claim:
+
+The coelacanth, thought to have been extinct for seventy million years and
+used as an example of a fish-tetrapod transition, is found still alive,
+unchanged in form, today.
+
+Source:
+
+SciCre, pp. 82-83,89.
+
+Response:
+
+1. The modern coelacanth is _Latimeria chalumnae_, in the family
+   Latimeriidae.  Fossil coelacanths are in other families, mostly
+   Coelacanthidae, and are significantly different in that they are
+   smaller and lack certain internal structures.  _Latimeria_ has no
+   fossil record, so it cannot be a "living fossil."
+
+2. Even if the modern coelacanth and fossil coelacanths were the same, it
+   would not be a serious problem for evolution.  The theory of evolution
+   does not say that all organisms must evolve.  In an unchanging
+   environment, natural selection would tend to keep things largely
+   unchanged morphologically.
+
+3. Coelacanths have primitive features relative to most other fish, so at
+   one time they were one of the closest known specimens to the
+   fish-tetrapod transition.  We now know several other fossils that show
+   the <CC212>fish-tetrapod transition> quite well.
+
+Links:
+
+Lindsay, Don, 2000, Living fossils like the coelacanth.
+ https://web.archive.org/web/20240223010739if_/http://www.don-lindsay-archive.org/creation/coelacanth.html
+
+References:
+
+Further Reading:
+
+Forey, Peter L., 1998.  _History of the Coelacanth Fishes_.  London:
+ Chapman & Hall.
+
+Date: 2001-3-31, 2004-9-4

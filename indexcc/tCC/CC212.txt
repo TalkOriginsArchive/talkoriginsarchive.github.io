@@ -1,0 +1,106 @@
+BriefClaim: There are gaps between fish and amphibians.
+Title: Transitional Tetrapods
+Keywords: transitional, fossil, fish, tetrapod, fingers, amphibian.
+
+Claim:
+
+There are no transitional fossils between fish and tetrapods.
+
+Source:
+
+SciCre, pp.
+ 82-83.
+LifeHow, p. 72.
+
+Response:
+
+1. There are several good transitional fossils:
+
+    a. Most fish have anterior and posterior external nostrils. In
+       tetrapods, the posterior nostril is replaced by the choana, an
+       internal nostril opening into the roof of the mouth.  _Kenichthys_,
+       a 395-million-year-old fossil from China, is exactly intermediate
+       between the two, having nostrils at the margin of the upper jaw
+       (Zhu and Ahlberg 2004).
+
+    a. A fossil shows eight bony fingers in the front fin of a lobed fish,
+       offering evidence that fingers developed before land-going
+       tetrapods (Daeschler and Shubin 1998).
+
+    b. A Devonian humerus has features showing that it belonged to an
+       aquatic tetrapod that could push itself up with its forelimbs but
+       could not move it limbs back and forth to walk (Shubin et
+       al. 2004).
+
+    c. _Acanthostega_, a Devonian fossil, about 60 cm long, probably
+       lived in rivers (Coates 1996).  It had polydactyl limbs with no
+       wrists or ankles (Coates and Clack 1990).  It was predominantly, if
+       not exclusively, aquatic: It had fishlike internal gills (Coates and
+       Clack 1991), and its limbs and spine could not support much weight.
+       It also had a stapes and a lateral sensory system like a fish.
+
+    d. _Ichthyostega_, a tetrapod from Devonian streams, was about 1.5 m
+       long and probably amphibious.  It had seven digits on its rear legs
+       (its hands are unknown). Its limbs and spine were more robust than
+       those of _Acanthostega_, and its rib cage was massive.  It had
+       fishlike spines on its tail, but these were fewer and smaller than
+       _Acanthostega_'s.  Its skull had several primitive fishlike
+       features, but it probably did not have internal gills (Murphy
+       2002).
+
+    e. _Tulerpeton_, from estuarine deposits roughly the same age as
+       _Acanthostega_ and _Ichthyostega_, had six digits on its front
+       limbs and seven on its rear limbs.  Its shoulders were more robust
+       than _Acanthostega_, suggesting it was somewhat less aquatic, and
+       its skull appears to be closer to later Carboniferous amphibians
+       than to _Acanthostega_ or _Ichthyostega_.
+
+Links:
+
+Morton, Glenn R., 1997.  Fish to amphibian transition.
+ https://web.archive.org/web/20111027005550if_/http://home.entouch.net/dmd/transit.htm
+
+References:
+
+1. Coates, M. I. 1996. The Devonian tetrapod Acanthostega gunnari Jarvik:
+   postcranial anatomy, basal tetrapod interrelationships and patterns of
+   skeletal evolution. _Transactions of the Royal Society of Edinburgh:
+   Earth Sciences_ 87: 363-421.
+2. Coates, M. I. and J. A. Clack, 1990. Polydactyly in the earliest
+   known tetrapod limbs. _Nature_ 347: 66-69.
+3. Coates, M. I. and J. A. Clack, 1991. Fish-like gills and breathing
+   in the earliest known tetrapod. _Nature_
+   352: 234-236.
+4. Daeschler, Edward B. and Neil Shubin, 1998.  Fish with fingers?
+   _Nature_ 391: 133.
+5. Murphy, Dennis C., 2002.  Devonian times: Ichthyostega stensioei.
+   http://www.mdgekko.com/devonian/Order/re-ichthyostega.html
+6. Shubin, N. H., E. B. Daeschler and M. I. Coates, 2004.  The early
+   evolution of the tetrapod humerus.  _Science_ 304: 90-93.  See also:
+   Clack, J. A., 2004.  From fins to fingers.  _Science_ 304: 57-58.
+#   http://www.acnatsci.org/news/tedsfish/fish08.html; illustration at
+#   https://web.archive.org/web/20011101161300if_/http://www.acnatsci.org/news/tedsfish/fin.html (links broken)
+7. Zhu, Min and Per E. Ahlberg, 2004.  The origin of the internal nostril
+   of tetrapods.  _Nature_ 432: 94-97.  See also: Janvier, Philippe,
+   2004.  Wandering nostrils.  _Nature_ 432: 23-24.
+
+Further Reading:
+
+Clack, J. A., 2002.  _Gaining Ground: The origin and early evolution of
+ tetrapods_.  Bloomington, IN: Indiana Univ. Press. 
+
+Murphy, Dennis C., 2002.  Devonian times.
+ http://www.devoniantimes.org/
+
+#Jarvik, E. 1996. The Devonian tetrapod Ichthyostega. _Fossils
+# and Strata_ 40: 1-213.
+
+Pojeta, John Jr. and Springer, Dale A., 2001.  _Evolution and the fossil
+ record_, Alexandria, VA: American Geological Institute,
+ https://web.archive.org/web/20250523075732if_/http://www.agiweb.org/news/spot_06apr01_evolutionbk.htm ,
+ https://web.archive.org/web/20030315041121if_/http://www.agiweb.org/news/evolution.pdf .
+
+Zimmer, Carl, 1998.  _At the Water's Edge_.  New York: Touchstone,
+ ch. 1-4.
+
+Date: 2001-4-29, 2004-11-19

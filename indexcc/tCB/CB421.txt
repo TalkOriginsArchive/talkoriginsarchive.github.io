@@ -1,0 +1,43 @@
+BriefClaim: Evolution does not explain music.
+Title: Evolution of music appreciation
+Keywords: music, language, Broca's area, syntax.
+
+Claim:
+
+Evolution does not explain music.
+
+Source:
+
+
+Response:
+
+1. This is an <CA100>argument from incredulity>.  Not knowing how
+   something is explained does not mean it cannot be explained.
+
+2. There is evidence that music is related to language.  An out-of-place
+   chord triggers a part of the brain that recognizes correct syntax
+   (Clarke 2001; Maess et al. 2001).  Thus an appreciation of music could
+   have arisen, at least in part, as a side-effect of the evolution of
+   language.
+
+   Another hypothesis is that music arose in parallel with sociality, as a
+   means of linking people through such communal activities as dance and
+   rhythm (Benzon 2001).
+
+Links:
+
+References:
+
+1. Benzon, 2001.  (see below).
+2. Clarke, Tom, 2001 (23 Apr).  Chords strike a grammatical note.  _Nature
+   Science Update_, https://web.archive.org/web/20080516181223if_/http://www.nature.com/nsu/010426/010426-4.html
+3. Maess, B., S. Koelsch, T. C. Gunter and A. D. Friederici, 2001.
+   Musical syntax is processed in Broca's area: an MEG study.  _Nature
+   Neuroscience_ 4: 540-545.
+
+Further Reading:
+
+Benzon, William L., 2001. _Beethoven's Anvil: Music in mind and
+ culture_.  New York: Basic Books.
+
+Date: 2001-4-29, 2003-7-11

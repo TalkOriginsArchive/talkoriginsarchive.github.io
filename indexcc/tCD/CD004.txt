@@ -1,0 +1,52 @@
+BriefClaim: Cosmic rays and free neutrinos affect U and Ar decay rates.
+Title: Cosmic rays and radiometric decay rates
+Keywords: geochronology, radiometric dating
+
+Claim:
+
+Cosmic rays and free neutrinos, such as might be produced by nearby
+supernovas or the reversal of the earth's magnetic field, might affect the
+decay rates of radioactive elements, invalidating such radiometric dating
+methods as carbon-14, uranium-lead, and potassium-argon.
+
+Source:
+
+SciCre, pp. 142-143,146.
+
+Response:
+
+1. Where is there the slightest bit of evidence that cosmic rays or
+   neutrinos do affect decay rates?  The following show the contrary:
+
+    - Inside standard nuclear fission power generators, neutrino radiation
+      is intense, but the uranium that is not fissioned decays at the
+      usual rate.
+    - Some spacecraft are powered by nuclear decays.  Some of them fly in
+      very intense cosmic ray fields (like near Jupiter).  If cosmic rays
+      affected decay rates, the power generated would be different from
+      expectations.
+    - To get unweathered rocks, rocks for radiometric dating are usually
+      taken from some depth into an outcrop, where cosmic rays have
+      insignificant effect.
+
+2. Radiation high enough to affect nuclear decay rates by several orders
+   of magnitude (a change great enough to allow young-earth timescales)
+   would sterilize the planet.
+
+3. Reversals of the earth's magnetic field do not produce cosmic rays or
+   neutrinos.  They may allow more cosmic rays to reach the earth's
+   surface, but not much beyond that, and most rocks used for dating have
+   been buried for most of their history.
+
+4. Carbon-14 dating is <CD011.1>calibrated> by independent clocks.
+
+Links:
+
+References:
+
+Further Reading:
+
+Young, Davis A., 1988.  _Christianity and the Age of the Earth_.  Thousand
+ Oaks, CA: Artisan Sales.
+
+Date: 2003-8-13, 2004-9-8

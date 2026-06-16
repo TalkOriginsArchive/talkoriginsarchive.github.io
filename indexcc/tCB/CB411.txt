@@ -1,0 +1,108 @@
+BriefClaim: Evolution does not explain morals, especially altruism.
+Title: Evolution of altruism
+Keywords: evolution, morals, cooperation, altruism, selfishness
+
+Claim:
+
+Evolution cannot explain moral behavior, especially altruism.
+Evolutionary fitness is selfish; individuals win only by benefitting
+themselves and their offspring.
+
+Source:
+
+Dembski, William A., 2004.  Reflections on human origins.
+ http://www.designinference.com/documents/2004.06.Human_Origins.pdf
+LifeHow, p. 177.
+
+Response:
+
+1. The claim ignores what happens when organisms live socially.  In fact,
+   much about morals can be explained by evolution.  Since humans are
+   social animals and they benefit from interactions with others, natural
+   selection should favor behavior that allows us to better get along with
+   others.
+
+   Fairness and cooperation have value for dealing with people repeatedly
+   (Nowak et al. 2000).  The emotions involved with such justice could
+   have evolved when humans lived in small groups (Sigmund et al. 2002).
+   Optional participation can foil even anonymous exploitation and make
+   cooperation advantageous in large groups (Hauert et al. 2002).
+
+   Kin selection can explain some altruistic behavior toward close
+   relatives; because they share many of the same genes, helping them
+   benefits the giver's genes, too.  In societies, altruism benefits the
+   giver because when others see someone acting altruistically, they are
+   more likely to give to that person (Wedekind and Milinski 2000).  In
+   the long term, the generous person benefits from an improved reputation
+   (Wedekind and Braithwaite 2002).  Altruistic punishment (punishing
+   another even at cost to yourself) allows cooperation to flourish even
+   in groups of unrelated strangers; the abstract of Fehr and G&auml;chter
+   (2002) is worth quoting in full:
+
+      Human cooperation is an evolutionary puzzle. Unlike other creatures,
+      people frequently cooperate with genetically unrelated strangers,
+      often in large groups, with people they will never meet again, and
+      when reputation gains are small or absent. These patterns of
+      cooperation cannot be explained by the nepotistic motives associated
+      with the evolutionary theory of kin selection and the selfish
+      motives associated with signalling theory or the theory of
+      reciprocal altruism. Here we show experimentally that the altruistic
+      punishment of defectors is a key motive for the explanation of
+      cooperation. Altruistic punishment means that individuals punish,
+      although the punishment is costly for them and yields no material
+      gain.  We show that cooperation flourishes if altruistic punishment
+      is possible, and breaks down if it is ruled out. The evidence
+      indicates that negative emotions towards defectors are the proximate
+      mechanism behind altruistic punishment. These results suggest that
+      future study of the evolution of human cooperation should include a
+      strong focus on explaining altruistic punishment.
+
+   Finally, evolution does not require that all traits be adaptive 100
+   percent of the time.  The altruism that benefits oneself most of the
+   time may contribute to life-risking behavior in some infrequent
+   circumstances.
+
+2. This claim is an <CA100>argument from incredulity>.  Not knowing an
+   explanation does not mean no explanation exists.  And as noted above,
+   much of the explanation is known already.
+
+Links:
+
+References:
+
+1. Fehr, Ernst and Simon G&auml;chter, 2002.  Altruistic punishment
+   in humans.  _Nature_ 415: 137-140.
+2. Hauert, C., S. De Monte, J. Hofbauer and K. Sigmund, 2002.
+   Volunteering as Red Queen mechanism for cooperation in public goods
+   games.  _Science_ 296: 1129-1132.
+3. Nowak, M. A., K. M. Page and K. Sigmund, 2000.  Fairness versus reason
+   in the ultimatum game.  _Science_ 289: 1773-1775.
+4. Sigmund, Karl, E. Fehr and M. A. Nowak, 2002.  (see below)
+5. Wedekind, C. and V. A. Braithwaite, 2002.  The long-term benefits of
+   human generosity in indirect reciprocity.  _Current Biology_ 12:
+   1012-1015.
+6. Wedekind, C. and M. Milinski, 2000.  Cooperation through image scoring
+   in humans.  _Science_ 288: 850-852.  See also Nowak, M. A. and K.
+   Sigmund, 2000.  Shrewd investments.  _Science_ 288: 819-820.
+7. Wright, Robert, 1994.  (see below)
+
+Further Reading:
+
+Netting, Jessa, 2000 (20 Oct.).  Model of good (and bad) behaviour. 
+ _Nature Science Update_, https://web.archive.org/web/20040912081730if_/http://www.nature.com/nsu/001026/001026-2.html
+
+Sigmund, Karl, Ernst Fehr and Martin A. Nowak, 2002.  The economics of
+ fair play.  _Scientific American_ 286(1) (Jan.): 82-87.
+
+Vogel, Gretchen, 2004.  The evolution of the golden rule.  _Science_ 303:
+ 1128-1131.
+
+Wright, Robert, 1994.  _The Moral Animal_  New York: Pantheon Books.
+
+Henrich, Joseph. 2006.  Cooperation, punishment, and the evolution of
+ human institutions.  _Science_ 312: 60-61.
+
+Nowak, Martin A. 2006.  Five rules for the evolution of cooperation.
+ _Science_ 314: 1560-1563.
+
+Date: 2004-9-30, 2008-1-4

@@ -1,0 +1,66 @@
+BriefClaim: Carbon dating gives inaccurate results.
+Title: Carbon dating.
+Keywords: C14, radiometric dating
+
+Claim:
+
+Carbon-14 dating gives unreliable results.
+
+Source:
+
+Lee, Robert E., 1981.  Radiocarbon: Ages in error.  _Anthropological
+ Journal of Canada_ 19(3): 9-29.  Reprinted in CRSQ 19(2): 117-127 (1982).
+
+Response:
+
+1. Any tool will give bad results when misused.  Radiocarbon dating has
+   some known limitations.  Any measurement that exceeds these limitations
+   will probably be invalid.  In particular, radiocarbon dating works to
+   find ages as old as 50,000 years but not much older.  Using it to date
+   older items will give bad results.  Samples can be contaminated with
+   younger or older carbon, again invalidating the results.  Because of
+   excess <sup>12</sup>C released into the atmosphere from the Industrial
+   Revolution and excess <sup>14</sup>C produced by atmospheric nuclear
+   testing during the 1950s, materials less than 150 years old cannot be
+   dated with radiocarbon (Faure 1998, 294).
+
+   In their claims of errors, creationists do not consider misuse of the
+   technique.  It is not uncommon for them to misuse radiocarbon dating by
+   attempting to date samples that are millions of years old (for example,
+   <CD011.5>Triassic "wood">) or that have been treated with organic
+   substances.  In such cases, the errors belong to the creationists, not
+   the carbon-14 dating method.
+
+2. Radiocarbon dating has been repeatedly tested, demonstrating its
+   accuracy.  It is calibrated by tree-ring data, which gives a nearly
+   exact calendar for more than 11,000 years back.  It has also been
+   tested on items for which the age is known through historical records,
+   such as parts of the Dead Sea scrolls and some wood from an Egyptian
+   tomb (MNSU n.d.; Watson 2001).  Multiple samples from a single object
+   have been dated independently, yielding consistent results.
+   Radiocarbon dating is also concordant with other dating techniques
+   (e.g., Bard et al. 1990).
+
+Links:
+
+References:
+
+1. Bard, Edouard, Bruno Hamelin, Richard G. Fairbanks and Alan Zindler,
+   1990. Calibration of the <sup>14</sup>C timescale over the past 30,000
+   years using mass spectrometric U-Th ages from Barbados corals.
+   _Nature_ 345: 405-410.
+2. Faure, Gunter, 1998.  _Principles and Applications of Geochemistry_,
+   2nd ed.  Upper Saddle River, NJ: Prentice Hall.
+3. MNSU, n.d.  Radio-carbon dating.
+   https://web.archive.org/web/20080517022325if_/http://emuseum.mnsu.edu/archaeology/dating/radio_carbon.html
+4. Watson, Kathie, 2001.  Radiometric time scale.
+   http://pubs.usgs.gov/gip/geotime/radiometric.html
+
+Further Reading:
+
+Higham, Tom, 1999.  Radiocarbon WEB-Info.  https://web.archive.org/web/20250107110506if_/http://www.c14dating.com/
+
+Thompson, Tim, 2003.  A radiometric dating resource list.
+ http://www.tim-thompson.com/radiometric.html#reliability
+
+Date: 2003-8-19, 2004-9-2

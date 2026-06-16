@@ -1,0 +1,129 @@
+BriefClaim: Coconino Sandstone was deposited underwater.
+Title: Coconino Sandstone deposition environment.
+Keywords: desert
+
+Claim:
+
+The Coconino Sandstone, the origin of which is conventionally attributed
+to desert sand dunes, was deposited by water.  Evidence for this (in
+addition to the character of <CC365>fossil footprints> therein) includes
+cross-bedding angles of only 25 degrees, not the 30-34 degrees one expects
+from desert dunes.
+
+Source:
+
+Snelling, Andrew A. and Steven A. Austin, 1992.  Grand Canyon: Startling
+ evidence for Noah's Flood!  _Creation Ex Nihilo_ 15(1): 47.
+ http://www.answersingenesis.org/home/area/magazines/docs/v15n1_grandcanyon.asp
+
+Response:
+
+1. Eolian (wind-blown) and subaqueous dunes have superficial similarities,
+   but they differ in particulars.  There is a great deal of diverse
+   evidence that the Coconino Sandstone originated as eolian desert dunes.
+   As McKee (1979, 204) stated:
+
+    "The basis for considering the Coconino Sandstone to be of eolian
+     origin involves numerous criteria, some of which are distinctive of
+     an eolian environment and others merely compatible with but not
+     diagnostic of it.  No single type of evidence seems entirely
+     conclusive, but, together, the various features present very strong
+     evidence.  The principal criteria of dune deposition are as follows:
+
+      1. The extent and homogeneity of the sand body.
+
+      2. The tabular-planar and wedge-planar type and large scale of
+         cross-stratification.  The common high-angle deposits are
+         interpreted as slipfaces on the lee sides of dunes, and the
+         relatively rare low-angle cross-strata that dip toward the
+         opposite quadrant apparently represent deposits of windward
+         slopes.
+
+      3. Slump marks of several varieties preserved on the steeply dipping
+         surfaces of lee-side deposits.  These are distinctive of dry sand
+         avalanching.
+
+      4. Ripple marks which are common on surfaces of high-angle
+         crossbedding suggest eolian deposition both by their high indexes
+         (above 15) and by their orientation with axes parallel to dip
+         slope.
+
+      5. The local preservation of a distinctive type of rain pit.  Such
+         pits illustrate the cohesion of sand grains with added moisture
+         and a reorientation of the crater axes with respect to bedding
+         slopes.
+
+      6. Successions of miniature rises or steps ascending dip slopes of
+         crossbeds.
+
+      7. The preservation in fine sand of reptile footprints and probable
+         millipede trails with sharp definition and clear impression.
+
+      8. The consistent orientation of reptilian tracks up (not down) the
+         steep foreset slopes.
+
+   Since McKee published, additional types of terrestrial trace fossils,
+   paleosols, and other distinctive eolian sedimentary structures have
+   been recognized in Coconino and related eolian strata.
+
+   If a person looks carefully at modern dunes -- for example, the Great
+   Sand Dunes, White Sands, and Nebraska Sand Hills -- he or she will find
+   an abundance of climbing translatent beds, with coarsening-up laminae
+   and rare foreset laminae that form only by the migration and accretion
+   of low-amplitude wind ripples in eolian environments.  Such beds form
+   only in terrestrial eolian environments and are completely absent from
+   marine or lacustrine environments because the wind ripples that create
+   them simply do not form under water and underwater analogues of these
+   sedimentary.  The fact that wind ripple and the distinctive bedding and
+   laminations occur throughout the Coconino Sandstone and other similar
+   strata -- for example, the Navajo and Entrada -- clearly refutes the
+   marine hypothesis for their origin.
+
+
+2. Sand waves deposited in water possess very low angle cross-beds, rarely
+   steeper than 10 degrees.  Cross-bedding in eolian dunes occurs at
+   various angles.  The general range in slope of the cross-beds is from
+   11 to 34 degrees.  The average appears to be close to 25-28 degrees.
+   The average slope of cross-bedding does not have to be equal to 30 to
+   34 degrees, which is the maximum slope of dry sand, to be from a sand
+   dune.  The maximum slope of cross-bedding within the Coconino Sandstone
+   does get as steep as 30 to 34 degrees (McKee 1979; Reineck and Singh
+   1980).  The 30-34 degree slope is produced from sand avalanching down
+   the lee slip face of the dune.  The beds and laminae produced by wind
+   ripple migration can form cross-bedding and lamination that has slopes
+   up to 20 degrees within a sand dune.  Given that this cross-bedding is
+   present everywhere in the Coconino Sandstone, it greatly decreases the
+   average slope of the cross-bedding within the Coconino Sandstone.  In
+   addition, grain-fall processes produce low, inclined lamination and
+   beds with slopes that average between 20 to 30 degrees and range from 0
+   to 40 degrees.  The presence of grain-fall bedding and lamination
+   within the Coconino, not only refutes the hypotheses concerning the
+   underwater or marine origin of the Coconino Sandstone but also again
+   greatly decreases the average slope of the cross-bedding found in the
+   Coconino Sandstone.  Thus, it is completely reasonable that the average
+   slope of the cross-bedding in the Coconino Sandstone is less than the
+   average slope of dry sand -- that is 30 to 34 degrees -- because the
+   cascading of sand down the lee side of the sand dune is not the only
+   process producing cross-beds and laminations in dune sands (Hunter
+   1977).
+
+Links:
+
+References:
+
+1. Hunter, R. E., 1977.  Basic types of stratification
+   in small eolian dunes.  _Sedimentology_ 24: 361-387.
+2. McKee, E. D., 1979.  A study of global sand seas: Ancient sandstones
+   considered to be eolian.  _U. S. Geological Survey Professional Paper
+   1052_, Reston, VA: USGS.
+3. Reineck, H.-E. and I. B. Singh, 1980.  _Depositional Sedimentary
+   Environments_, 2nd ed. Berlin: Spinger-Verlag.
+#4. Walker, R. G. and N. P. James, eds., 1992.  _Facies Models, Response to
+#   Sea Level Change_, Geological Association of Canada.
+
+Further Reading:
+
+Boggs, S., 1995.  _Principles of Sedimentology and Stratigraphy_. New
+ York: Freeman and Co.
+
+Date: 2003-6-23

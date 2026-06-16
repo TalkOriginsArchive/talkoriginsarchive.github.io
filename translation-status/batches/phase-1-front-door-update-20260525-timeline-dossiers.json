@@ -1,0 +1,182 @@
+{
+  "id": "phase-1-front-door-update-20260525-timeline-dossiers",
+  "phase": "phase-1-front-door",
+  "phase_label": "Front Door and Generated Navigation",
+  "sequence": 2,
+  "status": "ready",
+  "page_count": 9,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "status_counts": {
+    "ready": 36
+  },
+  "pages": [
+    {
+      "route": "/dossiers/",
+      "source_path": "dossiers/index.html",
+      "title": "Dossiers",
+      "content_kind": "scisiteforge_feature",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "batch_id": "phase-1-front-door-update-20260525-timeline-dossiers",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate managed SciSiteForge feature page text from the reviewed English source. Preserve route names, cited titles, and proper names unless a conventional localized form exists.",
+      "statuses": {
+        "es": "ready",
+        "fr": "ready",
+        "de": "ready",
+        "pt": "ready"
+      },
+      "source_character_count": 2886
+    },
+    {
+      "route": "/dossiers/cases/edwards/",
+      "source_path": "dossiers/cases/edwards/index.html",
+      "title": "Edwards v. Aguillard",
+      "content_kind": "scisiteforge_feature",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "batch_id": "phase-1-front-door-update-20260525-timeline-dossiers",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate managed SciSiteForge feature page text from the reviewed English source. Preserve route names, cited titles, and proper names unless a conventional localized form exists.",
+      "statuses": {
+        "es": "ready",
+        "fr": "ready",
+        "de": "ready",
+        "pt": "ready"
+      },
+      "source_character_count": 1381
+    },
+    {
+      "route": "/dossiers/cases/kitzmiller/",
+      "source_path": "dossiers/cases/kitzmiller/index.html",
+      "title": "Kitzmiller v. Dover Area School District",
+      "content_kind": "scisiteforge_feature",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "batch_id": "phase-1-front-door-update-20260525-timeline-dossiers",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate managed SciSiteForge feature page text from the reviewed English source. Preserve route names, cited titles, and proper names unless a conventional localized form exists.",
+      "statuses": {
+        "es": "ready",
+        "fr": "ready",
+        "de": "ready",
+        "pt": "ready"
+      },
+      "source_character_count": 1497
+    },
+    {
+      "route": "/dossiers/cases/scopes/",
+      "source_path": "dossiers/cases/scopes/index.html",
+      "title": "The Scopes Trial",
+      "content_kind": "scisiteforge_feature",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "batch_id": "phase-1-front-door-update-20260525-timeline-dossiers",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate managed SciSiteForge feature page text from the reviewed English source. Preserve route names, cited titles, and proper names unless a conventional localized form exists.",
+      "statuses": {
+        "es": "ready",
+        "fr": "ready",
+        "de": "ready",
+        "pt": "ready"
+      },
+      "source_character_count": 1480
+    },
+    {
+      "route": "/dossiers/publications/nothing-in-biology-makes-sense/",
+      "source_path": "dossiers/publications/nothing-in-biology-makes-sense/index.html",
+      "title": "Nothing in Biology Makes Sense Except in the Light of Evolution",
+      "content_kind": "scisiteforge_feature",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "batch_id": "phase-1-front-door-update-20260525-timeline-dossiers",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate managed SciSiteForge feature page text from the reviewed English source. Preserve route names, cited titles, and proper names unless a conventional localized form exists.",
+      "statuses": {
+        "es": "ready",
+        "fr": "ready",
+        "de": "ready",
+        "pt": "ready"
+      },
+      "source_character_count": 1523
+    },
+    {
+      "route": "/dossiers/publications/origin-of-species/",
+      "source_path": "dossiers/publications/origin-of-species/index.html",
+      "title": "On the Origin of Species",
+      "content_kind": "scisiteforge_feature",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "batch_id": "phase-1-front-door-update-20260525-timeline-dossiers",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate managed SciSiteForge feature page text from the reviewed English source. Preserve route names, cited titles, and proper names unless a conventional localized form exists.",
+      "statuses": {
+        "es": "ready",
+        "fr": "ready",
+        "de": "ready",
+        "pt": "ready"
+      },
+      "source_character_count": 1562
+    },
+    {
+      "route": "/dossiers/publications/vestiges-of-the-natural-history-of-creation/",
+      "source_path": "dossiers/publications/vestiges-of-the-natural-history-of-creation/index.html",
+      "title": "Vestiges of the Natural History of Creation",
+      "content_kind": "scisiteforge_feature",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "batch_id": "phase-1-front-door-update-20260525-timeline-dossiers",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate managed SciSiteForge feature page text from the reviewed English source. Preserve route names, cited titles, and proper names unless a conventional localized form exists.",
+      "statuses": {
+        "es": "ready",
+        "fr": "ready",
+        "de": "ready",
+        "pt": "ready"
+      },
+      "source_character_count": 1559
+    },
+    {
+      "route": "/dossiers/resources/understanding-evolution/",
+      "source_path": "dossiers/resources/understanding-evolution/index.html",
+      "title": "Understanding Evolution",
+      "content_kind": "scisiteforge_feature",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "batch_id": "phase-1-front-door-update-20260525-timeline-dossiers",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate managed SciSiteForge feature page text from the reviewed English source. Preserve route names, cited titles, and proper names unless a conventional localized form exists.",
+      "statuses": {
+        "es": "ready",
+        "fr": "ready",
+        "de": "ready",
+        "pt": "ready"
+      },
+      "source_character_count": 1399
+    },
+    {
+      "route": "/timeline/",
+      "source_path": "timeline/index.html",
+      "title": "Timeline: Evolution, Controversy, and Public Evidence",
+      "content_kind": "scisiteforge_feature",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "batch_id": "phase-1-front-door-update-20260525-timeline-dossiers",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate managed SciSiteForge feature page text from the reviewed English source. Preserve route names, cited titles, and proper names unless a conventional localized form exists.",
+      "statuses": {
+        "es": "ready",
+        "fr": "ready",
+        "de": "ready",
+        "pt": "ready"
+      },
+      "source_character_count": 11230
+    }
+  ],
+  "updated_at": "2026-05-30T00:06:42.365585+00:00"
+}

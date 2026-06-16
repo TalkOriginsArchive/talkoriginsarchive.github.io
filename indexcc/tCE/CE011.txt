@@ -1,0 +1,55 @@
+BriefClaim: Earth's rotation is slowing, indicating a young earth.
+Title: Earth's rotation slowing
+Keywords: coral clock
+
+Claim:
+
+Earth's rotation is slowing down, so it cannot be more than a few million
+years old.
+
+Source:
+
+Pathlights, n.d.  The age of the earth - 2.
+ https://web.archive.org/web/20210426214031if_/http://www.pathlights.com/ce_encyclopedia/05agee3.htm
+
+Response:
+
+1. The earth's rotation is slowing at a rate of about 0.005 seconds per
+   year per year.  This extrapolates to the earth having a fourteen-hour
+   day 4.6 billion years ago, which is entirely possible.
+
+   The rate at which the earth is slowing today is higher than average
+   because the present rate of spin is in resonance with the
+   back-and-forth movement of the oceans.
+
+   Fossil rugose corals preserve daily and yearly growth patterns and show
+   that the day was about 22 hours long 370 million years ago, in
+   rough agreement with the 22.7 hours predicted from a constant rate of
+   slowing (Scrutton 1964; Wells 1963).
+#   Sedimentary tidal rhythmites show
+#   that the day was 21.9 hours 620 Mya [Williams 1997].
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?  A close
+ look at Dr. Hovind's list of young-earth arguments and other claims.
+ http://www.talkorigins.org/faqs/hovind/howgood-yea2.html#proof20
+
+References:
+
+1. Scrutton, C. T., 1964. Periodicity in Devonian coral growth.
+   _Palaeontology_ 7(4): 552-558.
+2. Wells, J. W., 1963. Coral growth and geochronometry. _Nature_ 197: 948-950.
+#3. Williams, George E., 1997.  Precambrian length of day and the validity
+#   of tidal rhythmite paleotidal values.  _Geophysical Research Letters_
+#   24(4): 421-424.
+#4. Wisdom, Jack and Jihad Touma, 1994.  Evolution of the Earth-Moon
+#   system.  _Astronomical Journal_ 108(5): 1943-1961.
+#http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1994AJ....108.1943T&db_key=AST&high=411bcbd48910465
+
+Further Reading:
+
+Rosenberg, G. D. and S. K. Runcorn (eds.), 1975.  _Growth rhythms and the
+ history of the earth's rotation_. New York: Willey Interscience.
+
+Date: 2003-4-21

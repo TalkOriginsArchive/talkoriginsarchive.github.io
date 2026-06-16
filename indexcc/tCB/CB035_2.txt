@@ -1,0 +1,52 @@
+BriefClaim: Earth's early atmosphere had no reducing gases.
+Title: Early reducing atmosphere
+Keywords: Miller-Urey, reducing atmosphere, abiogenesis
+
+Claim:
+
+Reducing gases likely were not present in the early, prebiotic earth's
+atmosphere. 
+
+Source:
+
+Discovery Institute. 2003.  A preliminary analysis of the treatment of
+ evolution in biology textbooks currently being considered for adoption by
+ the Texas State Board of Education.
+ https://web.archive.org/web/20030805060929if_/http://www.discovery.org/articleFiles/PDFs/TexasPrelim.pdf
+Wells, Jonathan. 2000.  _Icons of Evolution_.  Washington DC: Regnery.
+
+Response:
+
+1. The claim is false.  Current evidence indicates that the early earth
+   had a mildly reducing atmosphere (Kasting 1993).  It was probably rich
+   in hydrogen due to the escape of hydrogen from the atmosphere being
+   much lower than previously thought (Tian et al. 2005).  Calculations of
+   the outgassing expected from chondrites (which the earth was largely
+   formed from) also indicate a reducing atmosphere (Thomas 2005).
+
+2. Even if the earth's overall atmosphere were neutral, there would have
+   been many local areas that were reducing, such as areas near active
+   volcanism (Delano 2001; Kasting 1993).
+
+Links:
+
+References:
+
+1. Delano, J. W. 2001.  Redox history of the Earth's interior since ~3900
+   Ma: Implications for prebiotic molecules.  _Origins of Life and
+   Evolution of the Biosphere_ 31: 311-341.
+2. Kasting, J. F. 1993.  Earth's early atmosphere.  _Science_ 259:
+   920-926.
+3. Thomas, Dave.  2005.  New trouble for Wells's "Icon of Anti-Evolution
+   #1".  https://web.archive.org/web/20230605123030if_/http://www.talkreason.org/articles/Wells.cfm
+3. Tian, F., O. B. Toon, A. A. Pavlov and H. De Sterck. 2005.  A
+   hydrogen-rich early Earth atmosphere.  _Science_ 308: 1014-1017.  See
+   also: Chyba, C. F. 2005.  Rethinking Earth's early atmosphere.
+   _Science_ 308: 962-963.
+
+Further Reading:
+
+Ellington, Andrew D. and Matthew Levy. 2003.  Gas, discharge, and the
+ Discovery Institute.  RNCSE 23(3-4): 39-40.
+
+Date: 2003-11-17, 2005-9-14

@@ -1,0 +1,114 @@
+body
+{
+    background:   white;
+    color:        black;
+    margin-left:  3%;
+    margin-right: 5%;
+}
+       
+h1, h2, h3, h4, h5, h6 
+{
+    color:      black; 
+    background: transparent /* Inherit from parent i.e. no change */
+}
+
+a:link    { color: blue;   background: transparent }
+a:visited { color: purple; background: transparent }
+a:hover   { color: navy;   background: transparent }
+a:active  { color: maroon; background: transparent }
+
+address
+{
+    color:      black;
+    background: transparent;
+    font-style: normal;
+}
+
+table
+{
+    margin: 1ex; 
+    clear:  none;
+}
+
+caption
+{
+    text-align:   left;
+    caption-side: bottom;
+}
+
+img
+{
+	border: none;
+}
+
+.grey
+{
+    background: #e0e0e0; 
+    color:      black;
+}
+
+.plus2  { font-size: 152% }
+.plus1  { font-size: 114% }
+.plus0  { font-size: 100% }
+.minus1 { font-size:  83% }
+.minus2 { font-size:  65% }
+
+.plus2, .plus1, .plus0, .minus1, .minus2
+{
+    font-weight: normal;
+    padding:     0;
+    margin:      0;
+}
+
+.center { text-align: center }
+.left   { text-align: left }
+.right  { text-align: right }
+
+.indent { margin: auto 3em }
+
+q { quotes:"" "" "" "" }  
+
+.header
+{
+    margin-left:  auto;
+    margin-right: auto;
+    text-align:   center;
+    clear:        both;
+}
+
+.trailer
+{
+    margin-left:  auto;
+    margin-right: auto;
+    text-align:   center;
+    font-size:    83%;
+    clear:        both;
+}
+
+.centerel
+{
+    margin-left:  auto;
+    margin-right: auto;
+    text-align:   center;
+} 
+
+.letter
+
+{
+    float: left;
+}
+
+.otherlinks
+{
+    float:      right;
+	background: #e0e0e0;
+	color:      black;
+	width:      40%;
+}
+
+.rsidebar
+{
+    float:      right;
+	background: #e0e0e0;
+	color:      black;    
+}

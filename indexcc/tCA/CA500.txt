@@ -1,0 +1,83 @@
+BriefClaim: "Survival of the fittest" is a tautology.
+Title: "Survival of the Fittest"
+Keywords: natural selection, fitness, tautology
+
+Claim:
+
+Natural selection, or "survival of the fittest," is tautologous (i.e.,
+uses circular reasoning) because it says that the fittest individuals
+leave the most offspring, but it defines the fittest individuals as those
+that leave the most offspring.
+
+Source:
+
+Gish, Duane T., R. B. Bliss and W. R. Bird. 1981.  Summary of
+ scientific evidence for creation.  _Impact_ 95-96 (May/Jun.). 
+ https://www.icr.org/index.php?module=articles&action=view&ID=177
+SciCre, p. viii.
+
+Response:
+
+1. "Survival of the fittest" is a poor way to think about evolution.
+   Darwin himself did not use the phrase in the first edition of _Origin
+   of Species_.  What Darwin said is that heritable variations lead to
+   differential reproductive success.  This is not circular or
+   tautologous.  It is a prediction that can be, and has been,
+   experimentally verified (Weiner 1994).
+
+2. The phrase cannot be a tautology if it is not trivially true.  Yet there
+   have been theories proposing that the fittest individuals perish:
+     - Alpheus Hyatt proposed that lineages, like individuals, inevitably
+       go through stages of youth, maturity, old age, and death.  Towards
+       the end of this cycle, the fittest individuals are more likely to
+       perish than others (Hyatt 1866; Lefalophodon n.d.).
+     - The theory of orthogenesis says that certain trends, once started,
+       kept progressing even though they become detrimental and lead to
+       extinction.  For example, it was held that Irish elks, which had
+       enormous antlers, died out because the size increase became too
+       much to support.
+     - The "fittest" individuals could be considered those that are
+       ideally suited to a particular environment.  Such ideal adaptation,
+       however, comes at the cost of being more poorly adapted to other
+       environments.  If the environment changes, the fittest individuals
+       from it will no longer be well adapted to any environment, and the
+       less fit but more widely adapted organisms will survive.
+
+3. The fittest, to Darwin, were not those which survived, but those
+   which could be expected to survive on the basis of their traits.  For
+   example, wild dogs selectively prey on impalas which are weaker
+   according to bone marrow index (Pole et al. 2003).  With that
+   definition, survival of the fittest is not a tautology.  Similarly,
+   survival can be defined not in terms of the individual's life span,
+   but in terms of leaving a relatively large contribution to the next
+   generation.  Defined thus, survival of the fittest becomes
+   more or less what Darwin said, and is not a tautology.
+
+Links:
+
+Lindsay, Don. 1997.  Is "survival of the fittest" a tautology? 
+ https://web.archive.org/web/20230208134954if_/http://www.don-lindsay-archive.org/creation/tautology.html
+
+Wilkins, John. 1997.  Evolution and philosophy: A good tautology is hard
+ to find.  http://www.talkorigins.org/faqs/evolphil/tautology.html
+
+References:
+
+1. Lefalophodon. n.d.  Alpheus Hyatt (1838-1902).
+   https://web.archive.org/web/20070629194118if_/http://www.nceas.ucsb.edu/~alroy/lefa/Hyatt.html
+2. Hyatt, Alpheus. 1866.  On the paralellism between the different stages
+   of life in the individual and those in the entire group of the
+   molluscous order Tetrabranchiata.  _Memoirs Read Before the Boston
+   Society of Natural History_ 1: 193-209.
+3. Pole, A., I. J. Gordon and M. L. Gorman. 2003.  African wild dogs test
+   the 'survival of the fittest' paradigm.  _Proceedings of the Royal
+   Society, Biological Sciences_ 270(Suppl. 1): S57.
+4. Weiner, Jonathan. 1994.  _The Beak of the Finch_. New York: Knopf.
+
+Further Reading:
+
+Gould, Stephen J. 1976. Darwin's untimely burial.  In Michael Ruse, ed.,
+ _Philosophy of Biology_, New York: Prometheus Books, 1998, pp. 93-98.
+ http://www.stephenjaygould.org/ctrl/gould_tautology.html
+
+Date: 2001-2-18, 2004-12-2

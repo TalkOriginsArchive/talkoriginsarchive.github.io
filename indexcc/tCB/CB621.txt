@@ -1,0 +1,87 @@
+BriefClaim: Humanity was traced back to an African Eve.
+Title: Mitochondrial Eve
+Keywords: common ancestor, Eve.
+
+Claim:
+
+By analyzing the DNA of many different people, it is possible to learn the
+approximate date and location of their common ancestor.  Scientists have
+done this with mitochondrial DNA (mtDNA) from diverse human populations.
+Since mtDNA is inherited only from the mother, this traces humanity back
+to a common "mitochondrial Eve."  Scientists say she came from Africa
+about 200,000 years ago (Cann et al. 1987), but the age may be mistaken,
+and Asia and Europe have also been suggested as the location, consistent
+with an origin from near Mt. Ararat.  Mitochondrial Eve is consistent with
+Biblical Eve.
+
+Source:
+
+Brown, Walt, 2001. Have new scientific and mathematical tools detected
+ Adam and Eve? from _In the Beginning_.
+ https://web.archive.org/web/20240413101434if_/http://www.creationscience.com/onlinebook/FAQ13.html
+
+Response:
+
+1. The "mitochondrial Eve," to which this claim refers, is the most recent
+   common female ancestor, not the original female ancestor.  There would
+   have been other humans living earlier and at the same time.  The mtDNA
+   lineages of other women contemporary with her eventually died out.
+   Mitochondrial Eve was merely the youngest common ancestor of all
+   today's mtDNA.  She may not even have been human.
+
+2. The same principles find that the most recent human male common
+   ancestor ("Y-chromosome Adam") lived an estimated 84,000 years after
+   the "mitochondrial Eve" and also came from Africa (Hawkes 2000;
+   Underhill et al. 2000; Yuehai et al. 2001).
+
+3. The results assume negligible paternal inheritance of mitochondrial
+   DNA, but that assumption has been called into question.  Male mtDNA
+   resides in the tail of the sperm; the tail usually does not enter the
+   egg that the sperm fertilizes, but rarely a little bit does.  It is
+   also possible that there is some recombination of mtDNA between
+   lineages, which would also affect the results (Awadalla et al. 1999;
+   Eyre-Walker et al. 1999).  But these challenges have themselves been
+   questioned (Kivisild et al. 2000).
+
+Links:
+
+Kunchithapadam, Krishna, 1995, 2000.  What, if anything, is a
+ Mitochondrial Eve?  http://www.talkorigins.org/faqs/homs/mitoeve.html
+
+References:
+
+1. Awadalla, P., A. Eyre-Walker and J. Maynard Smith, 1999.  Linkage
+   disequilibrium and recombination in hominid mitochondrial DNA.
+   _Science_ 286: 2524-2525.
+2. Cann, R. L., M. Stoneking and A. C. Wilson, 1987.  Mitochondrial DNA
+   and human evolution.  _Nature_ 325: 31-36.  See also Wainscoat, Jim,
+   1987.  Out of the garden of Eden.  _Nature_ 325: 13.
+3. Eyre-Walker, A., N. H. Smith and J. Maynard Smith, 1999.  How clonal
+   are human mitochondria?  _Proceedings of the Royal Society of London:
+   B_ 266: 477-483.
+   http://www.biols.susx.ac.uk/CSE/members/aeyrewalker/pdfs/EWPRS99a.pdf
+4. Hawkes, Nigel, 2000.  Even early man was late for first date.
+   _Times_ (UK), 31 Oct. 2000,
+   http://groups.yahoo.com/group/TNUKdigest/message/708
+5. Kivisild, T. et al., 2000.  Questioning evidence for recombination in
+   human mitochondrial DNA.  _Science_ 288: 1931,
+   www.sciencemag.org/cgi/content/full/288/5473/1931a
+6. Underhill, P. A. et al., 2000.  Y chromosome sequence variation and the
+   history of human populations.  _Nature Genetics_ 26(3): 358-361.
+7. Yuehai Ke et al., 2001.  African origin of modern humans in East Asia:
+   A tale of 12,000 Y chromosomes.  _Science_ 292: 1151-1153.
+   https://web.archive.org/web/20100323061321if_/http://www.sciencemag.org/cgi/content/full/292/5519/1151
+   See also Gibbons, A., 2001. Modern men trace ancestry to African
+   migrants.  _Science_ 292: 1051-1052.
+
+Further Reading:
+
+Sykes, Bryan, 2001. _The Seven Daughters of Eve_.  New York: Norton.
+
+Dawkins, Richard, 1995.  _River out of Eden_.  New York: Basic Books.
+
+#Wilson, Allan C. and Rebecca L. Cann, 1992. The recent African genesis of
+# humans," _Scientific American_, April 1992: 68.
+
+ 
+Date: 2001-2-18, 2004-2-25

@@ -1,0 +1,104 @@
+BriefClaim: The second law of thermodynamics prohibits evolution.
+Title: Second Law of Thermodynamics
+Keywords: thermodynamics, entropy, second law, disorder, evolution
+
+Claim:
+
+The second law of thermodynamics says that everything tends toward
+disorder, making evolutionary development impossible.
+
+Source:
+
+SciCre, pp. 38-46.
+
+Response:
+
+1. The second law of thermodynamics says no such thing.  It says that heat
+   will not spontaneously flow from a colder body to a warmer one or,
+   equivalently, that total entropy (a measure of useful energy) in a
+   closed system will not decrease.  This does not prevent increasing
+   order because
+
+    - the earth is not a closed system; sunlight (with low entropy) shines
+      on it and heat (with higher entropy) radiates off.  This flow of
+      energy, and the change in entropy that accompanies it, can and will
+      power local decreases in entropy on earth.
+    - entropy is not the same as disorder.  Sometimes the two correspond,
+      but sometimes order increases as entropy increases. (Aranda-Espinoza
+      et al. 1999; Kestenbaum 1998) Entropy can even be used to produce
+      order, such as in the sorting of molecules by size (Han and Craighead
+      2000).
+    - even in a closed system, pockets of lower entropy can form if they
+      are offset by increased entropy elsewhere in the system.
+   In short, order from disorder happens on earth all the time.
+
+2. The only processes necessary for evolution to occur are reproduction,
+   heritable variation, and selection.  All of these are seen to happen
+   all the time, so, obviously, no physical laws are preventing them.  In
+   fact, connections between evolution and entropy have been studied in
+   depth, and never to the detriment of evolution (Demetrius 2000).
+
+   Several scientists have proposed that evolution and the origin of
+   life is driven by entropy (McShea 1998).  Some see the information
+   content of organisms subject to diversification according to the second
+   law (Brooks and Wiley 1988), so organisms diversify to fill empty
+   niches much as a gas expands to fill an empty container.  Others
+   propose that highly ordered complex systems emerge and evolve to
+   dissipate energy (and increase overall entropy) more efficiently
+   (Schneider and Kay 1994).
+
+3. Creationists themselves admit that increasing order is possible.  They
+   introduce fictional <CF001.3>exceptions to the law> to account for it.
+
+4. Creationists themselves make claims that directly contradict their
+   claims about the second law of thermodynamics, such as
+   <CH561.2>hydrological sorting> of fossils during the Flood.
+
+Links:
+
+References:
+
+1. Aranda-Espinoza, H., Y. Chen, N. Dan, T. C. Lubensky, P. Nelson,
+   L. Ramos and D. A. Weitz, 1999.  Electrostatic repulsion of positively
+   charged vesicles and negatively charged objects. _Science_ 285:
+   394-397.
+2. Brooks, D. R. and E. O. Wiley, 1988.  _Evolution As Entropy_,
+   University of Chicago Press.
+2. Kestenbaum, David, 1998.  Gentle force of entropy bridges disciplines.
+   _Science_ 279: 1849.
+3. Han, J. and H. G. Craighead, 2000.  Separation of long DNA molecules in
+   a microfabricated entropic trap array.  _Science_ 288: 1026-1029.
+4. Demetrius, Lloyd, 2000.  Theromodynamics and evolution.  _Journal of
+   Theoretical Biology_ 206(1): 1-16.
+   https://web.archive.org/web/20030707090615if_/http://www.idealibrary.com/links/doi/10.1006/jtbi.2000.2106
+5. McShea, Daniel W., 1998.  Possible largest-scale trends in organismal
+   evolution: eight live hypotheses.  _Annual Review of Ecology and
+   Systematics_ 29: 293-318.
+6. Schneider, Eric D. and James J. Kay, 1994.  Life as a manifestation of
+   the second law of thermodynamics.  _Mathematical and Computer
+   Modelling_ 19(6-8): 25-48.
+   https://web.archive.org/web/20030404184031if_/http://www.fes.uwaterloo.ca/u/jjkay/pubs/Life_as/lifeas.pdf
+
+Further Reading:
+
+#Harvey, Allen H., 2000.  The second law of thermodynamics in the context
+# of Christian faith.  https://web.archive.org/web/20020204053211if_/http://www.shawangunk.com/scichr/essays/thermo.html
+# [dead link]
+
+Atkins, P. W. 1984.  _The Second Law_.  New York: Scientific American
+ Books.
+
+Kauffman, Stuart A. 1993. _The Origins of Order_.  New York:
+ Oxford. (technical)
+
+Lambert, Frank L. 1999.  The second law of thermodynamics. 
+ http://www.secondlaw.com
+
+See for Yourself:
+
+You can see order come and go in nature in many different ways.  A few
+examples are snowflakes and other frost crystals, cloud formations, dust
+devils, ripples in sand dunes, and eddies and whirlpools in streams.  See
+how many other examples you can find.
+
+Date: 2001-2-18, 2004-6-26

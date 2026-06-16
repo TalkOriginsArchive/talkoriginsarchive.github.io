@@ -1,0 +1,53 @@
+BriefClaim: Experiments show that strata can violate principles of superposition.
+Title: Alternating layers laid down suddenly
+Keywords: sediment, superposition, stratification, lamination, Berthault.
+
+Claim:
+
+Experiments in a water tank showed that sedimentary layers can be laid
+down very quickly in patterns that violate the geological principles of
+superposition (that layers are deposited horizontally with younger ones on
+top) and continuity (that each layer has the same age at every point).
+In particular, lamination is sometimes the result of segregation of
+particles according to size, not the result of successive layering;
+lamination deposits can be produced on slopes.
+
+Source:
+
+Berthault, Guy. 2000.  Experiments in stratification.  _Impact_
+ 328 (Oct.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=473
+Snelling, Andrew, 1997.  Sedimentation experiments: Nature finally catches
+ up!  _Creation Ex Nihilo Technical Journal_ 11(2):125-126.
+ http://www.answersingenesis.org/docs/456.asp
+
+Response:
+
+1. Berthault's results do not invalidate the principle of superposition.
+   Newer layers still appear on top of older layers.  Berthault's results
+   duplicated a case where the layers are not laid down horizontally, but
+   the principle of superposition does not require horizontal depositional
+   surfaces.  Berthault erred in confusing the principle of superposition
+   with the principle of original horizontality, which was already known
+   to have limited application.  Berthault's experiments only duplicated
+   results that were familiar to sedimentologists decades earlier.  There
+   is nothing of significance in his work.
+
+Links:
+
+Henke, Kevin R., n.d.  Berthault's "stratigraphy": Rediscovering what
+ geologists already know and strawperson misrepresentations of modern
+ applications of Steno's principles.
+ http://noanswersingenesis.org.au/henke_steno.htm .
+ See also 
+ Berthault, Guy, 2003.  Guy Berthault's response to Kevin Henke's article.
+ http://noanswersingenesis.org.au/guy_response_henke.htm .
+ See also 
+ Henke, Kevin R., 2004.  Some Questions for Dr. Berthault.
+ http://noanswersingenesis.org.au/questions_berthault_k_henke.htm
+
+References:
+
+Further Reading:
+
+Date: 2001-2-18, 2004-9-9

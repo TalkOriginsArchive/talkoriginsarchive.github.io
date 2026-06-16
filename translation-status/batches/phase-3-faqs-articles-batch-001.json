@@ -1,0 +1,920 @@
+{
+  "id": "phase-3-faqs-articles-batch-001",
+  "phase": "phase-3-faqs-articles",
+  "phase_label": "FAQs and Articles",
+  "sequence": 1,
+  "status": "complete",
+  "page_count": 50,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/faqs/",
+      "source_path": "faqs/index.html",
+      "title": "Browse the Talk.Origins Archive",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2873
+    },
+    {
+      "route": "/faqs/X_faq-intro-to-biology.html",
+      "source_path": "faqs/X_faq-intro-to-biology.html",
+      "title": "Introduction to Evolutionary Biology",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 111931
+    },
+    {
+      "route": "/faqs/abioprob.html",
+      "source_path": "faqs/abioprob.html",
+      "title": "Probability of Abiogenesis FAQs: Page Moved",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1004
+    },
+    {
+      "route": "/faqs/abioprob/",
+      "source_path": "faqs/abioprob/index.html",
+      "title": "Abiogenesis FAQs: The Origins of Life",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4112
+    },
+    {
+      "route": "/faqs/abioprob/abioprob.html",
+      "source_path": "faqs/abioprob/abioprob.html",
+      "title": "Lies, Damned Lies, Statistics, and Probability of\nAbiogenesis Calculations",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 23029
+    },
+    {
+      "route": "/faqs/abioprob/borelfaq.html",
+      "source_path": "faqs/abioprob/borelfaq.html",
+      "title": "Borel's Law and the Origin of Many Creationist Probability Assertions",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 11945
+    },
+    {
+      "route": "/faqs/abioprob/christians.html",
+      "source_path": "faqs/abioprob/christians.html",
+      "title": "Christian views on spontaneous generation",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2784
+    },
+    {
+      "route": "/faqs/abioprob/creationist.html",
+      "source_path": "faqs/abioprob/creationist.html",
+      "title": "Creationist claims about Pasteur and Spontaneous\nGeneration",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 18288
+    },
+    {
+      "route": "/faqs/abioprob/default.htm",
+      "source_path": "faqs/abioprob/default.htm",
+      "title": "Probability of Abiogenesis FAQs",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2703
+    },
+    {
+      "route": "/faqs/abioprob/modorlife.html",
+      "source_path": "faqs/abioprob/modorlife.html",
+      "title": "Origin of Life references",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7568
+    },
+    {
+      "route": "/faqs/abioprob/originoflife.html",
+      "source_path": "faqs/abioprob/originoflife.html",
+      "title": "The Origin of Life",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 86545
+    },
+    {
+      "route": "/faqs/abioprob/refs.html",
+      "source_path": "faqs/abioprob/refs.html",
+      "title": "Pasteur, fermentation, contagion, and proving a\nnegative: references",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4079
+    },
+    {
+      "route": "/faqs/abioprob/spontaneous-generation.html",
+      "source_path": "faqs/abioprob/spontaneous-generation.html",
+      "title": "Pasteur, fermentation, contagion, and proving a\nnegative",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 62937
+    },
+    {
+      "route": "/faqs/anatomy.html",
+      "source_path": "faqs/anatomy.html",
+      "title": "Mammalian Forelimb Homologies",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1656
+    },
+    {
+      "route": "/faqs/anti-darwin.html",
+      "source_path": "faqs/anti-darwin.html",
+      "title": "How to be Anti-Darwinian",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 21829
+    },
+    {
+      "route": "/faqs/archaeopteryx.html",
+      "source_path": "faqs/archaeopteryx.html",
+      "title": "Archaeopteryx FAQs",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3288
+    },
+    {
+      "route": "/faqs/archaeopteryx/challenge.html",
+      "source_path": "faqs/archaeopteryx/challenge.html",
+      "title": "Archaeopteryx: Answering the Challenge of the Fossil Record",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 44480
+    },
+    {
+      "route": "/faqs/archaeopteryx/forgery.html",
+      "source_path": "faqs/archaeopteryx/forgery.html",
+      "title": "On Archaeopteryx, Astronomers, and Forgery",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 37228
+    },
+    {
+      "route": "/faqs/archaeopteryx/info.html",
+      "source_path": "faqs/archaeopteryx/info.html",
+      "title": "All About Archaeopteryx",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 69236
+    },
+    {
+      "route": "/faqs/ark-hoax.html",
+      "source_path": "faqs/ark-hoax.html",
+      "title": "Sun Pictures and the Noah's Ark Hoax",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1642
+    },
+    {
+      "route": "/faqs/ark-hoax/jammal.html",
+      "source_path": "faqs/ark-hoax/jammal.html",
+      "title": "Sun Goes Down in Flames: The Jammal Ark Hoax",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 65531
+    },
+    {
+      "route": "/faqs/ark-hoax/rate-critique.html",
+      "source_path": "faqs/ark-hoax/rate-critique.html",
+      "title": "RATE’s Radiocarbon: Intrinsic or Contamination?",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 32100
+    },
+    {
+      "route": "/faqs/ark-hoax/sun.html",
+      "source_path": "faqs/ark-hoax/sun.html",
+      "title": "The Incredible Mysteries of Sun Pictures",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 21394
+    },
+    {
+      "route": "/faqs/ashfall.html",
+      "source_path": "faqs/ashfall.html",
+      "title": "The Origins of the Chattanooga Shale",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 30470
+    },
+    {
+      "route": "/faqs/astronomy/bigbang.html",
+      "source_path": "faqs/astronomy/bigbang.html",
+      "title": "Evidence for the Big Bang",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 172926
+    },
+    {
+      "route": "/faqs/astronomy/distance.html",
+      "source_path": "faqs/astronomy/distance.html",
+      "title": "Determining Distances to Astronomical\nObjects",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 53099
+    },
+    {
+      "route": "/faqs/awards/",
+      "source_path": "faqs/awards/index.html",
+      "title": "Talk Origins Archive Awards Page",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 15418
+    },
+    {
+      "route": "/faqs/behe.html",
+      "source_path": "faqs/behe.html",
+      "title": "Irreducible Complexity and Michael Behe on Intelligent Design",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8895
+    },
+    {
+      "route": "/faqs/behe/icsic.html",
+      "source_path": "faqs/behe/icsic.html",
+      "title": "Is the Complement System Irreducibly\nComplex?",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 21344
+    },
+    {
+      "route": "/faqs/behe/publish.html",
+      "source_path": "faqs/behe/publish.html",
+      "title": "Publish or Perish: Some Published Works on\nBiochemical Evolution",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 34063
+    },
+    {
+      "route": "/faqs/behe/review.html",
+      "source_path": "faqs/behe/review.html",
+      "title": "Darwin's Black Box: Irreducible Complexity or Irreproducible Irreducibility?",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 27372
+    },
+    {
+      "route": "/faqs/behe/textbooks.html",
+      "source_path": "faqs/behe/textbooks.html",
+      "title": "Behe's Criticism of Evolution in Biochemistry Textbooks",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 13961
+    },
+    {
+      "route": "/faqs/berea/",
+      "source_path": "faqs/berea/index.html",
+      "title": "Berea, Kentucky \"Footprints\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1202
+    },
+    {
+      "route": "/faqs/berea/berea.html",
+      "source_path": "faqs/berea/berea.html",
+      "title": "Berea, Kentucky \"Footprints\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1212
+    },
+    {
+      "route": "/faqs/bergman-and-racism.html",
+      "source_path": "faqs/bergman-and-racism.html",
+      "title": "Jerry Bergman and Racism",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 44966
+    },
+    {
+      "route": "/faqs/bombardier.html",
+      "source_path": "faqs/bombardier.html",
+      "title": "Bombardier Beetles and the Argument of Design",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 28526
+    },
+    {
+      "route": "/faqs/c-decay.html",
+      "source_path": "faqs/c-decay.html",
+      "title": "The Decay of c-decay",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 19071
+    },
+    {
+      "route": "/faqs/c14.html",
+      "source_path": "faqs/c14.html",
+      "title": "Carbon-14 in Coal Deposits",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 18777
+    },
+    {
+      "route": "/faqs/canopy.html",
+      "source_path": "faqs/canopy.html",
+      "title": "The Vapor Canopy Hypothesis Holds No Water",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 854
+    },
+    {
+      "route": "/faqs/catastrophism-vote.html",
+      "source_path": "faqs/catastrophism-vote.html",
+      "title": "faqs/catastrophism-vote.html",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 24181
+    },
+    {
+      "route": "/faqs/ce/",
+      "source_path": "faqs/ce/index.html",
+      "title": "Cretinism or Evilution?",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1454
+    },
+    {
+      "route": "/faqs/ce/2/",
+      "source_path": "faqs/ce/2/index.html",
+      "title": "Cretinism or Evilution?: Geocentrism",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4051
+    },
+    {
+      "route": "/faqs/ce/2/default.htm",
+      "source_path": "faqs/ce/2/default.htm",
+      "title": "Cretinism or Evilution?: Geocentrism",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4063
+    },
+    {
+      "route": "/faqs/ce/2/part1.html",
+      "source_path": "faqs/ce/2/part1.html",
+      "title": "Cretinism or Evilution?: Biblical Astronomy",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9029
+    },
+    {
+      "route": "/faqs/ce/2/part10.html",
+      "source_path": "faqs/ce/2/part10.html",
+      "title": "Cretinism or Evilution?: The \"Inspiration\" of the Bible",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2973
+    },
+    {
+      "route": "/faqs/ce/2/part11.html",
+      "source_path": "faqs/ce/2/part11.html",
+      "title": "Cretinism or Evilution?: Parallels between Creationists and Geocentrists",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3887
+    },
+    {
+      "route": "/faqs/ce/2/part12.html",
+      "source_path": "faqs/ce/2/part12.html",
+      "title": "Cretinism or Evilution?: Liberal Trend Among Evangelicals?",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 11462
+    },
+    {
+      "route": "/faqs/ce/2/part13.html",
+      "source_path": "faqs/ce/2/part13.html",
+      "title": "Cretinism or Evilution?: The Immensity of Space and Time",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7891
+    },
+    {
+      "route": "/faqs/ce/2/part14.html",
+      "source_path": "faqs/ce/2/part14.html",
+      "title": "Cretinism or Evilution?: A Critique of Geocentricity",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 17658
+    },
+    {
+      "route": "/faqs/ce/2/part2.html",
+      "source_path": "faqs/ce/2/part2.html",
+      "title": "Cretinism or Evilution?: The Evils of Copernicanism",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7495
+    }
+  ],
+  "status_counts": {
+    "translated": 200
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

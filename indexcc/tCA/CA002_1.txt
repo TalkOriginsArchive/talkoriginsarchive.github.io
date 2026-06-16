@@ -1,0 +1,68 @@
+BriefClaim: Evolution leads to social Darwinism.
+Title: Social Darwinism. 
+Keywords: social Darwinism
+
+Claim:
+
+Darwinism leads to social Darwinism, the policy that the weak should be
+allowed to fail and die.
+
+Source:
+
+SciCre, p. 179.
+
+Response:
+
+1. This is an example of the <CA002>naturalistic fallacy> -- the argument
+   that how things are implies how they ought to be.  But "is" does not
+   imply "ought."  Evolution only tells how things are; it does not say
+   how they should be.
+
+2. The source of social Darwinism was not Darwin but Herbert Spencer and
+   the tradition of Protestant nonconformism going back to Hobbes via
+   Malthus.  Spencer's ideas of evolution were Lamarckian.  The only real
+   connection between Darwinism and social Darwinism is the name.
+
+3. Diverse political and religious ideas draw upon evolutionary biology,
+   including ideas advocating greater cooperation.
+
+4. Evolutionary theory shows us that the long-term survival of a species
+   is strongly linked with its genetic variability.  All Social
+   Darwinist programs advocate minimizing genetic variability, thus
+   reducing chances of long-term survival in the event of environmental
+   change.  An understanding of evolution should then rebuke any attempt at
+   social Darwinism if the long-term survival of humanity is treated as
+   a goal.
+
+5. Eugenics and social Darwinian accounts are more often tied  
+   to the rise of the science of genetics than to evolutionary theory.
+
+Links:
+
+Wilkins, John, 1997. Evolution and philosophy: Does evolution make might
+ right?  http://www.talkorigins.org/faqs/evolphil/social.html
+
+References:
+
+Further Reading:
+
+Bannister, R. C., 1979.  _Social Darwinism: Science and Myth in
+ Anglo-American Social Thought_. Philadelphia: Temple University Press.
+        
+Bowler, P. J., 1993.  Biology and Social Thought, 1850-1914.  _Berkeley
+ papers in history of science_; 15. Berkeley, Calif., Office for History
+ of Science and Technology University of California at Berkeley: 95.
+        
+Hofstadter, R., 1944.  _Social Darwinism in American Thought_.
+ Philadelphia: University of Pennsylvania Press.
+        
+Kevles, D., 1995.  _In the Name of Eugenics: Genetics and the Uses of
+ Human Heredity_. New York: Knopf.
+
+Ruse, Michael, 2001.  Social Darwinism.  Chapter 10 in: _Can a Darwinian
+ Be a Christian?_, Cambridge University Press.
+        
+Singer, P., 2000.  _A Darwinian Left: Politics, Evolution, and
+ Cooperation_.  New Haven: Yale University Press.
+
+Date: 2003-4-21, 2003-9-26

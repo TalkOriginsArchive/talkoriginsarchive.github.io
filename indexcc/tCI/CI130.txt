@@ -1,0 +1,79 @@
+BriefClaim: Functional integration indicates design.
+Title: Funtional integration and design.
+Keywords: intelligent design, function
+
+Claim:
+
+Design is indicated by functional integration, which is multiple parts
+working together to produce a particular function or end.
+
+Source:
+
+Lumsden, R., quoted by B. J. Alters, 1995.  A content analysis of the
+ Institute for Creation Research's Institute on Scientific Creationism.
+ _Creation/Evolution_ 15(2): 1-15.
+
+Response:
+
+1. Functional integration can be produced naturally.  Parts come together
+   all the time and, with the addition of energy, act on each other.  It
+   is inevitable that sometimes such workings will create an end that
+   someone or something considers functional.  An example of such
+   functional integration occurring naturally is climate (which has even
+   been proposed as evidence of intelligent design; Morton 2001).
+   Climate is produced by the interactions of terrain, trade winds, bodies
+   of water, and latitude.  These can occur arbitrarily, but they are
+   bound to produce some kind of functional climate.
+
+2. Functional integration is what we would expect from evolution.
+   Evolution requires units that reproduce.  "Units" implies at least some
+   amount of integration, and reproduction is a function.  (And natural
+   selection will favor innumerable other functions that help with
+   survival and reproduction.)
+
+3. Biological systems often include imperfections and jury-rigging that
+   argue against intelligent planning of their integration.  For example:
+    - DNA sometimes includes a "wrong" sequence that, if not edited after
+      the DNA is transcribed, would be fatal.  For example, a gene
+      involved in mouse neurons contains a codon specifying glutamine.  In
+      normal mice, an enzyme edits the RNA that is transcribed from the
+      DNA, so the codon will specify arginine.  Mice die if this editing
+      enzyme is disabled.  But mice that are genetically engineered with
+      DNA for arginine in the first place are healthy even without the
+      editing enzyme (Keegan et al. 2000).
+    - In men, the urethra passes through the prostate gland.  When the
+      prostate gets infected and swells, as it is prone to do, it causes
+      problems not only with reproduction but also with the excretory
+      system (Colby et al. 1993).
+    - Although baleen whales are toothless as adults, their fetuses grow
+      teeth that are resorbed as they mature (Colby et al. 1993).
+   Additional example are plentiful (Behrman et al. 2004; Colby et
+   al. 1993).
+
+3. Functional integration is not a necessary part of design.  It does not
+   exist in simple designs without multiple parts, for example.  Since
+   evolution always produces functional integration but design does not,
+   functional integration is evidence more for evolution than for design.
+
+Links:
+
+Colby, Chris et al., 1993.  Evidence for jury-rigged design in nature.
+ http://www.talkorigins.org/faqs/jury-rigged.html
+
+References:
+
+1. Behrman et al., 2004.  (see below)
+2. Colby et al., 1993.  (see above)
+3. Keegan, L. P., A. Gallo and M. A. O'Connell, 2000.  Survival is
+   impossible without an editor.  _Science_ 290: 1707-1709.
+4. Morton, Glenn R., 2001.  Nineteenth century design arguments.  RNCSE
+   21(3-4): 21-22,27.  https://web.archive.org/web/20120414223234if_/http://home.entouch.net/dmd/design.htm
+
+Further Reading:
+
+Behrman, Edward J., George A. Marzluf and Ronald Bentley, 2004.
+ Evidence from biochemical pathways in favor of unfinished evolution
+ rather than intelligent design.  _Journal of Chemical Education_ 81(7):
+ 1051-1052.
+
+Date: 2003-6-23, 2004-7-9

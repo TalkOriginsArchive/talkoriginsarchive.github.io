@@ -1,0 +1,86 @@
+BriefClaim: Intelligent design theory is scientific.
+Title: Intelligent Design as Science
+Keywords: science, design, theory.
+
+Claim:
+
+Intelligent design theory is science.
+
+Source:
+
+Dembski, William A., 1998.  _The Design Inference_. Cambridge University
+ Press.
+
+Response:
+
+1. The terms used in design theory are not defined.  "Design", in design
+   theory, has nothing to do with "design" as it is normally understood.
+   Design is defined in terms of an agent purposely arranging something,
+   but such a concept appears nowhere in the process of distinguishing
+   design in the sense of "intelligent design."  Dembski defined design in
+   terms of what it is not (known regularity and chance), making
+   intelligent design an <CA100>argument from incredulity>; he never said
+   what design is.
+
+   A solution to a problem must address the parameters of the problem, or
+   it is just irrelevant hand waving.  Any theory about design must
+   somehow address the agent and purpose, or it is not really about
+   design.  No intelligent design theorist has ever included agent or
+   purpose in any attempt at a scientific theory of design, and some
+   explicitly say they cannot be included (Dembski 2002, 313).  Thus, even
+   if intelligent design theory were able to prove design, it would mean
+   practically nothing; it would certainly say nothing whatsoever about
+   design in the usual sense.
+
+   <CB200>Irreducible complexity> also fails as science because it, too,
+   is an argument from incredulity that has nothing to do with design.
+
+2. Intelligent design is subjective.  Even in Dembski's mathematically
+   intricate formulation, the specification of his specified complexity
+   can be determined after the fact, making "specification" a subjective
+   concept.  Dembski now talks of "apparent specified complexity"
+   versus "actual specified complexity," of which only the latter indicates
+   design.  However, it is impossible to distinguish between the two in
+   principle (Elsberry n.d.).
+
+3. Intelligent design implies results that are contrary to common sense.
+   Spider webs apparently meet the standards of specified complexity,
+   which implies that spiders are intelligent.  One could instead claim
+   that the complexity was designed into the spider and its abilities.
+   But if that claim is made, one might just as well claim that the
+   spider's designer was not intelligent but was intelligently designed,
+   or maybe it was the spider's designer's designer that was intelligent.
+   Thus, either spiders are intelligent, or intelligent design theory
+   reduces to a weak Deism where all design might have entered into the
+   universe only once at the beginning, or terms like "specified
+   complexity" have no useful definition.
+
+4. The intelligent design movement is not intended to be about science.
+   Phillip Johnson, who spearheaded and led the movement, said in so many
+   words that it is about religion and philosophy, not science (Belz
+   1996).
+
+Links:
+
+References:
+
+1. Belz, Joel. 1996.  Witnesses for the prosecution.  _World Magazine_
+   11(28): 18.  http://www.leaderu.com/pjohnson/world2.html
+1. Dembski, William A., 2002.  _No Free Lunch_.  Lanham, MD: Rowman &
+   Littlefield.
+2. Elsberry, Wesley R., n.d.  What does "intelligent agency by proxy" do
+   for the design inference?
+   https://web.archive.org/web/20220526232748if_/http://www.talkreason.org/articles/wre_id_proxy.cfm
+
+Further Reading:
+
+Elsberry, Wesley, 2000.  The anti-evolutionists: William A. Dembski. 
+ https://www.antievolution.org/people/dembski_wa/sc.html
+
+Frank, Patrick, 2004.  On the assumption of design.  _Theology and
+ Science_ 2(1): 109-130.
+
+Pennock, Robert T., 2003.  Creationism and intelligent design.  _Annual
+ Review of Genomics and Human Genetics_ 4: 143-163.
+
+Date: 2001-2-18, 2005-4-15

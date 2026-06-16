@@ -1,0 +1,35 @@
+BriefClaim: Arthropods arose suddenly.
+Title: Transitional Arthropods
+Keywords: Burgess Shale, Cambrian, Precambrian, transitional, fossil.
+
+Claim:
+
+Arthropods arose suddenly in the fossil record.  There are no
+transitionals leading up to them.
+
+Source:
+
+
+Response:
+
+1. _Anomalocaris_, from the Cambrian and Precambrian, has a pair of
+   segmented appendages, indicating arthropod affinities, but it also
+   seems to have lobopod legs.  The related _Opabinia_ also apparently had
+   lobopod legs.  Other rare Cambrian and Precambrian fossils show some
+   promise of shedding more light on relationships.  For example,
+   _Spriggina_, another Precambrian animal, has a head shield similar to
+   trilobites (Conway Morris 1998, 184-185).
+
+Links:
+
+Morton, Glenn R. 2000. Phylum level evolution. 
+ https://web.archive.org/web/20111014001742if_/http://home.entouch.net/dmd/cambevol.htm
+
+References:
+
+1. Conway Morris, Simon. 1998.  _The Crucible of Creation_, Oxford
+   University Press.
+
+Further Reading:
+
+Date: 2003-6-23

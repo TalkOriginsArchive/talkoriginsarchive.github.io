@@ -1,0 +1,31 @@
+Title: Feather evolution
+Keywords: feather, scale
+
+Claim:
+
+Feathers could not have evolved.
+
+References:
+
+Sawyer, Roger H., Loren W. Knapp, 2003.  Avian skin development and the
+evolutionary origin of feathers.  _Journal of Experimental Zoology B_
+298B(1): 57-72.
+
+Prum, Richard O. and Jan Dyck, 2003.  A hierarchical model of plumage:
+Morphology, development, and evolution.  _Journal of Experimental Zoology
+B_ 298B(1): 73-90.
+
+Wu, Zhicao Yu, Cheng-Ming Chuong, 2003.  Molecular biology of feather
+morphogenesis: A testable model for evo-devo research.  Randall
+B. Widelitz, Ting Xin Jiang, Mingke Yu, Ted Shen, Jen-Yee Shen, Ping
+_Journal of Experimental Zoology B_ 298B(1): 109-122.
+
+Bragulla, Hermann and Ruth M. Hirschberg, 2003.  Horse hooves and bird
+feathers: Two model systems for studying the structure and development of
+highly adapted integumentary accessory organs - the role of the
+dermo-epidermal interface for the micro-architecture of complex epidermal
+structures.  _Journal of Experimental Zoology B_ 298B(1): 140-151.
+
+Wu et al.  Evo-Devo of amniote integuments and appendages.  _Int J Dev
+Biol._ 2004;48(2-3):249-70.
+pdf online

@@ -1,0 +1,38 @@
+BriefClaim: The universe's energy cannot come from nothing.
+Title: Origin of the Universe
+Keywords: first cause, causation, creation, big bang.
+
+Claim:
+
+The first law of thermodynamics says matter/energy cannot come from
+nothing.  Therefore, the universe itself could not have formed naturally.
+(See also <CE440>CE440: Origin of everything>.)
+
+Source:
+
+Brown, Walt, 1995.  _In the beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 21.
+
+Response:
+
+1. Formation of the universe from nothing need not violate conservation of
+   energy.  The gravitational potential energy of a gravitational field is
+   a negative energy.  When all the gravitational potential energy is
+   added to all the other energy in the universe, it might sum to zero
+   (Guth 1997, 9-12,271-276; Tryon 1973).
+
+Links:
+
+References:
+
+1. Guth, Alan H., 1997.  (see below)
+2. Tryon, Edward P., 1973.  Is the universe a vacuum fluctuation?
+   _Nature_ 246: 396-397.
+
+Further Reading:
+
+Guth, Alan H., 1997.  _The Inflationary Universe_.  Reading, MA:
+ Addison-Wesley.
+
+
+Date: 2003-4-22, 2004-4-27

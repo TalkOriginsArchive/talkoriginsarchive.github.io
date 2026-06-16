@@ -1,0 +1,94 @@
+BriefClaim: Peppered moths occur in uncamouflaged colors in many areas.
+Title: Peppered moths uncamouflaged in areas
+Keywords: peppered moth, Biston betularia, natural selection, visual predation.
+
+Claim:
+
+Various aspects of the change in frequencies of the varieties of peppered
+moth and their geographical distribution are inconsistent with its
+proposed explanation in terms of natural selection resulting from
+differential predation.
+
+Source:
+
+Wells, Jonathan, 1999.  Second thoughts about peppered moths. 
+ http://www.arn.org/docs/wells/jw_pepmoth.htm ,
+ http://www.trueorigin.org/pepmoth1.asp
+Wells, Jonathan, 2000. _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 144-149.
+
+Response:
+
+1. The claim is based on the naive assumption that local observations of
+   differential predation rates are sufficient to make accurate
+   predictions of the relative frequencies of the different varieties of
+   peppered moth.  It also falsely insinuates that early attempts to
+   explain these phenomena relied exclusively on visually selective
+   predation to the exclusion of all other factors.
+
+   Differential predation was originally proposed as a highly plausible,
+   and probably the most important, factor influencing the observed
+   changes in relative frequencies of the varieties of peppered moth
+   (Tutt 1896, as reported by Berry 1990, 317).  However, even before
+   Kettlewell's famous experiments, Ford (1937, 484-498) had already
+   noted that visually selective predation alone could not account for all
+   the facts associated with the spread of industrial melanism, and
+   suggested that non-visual selection (i.e.  selection resulting from
+   something other than visually selective predation) could also have been
+   an important factor.  In fact, I am not aware of any evolutionary
+   biologist who has ever suggested that natural selection resulting from
+   differential predation would _by itself_ account completely for _all_
+   details of the geographical distributions of the peppered moth's
+   varieties, or of their change in relative frequencies.
+
+   Predictions based on the naive assumption mentioned above cannot be
+   expected to match the observed data with anything more than a very
+   rough degree of approximation, so it would not have been much of a
+   surprise to anyone when some discrepancies besides those already
+   pointed out by Ford were noted between such predictions and
+   observational data (Haldane 1956).  Almost all these discrepancies
+   have quite natural and obvious possible explanations that were
+   immediately pointed out whenever the matter was discussed in the
+   scientific literature.
+
+   Besides non-visual selection, already proposed by Ford, factors which
+   were suggested as possible explanations for the discrepancies include
+   gene flow, heterozygous advantage (Haldane 1956), and frequency
+   dependent selection (Bishop et al. 1978, 505).  Mani (1990) described
+   the results of incorporating the effects of gene flow and non-visual
+   selection into a more comprehensive mathematical model than the one
+   Haldane had used.  Though still crude, the model was nevertheless found
+   to account for most of the discrepancies left unexplained by Haldane's,
+   and to provide a "consistent and reasonable picture of the gross
+   pattern of changes in the melanic frequencies."  Thus, the conclusion
+   from earlier investigations that differential predation is likely to be
+   the most important single factor influencing the relative frequencies
+   of the varieties of the peppered moth in Britain has by no means been
+   called into question by later ones.  On the contrary, it has been
+   complemented and strengthened by them.
+
+Links:
+
+References:
+
+1. Berry, R. J., 1990.  Industrial melanism and peppered moths (_Biston
+   betularia_ (L.)), _Biological Journal of the Linnean Society_, 39: 301-322.
+2. Bishop, J. A., L. M. Cook and J. Muggleton, 1978.  The response of two
+   species of moths to industrialization in northwest England, I
+   Polymorphisms for melanism, _Phil. Trans. R. Soc. Lond._ (B), 281:
+   489-515
+3. Ford, E. B., 1937.  Problems of heredity in the lepidoptera,
+   _Biol. Rev._, 12: 461-503.
+4. Haldane, J. B. S., 1956. The theory of selection for melanism in
+   Lepidoptera, _Proceedings of the Royal Society of London, Series B_
+   145: 303-306.
+5. Mani, G. S., 1990. Theoretical models of melanism in _Biston betularia_
+   -- a review, _Biological Journal of the Linnean Society_, 39: 355-371.
+
+Further Reading:
+
+Grant, Bruce S., 1999.  Fine tuning the peppered moth paradigm. 
+ _Evolution_ 53(3): 980-984.
+ https://web.archive.org/web/20051029130614if_/http://mason.gmu.edu/~jlawrey/biol471/melanism.pdf
+
+Date: 2001-2-17

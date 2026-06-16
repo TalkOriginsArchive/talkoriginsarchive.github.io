@@ -1,0 +1,102 @@
+BriefClaim: What use is half an eye?
+Title: Half an eye
+Keywords: eye, vision
+
+Claim:
+
+What use is half an eye?
+
+Source:
+
+Paley, Richard, 2000.  The eye.  http://objective.jesussave.us/eye.html
+
+Response:
+
+1. Half an eye is useful for vision.  Many organisms have eyes that lack
+   some features of human eyes.  Examples include the following:
+    - Dinoflagellates are single cells, but they have eyespots that allow
+      them to orient toward light sources (Kreimer 1999).
+    - Starfish and flatworms have eyecups; clustering light-sensitive
+      cells in a depression allows animals to more accurately detect the
+      direction from which the light is coming from.
+    - Most mammals have only two kinds of color photoreceptors, allowing
+      less color discrimination than most humans have.  Some deep-sea fish
+      can see only black and white.
+
+   Visual prosthetics (bionic eyes) with as few as 16 pixels are found
+   to be very useful by people who had become blind (Wickelgren 2006,
+   Fildes 2007).
+
+2. Humans themselves have far from perfect vision:
+
+    - Humans see in only three colors.  Some fish see five.  (A very few
+      women are tetrachromats; they have four types of color receptors;
+      Zorpette 2000.)
+    - Humans cannot see into the ultraviolet, like bees.
+    - Humans cannot see infrared, like pit vipers and some fish.
+    - Humans cannot easily detect the polarization of light, like ants and
+      bees.
+#     but see "Haidinger's brush"
+    - Humans can see only in front of themselves.  Many other animals have
+      far greater fields of view; examples are sandpipers and dragonflies.
+    - Human vision is poor in the dark; the vision of owls is 50 to 100
+      times more sensitive in darkness.  Some deep-sea shrimp can detect
+      light hundreds of times fainter still (Zimmer 1996).
+    - The range of distances on which one may focus is measured in
+      diopters.  A human's range is about fourteen diopters as children,
+      dropping to about one diopter in old age.  Some diving birds have a
+      fifty-diopter range.
+    - The resolution of human vision is not as good as that of hawks.  A
+      hawk's vision is about 20/5; they can see an object from about four
+      times the distance of a human with 20/20 vision.
+    - Humans have a blind spot caused by the wiring of their retinas;
+      octopuses do not.
+    - The Four-eyed Fish (_Anableps microlepis_) has eyes divided in half
+      horizontally, each eye with two separate optical systems for seeing
+      in and out of the water simultaneously.  Whirligig beetles
+      (family Gyrinidae) also have divided compound eyes, so one pair of
+      eyes sees underwater and a separate pair sees above.
+    - The vision of most humans is poor underwater.  The penguin has a
+      flat cornea, allowing it to see clearly underwater.  Interestingly,
+      the Moken (sea gypsies) from Southeast Asia have better underwater
+      vision than other people (Gisl&eacute;n et al. 2003).
+    - Humans close their eyes to blink, unlike some snakes.
+    - Chameleons and seahorses can move each eye independent of the
+      other.
+
+   If you want to know what use is half an eye, ask yourself how you
+   survive with much less than half of what eyes are capable of.
+
+Links:
+
+Bahar, Sonya, 2002.  Evolution of the eye: Lessons from freshman
+ physics and Richard Dawkins.  _The Biological Physicist_ 2(2): 2-5.
+ http://www.aps.org/units/dbp/newsletter/jun02.pdf
+
+References:
+
+
+1. Fildes, Jonathan. 2007.  Trials for 'bionic' eye implants.  _BBC
+   News_, 2/16/2007.  http://news.bbc.co.uk/1/hi/sci/tech/6368089.stm
+1. Gisl&eacute;n, A. et al., 2003.  Superior underwater vision in a human
+   population of sea gypsies.  _Current Biology_ 13: 833-836.
+   https://web.archive.org/web/20070112024044if_/http://www.current-biology.com/content/article/abstract?uid=PIIS0960982203002902
+   See also Pilcher, Helen R., 2003.  How to see shells on the sea floor,
+   https://web.archive.org/web/20080516040152if_/http://www.nature.com/nsu/030512/030512-14.html
+3. Kreimer, Georg, 1999.  Reflective properties of different eyespot types
+   in dinoflagellates.  _Protist_ 150: 311-323.
+   https://web.archive.org/web/20030811113916if_/http://www.urbanfischer.de/journals/protist/content/issue3/Pro0021.pdf
+4. Wickelgren, Ingrid. 2006.  A vision for the blind.  _Science_ 312:
+   1124-1126.
+4. Zimmer, Carl, 1996.  The light at the bottom of the sea.  _Discover_
+   (Nov.): 62-66,71-73.
+5. Zorpette, Glenn, 2000.  Looking for Madam Tetrachromat.  _Red
+   Herring_ (4 Dec.),
+   http://www.redherring.com/mag/issue86/mag-mutant-86.html (registration
+   required)
+#9. Winter, Y., J. L&oacute;pez, & O. von Helversen, 2003.  Ultraviolet
+#   vision in a bat.  _Nature_ 425: 612-614.
+
+Further Reading:
+
+Date: 2003-8-13, 2007-2-18

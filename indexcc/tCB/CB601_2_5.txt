@@ -1,0 +1,49 @@
+BriefClaim: Light moths increased before trees got lighter.
+Title: Light peppered moths increased before trees got lighter
+Keywords: peppered moth, Biston betularia, natural selection, visual predation
+
+Claim:
+
+The increase in the proportions of light moths in many locations preceded
+significant changes in the colour of tree trunks.  This raises questions
+about the accuracy of the classical theory that changes to the population
+of the peppered moth were brought about by natural selection resulting
+from bird predation.
+
+Source:
+
+Discovery Institute, 2003.  A preliminary analysis of the treatment of
+ evolution in biology textbooks currently being considered for adoption by
+ the Texas State Board of Education.
+ http://www.discovery.org/articleFiles/PDFs/TexasPrelim.pdf, p. 11
+
+Response:
+
+1. I have been unable to find a shred of evidence in the primary
+   scientific literature to support this claim.  It is a stronger version
+   of claim that light peppered moths increased before lichens
+   (<CB601.2.4>CB601.2.4>), for which the balance of evidence already
+   seems unpersuasive (see the <CB601.2.4>response> to that claim).
+
+   While the source lists 12 references, it gives no indication which, if
+   any, of them has provided evidence for the claim.  Certainly none is
+   given in any of the first three of these references (Coyne 1998;
+   Sargent et al. 1998; Wells 1999), which merely assert the weaker claim
+   <CB601.2.4>CB601.2.4>.
+
+References:
+
+1. Coyne, Jerry A., 1998.  Not black and white (A review of Melanism:
+   Evolution in Action by Michael E.N. Majeris). _Nature_ 396: 35-36.
+2. Sargent, Theodore D., Craig D. Millar and David M. Lambert, 1998.  The
+   "classical" explanation of industrial melanism--Assessing the evidence.
+   _Evol. Biol._ 30: 299-322.
+3. Wells, Jonathan, 1999. Second thoughts about peppered moths.
+   _The Scientist_, 13(11): 13.
+
+Further Reading:
+
+Grant, Bruce S., 1999.  Fine tuning the peppered moth paradigm.
+ _Evolution_ 53(3): 980-984.  https://web.archive.org/web/20011109061143if_/http://www.wm.edu/biology/melanism.pdf
+
+Date: 2003-11-30

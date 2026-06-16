@@ -1,0 +1,86 @@
+BriefClaim: Darwin suffered from psychoneurosis.
+Title: Darwin's illness
+Keywords: Darwin, chronic illness, anxiety disorder, psychoneurosis.
+
+Claim:
+
+Charles Darwin became chronically ill shortly after returning from his
+voyage on the _Beagle_, making him an invalid for much of his life.  His
+symptoms -- depression, vomiting, palpitations, etc. -- match no organic
+illness and appear to be psychogenic (originating in his mind).  The cause
+of this illness could be anxiety that his theory was wrong or guilt from
+rejecting God.
+
+Source:
+
+Bergman, Jerry.  2004.  Was Charles Darwin psychotic? A study of his
+ mental health.  _Impact_ 367 (Jan.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=112
+Grigg, Russell.  2001.  Darwins mystery illness.  _Creation_ 17(4),
+ https://web.archive.org/web/20110514105454if_/http://www.answersingenesis.org/creation/v17/i4/darwins_illness.asp
+
+Response:
+
+1. Many different diagnoses have been proposed for Darwin's illness,
+   generating much controversy (Smith et al. 1990; Alder et al. 1997;
+   Campbell and Matthews 2005).  An organic cause for Darwin's illness is
+   entirely possible.  Both Chagas' disease (Alder 1959; Pasnau 1990) and
+   systemic lactose intolerance (Campbell and Matthews 2005) explain most
+   or all of his symptoms.  Some have taken his symptoms as evidence for
+   panic disorder with agoraphobia (Barloon and Noyes 1997), but the
+   symptoms can also be direct symptoms or other consequences of the above
+   organic illnesses.  For example, a relatively secluded lifestyle and
+   occasional depression are normal reactions to a chronic illness.  Other
+   symptoms, such as anxiety upon leaving home on the _Beagle_, may be
+   entirely normal.  The timing of his symptoms does not fit all that well
+   with a psychosomatic cause but does fit well with systemic lactose
+   intolerance (Campbell and Matthews 2005).
+
+   Even if Darwin's illness was an anxiety disorder, such a disorder has
+   nothing to do with being psychotic.  It is a genetic disease which
+   causes synapses in the fight-or-flight region of the brain sometimes to
+   fire more than they should.  The disease is typically associated with
+   above-average intelligence.
+
+2. The theory of evolution is based on evidence, not on the authority of
+   Darwin.  Aspects of Darwin's life are of historical interest, but
+   they have no relevance to science.
+
+3. Some people can achieve great things while suffering seemingly
+   debilitating conditions.
+    - John Nash suffered schitzophrenia but won a Nobel prize in economics
+      for his application of game theory.
+    - Stephen Hawking has done most of his work in physics after becoming
+      wheelchair-bound from ALS (Amyotrophic Lateral Sclerosis).
+    - Florence Nightingale did much to reform the British public health
+      system while an invalid.
+   Darwin researched and wrote several major books on diverse subjects
+   (including orchids, barnacles, the expression of emotions,
+   insectivorous plants, and earthworms) while chronically ill.
+
+Links:
+
+References:
+
+1. Alder, J., R. Colp Jr., G. M. FitzGibbon, A. G. Gordon, T. J. Barloon,
+   and R. Noyes Jr. 1997. The dueling diagnoses of Darwin.  _Journal of
+   the American Medical Association_ 277: 1275-1277.
+2. Alder, S. 1959. Darwin's illness.  _Nature_ 184: 1102-1103.
+3. Barloon, T. J. and R. Noyes, Jr. 1997.  Charles Darwin and panic
+   disorder.  _Journal of the American Medical Association_ 277: 138-141.
+4. Campbell, A. K. and S. B. Matthews. 2005.  Darwin's illness revealed.
+   _Postgraduate Medical Journal_  81: 248-251.
+#4. Colp, R., Jr., 2000.  More on Darwin's illness.
+#   _History of Science_ 38(120 Pt 2): 219-236.
+5. Pasnau, Robert O. 1990.  Darwin's illness: A biophychosocial
+   perspective.  _Psychosomatics_ 31: 121-128.
+6. Smith, F. et al. 1990.  Darwin's illness.  _Lancet_ 336: 1139-1140.
+
+Further Reading:
+
+Campbell, A. K. and S. B. Matthews. 2005.  Darwin's illness revealed.
+   _Postgraduate Medical Journal_  81: 248-251.
+
+#Acknowledgements: M. Kim Johnson (info re anxiety disorder),
+#  Karen Bartlett (forwarded articles)
+Date: 2005-4-28

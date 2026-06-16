@@ -1,0 +1,64 @@
+BriefClaim: The genetic code is a language.
+Title: DNA as language
+Keywords: genetic code, language, symbol, DNA
+
+Claim:
+
+The genetic code is a language in the normal sense of the term, since it
+assigns meaning to arbitrary symbols.  Language is obviously a
+non-material category of reality; the symbolic information is distinct
+from matter and energy.  Therefore, life is a manifestation of
+non-material reality.
+
+Source:
+
+Baumgardner, John, 1995.  Six problems with evolution: a response to
+ Graham Mark.  _The Los Alamos Monitor_, 31 Mar.
+ https://web.archive.org/web/20031201053157if_/http://globalflood.org/letters/baumgardner310395.html
+Baumgardner, John, 2001.  Highlights of the Los Alamos origins debate.
+ https://web.archive.org/web/20040214074225if_/http://globalflood.org/papers/insixdays.html
+
+Response:
+
+1. The genetic code is not a true code; it is more of a cypher.  DNA is a
+   sequence of four different bases (denoted A, C, G, and T) along a
+   backbone.  When DNA gets translated to protein, triplets of bases
+   (codons) get converted sequentially to the amino acids that make up the
+   protein, with some codons acting as a "stop" marker.  The mapping from
+   codon to amino acid is arbitrary (not completely arbitrary, but close
+   enough for purposes of argument).  However, that one mapping step --
+   from 64 possible codons to 20 amino acids and a stop signal -- is the
+   only arbitrariness in the genetic code.  The protein itself is a
+   physical object whose function is determined by its physical
+   properties.
+
+   Furthermore, DNA gets used for more than making proteins.  Much DNA is
+   transcribed directly to functional RNA.  Other DNA acts to regulate
+   genetic processes.  The physical properties of the DNA and RNA, not any
+   arbitrary meanings, determine how they act.
+
+   An essential property of language is that any word can refer to any
+   object.  That is not true in genetics.  The genetic code which maps
+   codons to proteins could be changed, but doing so would change the
+   meaning of *all* sequences that code for proteins, and it could not
+   create *arbitrary* new meanings for all DNA sequences.  Genetics is not
+   true language.
+
+2. The word frequencies of all natural languages follow a power law
+   (Zipf's Law).  DNA does not follow this pattern (Tsonis et al. 1997).
+
+3. Language, although symbolic, is still material.  For a word to have
+   meaning, the link between the word and its meaning has to be recorded
+   somewhere, usually in people's brains, books, and/or computer memories.
+   Without this material manifestation, language cannot work.
+
+Links:
+
+References:
+
+1. Tsonis, A. A., J. B. Elsner and P. A. Tsonis, 1997. Is DNA a language?
+   _Journal of Theoretical Biology_ 184: 25-29.
+
+Further Reading:
+
+Date: 2005-1-15

@@ -1,0 +1,57 @@
+BriefClaim: Red shift comes from light aging, not expansion of the universe.
+Title: Tired light
+Keywords: tired light, Hubble's law, doppler, red shift
+
+Claim:
+
+The red shift from distant galaxies has been interpreted as a Doppler
+effect from the universe expanding.  However, it may instead be due to
+"tired light."  Photons age and shift to the red after a very very long
+time.
+
+Source:
+
+Response:
+
+1. The tired light model does not account for time dilation observed in
+   supernova light curves.  A supernova that takes 20 days to decay will
+   take 40 days to decay at a redshift of z=1.
+
+2. The tired light model does not produce the blackbody spectrum of the
+   cosmic microwave background (CMB).  The tired light model says that the
+   CMB is highly shifted light from stars, but stars do not produce the
+   perfect blackbody spectrum that we see in the CMB.
+
+3. The tired light model fails the Tolman surface brightness test [Lubin
+   and Sandage 2001].
+
+4. There is no mechanism which can account for tired light.  No known
+   interaction can degrade a photon's energy without also changing its
+   momentum.
+
+5. The Big Bang model explains other observations in addition to
+   expansion red-shift and the cosmic microwave background.
+    - the abundance of light elements, predicted from reactions that would
+      occur during the first three minutes of the Big Bang.
+    - the darkness of the night sky (Olber's paradox)
+    - isotropy and homogeneity -- the universe looks pretty much the same
+      in all directions, and our location isn't special.
+    - radio source and quasar counts vary with age, showing the universe
+      has evolved.
+
+Links:
+
+Wright, Edward L., 1996.  Errors in tired light cosmology.
+ http://www.astro.ucla.edu/~wright/tiredlit.htm
+
+References:
+
+1. Lubin, Lori M. and Allan Sandage, 2001.  The Tolman surface brightness
+   test for the reality of the expansion. IV. A measurement of the Tolman
+   signal and the luminosity evolution of early-type galaxies.
+   _Astronomical Journal_ (on-line preprint).
+   http://arxiv.org/abs/astro-ph/0106566
+
+Further Reading:
+
+Date: 2003-7-16

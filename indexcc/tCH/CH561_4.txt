@@ -1,0 +1,61 @@
+BriefClaim: Fossils are sorted by a combination of these factors.
+Title: Geological column and the Flood
+Keywords: flood, fossils, geological column
+
+Claim:
+
+The order of fossils deposited by Noah's Flood can be explained by a
+combination of hydrologic sorting, differential escape, and ecological
+zonation.
+
+Source:
+
+SciCre, pp. 118-120.
+
+Response:
+
+1. Even this combination of forces fails to explain many aspects of the
+   sorting of fossils.  In particular, the problems with
+   <CH561.1>ecological zonation> are not significantly mitigated by the
+   other two sorting methods.
+
+2. Conventional geology explains the geological record, including its
+   fossils, mineral content, geomagnetism, and radioisotopes.  It does so
+   in great detail and with great consistency in many, many places.  Flood
+   geology does not give a detailed explanation anywhere; what little
+   explanation it offers is extremely vague hand waving, inconsistent with
+   observations.
+
+3. The geological record contains more than biological fossils.  Sediment
+   patterns also record planetary rhythms from which we can determine the
+   length of the day and long-term changes in climate.  From these, we
+   find that the geological record shows that the <CE110>moon is slowing>
+   consistent with tidal friction (see also Sonett et al. 1996) and
+   climate changes often follow the Milankovitch cycles (Krumenaker 1995).
+   These "fossils" depend only on astronomical forces; they could not be
+   explained by the Flood.
+
+4. There are innumerable other observations that contradict a global
+   flood (Isaak 1998).
+
+Links:
+
+Isaak, Mark, 1998.  Problems with a global flood, 2nd edition.
+ http://www.talkorigins.org/faqs/faq-noahs-ark.html#georecord
+
+Morton, Glenn, 2001.  The geologic column and its implications for the
+ flood.  https://web.archive.org/web/20011228114814if_/http://chem.tufts.edu/science/Geology/GeologicColumn.htm or
+ http://www.talkorigins.org/faqs/geocolumn/
+
+References:
+
+1. Isaak, 1998. (see above)
+2. Krumenaker, Larry, 1995.  Rhythm section.  _The Sciences_
+   (Nov/Dec.), 14-17.
+3. Sonett, C. P., E. P. Kvale, A. Zakharian, M. A. Chan, and T. M. Demko,
+   1996.  Late Proterozoic and Paleozoic tides, retreat of the Moon, and
+   rotation of the Earth.  _Science_ 273: 100-104.
+
+Further Reading:
+
+Date: 2003-7-19

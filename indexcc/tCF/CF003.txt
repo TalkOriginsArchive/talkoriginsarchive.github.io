@@ -1,0 +1,50 @@
+BriefClaim: How could information, such as in DNA, assemble itself?
+Title: Information assembling itself
+Keywords: information, organization
+
+Claim:
+
+How could information, such as in DNA, assemble itself?
+
+Source:
+
+Brown, Walt, 1995. _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 13.
+
+Response:
+
+1. This question is based on some major misconceptions (addressed below).
+   Its overriding logical error, however, is that it is an <CA100>argument
+   from ignorance>.  One's inability to find an answer to a question does
+   not imply that the question has no answer.
+
+2. Information is not meaning and does not, per se, imply any special
+   structure or function.  Any arrangement implies information; the
+   information is how the arrangement is described.  If a new arrangement
+   occurs, whether spontaneously or from the outside, new information is
+   assembled in the process.  Even if the arrangement consists of
+   shattering a glass into tiny pieces, that means assembling new
+   information.
+
+3. Nothing needs to assemble itself.  Evolution and abiogenesis do not
+   exclude outside influences; on the contrary, such outside influences
+   are essential.  In abiogenesis, it is observed that complex organic
+   molecules easily form <CB010.2>spontaneously> due to little more than
+   basic chemistry and energy from the sun or from the earth's interior.
+   In evolution, information from the environment is communicated to
+   genomes indirectly via natural selection against varieties that do not
+   do well in that environment.
+
+Links:
+
+Musgrave, Ian et al., 2003.  Information theory and creationism.
+ http://www.talkorigins.org/faqs/information/infotheory.html
+
+References:
+
+Further Reading:
+
+Musgrave, Ian, 1998.  Re: Abiogenesis (Post of the Month: April 1998)
+ http://www.talkorigins.org/origins/postmonth/apr98.html
+
+Date: 2003-6-24

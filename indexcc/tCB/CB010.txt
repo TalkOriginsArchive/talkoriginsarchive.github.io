@@ -1,0 +1,57 @@
+BriefClaim: The odds of life forming are incredibly small.
+Title: Probability of Abiogenesis
+Keywords: abiogenesis, chance, odds, complex molecule, protein.
+
+Claim:
+
+The proteins necessary for life are very complex.  The odds of even one
+simple protein molecule forming by chance are 1 in 10<sup>113</sup>, and
+thousands of different proteins are needed to form life.  (See also
+<CB010_2>Primitive cells arising by chance>.)
+
+Source:
+
+LifeHow, pg. 44.
+
+Response:
+
+1. The calculation of odds assumes that the protein molecule formed by
+   chance.  However, biochemistry is not chance, making the calculated
+   odds meaningless.  Biochemistry produces complex products, and the
+   products themselves interact in complex ways.
+   For example, complex organic molecules are observed to form in the
+   conditions that exist in space, and it is possible that they played a
+   role in the formation of the first life (Spotts 2001).
+
+2. The calculation of odds assumes that the protein molecule must take one
+   certain form.  However, there are innumerable possible proteins that
+   promote biological activity.  Any calculation of odds must take into
+   account all possible molecules (not just proteins) that might function
+   to promote life.
+
+3. The calculation of odds assumes the creation of life in its present
+   form.  The first life would have been very much simpler.
+
+4. The calculation of odds ignores the fact that innumerable trials would
+   have been occurring simultaneously.
+
+
+Links:
+
+Musgrave, Ian. 1998.  Lies, damned lies, statistics, and probability of
+ abiogenesis calculations.
+ http://www.talkorigins.org/faqs/abioprob/abioprob.html
+
+Stockwell, John. 2002.  Borel's Law and the origin of many
+ creationist probability assertions. 
+ http://www.talkorigins.org/faqs/abioprob/borelfaq.html
+
+References:
+
+1. Spotts, Peter N. 2001.  Raw materials for life may predate
+   Earth's formation.  _The Christian Science Monitor_, Jan. 30, 2001.
+   https://web.archive.org/web/20040101230723if_/http://search.csmonitor.com/durable/2001/01/30/fp2s2-csm.shtml
+
+Further Reading:
+
+Date: 2001-2-17, 2003-4-1

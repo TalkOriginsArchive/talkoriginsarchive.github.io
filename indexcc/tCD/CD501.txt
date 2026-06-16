@@ -1,0 +1,40 @@
+BriefClaim: On an old earth, mountains would have eroded by now.
+Title: Mountain erosion
+Keywords: uniformitarianism
+
+Claim:
+
+On an old earth, mountains would have eroded by now.  At present rates of
+erosion, the continents would have been eroded to sea level in less than
+fifteen million years.
+
+Source:
+
+SciCre, p. 155.
+
+Response:
+
+1. Old mountain ranges are eroded flat.  But there are also forces
+   creating new mountains.  For example, the Himalayas are still rising.
+   
+2. Present rates of erosion are particularly high due to more mountain
+   building and higher mountains than usual in earth's history.  (Erosion
+   slows as mountains lose elevation.)
+
+3. The reasoning behind this claim directly contradicts the reasoning
+   behind the claim that <CD502>volcanoes build too much material> for an
+   old earth.
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof15
+
+References:
+
+Further Reading:
+
+McPhee, John, 1998.  _Annals of the Former World_.  New York: Farrar,
+ Straus and Giroux.
+
+Date: 2003-4-22, 2004-9-14

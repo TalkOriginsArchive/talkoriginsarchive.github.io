@@ -1,0 +1,41 @@
+BriefClaim: There is not enough helium in the atmosphere for an old earth.
+Title: Not Enough Helium?
+Keywords: helium, atmosphere, old earth, young earth, magnetic field,
+ion, alpha particle.
+
+Claim:
+
+The radioactive decay of several elements produces helium, which migrates
+to the atmosphere.  There is too little helium in the atmosphere to
+account for the amount that would have been produced in 4.5 billion years.
+Escape of helium into space is not sufficient to account for the lack.
+
+Source:
+
+SciCre, pp. 150-151.
+
+
+Response:
+
+1. Helium is a very light atom, and some of the helium in the upper
+   atmosphere can reach escape velocity simply via its temperature.
+   Thermal escape of helium alone is not enough to account for its
+   scarcity in the atmosphere, but helium in the atmosphere also gets
+   ionized and follows the earth's magnetic field lines.  When ion outflow
+   is considered, the escape of helium from the atmosphere balances its
+   production from radioactive elements (Lie-Svendsen and Rees 1996).
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof14
+
+References:
+
+1. Lie-Svendsen, O. and M. H. Rees, 1996.  Helium escape from the
+   terrestrial atmosphere - the ion outflow mechanism.  _Journal of
+   Geophysical Research_ 101: 2435-2443.
+
+Further Reading:
+
+Date: 2001-2-18

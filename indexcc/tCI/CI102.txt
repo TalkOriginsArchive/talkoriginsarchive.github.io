@@ -1,0 +1,38 @@
+BriefClaim: Irreducible complexity indicates design.
+Title: Irreducible Complexity
+Keywords: irreducible complexity, design, incredulity.
+
+Claim:
+
+Systems are irreducibly complex if removing any one part destroys the
+system's function.  Irreducible complexity in organisms indicates they
+were designed.
+
+Source:
+
+DBB.
+
+Response:
+
+1. Irreducible complexity is claimed to indicate (<CB200>but does not>)
+   that certain systems could not have evolved gradually.  However,
+   jumping from there to the conclusion that those systems were designed
+   is an <CA100>argument from incredulity>.  There is nothing about
+   irreducibly complex systems that is positive evidence for design.
+
+2. Irreducible complexity suggests a lack of design.  For critical
+   applications, such as keeping an organism alive, you do not want systems
+   that will fail if any one part fails.  You want systems that are robust
+   (Steele 2000).
+
+Links:
+
+References:
+
+1. Steele, Diana. 2000.  Scientists search for secrets of robust
+   systems.  _Dallas Morning News_, 18 Sep. 2000, Science section,
+   http://nasw.org/users/dsteele/Stories/Robust.html
+
+Further Reading:
+
+Date: 2001-2-18

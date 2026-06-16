@@ -1,0 +1,66 @@
+BriefClaim: Mammoths that were quickly frozen have been found.
+Title: Quick-frozen mammoths
+Keywords: mammoth
+
+Claim:
+
+The bodies of mammoths that apparently froze suddenly have been found.
+Their flesh was well preserved, and they still had food in their mouths.
+This shows that they were quick-frozen in some sort of catastrophe.
+
+Source:
+
+LifeHow, p. 203.
+
+Response:
+
+1. The reports of frozen mammoths with well-preserved flesh are greatly
+   exaggerated.  Parts of cadavers have been well preserved, but in all
+   cases, the internal organs were rotted, or the body was partly eaten by
+   scavengers, or both, before the animal became frozen.  The Berezovka
+   mammoth, perhaps the most famous example, showed evidence of very slow
+   decay and was putrefied to the point that the excavators found its
+   stench unbearable (Weber 1980).  The best preserved mammoth, Dima, was
+   an infant; its small size and starved condition permitted quicker
+   freezing, and even it had a little decomposition (Guthrie 1990, 7).
+
+   There are probably several different causes of the deaths of frozen
+   mammoths and other animals, including the following:
+    - Sinking in muddy silt (Guthrie 1990, 7-24).
+    - Drowning/burial in flash floods carrying a heavy load of silt.
+    - Predation, followed by winter freezing, followed by burial in silt
+      carried by snowmelt (Guthrie 1990, 81-113).
+    - Fall in a landslide, as a thawed riverbank gives way under the
+      animal's weight.  The landslide and subsequent soil creep can bury
+      and preserve the animal (Kurt&eacute;n 1986, chap. 9).
+
+   The food found with the mammoths were arctic species.  Some mammoth
+   deaths would have been sudden, but there is no evidence of sudden
+   climate change.
+
+2. Frozen mammoths are not common.  As of 1961, only thirty-nine have been
+   found with some flesh preserved, and only four of those were more or
+   less intact (Farrand 1961).
+
+Links:
+
+References:
+
+1. Farrand, William R., 1961.  Frozen mammoths and modern geology.
+   _Science_ 133: 729-735.
+2. Guthrie, R. D., 1990.  (see below)
+3. Kurt&eacute;n, B., 1986.  (see below)
+2. Weber, C. G., 1980.  (see below)
+
+Further Reading:
+
+Guthrie, R. Dale, 1990.  _Frozen Fauna of the Mammoth Steppe_.  Chicago:
+ University of Chicago Press.
+
+Kurt&eacute;n, Bj&ouml;rn, 1986.  _How to Deep-Freeze a Mammoth_.  New
+ York: Columbia University Press.
+
+Weber, Christopher Gregory, 1980.  Common creationist attacks on
+ geology.  _Creation/Evolution_ 2: 10-25.
+
+Date: 2003-4-29, 2004-6-15

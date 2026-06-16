@@ -1,0 +1,52 @@
+BriefClaim: Saturn's rings are unstable.
+Title: Stability of Saturn's rings
+Keywords: Saturn, ring system, young earth
+
+Claim:
+
+Saturn's rings are unstable.  They gradually drift outward, and disruption
+from bombardment could mean that they could not last more than 10,000
+years.  The rings cannot be billions of years old.
+
+Source:
+
+Ackerman, Paul D, 1986.  _It's a Young World After All_. Grand Rapids,
+ Mich.: Baker Book House, p. 45. Cited in
+ Hovind, Kent, n.d.  Universe is not "billions of years" old.
+ https://web.archive.org/web/20210323223859if_/http://www.drdino.com/QandA/index.jsp?varFolder=CreationEvolution&varPage=UniverseIsNotBillionsofYearsOld.jsp
+Brown, Walt, 1995.  _In the Beginning: Compelling evidence for creation
+ and the flood_.  Phoenix, AZ: Center for Scientific Creation, p. 29.
+
+Response:
+
+1. Saturn's rings may be less than 100 million years old (Cuzzi and
+   Estrada 1998).  However, that says nothing about the age of the
+   planet.  The rings could have formed when Saturn captured a small moon
+   that fell within the Roche limit (the distance below which moons will
+   be pulled apart by tidal forces).  This could have happened any time in
+   Saturn's history.
+
+2. Saturn's moons shepherd the particles that make up the rings,
+   preventing them from drifting and maintaining the gaps between the
+   rings.  This shepherding may allow the rings to be much older than 100
+   million years.  (However, the color of the rings suggests not much more
+   than 100 million years' worth of accumulated dust.)
+
+Links:
+
+Thompson, Tim, n.d.  Answers in Genesis and Saturn's rings.
+ http://noanswersingenesis.org.au/aig_and_saturn's_rings.htm
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof9
+
+References:
+
+1. Cuzzi, J. N. and P. R. Estrada, 1998.  Compositional evolution of
+   Saturn's rings due to meteoroid bombardment.  _Icarus_ 132(1): 1-35.
+
+Further Reading:
+
+Sobel, Dava, 1994.  Secrets of the rings.  _Discover_ 15 (Apr.): 86-91.
+
+Date: 2003-4-22, 2004-4-19

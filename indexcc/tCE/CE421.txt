@@ -1,0 +1,47 @@
+BriefClaim: The cosmos has an axis, contrary to big bang models.
+Title: Cosmos axis
+Keywords: WMAP, big bang
+
+Claim:
+
+Anisotropies in the cosmic background radiation measured by the
+Wilkinson Microwave Anisotropy Probe show an axis.  The big bang
+proposes no special orientations, so an axis discredits the big bang
+theory, but it is consistent with creationist cosmology.
+
+Source:
+
+Humphreys, Russell, 2003.  Light from creation illuminates cosmic
+ axis.  _Acts and Facts_ 32(6) (Jun.): 4.
+
+Response:
+
+1. Humphries referred to the work of Tegmark et al. (2003).  Tegmark et
+   al.'s map shows an axis of symmetry for the quadrapole and octopole
+   maps, but the hexadecapole map shows no such axis of symmetry, which
+   could indicate that the axis is an artifact of a systematic bias in the
+   data analysis.
+
+2. A cosmic axis is compatible with the big bang.  If Tegmark et al.'s
+   results are correct, they imply that cosmology is anisotropic (not the
+   same in all directions) on very large length scales.  There has been,
+   to date, little evidence gathered about the universe on such scales,
+   but anisotropic cosmologies have been seriously considered.  Goedel's
+   rotating universe (Goedel 1949) is one example.  Another is a universe
+   with one spatial dimension compacted relative to the other two.
+
+Links:
+
+References:
+
+1. Goedel, Kurt, 1949. An example of a new type of cosmological solutions
+   of Einstein's field equations of gravitation.  _Reviews of Modern
+   Physics_ 21(3): 447-450.
+2. Tegmark, M., A. de Oliveira-Costa and A. J. S. Hamilton, 2003. A high
+   resolution foreground cleaned CMB map from WMAP.
+   _Physical Review D_ 68: 123523,
+   http://cul.arxiv.org/abs/astro-ph/0302496
+
+Further Reading:
+
+Date: 2003-6-10, 2004-2-14

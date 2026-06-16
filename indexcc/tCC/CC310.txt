@@ -1,0 +1,44 @@
+BriefClaim: Fossils are dated from strata; strata are dated from fossils.
+Title: Dating fossils, dating strata
+Keywords: strata, dating, index fossil
+
+Claim:
+
+Fossils are used to determine the order and dates of the strata in which
+they are found.  But the fossil order itself is based on the order of
+strata and the assumption of evolution.  Therefore, using fossil
+progression as evidence for evolution is circular reasoning.
+
+Source:
+
+SciCre, pp. 95-96, 136.
+
+Response:
+
+1. Many strata are not dated from fossils.  Relative dates of strata
+   (whether layers are older or younger than others) are determined mainly
+   by which strata are above others.  Some strata are dated absolutely via
+   radiometric dating.  These methods are sufficient to determine a great
+   deal of stratigraphy.
+
+   Some fossils are seen to occur only in certain strata.  Such fossils
+   can be used as index fossils.  When these fossils exist, they can be
+   used to determine the age of the strata, because the fossils show that
+   the strata correspond to strata that have already been dated by other
+   means.
+
+2. The geological column, including the relative ages of the strata and
+   dominant fossils within various strata, was determined before the
+   theory of evolution.
+
+Links:
+
+MacRae, Andrew. 1997-1998.  Radiometric dating and the geological time
+ scale: Circular reasoning or reliable tools?
+ http://www.talkorigins.org/faqs/dating.html
+
+References:
+
+Further Reading:
+
+Date: 2003-5-15, 2004-3-7

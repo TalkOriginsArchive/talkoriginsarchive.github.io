@@ -1,0 +1,46 @@
+BriefClaim: Flood from comet.
+Title: Flood from comet
+Keywords: Flood, Noachian deluge
+
+Claim:
+
+The waters from Noah's Flood came from an ice comet.
+
+Source:
+
+Response:
+
+1. The gravitational potential energy of the comet must have been
+   converted mostly to heat when the comet fell to earth.  This would have
+   raised the temperature of the water past boiling.  Any initial kinetic
+   energy of the comet would make the problem worse.
+
+2. Soroka and Nelson (1983) calculate that the impact of a comet large
+   enough to cause the flood would release about 5 &times; 10^29 joules.
+   For comparison, the energy released in the asteroid impact which likely
+   caused the extinction of the dinosaurs is estimated at 10^8 megatons,
+   or about 4.2 &times; 10^23 joules (University of Texas 2000).  A comet
+   bringing enough mass to cause a global flood would cause a far greater
+   catastrophe.
+
+3. Soroka and Nelson (1983) also consider a flood caused by waves large
+   enough to cover the continents.  The energy released as the water fell
+   back into the ocean basins, they calculate, would heat the oceans to
+   about 2000 degrees C.
+
+Links:
+
+References:
+
+1. Soroka, Leonard G. and Charles L. Nelson, 1983.  Physical constraints
+   on the Noachian Deluge.  _Journal of Geological Education_ 31:
+   135-139.
+2. University of Texas, 2000.  UT Austin scientist reports results from
+   study of Yucatan crater linked to mass extinctions of dinosaurs (press
+   release, Dec. 15).
+   http://www.utexas.edu/opa/news/00newsreleases/nr_200012/nr_crater001215.html
+
+Further Reading:
+
+Date: 2003-7-24
+

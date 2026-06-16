@@ -1,0 +1,70 @@
+BriefClaim: Radiometric dating falsely assumes initial conditions are known.
+Title: Geochronology and initial conditions
+Keywords: radiometric dating
+
+Claim:
+
+Radiometric dating falsely assumes that initial conditions are known, that
+none of the daughter components are in the mineral initially.
+
+Source:
+
+SciCre, p. 139.
+
+Response:
+
+1. Isochron methods do not assume that the initial parent or daughter
+   concentrations are known.
+   In basic radiometric dating, a parent isotope (call it P) decays to a
+   daughter isotope (D) at a predictable rate.  The age can be calculated
+   from the ratio daughter isotope to parent isotope in a sample.
+   However, this assumes that we know how much of the daughter isotope
+   was in the sample initially.  (It also assumes that neither isotope
+   <CD001>entered or left> the sample.)
+
+   With isochron dating, we also measure a different isotope of the same
+   element as the daughter (call it D<sub>2</sub>), and we take
+   measurements of several different minerals that formed at the same time
+   from the same pool of materials.  Instead of assuming a known amount of
+   daughter isotope, we only assume that D/D<sub>2</sub> is initially
+   the same in all of the samples.  Plotting P/D<sub>2</sub> on the _x_
+   axis and D/D<sub>2</sub> on the _y_ axis for several different samples
+   gives a line that is initially horizontal.  Over time, as P decays to
+   D, the line remains straight, but its slope increases.  The age of the
+   sample can be calculated from the slope, and the initial concentration
+   of the daughter element D is given by where the line meets the _y_ axis.
+   If D/D<sub>2</sub> is not initially the same in all samples, the
+   data points tend to scatter on the isochron diagram, rather than
+   falling on a straight line.
+
+2. For some radiometric dating techniques, the assumed initial conditions
+   are reasonable.  For example:
+    - K-Ar (potassium-argon) dating assumes that minerals form with
+      no argon in them.  Since argon is an inert gas, it will usually be
+      excluded from forming crystals.  This assumption can be tested by
+      looking for argon in low-potassium minerals (such as quartz), which
+      would not contain substantial argon daughter products.
+      <sup>40</sup>Ar/<sup>39</sup>Ar dating and K-Ar isochron dating can
+      also identify the presence of initial excess argon.
+    - The concordia method is used on minerals, mostly zircon, that reject
+      lead as they crystalize.
+    - Radiocarbon dating is based on the relative abundance of carbon-14
+      in the atmosphere when a plant or animal lived.  This varies
+      somewhat, but calibration with other techniques (such as
+      dendrochronology) allows the variations to be corrected.
+    - Fission-track dating assumes that newly solidified minerals will not
+      have fission tracks in them.
+
+Links:
+
+Stassen, Chris, 1998.  Isochron dating.
+ http://www.talkorigins.org/faqs/isochron-dating.html
+
+References:
+
+Further Reading:
+
+Dalrymple, G. Brent, 1991.  _The Age of the Earth_. Stanford: Stanford
+ University Press.
+
+Date: 2003-4-19, 2004-9-3

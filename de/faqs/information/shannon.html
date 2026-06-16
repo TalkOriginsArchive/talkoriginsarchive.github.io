@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Information Theory and Creationism: Classical Information
+Theory (Shannon) — TalkOrigins Archive</title>
+<meta content="What is this Creationist argument about Information? This article provides a brief background on Information Theory and explains how Creationists such as Werner Gitt and Lee Spetner misuse one of the greatest contributions of the 20th Century." name="description"/>
+<meta content="talkorigins-modern" name="scisiteforge:theme"/>
+<meta content="/faqs/information/shannon.html" name="toa:legacy-route"/>
+<meta content="faqs_articles" name="toa:content-kind"/>
+<link href="../../../theme/style.css" rel="stylesheet"/>
+<link href="../../../assets/poc3-legacy.css" rel="stylesheet"/>
+<link href="../../../theme/assets/toa.ico" rel="icon" sizes="any"/>
+<link href="../../../rss/talkorigins.xml" rel="alternate" title="TalkOrigins Archive updates" type="application/rss+xml"/>
+<link href="../../../rss/talkorigins.atom" rel="alternate" title="TalkOrigins Archive updates" type="application/atom+xml"/>
+<link href="../../../rss/feedback.xml" rel="alternate" title="TalkOrigins feedback compilations" type="application/rss+xml"/>
+<link href="../../../rss/translations.xml" rel="alternate" title="TalkOrigins translation status" type="application/rss+xml"/>
+<script id="scisiteforge-shell-i18n" type="application/json">{&quot;en&quot;: {&quot;language&quot;: &quot;Language&quot;, &quot;viewing&quot;: &quot;English source page&quot;}, &quot;es&quot;: {&quot;language&quot;: &quot;Idioma&quot;, &quot;viewing&quot;: &quot;Página fuente en inglés&quot;}, &quot;fr&quot;: {&quot;language&quot;: &quot;Langue&quot;, &quot;viewing&quot;: &quot;Page source anglaise&quot;}, &quot;de&quot;: {&quot;language&quot;: &quot;Sprache&quot;, &quot;viewing&quot;: &quot;Englische Quellseite&quot;}, &quot;pt&quot;: {&quot;language&quot;: &quot;Idioma&quot;, &quot;viewing&quot;: &quot;Página fonte em inglês&quot;}}</script>
+<script defer="" src="../../../theme/main.js"></script><script defer="" src="../../../theme/portable-lite.js"></script>
+<meta content="automated-unreviewed" name="toa:translation-review"/><meta content="../../.." name="scisiteforge:portable-root"/></head>
+<body class="theme-talkorigins-modern poc3-augmented">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="site-shell">
+<header class="site-header">
+<div class="brand-block">
+<div class="brand-row">
+<a aria-label="TalkOrigins-Archiv Startseite" class="brand-mark" href="../../index.html">
+<img alt="TalkOrigins-Archiv Logo" src="../../../theme/assets/toa_logo_001_edit_001.png"/>
+</a>
+<div class="brand-copy">
+<p class="brand-kicker">modernisiertes Archiv</p>
+<a class="brand-title" href="../../index.html">TalkOrigins-Archiv</a>
+<p class="brand-summary">Stabile Legacy-Routen mit responsivem Lesen, corpusbewusster Suche, Übersetzungsstaging und überprüfter Studiensupport.</p>
+</div>
+</div>
+</div>
+<nav aria-label="Hauptnavigation" class="top-nav">
+<a href="../../index.html">Startseite</a>
+<a href="../../origins/faqs-qa.html">FAQs</a>
+<a href="../../origins/faqs.html">Durchsuchen</a>
+<a href="../../indexcc/list.html">Index creationistischer Behauptungen</a>
+<a href="../../timeline/index.html">Zeitlinie</a>
+<a href="../../dossiers/index.html">Dossiers</a>
+<a href="../../../search/index.html">Suche</a>
+<a href="../../../fb/index.html">Feedback</a>
+<a href="../../origins/other-links.html">Links</a>
+<a href="../../../workbench/index.html">Arbeitsbereich</a>
+<a href="../../../notebook/index.html">Notizbuch</a>
+<a href="../../../downloads/toa-lite/index.html">Downloads</a>
+<a href="../../../translation-status/index.html">Übersetzungen</a>
+<select aria-label="Sprache" id="lang-switch" onchange="switchLanguage(this.value)" translate="no"><option data-coverage="true" lang="en" translate="no" value="en">Englisch</option>
+<option data-coverage="false" lang="es" translate="no" value="es">Spanisch</option>
+<option data-coverage="false" lang="fr" translate="no" value="fr">Französisch</option>
+<option data-coverage="true" lang="de" selected="" translate="no" value="de">Deutsch</option>
+<option data-coverage="false" lang="pt" translate="no" value="pt">Portugiesisch</option>
+<option data-coverage="true" lang="en" translate="no" value="00">Legacy</option></select>
+</nav>
+</header>
+<main id="main">
+<section class="article-header">
+<p class="eyebrow">FAQs Artikel</p>
+<h1>Informationstheorie und Kreationismus: Klassische Informationstheorie (Shannon)</h1>
+<p class="article-meta">Legacy-Route: <code>/faqs/information/shannon.html</code> · Quelle: <code>faqs/information/shannon.html</code></p>
+</section><aside aria-label="Hinweis zur automatischen Übersetzung" class="translation-quality-disclaimer" data-translation-disclaimer="automated" role="note"><p><strong>Hinweis zur automatischen Übersetzung</strong>: Diese Seite wurde automatisiert übersetzt. Sie kann Fehler oder unpassende Formulierungen enthalten. Wenn Sie Muttersprachler sind und ein Problem finden, geben Sie bitte Rückmeldung, damit wir es korrigieren können. <a href="../../../fb/index.html">Rückmeldung geben</a>.</p></aside>
+<article class="article-body legacy-converted-page faqs-articles-page">
+<div class="center">
+<table cellpadding="10" summary="">
+<tr>
+<td>
+<p><a href="infotheory.html"><img alt="Zurück" height="40" src="../../../pictures/arrow_l.gif" width="40"/><br/>
+Zurück</a></p>
+</td>
+<td>
+<p><a href="infotheory.html"><img alt="Hoch" height="40" src="../../../pictures/arrow_u.gif" width="40"/><br/>
+Hauptseite</a></p>
+</td>
+<td>
+<p><a href="algorithmic.html"><img alt="Weiter" height="40" src="../../../pictures/arrow_r.gif" width="40"/><br/>
+Weiter</a></p>
+</td>
+</tr>
+</table>
+<p>[<a href="algorithmic.html">Algorithmische Information</a>]
+[<a href="gitt.html">Gitt-Information</a>] [<a href="dembski.html">Dembski-Information</a>] [<a href="spetner.html">Spetner-Information</a>]</p>
+</div>
+<div>
+</div>
+<table cellpadding="10" class="otherlinks" summary="Diese Tabelle ist eine Liste von Links zu diesem Thema.">
+<tr align="left">
+<td><b>Andere Links:</b>
+<div>
+<dl>
+<dt><a href="http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf" rel="external">Eine mathematische Theorie der Kommunikation</a></dt>
+<dd>Der 1948 veröffentlichte Aufsatz, der die Informationstheorie begründete, verfasst vom Mathematiker <a href="https://web.archive.org/web/20031008055059if_/http://www.ieee.org/organizations/history_center/legacies/shannon.html" rel="external">
+Claude E. Shannon</a> von Bell Labs.</dd>
+<dt><a href="http://www.inference.phy.cam.ac.uk/mackay/info-theory/course.html" rel="external">
+Ein kurzer Kurs zur Informationstheorie</a></dt>
+<dd>Eine Reihe von Vorlesungen von <a href="http://www.inference.phy.cam.ac.uk/mackay/" rel="external">David MacKay</a>,
+die die Informationstheorie erklären. MacKay hat zudem einen
+Online-Text veröffentlicht, <a href="http://www.inference.phy.cam.ac.uk/mackay/itprnn/book.html" rel="external">Information
+Theory, Inference, and Learning Algorithms</a></dd>
+<dt><a href="http://ee-www.stanford.edu/~gray/it.pdf" rel="external">Entropie und Informationstheorie</a></dt>
+<dd>Ein Online-Lehrbuch zur Informationstheorie von R. M. Gray.</dd>
+<dt><a href="https://web.archive.org/web/20120205010848if_/http://www-lmmb.ncifcrf.gov/~toms/" rel="external">Molekulare Informationstheorie
+und die Theorie molekularer Maschinen</a></dt>
+<dd>Ein Webangebot, das die Anwendung der Informationstheorie
+auf die Biologie erklärt, verfasst vom Biologen <a href="https://web.archive.org/web/20120705002140if_/http://www.lecb.ncifcrf.gov/~toms/schneider.html" rel="external">Tom
+Schneider</a> aus der Gruppe für molekulare Informationstheorie am
+National Institutes of Health</dd>
+<dt><a href="https://web.archive.org/web/20111016145634if_/http://www-lmmb.ncifcrf.gov/~toms/bionet.info-theory.faq.html" rel="external">Biologische Informationstheorie und Chowder Society</a></dt>
+<dd>FAQ-Seite für das Newsgroup bionet.info-theory.</dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+<h3 class="plus0"><a id="Top" name="Top"></a><strong><b>In diesem
+Artikel</b></strong></h3>
+<ul>
+<li><a href="#Claude_Shannon_and_Classical_Informatio">Claude Shannon und die klassische Informationstheorie</a></li>
+<li><a href="#Sources">Informationsquellen</a></li>
+<li><a href="#Uncertaintly">Information, Entropie und Unsicherheit</a></li>
+<li><a href="#Joint">Bedingte und gemeinsame Entropie</a></li>
+<li><a href="#Implications">Implikationen für die Kommunikation</a></li>
+<li><a href="#Noise">Information und Rauschen</a></li>
+<li><a href="#Entropy">Shannon-Entropie vs. thermodynamische Entropie</a></li>
+<li><a href="#Links">Links</a></li>
+</ul>
+<h3 class="plus0"><a id="Claude_Shannon_and_Classical_Information" name="Claude_Shannon_and_Classical_Information"></a><strong><b>Claude
+Shannon und die klassische Informationstheorie</b></strong>[<a href="#Top">Top</a>]</h3>
+<p>Die moderne digitale Kommunikation beruht auf der Informationstheorie, die in den 1940er Jahren von <a href="https://web.archive.org/web/20031008055059if_/http://www.ieee.org/organizations/history_center/legacies/shannon.html" rel="external">
+Claude E. Shannon</a> erfunden wurde. Shannon veröffentlichte erstmals <a href="http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf" rel="external">A
+Mathematical Theory of Communication</a> im Jahr 1947–1948 und veröffentlichte gemeinsam mit Warren Weaver <a href="https://web.archive.org/web/20080908001827if_/http://www.press.uillinois.edu/s99/shannon.html" rel="external">The
+Mathematical Theory of Communciation</a> im Jahr 1949. Dieses Werk wird weiterhin von der <a href="https://web.archive.org/web/20111115120756if_/http://www.press.uillinois.edu/index.html" rel="external">University of
+Illinois Press</a> veröffentlicht. Die Informationstheorie, manchmal auch als
+<i>Klassische Informationstheorie</i> im Gegensatz zur <i>Algorithmischen
+Informationstheorie</i> bezeichnet, bietet ein mathematisches Modell für
+die Kommunikation. Obwohl Shannon sich primär mit dem Problem der
+elektronischen Kommunikation befasste, hat die Theorie eine viel
+breitere Anwendbarkeit. Kommunikation findet statt, sobald Dinge
+kopiert oder von einem Ort und/oder Zeitpunkt zu einem anderen
+verlegt werden.</p>
+<p>Dieser Artikel beschreibt kurz die Hauptkonzepte der Shannon-Theorie. Die mathematischen Beweise sind in vielen Quellen leicht verfügbar, einschließlich der Internet-Links auf dieser Seite. Während die Shannon-Theorie sowohl digitale als auch analoge Kommunikation abdeckt, wird analoge Kommunikation aus Vereinfachungsgründen ignoriert. Andererseits ist die Informationstheorie ein recht technisches Fach, das in der Regel an dritte Semester von Ingenieurstudenten an Universitäten eingeführt wird. Ein echtes Verständnis davon erfordert Kenntnisse in <a href="http://www.math.uah.edu/stat/index.html" rel="external">Statistik</a> und
+<a href="http://www.calculus.org/" rel="external">Analysis</a>.</p>
+<p>Für diejenigen, die sich fragen, wie eine Theorie über Kommunikation möglicherweise mit der biologischen Evolution in Verbindung stehen kann, kann ein Besuch der Webseite von <a href="https://web.archive.org/web/20120705002140if_/http://www.lecb.ncifcrf.gov/~toms/schneider.html" rel="external">Tom Schneider</a>, <a href="https://web.archive.org/web/20120205010848if_/http://www-lmmb.ncifcrf.gov/~toms/" rel="external">Molecular Information Theory and the Theory of Molecular Machines</a>, hilfreich sein. Jedenfalls argumentieren Kreationisten nun gerne über Information, und dieser Artikel bietet nützliches Hintergrundmaterial zum Thema.</p>
+<h3 class="plus0"><a id="Sources" name="Sources"></a><b>Informationsquellen</b>[<a href="#Top">Oben</a>]</h3>
+<p>Eine <em>Informationsquelle</em> ist ein System, das aus einem
+festen Satz von <em>M</em> Symbolen
+{<em>a</em><sub>1..</sub><em>a</em><sub>M</sub>} in einer Sequenz
+mit einer bestimmten Rate ausgibt (siehe <i>Fig.1</i>). Im einfachsten Fall ist jedes
+Symbol, das vom System ausgegeben werden könnte, gleich wahrscheinlich.
+Das Symbol <i>i</i> steht für ein gegebenes Ausgangssymbol aus
+der Menge {<em>a</em><sub>1..</sub><em>a</em><sub>M</sub>}. Wenn
+alle Symbole gleich wahrscheinlich sind, dann ist die Wahrscheinlichkeit, dass das Symbol
+<i>i</i> das produzierte ist,
+<em>p</em><sub>i</sub>=<em>P</em>=<sup>1</sup>/<em><sub>M</sub></em>
+unabhängig davon, welches Symbol wir im Sinn haben. Zum Beispiel kann die
+Informationsquelle vier gleich wahrscheinliche Symbole erzeugen (A, B,
+C und D), dann hat jedes Symbol eine Wahrscheinlichkeit von .25 (das heißt,
+25% oder 1/4).</p>
+<div class="center">
+<table summary="">
+<caption><i>Abb. 1. Informationsquelle und Beobachter</i></caption>
+<tr><td><img alt="" height="147" src="../../../faqs/information/Infsrc.gif" width="342"/></td></tr></table></div>
+<p>Ein Beobachter ist unsicher, welches der <em>M</em> Symbole ausgegeben wird. Sobald ein gegebenes Symbol <em>a<sub>i</sub></em> beobachtet wurde, hat der Beobachter Informationen von der Quelle erhalten. Die Unsicherheit des Beobachters wird reduziert. Die Menge der erhaltenen Informationen kann gemessen werden, da die Anzahl der möglichen Symbole bekannt ist. Nach Definition wird die Größe der Information <em>I</em>, die vom System beobachtet wurde, wie folgt angegeben:</p>
+<p><em>I</em> =
+log<sub>2</sub> <em>M</em>=-log<sub>2</sub><em>P</em>,</p>
+<p>und die Maßeinheit sind Binärstellen, oder Bits. Die Maßeinheit hängt von der Basis des Logarithmus ab. Meistens verwendet die Informationstheorie den Logarithmus zur Basis 2 (log<sub>2</sub>). Jede andere Logarithmusbasis würde funktionieren. Wenn wir die Basis 10 verwenden würden, dann wäre die Maßeinheit Dezimalstellen.</p>
+<p>Wenn ein System eines von 16 möglichen Symbolen ausgeben kann, erhält der Beobachter für jedes beobachtete Symbol 4 Bits an Information. Das heißt, es reduziert die Unsicherheit des Beobachters um 4 Bits (siehe <i>Abb. 2</i>). Die Verwendung eines Logarithmus zur Messung von Information ist Ralph V.L. Hartley zu verdanken, dessen 1928er Papier von Shannon zitiert wird.</p>
+<div class="center"><table summary="">
+<caption><i>Abb. 2. Ein von 16 möglichen Symbolen wurde beobachtet</i></caption>
+<tr><td><i><img alt="" height="130" src="../../../faqs/information/Infsrc2.gif" width="515"/></i></td></tr>
+</table></div>
+<p>Es ist leicht, den Nutzen dieser Definition zu erkennen. Wenn eine Informationsquelle, die jedes der 128 grundlegenden ASCII-Symbole mit gleicher Wahrscheinlichkeit ausgeben kann, ein Symbol erzeugt, erhält der Beobachter 7 Bits an Information, genau die Anzahl der Bits, die zur Kodierung des grundlegenden ASCII-Symbolsets verwendet werden. (ASCII steht für American Standard Code for Information Interchange, das seit vielen Jahren in Telegrafiermaschinen und Computern verwendet wird. Natürlich erzeugt eine tatsächliche ASCII-Informationsquelle nicht 128 gleichwahrscheinliche Symbole, aber zur Vereinfachung nehmen wir jetzt an, dass sie das tut.)</p>
+<div class="center"><table summary="">
+<caption><i>Fig. 3.</i> <i>Kommunikationssystem</i></caption>
+<tr><td><img alt="" height="107" src="../../../faqs/information/Commsys.gif" width="710"/></td></tr>
+</table></div>
+<p>Shannon beschreibt ein Kommunikationssystem als eine <em>Informationsquelle,</em> <em>Sender,</em> <em>Kanal,</em> <em>Empfänger</em> und ein <em>Ziel</em> (siehe <i>Abb. 3</i>). Das Ziel ist unser Beobachter. Eine Grundvoraussetzung für ein Kommunikationssystem ist, dass das Symbol an der Informationsquelle und das Symbol am Ziel mit hoher Zuverlässigkeit übereinstimmen. Shannon hatte eine entscheidende Erkenntnis in Bezug darauf: <em>es ist egal, ob das Symbol etwas bedeutet</em>. Es zählt <em>nur</em>, ob das Symbol an der Informationsquelle und am Ziel identisch ist. Diese Erkenntnis, <em>die Bedeutung muss ignoriert werden</em>, ermöglichte es Shannon, ein funktionierendes mathematisches Modell für Information zu erstellen.</p>
+<p>Nächstens betrachten wir, dass von einer Informationsquelle ausgegebene Symbole nicht gleichwahrscheinlich sein müssen. Nehmen wir an, die Symbole {<em>a</em><sub>1..</sub><em>a</em><sub>M</sub>} treten mit Wahrscheinlichkeiten <em>p</em><sub>1</sub>..<em>p</em><sub>M</sub> auf. Da {<em>a</em><sub>1..</sub><em>a</em><sub>M</sub>} alle möglichen Symbole sind, ist die Summe der Wahrscheinlichkeiten <em>p</em><sub>i</sub> über alle <em>i</em> gleich 1. Da der Beobachter nicht weiß, welches das nächste Symbol in der Ausgabesequenz sein wird, wird die Informationsquelle als <em>stochastischer Prozess</em> behandelt. Das heißt, wir gehen davon aus, dass die ausgegebenen Symbole zufällig sind und mit den angegebenen Wahrscheinlichkeiten auftreten.</p>
+<p>Ein einfaches Beispiel für einen stochastischen Prozess ist eine Person, die eine Münze immer wieder wirft (siehe <i>Abb. 4</i>). Die Ergebnisse sind manchmal Kopf und manchmal Zahl, aber wir können die Ergebnisse für einen bestimmten Münzwurf nicht vorhersagen. Wir nehmen natürlich an, dass die Münze eine <i>faire Münze</i> ist, die bei einem Wurf eine 50%ige Chance auf Kopf und eine 50%ige Chance auf Zahl hat. Wenn wir die Sequenz der Münzwürfe aufzeichneten, könnte sie so aussehen wie <i>HHTHTHHTHTTTTHTHHT</i>...</p>
+<div class="center"><table summary="">
+<caption><i>Abb. 4. Ein einfacher stochastischer Prozess</i></caption>
+<tr><td><img alt="" height="279" src="../../../faqs/information/cointoss.gif" width="219"/></td></tr>
+</table></div>
+<p>Das nächste benötigte Konzept ist eine <i>endliche Automaten.</i> Dies ist eine Art Maschine, die eine endliche Anzahl von Bedingungen oder Zuständen hat, in die sie sich zu jedem gegebenen Zeitpunkt befinden kann. Ein Lichtschalter hat beispielsweise zwei Zustände – <i>EIN</i> und <i>AUS</i>. Eine endliche Automaten muss nicht physisch existieren. Es könnte einfach ein mathematisches Modell auf Papier oder in einem Computer sein. Der Zustand der Maschine kann aufgezeichnet werden, während die Zeit vergeht, wodurch eine Sequenz entsteht, genau wie beim Münzwurf. Wenn wir die Position eines Lichtschalters im Schlafzimmer eines hyperaktiven Kindes alle 15 Minuten aufzeichneten, könnte es sogar ziemlich zufällig aussehen, wie <i>EIN - EIN - AUS - EIN - AUS - EIN - EIN - AUS - EIN - AUS - AUS - AUS - AUS - EIN - AUS - EIN - EIN - AUS...</i> genau wie beim Werfen einer Münze.</p>
+<p>Wir können nun eine Informationsquelle als eine Art Zufallszustandsmaschine modellieren, die von Zustand zu Zustand springt, wobei jeder Zustand dem nächsten Ausgabesymbol entspricht. Wir können weiterhin die durch Beobachtung des Symbols <em>i</em> empfangene Information in Bezug auf seine Wahrscheinlichkeit angeben:</p>
+<p>
+<em>I</em><sub>i</sub>=-log<sub>2</sub><em>p</em><sub>i</sub></p>
+<p>Wenn man die Informationsquelle auf diese Weise betrachtet, ist es vernünftig anzunehmen, dass die Wahrscheinlichkeit ihres nächsten Zustands von ihrem aktuellen Zustand abhängt. Zum Beispiel würde ein Lichtschalter im Schlafzimmer eines sesshaften Achtzigjährigen wahrscheinlich kaum alle 15 Minuten wechseln: <i>AN - AN - AN - AN - AN - AN - AUS - AUS - AUS - AUS...</i></p>
+<p>Betrachten wir einen einzelnen Zustandswechsel. Unsere Zustandsmaschine könnte vom Zustand <i>i</i> zum Zustand <i>j</i> wechseln. Dieser Zustandswechsel hat eine bestimmte Wahrscheinlichkeit. Wir können die Wahrscheinlichkeit beschreiben, dass <em>j</em> auf <em>i</em> folgt, als
+<em>p</em>(<em>j</em>|<em>i</em>). Die Notation
+<em>p</em>(<em>j</em>|<em>i</em>) wird laut gelesen als "die Wahrscheinlichkeit von <i>j</i> gegeben i." Wenn Sie Shannons Artikel lesen, beachten Sie, dass er eine weniger konventionelle Notation
+<em>p</em><em><sub>i</sub></em>(<em>j</em>) verwendet, anstatt
+<em>p</em>(<em>j</em>|<em>i</em>).</p>
+<p>Um die Dinge einfach zu halten, lassen wir unseren Zustandsautomaten nicht daran erinnern, in welchem Zustand er sich zuvor befand. Er weiß nur, in welchem Zustand er sich gerade befindet. Das bedeutet, dass die Wahrscheinlichkeit für seinen nächsten Zustand nur vom aktuellen Zustand abhängen kann. Er kann nicht davon abhängen, wie der Automat in den aktuellen Zustand gelangt ist. Wenn wir dann alle möglichen Zustandsübergänge für den Automaten betrachten, können wir die Menge der Zustandsübergangswahrscheinlichkeiten notieren. Für jedes Symbol <em>i</em> ist die Summe aller <em>p</em>(<em>j</em>|<em>i</em>) über <em>j</em> gleich 1. Die Menge der Zustandsübergangswahrscheinlichkeiten für unseren Lichtschalter lautet:</p>
+<p>{ <em>p</em>(<em>ON</em>|<em>ON</em>),
+<em>p</em>(<em>ON</em> |<em>OFF</em>),
+<em>p</em>(<em>OFF</em>|<em>ON</em>),
+<em>p</em>(<em>OFF</em>|<em>OFF</em>) }</p>
+<p>Es ist leicht zu erkennen, dass <em>p</em>(<em>ON</em>|<em>ON</em>)
++ <em>p</em>(<em>OFF</em>|<em>ON</em>) = 1, und auch dass
+<em>p</em>(<em>ON</em>|<em>OFF</em>) +
+<em>p</em>(<em>OFF</em>|<em>OFF</em>) = 1.</p>
+<p>Ein stochastischer Prozess dieser Art, bei dem die Wahrscheinlichkeitsverteilung des nächsten Zustands vom aktuellen Zustand abhängt, aber von nichts Früherem, wird als <em>diskreter Markov-Prozess</em> bezeichnet. Shannon stellt Informationsquellen als diskrete Markov-Prozesse dar. Das heißt, die Informationsquelle wird als Zufallsprozess angenommen, der eine Sequenz von Symbolen aus einem festen Symbolsatz ausgibt, wobei die Wahrscheinlichkeit jedes neuen Symbols nur vom vorhergehenden Symbol abhängt. Der Zustandsautomat kann nichts davor erinnern.</p>
+<p>Eine <em>ergodische</em> <em>Prozess</em> ist eine spezielle Klasse von Markov-Prozessen. Bei einem ergodischen Prozess sind alle Sequenzen, die er erzeugen kann, in ihren statistischen Eigenschaften identisch. Ist die Informationsquelle ergodisch, so konvergiert die Wahrscheinlichkeit, dass das Symbol <em>j</em> nach <em>N</em> Symbolen auftritt, <em>P</em><sub>j</sub>(<em>N</em>), mit wachsendem <em>N</em> zu einem Gleichgewichtswert. Shannon macht die allgemeine Annahme, dass Informationsquellen ergodische Prozesse sind.</p>
+<h3 class="plus0"><a id="Uncertaintly" name="Uncertaintly"></a><b>Information,
+Entropie und Unsicherheit</b>[<a href="#Top">Oben</a>]</h3>
+<p>Erinnern Sie sich daran, dass der Beobachter zu Beginn völlig unsicher ist, welche Sequenz von Symbolen aus der Informationsquelle ausgegeben wird. Mit jedem beobachteten Symbol nimmt die Unsicherheit ab. Wir können die Informationsquelle als <i>Zufallsvariable</i> darstellen, da ihr Zustand jeden Wert im Symbolsatz annehmen könnte, und wir nennen sie <i>X</i>, genau wie Shannon. Die Zufallsvariable <i>X</i> kann eines der M Symbole {<em>a</em><sub>1..</sub><em>a</em><sub>M</sub>} erzeugen. Jedes dieser Symbole hat eine Wahrscheinlichkeit <em>p</em><sub>1</sub> <em>..</em> <em>p<sub>M</sub></em><sub></sub>, und diese Wahrscheinlichkeiten müssen sich alle zu 1 summieren.</p>
+<p>Die Information, die von <i>X</i> erhalten wird, wenn es ein Symbol <i>i</i> erzeugt, ist</p>
+<p>
+<i>I<sub>X</sub></i>=-log<sub>2</sub><i>p</i><sub>i</sub></p>
+<p>Die <em>Entropie</em> von <em>X</em> wird durch ihre
+<i>mittlere Information</i> definiert:</p>
+<p><em>H</em>(<em>X</em>) =
+<em>E{</em><em></em><i>I<em><sub>X</sub></em><em>}=</em>-∑<sub>
+i</sub><sub></sub>(<em>p</em><sub>i</sub>log<sub>2</sub><em>p</em><sub>
+i</sub>)</i></p>
+<p>Die Notation
+<em>E{</em><em></em><i>I<em><sub>X</sub></em><em>}</em></i>
+bezeichnet den Erwartungswert von <em>I</em><em><sub>X</sub></em>,
+was ein spezifischerer statistischer Begriff als
+„Mittelwert" ist. Entropie kann auch als <em>mittlere
+Unsicherheit</em> bezeichnet werden (strikter gesagt, die durchschnittliche
+Verringerung der Unsicherheit für einen Empfänger).</p>
+<p>Warum wird Informationsentropie als gewichtete Summe von Wahrscheinlichkeiten definiert? Hauptsächlich, weil die mit Symbolen verbundenen Wahrscheinlichkeiten im Allgemeinen nicht gleich sind. Betrachten Sie die 26 Buchstaben des englischen Alphabets. Wie Shannon feststellte, kommt der Buchstabe „E" häufiger vor als „Q", die Sequenz „TH" häufiger als „XP", usw. Indem wir Entropie als durchschnittliche Information definieren, erfahren wir etwas darüber, wie vollständig ein Kommunikationskanal genutzt wird.</p>
+<p>Die Entropiefunktion H(<em>X</em><em>)</em> ist maximal, wenn
+<em>p</em><sub>i</sub>=<sup>1</sup>/<sub>M</sub> für alle
+<em>i</em>. Dies macht intuitiv Sinn, da die Unsicherheit am größten ist, wenn alle Ergebnisse gleich wahrscheinlich sind. Andererseits, wenn eine Informationsquelle das Symbol <em>a</em><sub>1</sub>
+mit einer Wahrscheinlichkeit von .999 und zehn weitere Symbole
+<em>a</em><sub>2</sub>..<em>a</em><sub>11</sub> jeweils mit
+einer Wahrscheinlichkeit von .0001 erzeugt, sind wir nahezu sicher, dass das nächste Symbol
+<em>a</em><sub>1</sub> sein wird.</p>
+<div class="center"><table summary="">
+<caption><i>Abb. 5. Entropie einer binären Quelle</i></caption>
+<tr><td><img alt="" height="343" src="../../../faqs/information/Hbinary.gif" width="502"/></td></tr>
+</table></div>
+<p>Betrachten Sie eine binäre Informationsquelle, die in der Lage ist, Symbole <b><i>0</i></b> und <b><i>1</i></b> zu erzeugen. Ihre Entropie als Funktion der Wahrscheinlichkeit <i>p</i><sub>1</sub> des Symbols <b><i>1</i></b> ist in <i>Fig.5</i> dargestellt. (Erinnern Sie sich daran, dass <i>p</i><sub>0=</sub>1-<i>p</i><sub>1</sub> gilt, da nur zwei Symbole erlaubt sind und ihre Wahrscheinlichkeiten sich zu 1 summieren müssen). Beachten Sie, dass die Entropie ein Maximum von 1 erreicht, wenn <i>p</i><sub>1</sub>=<i>p</i><sub>0</sub>=1/2. Wenn beide Symbole gleich wahrscheinlich sind, ist der Beobachter am unsichersten. Die Sequenz von Kopf oder Zahl bei mehreren Würfen einer fairen Münze hat beispielsweise eine maximale Entropie. Auf der anderen Seite ist die Entropie und die Unsicherheit des Beobachters null, wenn die Informationsquelle das Symbol <b><i>1</i></b> immer mit der Wahrscheinlichkeit <i>p</i><sub>1</sub>=1 erzeugt. Wenn die Informationsquelle das Symbol <b><i>1</i></b> niemals erzeugt, sondern immer das Symbol <b><i>0</i></b>, sind die Entropie und die Unsicherheit des Beobachters ebenfalls null. Durch die Beobachtung eines Ereignisses, das bekanntermaßen niemals wechselt, wird keine Information gewonnen.</p>
+<h3 class="plus0"><a id="Joint" name="Joint"></a><b>Konditionale und gemeinsame Entropie</b>[<a href="shannon.html#Top">Top</a>]</h3>
+<p>Wenn <em>X</em> und <em>Y</em> Zufallsvariablen darstellen, die den Eingang und den Ausgang eines Kanals bzw. bezeichnen, dann ist die <em>bedingte Entropie</em> (d. h. die durchschnittliche Unsicherheit des empfangenen Symbols unter der Bedingung, dass <i>X</i> gesendet wurde) wie folgt definiert:</p>
+<p>
+<em>H</em>(<em>Y</em>|<em>X</em>)=-∑<sub>i</sub><sub>,j</sub><em>
+p</em>(<em>x</em><sub>i</sub>,<em>y</em><sub>j</sub>)log<sub>2</sub><em>
+p</em>(<em>y</em><sub>j</sub><sub></sub>|<em>x</em><sub>i</sub>),</p>
+<p>die <em>gemeinsame Entropie</em> (bedeutet die durchschnittliche Unsicherheit des gesamten Informationssystems) ist:</p>
+<p>
+<em>H</em>(<em>X</em>,<em>Y</em>)=-∑<sub>i</sub><sub>,j</sub><em>
+p</em>(<em>x</em><sub>i</sub>,<em>y</em><sub>j</sub>)log<sub>2</sub><em>
+p</em>(<em>x</em><sub>i</sub>,<em>y</em><sub>j</sub>),</p>
+<p>und die <em>Equivokationsentropie</em> (was die durchschnittliche
+Unsicherheit des übertragenen Symbols nach Empfang eines Symbols bedeutet)
+ist:</p>
+<p>
+<em>H</em>(<em>X</em>|<em>Y</em>)=-∑<sub>i</sub><sub>,j</sub><em>
+p</em>(<em>x</em><sub>i</sub>,<em>y</em><sub>j</sub>)log<sub>2</sub><em>
+p</em>(<em>x</em><sub>i</sub>|<em>y</em><sub>j</sub>).</p>
+<p>Die Notation <em>p</em>(A,B) bedeutet die Wahrscheinlichkeit, dass sowohl A als auch B eintreten, während <em>p</em>(A|B) die Wahrscheinlichkeit für das Eintreten von A unter der Bedingung bedeutet, dass B eingetreten ist.</p>
+<p>Eine wichtige Beziehung ist:</p>
+<p>
+<em>H</em>(<em>X</em>,<em>Y</em>)=<em>H</em>(<em>X</em>|<em>Y</em>)+<em>
+H</em>(<em>Y</em>)=<em>H</em>(<em>Y</em>|<em>X</em>)+<em>H</em>(<em>
+X</em>).</p>
+<h3 class="plus0"><a id="Implications" name="Implications"></a><b>Folgerungen für die Kommunikation</b>[<a href="#Top">Oben</a>]</h3>
+<p>Shannon zeigte, dass für einen Kanal mit Kapazität <em>C</em> und eine Informationsquelle mit Entropie <em>H</em> möglich ist, das codierte Ausgangssignal der Informationsquelle durch den Kanal mit einer durchschnittlichen Rate von bis zu (<em><sup>C</sup></em>/<em><sub>H</sub></em>) -<em>e</em> zu übertragen, wobei <em>e</em> eine beliebig kleine Zahl ist. Es ist nicht möglich, mit einer durchschnittlichen Rate zu übertragen, die <em><sup>C</sup></em>/<em><sub>H</sub></em> übersteigt.</p>
+<p>Shannon und R.M. Fano entwickelten unabhängig voneinander eine effiziente Codierungsmethode, die als Shannon-Fano-Technik bekannt ist, bei der die Codewortlänge mit abnehmender Wahrscheinlichkeit des Quellensymbols oder des Quellwortes zunimmt. Die Grundidee besteht darin, dass häufig verwendete Symbole (wie das Buchstabe E) kürzer kodiert werden sollten als selten verwendete Symbole (wie das Buchstabe Z), um das Kanalband optimal zu nutzen, im Gegensatz zur ASCII-Codierung, bei der sowohl E als auch Z dieselben sieben Bits benötigen.</p>
+<p>Falls Kommunikation mit Eingabe <em>X</em> und Ausgabe
+<em>Y</em> stattfindet, ist die Kapazität eines Kanals:</p>
+<blockquote>
+<p><em>C</em> = Max ( <em>H</em>(<em>X</em>) -
+<em>H</em>(<em>X</em> | <em>Y</em>) )</p>
+</blockquote>
+<p>Die Funktion Max(<i>H</i>) bedeutet den maximalen Wert von <i>H</i>. Für einen rauschfreien Kanal ist <em>H</em>(<em>X</em>|<em>Y</em>)=0. Da <em>H</em>(<em>X</em>) maximal ist, wenn alle M möglichen Symbole für <em>X</em> gleich wahrscheinlich sind, gilt <em>C</em>=log<sub>2</sub><em>M</em> oder <em>C</em>=<em>I</em>(<em>X</em>).</p>
+<p>Shannon lieferte zudem die mathematische Grundlage für die Übertragung über einen Rauschkanal (siehe <i>Fig.6</i>). Ein Rauschkanal kann als mit zwei stochastischen Prozessen verbunden betrachtet werden – der Informationsquelle und der Rauschquelle.</p>
+<div class="center"><table summary="">
+<caption><i>Abb. 6. Kommunikationssystem mit Rauschen</i></caption>
+<tr><td><img alt="" height="246" src="../../../faqs/information/Commsysn.gif" width="710"/></td></tr>
+</table></div>
+<p>Falls X die Informationsquelle und Y die empfangene Information ist, dann ist es durch Verwendung eines neuen Kanals (eines Korrekturkanals) mit einer Kapazität, die der bedingten Entropie <em>H</em>(<em>Y</em>|<em>X</em>) entspricht, möglich, die Korrekturdaten so zu codieren, dass alle Fehler außer einem beliebig kleinen Bruchteil <i>e</i> korrigiert werden können (siehe <i>Fig.7</i>). Falls die Entropie der Informationsquelle <em>H</em> ≤<em>C</em> ist, kann die Informationsquelle mit einer beliebig kleinen Fehlerrate übertragen werden. Falls <em>H</em>&gt;<em>C</em> ist, ist keine Codierungsmethode möglich, bei der die Ambiguität kleiner als <em>H</em>-<em>C</em> ist.</p>
+<div class="center"><table summary="">
+<caption><i>Abb. 7. Kodierung zur Reduzierung von Fehlern aufgrund von Rauschen</i></caption>
+<tr><td><i><img alt="" height="190" src="../../../faqs/information/Commsys2.gif" width="757"/></i></td></tr>
+</table></div>
+<p>Es gibt viele Beispiele für Fehlerkorrekturcodes in der Literatur. Zu den bekanntesten gehören die Hamming-, Reed-Solomon-, Viterbi- und Fire-Codes.</p>
+<h3 class="plus0"><a id="Noise" name="Noise"></a><b>Information und Rauschen</b>
+[<a href="#Top">Zurück nach oben</a>]</h3>
+<p>Ein wichtiger Punkt, der zu beachten ist, besteht darin, dass sowohl die Informationsquelle als auch die Rauschquelle in <i>Abb. 6</i> und <i>Abb. 7</i> stochastische Prozesse sind. Beide könnten als Informationsquellen behandelt werden. Der Hauptunterschied besteht darin, dass der Empfänger an der Informationsquelle interessiert ist und die Rauschquelle ignorieren möchte.</p>
+<p>In manchen Fällen wird eine Rauschquelle absichtlich beobachtet, in diesem Fall wird sie zu einer Informationsquelle. Auf der anderen Seite wird manchmal unbeabsichtigt Information von einem Kanal in einen anderen kopiert. Dies wird als Crosstalk bezeichnet, und das Ergebnis ist, dass die uninteressante Informationsquelle eines anderen als Rauschquelle betrachtet wird.</p>
+<p>Wenn Wissenschaftler kosmische Hintergrundstrahlung messen, um sie zu untersuchen, ist sie Information. Störungen in einem Kommunikationssystem durch kosmische Hintergrundstrahlung sind Rauschen. Geländehöhenangaben können als zufällig betrachtet werden. Wenn Sie sie aufzeichnen, um eine topografische Karte zu erstellen, sind sie Information. Wenn Sie den Durchmesser eines Planeten messen wollen, sind sie Rauschen. Dieses Konzept, dass die Information einer Person für eine andere Person Rauschen und umgekehrt ist, wird in Laiendiskussionen über die Informationstheorie häufig missverstanden. Um es noch einmal zu betonen: Es ist das <i>Interesse des Beobachters</i>, das einen stochastischen Prozess in eine Informationsquelle verwandelt.</p>
+<p>Einige Kreationisten werden argumentieren, dass Rauschen Informationen genau so degradiert wie das zweite Gesetz der Thermodynamik Ordnung, und implizieren, dass das zweite Gesetz auf Informationen anwendbar ist. Aber für Shannons Definition von Information, da wir uns nicht um die Bedeutung kümmern, und da der Unterschied zwischen Information und Rauschen nur von unserem Interesse abhängt, ist dieses Argument nicht haltbar. Wir verwandeln Rauschen einfach in Information, indem wir uns dafür entscheiden, uns dafür zu interessieren, und Information in Rauschen, indem wir uns dafür entscheiden, sie zu ignorieren. Weiterhin geht es um thermodynamische Ordnung um die Anordnung von <i>Molekülen</i> und ähnlichen Objekten, nicht um mathematische <i>Symbole</i>, sodass ihr Argument doppelt falsch ist. Informationssymbole sind mathematische Abstraktionen und müssen sich nicht wie ein bestimmtes physikalisches System (wie eine Sammlung von Molekülen) verhalten, wie im nächsten Abschnitt zu sehen sein wird.</p>
+<p>Einige Kreationisten argumentieren zudem für ein Gesetz der Informationserhaltung, ähnlich dem ersten Hauptsatz der Thermodynamik. Wir müssen uns daran erinnern, dass die Energieerhaltung ein Prinzip ist, das durch mehr als 150 Jahre sorgfältiger Datenerhebung etabliert wurde, und hinter der Vorstellung einer Informationserhaltung keinerlei Strenge besteht. In jedem Fall ist dieser vorgeschlagene Gesetz unter Shannons Definition von Information Unsinn. Um Information zu erzeugen, benötigen Sie lediglich einen ergodischen Prozess und einen Beobachter, der ihn beobachtet. Der radioaktive Zerfall von Atomen bietet ein einfaches physikalisches Beispiel. Ein Beobachter des atomaren Zerfalls erhält neue Informationen (welches Atom, zu welcher Zeit, welche Produkte), sobald jedes Atom zerfällt.</p>
+<h3 class="plus0"><a id="Entropy" name="Entropy"></a><b>Shannon-Entropie vs. thermodynamische Entropie</b>[<a href="#Top">Oben</a>]</h3>
+<p>Shannons Informationsentropiefunktion hat genau dieselbe Form wie die Gleichung des H-Theorems von Boltzmann:</p>
+<p><em>H</em>(<em>t</em>) = ∫<em>f</em> ln <em>f</em>
+d<em>c</em></p>
+<p>wo ∫ das Integralzeichen aus der Analysis ist, ln den natürlichen (Basis <i>e</i>) Logarithmus bedeutet, <em>f</em> die Verteilungsfunktion für Moleküle in einem idealen Gas ist und <i>c</i> der Geschwindigkeitsraum. Das Symbol <i>H</i> wird in der Informationstheorie wegen dieser Ähnlichkeit verwendet.</p>
+<p>Interessanterweise ist auch die Brownsche Bewegung (die zufällige thermische Bewegung von Molekülen) ein Markov-Prozess. Aus der <em>H</em>(<em>t</em>)-Formel können wir ableiten:</p>
+<p>S = <em>k</em> ln <em>w</em></p>
+<p>wo <em>S</em> die thermodynamische Entropie eines Systems ist,
+<em>k</em> die Boltzmann-Konstante und <em>w</em> die
+<em>Unordnung</em> des Systems; das heißt, die Wahrscheinlichkeit, dass ein
+System in dem Zustand existiert, in dem es sich befindet, relativ zu allen
+möglichen Zuständen, in denen es sich befinden könnte. Boltzmanns H-Theorem besagt,
+dass nach langer Zeit <em>f</em> das Gleichgewicht erreicht. Dies
+ist ähnlich dem, was Shannon über Informationsquellen sagt,
+die als ergodische Prozesse modelliert werden. Trotz der Ähnlichkeiten
+sind Shannon-Entropie und thermodynamische Entropie nicht dasselbe. Thermodynamische
+Entropie charakterisiert ein statistisches Ensemble molekularer Zustände,
+während Shannon-Entropie ein statistisches Ensemble von Nachrichten charakterisiert.</p>
+<p>In der Thermodynamik geht es bei der Entropie um alle möglichen Anordnungen der Moleküle oder Teilchen, und eine höhere Entropie bedeutet, dass weniger physikalische Arbeit aus dem System gewonnen werden kann. In Shannons Verwendung geht es bei der Entropie um alle möglichen Wege, wie Nachrichten von einer Informationsquelle übermittelt werden können, und eine höhere Entropie bedeutet, dass die Nachrichten gleich wahrscheinlicher sind. Entropie in der Informationstheorie bedeutet <em>nicht</em>, dass Informationen nutzloser oder verschlechtert werden; und da es sich um eine mathematische Abstraktion handelt, steht sie <em>nicht</em> direkt mit physikalischer Arbeit in Verbindung <em>es sei denn</em>, Sie behandeln <em>Moleküle</em> informatisch.</p>
+<p>Die Shannon-Entropie wurde vom Physiker Léon Brillouin mit einem Konzept in Verbindung gebracht, das manchmal als <em>Negentropie</em> bezeichnet wird. Dieser Begriff wurde vom Physiker und Nobelpreisträger Erwin Schrödinger in seinem 1944 erschienenen Werk <a href="https://web.archive.org/web/20151107131851if_/http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=0521427088" rel="external">
+Was ist Leben</a> eingeführt, um zu erklären, wie lebende Systeme Entropie in ihre Umgebung exportieren, während sie selbst bei niedriger Entropie verbleiben; mit anderen Worten, es ist das Negative der Entropie. In seinem 1962 erschienenen Buch <a href="http://store.doverpublications.com/doverpublications/0486439186.html" rel="external">
+Wissenschaft und Informationstheorie</a> beschrieb Brillouin das Negentropie-Prinzip der Information oder NPI, dessen Kern darin besteht, dass das Erlangen von Informationen über die Mikrozustände eines Systems mit einer Verringerung der Entropie einhergeht (für die Extraktion von Informationen ist Arbeit erforderlich, und das Löschen führt zu einer Zunahme der thermodynamischen Entropie). Es liegt keine Verletzung des zweiten Hauptsatzes der Thermodynamik vor, da eine Verringerung der thermodynamischen Entropie in einem lokalen System zu einer Zunahme der thermodynamischen Entropie an anderer Stelle führt.</p>
+<p>Die Beziehung zwischen der Shannon'schen Informationsentropie H und der Entropie S aus der statistischen Mechanik wurde 1957 von Edwin Jaynes rigoros formuliert. Das Ergebnis ist, dass die Informationsentropie und die thermodynamische Entropie eng miteinander verbundene Metriken sind, aber nicht dieselbe Metrik darstellen. Für die meisten Praktiker der Informationstheorie bis heute stellt dies kein Problem dar, da ihr Feld die Kommunikation und Berechnung unter Verwendung herkömmlicher elektronischer Schaltkreise umfasst, in denen die thermodynamische Bedeutung der Entropie nicht diskutiert wird. Die widersprüchliche Terminologie führt jedoch in Bereichen wie molekularen Maschinen und der Physik der Berechnung zu viel Verwirrung, in denen Informations- und thermodynamische Entropie nebeneinander behandelt werden. Einige Autoren, wie Tom Schneider, argumentieren dafür, das Wort <em>Entropie</em> für die <em>H</em>-Funktion der Informationstheorie fallen zu lassen und stattdessen Shannons anderer Begriff <em>Unsicherheit</em> (durchschnittliche Überraschung) zu verwenden. Weitere Informationen dazu finden Sie unter 
+<a href="https://web.archive.org/web/20120414230720if_/http://www.lecb.ncifcrf.gov/~toms/information.is.not.uncertainty.html" rel="external">
+Information Is Not Entropy, Information Is Not Uncertainty!</a>
+</p>
+<p>Im Gegensatz zur molekularen Entropie kann die Shannon-Entropie lokal reduziert werden, ohne Energie in das Informationssystem einzuführen. Das Durchleiten eines Kanals durch einen passiven Filter kann die Entropie der übertragenen Information reduzieren (ohne dass der Sender dies bemerkt, wird die Kanalkapazität verringert, und somit auch die Entropie der Information auf dem Kanal). Die benötigte Leistung zur Übertragung ist gleich, unabhängig davon, ob der Filter vorhanden ist oder nicht, und unabhängig davon, ob die Informationsentropie reduziert wird oder nicht. Ein anderer Weg, dies zu betrachten, besteht darin, ein Kabel eines Kanals mit mehreren parallelen Kabeln zu durchtrennen. Die durchschnittliche Information, die den Kanal überquert, die Entropie, nimmt ab, ohne dass dies mit der Menge an Energie zusammenhängt, die benötigt wird, um das Kabel zu durchtrennen. Oder schalten Sie die Stromversorgung einer Informationsquelle ab und beobachten Sie, wie sich ihre Ausgabe auf ein einziges Symbol „aus" mit einer Wahrscheinlichkeit von 1 festlegt und eine Informationsentropie von 0 aufweist.</p>
+<p>Ein Wort der Vorsicht zur Notation: Für diejenigen, die sich mit der chemischen Thermodynamik auskennen, ist <i>H</i> in der klassischen Informationstheorie nicht <i>Enthalpie</i>, und die beiden Themen sollten nicht verwechselt werden. Ebenso misst das <i>H</i> in der klassischen Informationstheorie eine andere Eigenschaft als das <i>H</i> in der algorithmischen Informationstheorie. Obwohl diese Konflikte in der Notation bedauerlich sein mögen, ist die gesamte Literatur so geschrieben, und jeder, der die Informationstheorie verstehen möchte, wird sich einfach daran gewöhnen müssen.</p>
+<div>
+<hr/></div>
+<p>[<a href="#Top">Oben</a>]</p>
+<div class="center">
+<hr/>
+<table cellpadding="10" summary="">
+<tr>
+<td>
+<p><a href="infotheory.html"><img alt="Zurück" height="40" src="../../../pictures/arrow_l.gif" width="40"/><br/>
+Zurück</a></p>
+</td>
+<td>
+<p><a href="infotheory.html"><img alt="Hoch" height="40" src="../../../pictures/arrow_u.gif" width="40"/><br/>
+Hauptseite</a></p>
+</td>
+<td>
+<p><a href="algorithmic.html"><img alt="Weiter" height="40" src="../../../pictures/arrow_r.gif" width="40"/><br/>
+Weiter</a></p>
+</td>
+</tr>
+</table>
+<p>[<a href="algorithmic.html">Algorithmische Information</a>]
+[<a href="gitt.html">Gitt-Information</a>] [<a href="dembski.html">Dembski-Information</a>] [<a href="spetner.html">Spetner-Information</a>]</p>
+</div>
+<aside aria-label="Weiterführende Studien" class="poc3-augmentation">
+<h2>Lesezugänge</h2>
+<div class="augmentation-grid">
+<section>
+<h3>Quellenverweise</h3>
+<ul><li class="study-link-card">
+<span class="study-link-tag">Quelle</span>
+<a href="http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf">Eine mathematische Theorie der Kommunikation</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Quelle</span>
+<a href="https://web.archive.org/web/20031008055059if_/http://www.ieee.org/organizations/history_center/legacies/shannon.html">Claude E</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Quelle</span>
+<a href="http://www.inference.phy.cam.ac.uk/mackay/info-theory/course.html">Ein kurzer Kurs zur Informationstheorie</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Quelle</span>
+<a href="http://www.inference.phy.cam.ac.uk/mackay/">David MacKay</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Quelle</span>
+<a href="http://www.inference.phy.cam.ac.uk/mackay/itprnn/book.html">Informationstheorie, Inferenz und Lernalgorithmen</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Quelle</span>
+<a href="http://ee-www.stanford.edu/~gray/it.pdf">Entropie und Informationstheorie</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Quelle</span>
+<a href="https://web.archive.org/web/20120205010848if_/http://www-lmmb.ncifcrf.gov/~toms/">Molekulare Informationstheorie und die Theorie molekularer Maschinen</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Quelle</span>
+<a href="https://web.archive.org/web/20120705002140if_/http://www.lecb.ncifcrf.gov/~toms/schneider.html">Tom Schneider</a>
+</li></ul>
+</section>
+<section>
+<h3>Verwandte Lektüre</h3>
+<ul><li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="infotheory.html">Hauptseite</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="algorithmic.html">Algorithmische Information</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="gitt.html">Gitt-Information</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="dembski.html">Dembski-Information</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="spetner.html">Spetner-Information</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="shannon.html#Top">Oben</a>
+</li></ul>
+</section>
+<section><h3>Konzeptuelle Verbindungen</h3><ul><li class="study-link-card concept-card">
+<span class="study-link-tag">Konzept</span>
+<a href="../evolution-definition.html">Evolutionärer Wandel</a>
+<p>Definiert Evolution und gibt den Lesern die Basis, die für spezialisierte Archivartikel benötigt wird.</p>
+<a class="study-search-link" href="../../../search/index.html?q=evolutionary+change&amp;corpora=faqs_articles,index_to_creationist_claims,archive_navigation">Suchen</a>
+</li>
+<li class="study-link-card concept-card">
+<span class="study-link-tag">Konzept</span>
+<a href="../../indexcc/list.html">Kreationistische Behauptungen</a>
+<p>Leitet wiederkehrende Behauptungen in den Index creationistischer Behauptungen weiter, um einen Kontext Behauptung für Behauptung zu bieten.</p>
+<a class="study-search-link" href="../../../search/index.html?q=creationist+claims&amp;corpora=faqs_articles,index_to_creationist_claims,archive_navigation">Suchen</a>
+</li></ul></section>
+</div>
+</aside>
+</article>
+</main>
+<footer class="site-footer">
+<p class="footer-note"><strong>TalkOrigins-Archiv</strong></p>
+<p class="footer-note">Modernisierte Ausgabe, die die Abdeckung der veralteten Routen bewahrt und wiederkehrende Navigationselemente in die site-weite Shell verlagert.</p>
+<p class="footer-note"><a href="../../index.html">Startseite</a> | <a href="../../origins/faqs.html">Durchsuchen</a> | <a href="../../../search/index.html">Suchen</a> | <a href="../../../fb/index.html">Feedback</a> | <a href="../../origins/other-links.html">Links</a> | <a href="../../../downloads/toa-lite/index.html">Downloads</a> | <a href="../../../translation-status/index.html">Übersetzungs-Warteschlange</a></p>
+</footer>
+</div>
+</body>
+</html>

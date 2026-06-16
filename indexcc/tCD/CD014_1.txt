@@ -1,0 +1,58 @@
+BriefClaim: Isochron date of young Grand Canyon lava is excessively old.
+Title: Isochron of Grand Canyon lava flows
+Keywords: Isochron, Grand Canyon, basalt
+
+Claim:
+
+The hawaiite lava flows from the Uinkaret Plateau of the Grand Canyon are
+dated by potassium-argon at about 1.2 million years, an age consistent
+with the lava flow being younger than the canyon itself.  However, a Rb-Sr
+isochron plot of samples from the lava flow gives an age of 1.34 billion
+years, which is older than even the Cardenas Basalt, some of the
+oldest rock in the canyon.  The data points are colinear, which is
+supposed to indicate a valid isochron.  This result shows that the
+isochron method is invalid.
+
+Source:
+
+Austin, Steven A., 1992.  Excessively old "ages" for Grand Canyon lava
+ flows.  _Impact_ 224 (Feb.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=353
+
+Response:
+
+1. One of the requirements for isochron dating is that the samples be
+   cogenetic, that is, that they come from materials that were
+   isotopically homogeneous (with respect to each other) when they formed.
+   Austin's selection of samples violated this assumption.  His five
+   samples came from four different lava flows plus one phenocryst (which
+   likely solidified in the magma chamber before the flow).  Thus,
+   Austin's conclusion, not the isochron method, is invalid.
+
+2. Noncogenetic samples such as Austin used are sometimes used
+   intentionally to determine the age of the common source of the samples.
+   Austin's results confirm that the lithospheric mantle underlying the
+   Grand Canyon (the common source for his samples) is older than the
+   Cardenas Basalt.  Geologists have known this all along.
+
+3. Austin (1988) cited Brooks et al. (1976), showing Austin should have
+   been aware that noncogenetic samples could produce an isochron for the
+   age of their molten material's source.  His misstatement of the
+   significance of the isochron is just plain sloppy.
+
+Links:
+
+Stassen, Chris, 2003.  A criticism of the ICR's Grand Canyon Dating
+ Project.  http://www.talkorigins.org/faqs/icr-science.html
+
+References:
+
+1. Austin, Steven A., 1988.  Grand Canyon lava flows: A survey of
+   isotope dating methods.  _Impact_ 178 (Apr.).
+   http://www.icr.org/pubs/imp/imp-178.htm
+2. Brooks, C., D. E. James and S. R. Hart, 1976.  Ancient lithosphere: Its
+   role in young continental volcanism.  _Science_ 193: 1086-1094.
+
+Further Reading:
+
+Date: 2003-8-4, 2004-9-8

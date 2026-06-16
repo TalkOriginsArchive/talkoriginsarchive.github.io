@@ -1,0 +1,84 @@
+BriefClaim: The earth's magnetic field is decaying, indicating a young earth.
+Title: Decay of Earth's magnetic field
+Keywords: magnetic field, young earth, geophysics, geodynamo.
+
+Claim:
+
+The earth's magnetic field is decaying at a rate indicating that the earth
+must be young.
+
+Source:
+
+Barnes, Thomas G. 1973. _Origin and destiny of Earth's magnetic field_,
+ ICR Technical Monograph No. 4. El Cajon, CA: ICR.
+Humphreys, D. Russell. 1986. Reversals of the Earth's magnetic field
+ during the Genesis Flood.  _Proceedings of the 1st International
+ Conference on Creationism_, Creation Science Fellowship, 2: 113-126.
+Humphreys, Russell. 1993. The Earth's magnetic field is young. _Impact_
+ 242 (Aug.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=371
+
+
+Response:
+
+1. The earth's magnetic field is known to have varied in intensity (Gee et
+   al. 2000) and reversed in polarity numerous times in the earth's
+   history.  This is entirely consistent with conventional models
+   (Glatzmaier and Roberts 1995) and geophysical evidence (Song and
+   Richards 1996) of the earth's interior.  Measurements of magnetic field
+   field direction and intensity show little or no change between 1590 and
+   1840; the variation in the magnetic field is relatively recent,
+   probably indicating that the field's polarity is reversing again
+   (Gubbins et al. 2006).
+
+2. Empirical measurement of the earth's magnetic field does not show
+   exponential decay.  Yes, an exponential curve can be fit to historical
+   measurements, but an exponential curve can be fit to any set of points.
+   A straight line fits better.
+
+3. T. G. Barnes (1973) relied on an obsolete model of the earth's
+   interior.  He viewed it as a spherical conductor (the earth's core)
+   undergoing simple decay of an electrical current.  However, the
+   evidence supports Elsasser's dynamo model, in which the magnetic field
+   is caused by a dynamo, with most of the "current" caused by convection.
+   Barnes cited Cowling to try to discredit Elsasser, but
+   <CD701_1>Cowling's theorem> is consistent with the dynamo earth.
+
+4. Barnes measures only the dipole component of the total magnetic field,
+   but the dipole field is not a measure of total field strength.  The
+   dipole field can vary as the total magnetic field strength remains
+   unchanged.
+
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof11
+
+Thompson, Tim, 1997.  On creation science and the alleged decay of the
+ earth's magnetic field.  http://www.talkorigins.org/faqs/magfields.html
+
+References:
+
+1. Barnes, Thomas G. 1973. _Origin and destiny of Earth's magnetic field_,
+   ICR Technical Monograph No. 4.
+2. Gee, J. S. et al. 2000.  Geomagnetic intensity variations over the
+   past 780 kyr obtained from near-seafloor magnetic anomalies.  _Nature_
+   408: 827-832.
+3. Glatzmaier, G. A. and P. H. Roberts. 1995. A three-dimensional
+   self-consistent computer simulation of a geomagnetic field
+   reversal. _Nature_ 377: 203-209.
+4. Gubbins, David, Adrian L. Jones and Christopher C. Finlay. 2006.  Fall
+   in Earth's magnetic field is erratic.  _Science_ 312: 900-902.  See
+   also: Kono, Masaru. 2006.  Ships' logs and archeomagnetism.  _Science_
+   312: 865-866.
+5. Song, X. and P. G. Richards. 1996. Seismological evidence for
+   differential rotation of the earth's inner core. _Nature_ 382: 221-224.
+
+Further Reading:
+
+Brush, Stephen G., 1983.  Ghosts from the nineteenth century: Creationist
+ arguments for a young earth.  In Godfrey, 1983, _Scientists Confront
+ Creationism_, New York: W. W. Norton & Company, pp. 49-84.
+
+Date: 2001-2-18, 2006-5-12

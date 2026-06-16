@@ -1,0 +1,48 @@
+BriefClaim: The stars and galaxies are unchanging.
+Title: Stars, galaxies, change
+Keywords: stellar evolution
+
+Claim:
+
+The creation model predicts galaxies constant and stars unchanging, in the
+main.  They may decay, but they were created entire and did not build up
+over time.
+
+Source:
+
+SciCre, pp. 13,24-25.
+
+Response:
+
+1. The claim is baseless.  The formation of stars takes on the order of
+   millions of years, so we cannot expect to see major changes as we watch,
+   but that does not mean the stars are unchanging.
+
+   Given our knowledge of physical laws and our observations of stars and
+   interstellar matter, we expect star formation to be occurring
+   continuously, as molecular clouds form and condense.  And we see
+   molecular clouds, protostars, and young stars in all stages of
+   formation, in close agreement with what we expect (Pudritz 2002;
+   Ward-Thompson 2002).
+
+   The existence of stars with differing amounts of heavy elements is also
+   in good agreement with star formation over time, since the heavy
+   elements come only from supernovae of earlier stars.
+
+2. Galaxies have changed over time, too.  Quasars were more common in the
+   earlier universe; there are no recent ones.  We also see galaxies in
+   various stages of colliding.
+
+Links:
+
+References:
+
+1. Pudritz, Ralph E. 2002.  Clustered star formation and the origin of
+   stellar masses.  _Science_ 295: 68-76.
+2. Ward-Thompson, Derek. 2002.  Isolated star formation: From cloud
+   formation to core collapse.  _Science_ 295: 76-81.  (See also related
+   articles in the same issue.)
+
+Further Reading:
+
+Date: 2003-7-11

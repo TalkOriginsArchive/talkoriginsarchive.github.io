@@ -1,0 +1,57 @@
+BriefClaim: Marx admired and corresponded with Darwin.
+Title: Marx and Darwin.
+Keywords: Marx, Darwin, dedication.
+
+Claim:
+
+Marx sent a personally inscribed copy of the second edition of _Das Kapital_
+to Darwin and wanted to dedicate it to him, but Darwin wrote a letter
+politely declining.
+
+Source:
+
+Humber, Paul G. 1987.  Stalin's brutal faith.  _Impact_ 172.
+ http://www.icr.org/index.php?module=articles&action=view&ID=276
+
+#Morris, Henry M. 1973.  Geology and the Flood.  _Impact_ #6.
+# http://www.icr.org/pubs/imp/imp-006.htm
+
+Response:
+
+1. Darwin wrote a letter declining the dedication of an unnamed book on
+   atheism, but he wrote it to Edward Aveling.  Aveling's common-law wife
+   was Elanor Marx, Karl's daughter, and she inherited his papers.  They
+   got mixed up with Karl Marx's papers, and the letter was assumed to
+   have been to Marx.  This view found ideological favor in Russia, so it
+   was widely repeated.  Later, a letter from Aveling, requesting
+   permission to dedicate his book _The Student's Darwin_ to Darwin, was
+   found among Darwin's papers.
+   Darwin declined permission and argued that science should not address
+   religious matters directly (Colp 1982; Carter 2000).
+
+2. Darwin did have a copy of _Das Kapital_, but its pages were unseparated
+   when he died, so he never read it.
+
+3. None of this matters to the science of evolution.
+
+Links:
+
+References:
+
+1. Carter, Richard. 2000.  Marx of Respect.
+   https://web.archive.org/web/20080516010946if_/http://www.gruts.com/darwin/articles/2000/marx/index.htm
+2. Colp, Ralph Jr. 1982.  The myth of the Darwin-Marx letter.
+   _History of Political Economy_ 14(4): 461-482.
+#2. Young, Robert M. 1985.  _Darwin's Metaphor: Nature's Place in
+#   Victorian Culture_.  Cambridge: Cambridge University Press, pp. 20-21,
+#   http://human-nature.com/dm/chap1.html
+
+Further Reading:
+
+Colp, Ralph Jr. 1982.  The myth of the Darwin-Marx letter.
+ _History of Political Economy_ 14(4): 461-482.
+
+Dawkins, Richard. 2000.  There's more to books than titles. 
+ http://archive.workersliberty.org/wlmags/wl61/dawkins.htm
+
+Date: 2001-2-17, 2004-6-28

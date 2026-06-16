@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+THE TALKORIGINS FOUNDATION, INC.
+A Texas Nonprofit Corporation
+
+
+NOTICE OF ANNUAL MEETING
+
+
+The TalkOrigins Foundation will hold its annual meeting on Friday,
+April 22, at 7:00 P.M. Central Standard Time, to continue from day to
+day as necessary.  As per Section 5.04 of the Bylaws, the meeting
+will be conducted by electronic mail or other similar electronic
+transmission.
+
+Preliminary agenda items include the following:
+
+1.  Secretary's report on organization of Foundation.
+2.  Treasurer's report on financial status of Foundation.
+3.  President's report on Archive status.
+4.  Election of new director(s).
+5.  Appointment of officers.
+6.  New business.
+
+Any additional items should be sent to the Secretary by Thursday,
+April 21, for inclusion on the agenda.
+
+
+    /s/ Kenneth J. Fair
+        Secretary, TalkOrigins Foundation
+
+PGP Key ID: 0x046617D6
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP 8.0.2 - not licensed for commercial use: www.pgp.com
+
+iQA/AwUBQk9d2zz5KF0EZhfWEQJAdwCg0JQlUvyYZZO69an9rdCehPdierEAoM0Z
+syG84suATrjF8w6DYZwEYAvc
+=03y7
+-----END PGP SIGNATURE-----

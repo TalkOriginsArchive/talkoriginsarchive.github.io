@@ -1,0 +1,121 @@
+BriefClaim: Dark moths never completely replaced light ones in Manchester.
+Title: Still some light moths in Manchester.
+Keywords: peppered moth, Biston betularia, natural selection, visual predation
+
+Claim:
+
+Melanic moths never completely replaced non-melanic ones in heavily
+polluted areas such as Manchester.  This is inconsistent with the theory
+that visually selective predation was responsible for their increase in
+numbers.
+
+Source:
+
+Wells, Jonathan, 1999.  Second thoughts about peppered moths.
+ http://www.arn.org/docs/wells/jw_pepmoth.htm or
+ http://www.trueorigin.org/pepmoth1.asp
+Wells, Jonathan, 2000. _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 144-149.
+
+Response:
+
+1. Other factors besides visual selection affect frequencies.  These other
+   factors, especially migration, explain the frequency of light-colored
+   moths in heavily polluted industrial areas. 
+
+   The claim is based on a calculation of Haldane's (1956).  He had used a
+   crude 2-allele model of natural selection, and data collected by
+   Kettlewell (1956), to estimate the length of time it should have taken
+   for the proportion of light moths to fall below 5%.  The model assumes
+   that the local relative selection intensity between the light and dark
+   moths is the only factor influencing the changes in their frequencies.
+   With selection of the intensity suggested by Kettlewell's data, Haldane
+   found that the proportion of light moths should have fallen below 5%
+   within about 30-40 years. However, about 10% of the wild moths
+   Kettlewell had collected were of the light form, and the numbers he
+   collected were sufficiently large for this difference to be
+   statistically significant.  Moreover, the conditions near Birmingham
+   where Kettlewell collected his data had apparently favoured the melanic
+   moths for much longer than 40 years.
+
+   Haldane concluded that either the local selection intensity was
+   normally much less than Kettlewell's data suggested, or that it was not
+   the only factor influencing the relative frequencies of the light and
+   dark moths.  He proposed two possible explanations---gene flow from
+   unpolluted areas, which he dismissed as unlikely to be important, and
+   heterozygous advantage.  Evidence in favour of the latter hypothesis is
+   at best equivocal (Creed et al. 1980, 258ff; Bishop et al. 1978,
+   507ff).  However, evidence suggesting that gene flow might be more
+   important than Haldane thought has accumulated steadily since he
+   performed his calculations.
+
+   First, Kettlewell (1958, 60) and Bishop (1972, 222ff) found that
+   male peppered moths can travel quite large distances each day.  Cook
+   and Mani (1980) then developed a mathematical model which incorporated
+   the effects of both migration and selection.  Although the continued
+   presence of light moths in heavily polluted industrial areas was well
+   accounted for by this model, there were other features of the moth
+   distribution which weren't.  Mani (1982), however, found that these
+   features could be accounted for by incorporating the effects of
+   non-visual selection into the model (see the <CB601.2.2>reply to claim
+   CB601.2.2> ).
+
+   None of these developments has cast any doubt on the importance of
+   visually selective predation in determining the relative frequencies of
+   the different forms of peppered moth.  In fact, Mani and Cook's
+   partially successful model and Mani's successful one _both incorporated
+   strong visual selection_, with intensities estimated from field data.
+
+2. Manchester is a particularly poor choice of location to cite as
+   evidence for the claim.  The only published data on the numbers of
+   peppered moths collected in Manchester between the early 20th century
+   and the mid 1960s are those of Michaelis, first published by Kettlewell
+   (1958, 1965, as cited by Askew et al. 1971, 251).  Not one of the
+   760 peppered moths collected by Michaelis between 1952 and 1964 was of
+   the typical light variety.
+
+   It is true that eleven (i.e. 1.4%) of the moths collected by Michaelis
+   were not of the darkest melanic form, _carbonaria_, but of a lighter
+   one, called _insularia_.  But from the data available, Haldane's model
+   is completely incapable of providing any meaningful estimate of what
+   the frequency of _insularia_ should have been in Manchester in the
+   1950s.  All that could be concluded from it is that if the conditions
+   in Manchester had satisfied its underlying assumptions, then the
+   proportion of the _typical light moth_ there should have been extremely
+   low.  But that is exactly what was observed.
+
+References:
+
+1. Askew, R. R., L. M. Cook and J. A. Bishop, 1971. Atmospheric pollution and
+   melanic moths in Manchester and its environs, _J. Appl. Ecol._, 8:
+   247-256.
+2. Bishop, J. A., 1972. An experimental study of the cline of industial
+   melanism in _Biston betularia_ (L.) (Lepidoptera) between urban
+   Liverpool and rural North Wales, _J. Anim. Ecol._, 41: 209-243.
+3. Cook, L. M. and G.S. Mani, 1980. A migration-selection model for the morph
+   frequency variations in the peppered moth over England and Wales,
+   _Biol. J. Linn. Soc._, 13, pp.179-198.
+4. Creed, E. R., D. R. Lees and M. G. Bulmer, 1980.  Pre-adult viability
+   differences of melanic _Biston betularia_ (L.) (Lepidoptera),
+   _Biological Journal of the Linnean Society_, 13: 251-262.
+5. Haldane, J. B. S., 1956. The theory of selection for melanism in
+   Lepidoptera, _Proc. R. Soc. Lond._ (B), 145: 303-306.
+6. Kettlewell, H. B. D., 1956. A resume of investigations of the evolution of
+   melanism in the Lepidoptera, _Proc. R. Soc. Lond._ (B), 145: 297-303.
+7. Kettlewell, H. B. D., 1958. A survey of the frequencies of _Biston
+   betularia_ (L.) (Lep.) and its melanic forms in Great Britain,
+   _Heredity_, 12: 51-72.
+8. Kettlewell, H. B. D., 1965. A 12-year survey of the frequencies of _Biston
+   betularia_ (L.) (Lep.) and its melanic forms in Great Britain,
+   _Entomologist's Rec. J. Var._, 77: 195-218.
+9. Mani, G. S., 1982.  A theoretical analysis of the morph frequency
+   variation in the peppered moth over England and Wales.
+   _Biological Journal of the Linnean Society_ 17: 259-267.
+
+Further Reading:
+
+Grant, Bruce S., 1999.  Fine tuning the peppered moth paradigm.
+ _Evolution_ 53(3): 980-984.  "https://web.archive.org/web/20011109061143if_/http://www.wm.edu/biology/melanism.pdf"
+
+Date: 2003-4-11, 2003-9-1
+

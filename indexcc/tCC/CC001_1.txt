@@ -1,0 +1,35 @@
+BriefClaim: Piltdown man was the subject of 500 doctoral dissertations.
+Title: Dissertations on Piltdown
+Keywords: Piltdown, hoax, athropology.
+
+Claim:
+
+500 doctoral dissertations were written about Piltdown Man.
+
+Source:
+
+Parker, Gary, 1981. Origin of mankind. _Impact_ 101 (Nov.),
+ https://www.icr.org/index.php?module=articles&action=view&ID=183
+
+Response:
+
+1. The claim is false.  In all probability, there were no doctoral
+   dissertations on Piltdown Man.  The claim probably arises from an
+   editorial in _Nature_ which says, "More than five hundred articles and
+   memoirs are said to have been written about Piltdown man."  [Nature
+   editors 1954; Harter 1996]
+
+Links:
+
+Harter, Richard, 1996. Piltdown Man:  The bogus bones caper.
+ http://www.talkorigins.org/faqs/piltdown.html#doctoral_theses
+
+References:
+
+1. Harter, 1996. (see above)
+2. Nature editors, 1954.  The Piltdown bones and 'implements'.  _Nature_
+   274(4419): 61-62.
+
+Further Reading:
+
+Date: 2003-4-15

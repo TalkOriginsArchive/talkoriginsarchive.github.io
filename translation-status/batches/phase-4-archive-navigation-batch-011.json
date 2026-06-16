@@ -1,0 +1,38 @@
+{
+  "id": "phase-4-archive-navigation-batch-011",
+  "phase": "phase-4-archive-navigation",
+  "phase_label": "Archive Navigation and Feedback",
+  "sequence": 11,
+  "status": "complete",
+  "page_count": 1,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/origins/biblio/mammalian_origins.html",
+      "source_path": "origins/biblio/mammalian_origins.html",
+      "title": "Mammalian origins bibliography",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-011",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2222
+    }
+  ],
+  "status_counts": {
+    "translated": 4
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

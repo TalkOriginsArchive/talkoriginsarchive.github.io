@@ -1,0 +1,48 @@
+BriefClaim: Many fossils are out of place.
+Title: Out-of-place fossils
+Keywords: fossil
+
+Claim:
+
+There are over 200 published occurrences of anomalously occurring fossils,
+or fossils that show up in strata of ages much different ages than
+expected.
+
+Source:
+
+Woodmorappe, John, 1982.  Anomalously occurring fossils.  _Creation
+ Research Society Quarterly_ 18 (March).
+ http://www.nwcreation.net/anomalies.html
+
+Response:
+
+1. Few if any of the "anomalous" fossils are truly anomalous.  It is
+   fairly common for fossils to erode out of an old formation and be
+   redeposited in a younger formation.  (It is usually easy to recognize
+   such reworked fossils by the extra wear they show.)  Pollen, spores,
+   and other very small fossils can also be blown or washed into tiny
+   cracks to appear <CC341>in older formations>.  The few anomalies that
+   remain might be explained by genuine range extensions (see below),
+   misidentification of the fossil, or uncertain attribution
+   of where the fossil came from.
+
+2. For most species, the fossil record is quite spotty.  The earliest
+   known fossil of a species is likely to be quite a bit later than the
+   earliest appearance of the species; likewise, the latest known fossil
+   is earlier than the species' extinction.  There are plenty of
+   opportunities for the discovery of new fossils to extend the known
+   range of a species.  It is inappropriate to refer to such new
+   discoveries as anomalies.
+
+3. Even 200 anomalies is an insignificant amount compared with the
+   estimated 250 million fossils that have been catalogued and the much
+   larger number that have been discovered.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2004-3-22
+

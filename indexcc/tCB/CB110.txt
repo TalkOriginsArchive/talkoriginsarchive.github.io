@@ -1,0 +1,59 @@
+BriefClaim: Microevolution selects only existing variation.
+Title: Microevolution and pre-existing variation
+Keywords: mutation, microevolution, variation, selection, genetic drift.
+
+Claim:
+
+Microevolution (for example, the development of insecticide resistance)
+merely selects preexisting variation.  It does not demonstrate that
+mutations create new variation.
+
+Source:
+
+Wallace, Timothy, 2002.  Five major _evolutionist_ misconceptions about
+ evolution.  https://web.archive.org/web/20080518113931if_/http://www.trueorigins.org/isakrbtl.asp
+
+
+Response:
+
+1. In experiments with bacteria, variation (including beneficial
+   mutations) arises in populations that are grown from a single
+   individual (Lederberg and Lederberg 1952).  Since the population started
+   with just one chromosome, there was no variation in the original
+   population; all variation must have come from mutations.
+
+   Furthermore, disease organisms and insect pests have developed
+   resistance to a variety of antibiotics and pesticides, many of them
+   artificial and unlike anything in nature.  It is highly improbable that
+   all insects were created with resistance to all pesticides.
+
+2. Mutation is the only natural process that adds variation to
+   populations.  Selection and genetic drift remove variation.  If
+   mutations did not create new variation, there would now be little or no
+   variation to select from.  In particular, reducing populations to a
+   single pair of individuals, as Noah's Flood requires, would have
+   removed very nearly all variation from the world's wildlife in one
+   stroke.
+
+3. It is true that much microevolution selects from preexisting variation.
+   In animals, that kind of microevolution occurs much faster than waiting
+   for certain mutations to occur, so we often see artificial selection
+   programs stall when they have selected among all the variation that was
+   there to begin with.  However, if the selection is maintained, change
+   should continue, albeit at a much slower rate.
+
+
+Links:
+
+References:
+
+1. Lederberg, J. and E. M. Lederberg, 1952. Replica plating and indirect
+   selection of bacterial mutants. _Journal of Bacteriology_ 63: 399-406.
+
+Further Reading:
+
+True, Heather L. and Susan L. Lindquist, 2000.  A yeast
+ prion provides a mechanism for genetic variation and phenotypic
+ diversity.  _Nature_ 407: 477-483. (technical)
+
+Date: 2001-2-17

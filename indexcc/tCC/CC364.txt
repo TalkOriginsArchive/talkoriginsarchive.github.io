@@ -1,0 +1,45 @@
+BriefClaim: Sea fossils have been found on mountaintops.
+Title: Marine fossils on mountains
+Keywords: fossilization, deposition
+
+Claim:
+
+Seashells and other marine fossils have been found on mountaintops, even
+very tall ones.  These indicate that the sea once covered the mountains,
+which is evidence for a global flood.
+
+Source:
+
+LifeHow, p. 203.
+
+Response:
+
+1. Shells on mountains are easily explained by uplift of the land.
+   Although this process is slow, it is observed happening today, and it
+   accounts not only for the seashells on mountains but also for the other
+   geological and paleontological features of those mountains.
+   The sea once did cover the areas where the fossils are found, but they
+   were not mountains at the time; they were shallow seas.
+
+2. A flood cannot explain the presence of marine shells on mountains for
+   the following reasons:
+    - Floods erode mountains and deposit their sediments in valleys.
+    - In many cases, the fossils are in the same positions as they grow in
+      life, not scattered as if they were redeposited by a flood.  This
+      was noted as early as the sixteenth century by Leonardo da Vinci
+      (Gould 1998).
+    - Other evidence, such as fossilized tracks and burrows of marine
+      organisms, show that the region was once under the sea.  Seashells
+      are not found in sediments that were not formerly covered by sea.
+
+Links:
+
+References:
+
+1. Gould, Stephen J., 1998.  The upwardly mobile fossils of Leonardo's
+   living earth.  In: _Leonardo's Mountain of Clams and the Diet of
+   Worms_, New York: Three Rivers Press, pp. 17-44.
+
+Further Reading:
+
+Date: 2003-6-21, 2004-5-17

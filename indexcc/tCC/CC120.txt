@@ -1,0 +1,38 @@
+BriefClaim: Baugh found a fossilized finger from the Cretaceous.
+Title:  Baugh's Cretaceous fossil finger
+Keywords: Cretaceous, oopart, fossil.
+
+Claim:
+
+A fossilized human finger has been found from the Cretaceous.
+
+Source:
+
+Lines, David, 1995.  The fossilized human finger.
+ https://web.archive.org/web/20070703211606if_/http://www.creationevidence.org/museum_tour/finger/finger.html
+
+Response:
+
+1. The finger looks remarkably similar in size and shape to the
+   cylindrical sandstone infillings of _Ophiomorpha_ or _Thalassinoides_
+   shrimp burrows commonly found in Cretaceous rocks.  Although its
+   general shape is fingerlike, it has none of the fine structure one
+   would expect from a finger.
+
+2. The fossil was not found _in situ_, so it cannot be conclusively
+   associated with Cretaceous formations (Kuban 1996).  Even if it were a
+   real fossil finger, it would be of no value as evidence against
+   evolution.
+
+Links:
+
+Kuban, Glen J. 1996.  A review of NBC's "The Mysterious Origins of Man".
+ http://www.talkorigins.org/faqs/paluxy/nbc.html
+
+References:
+
+1. Kuban, G. J. 1996.  (see above)
+
+Further Reading:
+
+Date: 2001-2-18, 2004-3-10

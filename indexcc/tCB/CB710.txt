@@ -1,0 +1,45 @@
+BriefClaim: Genes with major effects on development are conserved across phyla.
+Title: Similarity of genes for early development
+Keywords: development, embryology, HOX.
+
+Claim:
+
+Evolution predicts that different kinds of organisms should have different
+genetic programs, but the genes responsible for major effects early in
+development are very similar across diverse phyla.  For example, the gene
+_distal-less_ gives rise to limbs in several different phyla, but the
+limbs themselves are not structurally or evolutionarily homologous.
+
+Source:
+
+Wells, Jonathan. 2000. _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 74-76.
+
+Response:
+
+1. Wells's observation is quite in accord with what evolution predicts.
+   Genes responsible for early developmental effects should not be
+   expected to change greatly because small changes early in development
+   produce large changes later, and those large changes are likely to be
+   damaging.  It makes more sense that the genes to change would be the
+   ones that modify and regulate the early developmental genes.  Thus, the
+   genes that cause a limb to grow would be conserved, but many of the
+   genes that regulate its form would not.
+
+2. There are significant differences between phyla, too.  Although any
+   given HOX gene (the genes that determine much of an animal's basic body
+   plan) may be very similar between phyla, different phyla differ in
+   which HOX genes they carry and in how many copies of each they have
+   (Carroll 1997).
+
+Links:
+
+References:
+
+Further Reading:
+
+Carroll, Robert L. 1997.  _Patterns and Processes of Vertebrate
+ Evolution_, Cambridge and New York: Cambridge University Press.  See
+ especially chap. 10. (technical)
+
+Date: 2001-3-31

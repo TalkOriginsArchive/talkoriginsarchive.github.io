@@ -1,0 +1,17 @@
+
+
+ body {font-family: "Times New Roman", sarif; }
+ blockquote {padding: 1ex;  background: #f3f3f3; color:black }
+ blockquote blockquote { padding: 1ex; background: #f3f3f3; border: gray dotted 1px }
+.crquote {background: #eeeeee; color:black;  padding:1em; border: gray double 3px }
+.AnotherResponse {width:25%; height:1px; color:#c0c0c0; background:transparent}
+.NewQuote {width:99%; height:1px; color:#707070; background:transparent}
+.quotedby {color: #007000; font-weight:500; font-family:"arial",sans-serif; 
+           font-size: 90%; font-style:normal; background:transparent}
+.indent { margin-left: 5ex; }
+
+@media aural 
+{
+   body {voice-family: male; azimuth: center}
+	.quotedby {voice-family: female; azimuth: right}
+}

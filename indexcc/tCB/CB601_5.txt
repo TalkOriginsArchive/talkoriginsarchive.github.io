@@ -1,0 +1,257 @@
+Title: Dark peppered moths in pre-industrial times
+Keywords: biston betularia, carbonifera
+
+Claim:
+
+The dark form of peppered moth has always existed in the peppered moth
+population.  Peppered moth evolution merely shows changes in relative
+numbers of the different varieties.  Nothing new originated.
+
+Source:
+
+Response:
+
+1. In the absence of soot to darken the trees, the dark form of peppered
+   moths is selected against at a rate that would cause its extinction
+   in a few decades.
+
+2. There is no evidence that any of the dark moths were seen before 1848,
+   despite the fact that naturalists of the time would almost certainly
+   have taken notice of any they saw.  John Ray (1710) and Linnaeus (1758)
+   describe only the light variety.  Ford (date?, 329) noted a single
+   specimen of the dark peppered moth in the William Jones collection in
+   the Department of Entomology at Oxford University, caught sometime
+   before 1811, about 30 years after the Industrial Revolution came to
+   England.  Kettlewell and R. C. Steward examined the lepidoptera in the
+   British National Museum and Steward looked in the Welsh National Museum
+   looking for the earliest specimens and found none from earlier than the
+   mid-1800s (Steward 1977).
+
+Links:
+
+References:
+
+1. Ford, E. B. date??. _Ecological Genetics_ 4th ed.
+2. Linnaeus. 1758.  _Systema Naturae_, 10th ed.
+3. Ray, John. 1710.  _History of Insects_.
+4. Steward, R. C. 1977.  _Ecological Entomology_ 2: 232.
+
+Further Reading:
+
+#Acknowledgements: David Wilson did the research.
+
+--------------------------------
+From: David Wilson <see_sig@for_my.address>
+Newsgroups: talk.origins
+Subject: Re: Answers in Genesis Barrage
+Date: Tue, 21 Jun 2005 02:30:19 +1000
+Message-ID: <200506201630.j5KGUJD02235@fwi.net.au>
+
+In article <%YGse.3542$NU5.1959@newssvr13.news.prodigy.com> on June 17th
+in talk.origins John Harshman <jharshman.diespamdie@pacbell.net> wrote:
+
+>eNo [in article <UqGse.7$132.4@dfw-service2.ext.ray.com>] wrote:
+>
+>> "John Harshman" <jharshman.diespamdie@pacbell.net> wrote in message
+>> news:56Fse.3752$Pa5.240@newssvr21.news.prodigy.com...
+>> 
+>>>Dudealmighty wrote:
+>>>
+>>>
+>>>>I was hit with an entire article from AiG ina debate; could someone
+>>>>assist me? I can't find specific faqs in talkorigins.
+>>>>
+>>>>
+>>>>---------------------------
+>>>>
+>>>>Genetics: no friend of evolution
+>>>>A highly qualified biologist tells it like it is.
+>>>>by Lane Lester
+>>>
+>>>   ... [snip] ....
+>>>
+>>>>Natural selection is the obvious fact that some varieties of creatures
+>>>>are going to be more successful than others, and so they will
+>>>>contribute more offspring to future generations. A favourite example of
+>>>>natural section is the peppered moth of England, Biston betularia. As
+>>>>far as anyone knows, this moth has always existed in two basic
+>>>>varieties, speckled and solid black.
+
+Actually, there's also a third "variety" comprising a multiplicity of
+intermediately coloured forms, ranging from a light grey, almost
+indistinguishable from the normal speckled form, to a very dark grey, almost
+indistinguishable from the black form.
+
+>>>
+>>>Not true. In fact it's a clear example of a mutation. Melanistic
+>>>mutations are not all that rare in populations. But if selected against
+>>>they disappear quickly. In fact no melanistic moths had been seen (or at
+>>>least reported) before the indiustrial revolution, for the simple reason
+>>>that they were all presumably eaten long before they achieved noticeable
+>>>frequency. When melanism became favorable, one or more of the
+>>>newly-occurring mutants was able to spread.
+>>>
+>>>
+>>>>In pre-industrial England, many of
+>>>>the tree trunks were light in colour. This provided a camouflage for
+>>>>the speckled variety, and the birds tended to prey more heavily on the
+>>>>black variety. Moth collections showed many more speckled than black
+>>>>ones. When the Industrial Age came to England, pollution darkened the
+>>>>tree trunks, so the black variety was hidden, and the speckled variety
+>>>>was conspicuous. Soon there were many more black moths than speckled
+>>>>[Ed. note: see Goodbye, peppered moths for more information].
+>>>>
+>>>>As populations encounter changing environments, such as that described
+>>>>above or as the result of migration into a new area, natural selection
+>>>>favours the combinations of traits which will make the creature more
+>>>>successful in its new environment. This might be considered as the
+>>>>positive role of natural selection. The negative role of natural
+>>>>selection is seen in eliminating or minimizing harmful mutations when
+>>>>they occur.
+>>>
+>>>So he's not doubting natural selection, or even the existence of
+>>>beneficial mutations. All he's doubting is that beneficial mutations can
+>>>do more than result in the loss of characters. But then he uses as an
+>>>example melanistic moths, which do indeed result from a mutation that
+>>>adds a character (i.e. greater pigment deposition). Is this confused or
+>>>what?
+>> 
+>> 
+>> Hmm. No confusion from where I sit: the claim that black moths resulted from
+>> mutations is entirely yours and not at all theirs. AiG's writer(s) is
+>> claiming that the spotted and all-black traits were both present in the
+>> genome a-priori, then selected for as the environment changed.
+>
+>The contradiction lies in accepting natural selection but then supposing
+>that such a variation could be maintained in the face of it.
+>
+>> You, on the
+>> other hand, are claiming the all-black trait came about as a result of
+>> mutation(s). For this, you offer that "no melanistic moths had been seen (or
+>> at least reported) before the industrial revolution." This seems queazy at
+>> best. Were people even looking for black moths?
+>
+
+Of course there were people looking for black moths then.  The 17th and
+18th centuries were the period of the scientific revolution, when Europe
+experienced an explosion of interest in all sorts of scientific activities,
+not the least of which was natural history.  People like John Ray
+and Carl von Linn (aka Linnaeus), to name just two of the most prominent
+naturalists of the time, were scouring all over the place not just for black
+moths, but for moths of _any_ colour, or for any other bugs, plants or animals
+they could lay their hands on.   Since there is not a shred of evidence that
+anyone captured, or even observed, a black _peppered_ moth before the
+industrial revolution, it is of course highly unlikely that any naturalists
+of the time would have _specifically_ searched for such a thing.  Why should
+they, if they weren't even aware of its existence?  
+
+Nevertheless, there is little doubt that any of the more knowledgeable
+naturalists of the time (such as Ray or Linnaeus, for instance), would have
+found such a specimen extremely interesting, and would hardly have failed to
+mention it somewhere in their writings on the peppered moth if they had ever
+come across an instance.  Indeed, in his book _The Evolution of Melanism_
+(p.131), Kettlewell notes that once the existence of the melanic varieties
+became known in England in the mid 19th century they were much sought
+after by collectors.  So if their existence had been known to any knowledgeable
+collectors before then it seems reasonable to expect that there would be
+some record of it.
+
+Guess what.  Ray's _History of Insects_ of 1710 contains a description of
+the normal light peppered moth but none of any dark varieties.  Likewise, the
+only variety of peppered moth desribed in the historic 10th edition of
+Linnaeus's _Systema Naturae_ of 1758 (as well as all subsequent editions) is
+the normal light variety.  Likewise, all other illustrations or descriptions of
+peppered moths which have so far come to light from the entomological
+literature of the 17th and 18th centuries have been of the light variety.  It
+would appear that there is no trace of the existence of any dark variety to be
+found anywhere in this literature.
+
+In the 4th edition of his _Ecological Genetics_ (p.329), E.B. Ford noted
+that the William Jones collection in the Department of Entomology at
+Oxford University contains a single specimen of the dark peppered moth that
+was caught at an unknown location some time before 1811.  This is by
+far the earliest specimen of dark moth that has so far come to light
+from any collection anywhere.  Note that by 1811 the industrial revolution
+had been under way in England for at least 30 years.
+
+Before Ford pointed out this specimen, Kettlewell had already examined the
+National Collection of British Lepidoptera in the British Museum.  He
+found no dark peppered moths dating to any earlier than the mid 19th century.
+Subsequently, R.C.Steward (_Ecological Entomology_, 2 (1977), p.232) examined
+this collection, as well as that in the Welsh National Museum and the
+Hope Department in Oxford, similarly without finding any earlier dark
+peppered moths.  Steward's investigation seems to have been carried out
+_after_ Ford had already pointed out the existence of a specimen pre-dating
+1811, but he appears to have been unaware of it.
+
+>You may as well ask whether they were looking for moths at all. But at
+>any rate, if you allege that failure to find them is merely a result of
+>not looking, there is no support for their having been around from the
+>beginning either.
+>
+>> Were they rare to the point
+>> of virtual unobservability because of predation?
+>
+>Indeed they were. In fact there must have been many rapid extinctions of
+>melanistic mutations over the years. Melanism is quite a common mutation
+> in all sorts of species; but the melanistic variants just don't last
+>long except in those rare cases where they are advantageous.
+>
+>> At any rate, you and AiG
+>> seem to be at dispute on this very point, since they claim that "[m]oth
+>> collections showed many more speckled than black ones." IOW, black moths did
+>> exist prior to the industrial revolution, and hence the trait already
+>> existed in the genome--no need for mutation. I take it you believe AiG is
+>> wrong on this point and/or that their claim regarding collections is false?
+>
+>No surprise. Yes, he is wrong. Yes, his claim is false.
+>
+>It's easy to show that melanistic moths would be rapidly eliminated by
+>natural selection if melanism were indeed disadvantageous, as it has
+>been shown to be in an unpolluted environment.  Since the author admits
+>that selection works, how would he propose to maintain the allele from
+>creation until the industrial revolution, through all those thousands of
+>years of negative selection? The trait being dominant, there are no
+>complications as with recessive alleles: every generation it's reduced
+>in frequency by an amount proportional to its selective coefficient
+>until it's gone.
+>
+>As for the date of the first known melanistic moth, the source I was
+>able to find immediately lists it as 1845. That's in this:
+>
+>https://web.archive.org/web/20070713202653if_/http://www.ncseweb.org/resources/articles/823_issue_18_volume_6_number_2__4_29_2003.asp
+>
+>And the reference there appears to be this, which I don't have:
+>Northington, D. K., and Goodin, J. R. 1984. The Botanical World. St.
+>Louis: Times Mirror/Mosby; pp. 408-409.
+>
+>Now, I had thought that the date was earlier, but I can't find anything
+>better right now.  ...
+
+See above.  Unfortunately, details given in text-book accounts of the 18th
+and 19th century history of the peppered moth are not always reliable.
+The usual date given for the earliest sighting is 1848. The only evidence
+I have ever seen cited for this is a letter from one R.S.Edelston to the
+1864-65 issue of _The Entomologist_ (vol 2, p.150).  I have a photocopy
+of this, which reads as follows, in its entirety:
+
+  _Amphydasis betularia_. --- Some sixteen years ago the "negro" aberration
+  of this common species was almost unknown; more recently it has been
+  had by several parties.  Last year I obtained the eggs of a female of
+  the common form, which had been _in cop._ with a "negro" male : the
+  larvae I fed on willow, and this year had some remarkably pretty
+  aberrations, the connecting-link between the "negro" and the usual
+  form, but far before either as regards beauty : I placed some of the
+  virgin females in my garden, in order to attract the males, and was not
+  a little surprised to find that most of the visitors were the "negro"
+  aberration :  If this goes on for a few years the original type of
+  A. betularia will be extinct in this locality.  
+
+>  ... [snip rest] ....
+
+--------------------------------------------------------------------------
+David Wilson
+
+SPAMMERS_fingers@WILL_BE_fwi_PROSECUTED_.net.au
+(Remove underlines and upper case letters to obtain my email address
+

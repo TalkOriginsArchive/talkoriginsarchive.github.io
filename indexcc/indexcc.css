@@ -1,0 +1,110 @@
+/* style sheet for Index to Creationist Claims */
+/* Copied from main.css, with additions for the Index and some irrelevant stuff removed */
+
+body {  background: white;
+             color: black;
+       margin-left: 3%;
+      margin-right: 5% }
+       
+h1, h2, h3, h4, h5, h6 
+     { color:black; 
+       background: transparent /* Inherit from parent i.e. no change */ }
+
+a:link    { color: blue;   background: transparent }
+a:visited { color: purple; background: transparent }
+a:hover   { color: navy;   background: transparent }
+a:active  { color: maroon; background: transparent }
+
+address { color: black; background: transparent; font-style: normal }
+
+table { margin: 1ex; 
+        clear: none;
+      }
+
+caption { caption-side: bottom }
+
+.grey { background: #e0e0e0; 
+             color: black }
+
+.plus2  { font-size: 152% }
+.plus1  { font-size: 114% }
+.plus0  { font-size: 100% }
+.minus1 { font-size:  83% }
+.minus2 { font-size:  65% }
+
+.center { text-align:   center;
+          margin-left:  auto;
+					margin-right: auto }
+.left   { text-align: left }
+.right  { text-align: right }
+
+.plus2, .plus1, .plus0, .minus1, .minus2
+   { font-weight: normal; padding: 0; margin: 0 }
+
+.indent { margin: auto 3em }
+
+q { quotes:"" "" "" "" }  
+
+.noborder { border: none }
+.nobullets { list-style:  none outside;
+             margin-left: 0%;
+						 padding:     0% }
+
+.header
+{
+    margin-left:  auto;
+    margin-right: auto;
+    text-align:   center;
+    clear:        both;
+}
+
+.trailer
+{
+    margin-left:  auto;
+    margin-right: auto;
+    text-align:   center;
+    font-size:    83%;
+    clear:        both;
+}
+
+img
+{
+	border: none;
+}
+
+.clearall  { clear: both }
+
+/* The following is specific to indexcc */
+ul { list-style: disc }
+h2.c {	color:black;
+     }
+h3.s {	font-size: 16pt
+     }
+h2.ref { font-size: 16pt
+     }
+div.s {	font-size: smaller;
+      }
+div.ref { font-size: smaller;
+        }
+div.d {	font-style: italic
+      }
+strong { font-style: italic;
+	font-weight: normal
+       }
+b.new {	color:red
+      }
+
+a.new:link    { color:red; font-weight:bold }
+a.new:visited { color:red; font-weight:bold }
+a.new:active  { color:red; font-weight:bold }
+a.new:hover   { color:red; font-weight:bold }
+a.c2:link    { color:gray; }
+a.c2:visited { color:#cccccc; }
+a.c2:active  { color:gray; }
+a.c2:hover   { color:gray; }
+a.c4:link    { color:#00cccc; }
+a.c4:visited { color:#66cc99; }
+a.c4:active  { color:#00cccc; }
+a.c4:hover   { color:#00cccc; }
+
+

@@ -1,0 +1,65 @@
+BriefClaim: An evolved mind is fallible, its conclusions untrustworthy.
+Title: Mind's fallibility
+Keywords: mind, imperfection
+
+Claim:
+
+If our minds arose from lesser animals via natural processes, then our
+minds may be fallible.  Then the conclusions that we come up with are
+subject to doubt, including the conclusion of evolution itself.
+
+Darwin (1881) wrote in a letter, "With me the horrid doubt always arises
+whether the convictions of man's mind, which has been developed from the
+mind of the lower animals, are of any value or are at all trustworthy."
+
+
+Source:
+
+Plantinga, A. 1991.  An evolutionary argument against naturalism.
+ _Logos_ 12: 27-49.
+
+Response:
+
+1. It is well established that the mind is fallible.  Ordinary memory and
+   reasoning are mistaken surprisingly often (Gilovich 1991; Schacter
+   2001).  Pathologies add further complications (Sacks 1970).  This
+   fallibility exists whatever the source of our minds may be.
+
+   Doubt exists in all areas of life.  Nothing can be <CA202>proven
+   absolutely>.  However, many things are certain enough that we call them
+   facts and do not worry about the possibility that they are wrong until
+   we see actual evidence that they are wrong.  Without such an attitude,
+   we would never be able to get on with our lives.
+
+2. The fallibility of our minds argues more against creationism.
+   Nobody can be certain of it either, and minds as imperfect as ours
+   argue against their being divinely created.
+
+3. Darwin only applied this argument to questions beyond the scope of
+   science.  He thought science was well within the scope of a modified
+   monkey brain.
+
+Links:
+
+References:
+
+1. Darwin, C. 1881.  Letter to W. Graham.  In F. Darwin, ed., _The Life
+   and Letters of Charles Darwin_.  New York, D. Appleton & Co., 1905.
+   https://web.archive.org/web/20050306104453if_/http://pages.britishlibrary.net/charles.darwin/texts/letters/letters1_08.html
+2. Gilovich, Thomas. 1991.  _How We Know What Isn't So_, New York: Free
+   Press.
+3. Sacks, Oliver. 1970.  _The Man Who Mistook His Wife for a Hat_,
+   New York: HarperCollins.
+3. Schacter, Daniel L. 2001.  _The Seven Sins of Memory_, New York:
+   Houghton Mifflin.
+
+Further Reading:
+
+The books listed above (Gilovich; Sacks; and Schacter) are all excellent
+ popular accounts.
+
+Ruse, Michael. 2001.  _Can a Darwinian Be a Christian?_, Cambridge
+ University Press, pp. 106-110.
+
+Date: 2003-5-13, 2003-9-1
+

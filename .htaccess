@@ -1,0 +1,10 @@
+<Limit GET POST PUT>
+ order deny,allow
+ deny from all
+ # allow from 123.456.789
+</LIMIT>
+ErrorDocument 403 /down.php
+<Files down.php>
+ order allow,deny
+ allow from all
+</Files>

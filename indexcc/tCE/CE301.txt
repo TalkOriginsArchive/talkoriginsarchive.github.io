@@ -1,0 +1,41 @@
+BriefClaim: The lack of solar neutrinos indicates that the stellar model is wrong.
+Title: Missing solar neutrinos
+Keywords: fusion
+
+Claim:
+
+The number of neutrinos detected coming from the sun is only about a third
+of what is predicted by standard solar models.  This indicates a lack of
+nuclear fusion in the sun, supporting <CE310.1>gravitational collapse>
+theory.
+
+Source:
+
+Davies, Keith. 1996.  Evidences for a young sun.  _Impact_ 276 (June).
+ http://www.icr.org/index.php?module=articles&action=view&ID=405
+
+Response:
+
+1. A new, more sensitive neutrino detector has found that the number of
+   electron neutrinos coming from the sun is less than expected, but the
+   total number of neutrinos coming from the sun matches predictions.
+   Apparently, neutrinos are changing flavor en route as a result of
+   quantum mechanical effects (Ahmad et al. 2002).
+
+Links:
+
+Johansson, Sverker, 1998.  The Solar FAQ.
+ http://www.talkorigins.org/faqs/faq-solar.html
+
+References:
+
+1. Ahmad, Q. R. et al. (SNO Collaboration). 2002.  Direct evidence for
+   neutrino flavor transformation from neutral-current interactions in the
+   Sudbury Neutrino Observatory.  _Physical Review Letters_ 89: 011301.
+   http://xxx.lanl.gov/abs/nucl-ex/0204008
+#2. Seife, C., 2002.  Neutrino census nails chameleon particles.
+#   _Science_ 296: 632-633.
+
+Further Reading:
+
+Date: 2003-4-22

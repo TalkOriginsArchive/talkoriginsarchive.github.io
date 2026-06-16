@@ -1,0 +1,43 @@
+BriefClaim: The average land animal is the size of a sheep.
+Title: Average size of animal on ark
+Keywords: mean
+
+Claim:
+
+The average size of the animals aboard the ark was the size of a sheep or
+less, so Noah's ark was not overly crowded.
+
+Source:
+
+GenesisFlood, p.
+ 69.
+Woodmorappe, John, 1996.  _Noah's Ark: A Feasibility Study_, Santee,
+ CA: ICR, p. 13.
+
+Response:
+
+1. It is the total size of all animals aboard the ark that matters, not
+   the average size.  The total size is greater than would have been
+   practical for the ark to carry (Isaak 1998).
+
+2. The average size of vertebrate aboard the ark was 347 kg (765 lb.),
+   according to the values used by Woodmorappe (1996).  Woodmorappe said
+   that Whitcomb and Morris's sheep comparison is overly generous because
+   the median size is that of a large rat, but the median statistic is not
+   useful for anything in this context.  Woodmorappe placed 15,746
+   animals aboard the ark, for a total weight of 5,464,000 kg.  This is
+   equivalent to 347 kg per animal.
+
+Links:
+
+Isaak, Mark, 1998.  Problems with a global flood, 2nd ed.,
+ http://www.talkorigins.org/faqs/faq-noahs-ark.html
+
+References:
+
+1. Isaak, M., 1998 (see above).
+2. Woodmorappe, J., 1996 (see above).
+
+Further Reading:
+
+Date: 2003-5-15

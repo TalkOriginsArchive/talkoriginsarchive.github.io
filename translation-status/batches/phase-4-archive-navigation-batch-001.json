@@ -1,0 +1,56 @@
+{
+  "id": "phase-4-archive-navigation-batch-001",
+  "phase": "phase-4-archive-navigation",
+  "phase_label": "Archive Navigation and Feedback",
+  "sequence": 1,
+  "status": "complete",
+  "page_count": 2,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/origins/admin.html",
+      "source_path": "origins/admin.html",
+      "title": "The Talk.Origins Archive: Administrative",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1152
+    },
+    {
+      "route": "/origins/biblio/anamniotics.html",
+      "source_path": "origins/biblio/anamniotics.html",
+      "title": "Anamniotics bibliography",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 868
+    }
+  ],
+  "status_counts": {
+    "translated": 8
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

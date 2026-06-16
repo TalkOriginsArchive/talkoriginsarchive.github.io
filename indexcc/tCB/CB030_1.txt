@@ -1,0 +1,62 @@
+BriefClaim: Early molecules would have been destroyed by ultraviolet light.
+Title: UV effect on early molecules
+Keywords: abiogenesis, UV, ultraviolet, complexity.
+
+Claim:
+
+Since the early atmosphere had no ozone layer, ultraviolet (UV) light
+would have irradiated organic molecules that formed in the atmosphere,
+destroying complex molecules.
+
+Source:
+
+LifeHow, p. 41.
+
+Response:
+
+1. When simple organic molecules are held together in a fairly
+   concentrated area, such as stuck to a dust or ice grain, the UV light
+   actually enhances the formation of more complex molecules by breaking
+   some bonds and allowing the molecules to recombine (Bernstein et al.
+   1999; Cooper et al. 2001).  DNA and RNA are relatively resistant to UV
+   light, because some parts of the molecules shelter others and damage
+   to the bases can provide the materials to repair the backbone.  UV
+   light gives nucleic acids a selective advantage and may in fact have
+   been an essential ingredient for abiogenesis (Mulkidjanian et al. 2003;
+   Mullen 2003).
+
+2. The molecules need not all have stayed exposed to UV for long.  Some
+   would have dissolved in oceans and lakes.  In one proposed scenario,
+   the complex organic molecules form in the deep ocean around geothermal
+   vents, well away from ultraviolet light.
+
+Links:
+
+References:
+
+1. Bernstein, M. P., S. A. Sandford, L. J. Allamandola, J. S.
+   Gillette, S. J. Clemett and R. N. Zare. 1999.  UV irradiation of
+   polycyclic aromatic hydrocarbons in ices: Production of alcohols,
+   quinones, and ethers.  _Science_ 283: 1135-1138.  See also:
+   Ehrenfreund, P., 1999.  Molecules on a space odyssey.  _Science_ 283:
+   1123-1124.
+2. Cooper, G. et al. 2001.  Carbonaceous meteorites as a source of
+   sugar-related organic compounds for the early Earth.  _Nature_ 414:
+   879-883.  See also: Sephton, M. A., 2001.  Life's sweet beginnings?
+   _Nature_ 414: 857-858.
+#2. Minkel, J. R. 2002.  Space rock candy.  SciAm 286(3) (Mar.): 28 (citing
+#   _Nature_ 414:879).
+3. Mulkidjanian, A. Y., D. A. Cherepanov and M. Y. Galperin. 2003.
+   Survival of the fittest before the beginning of life:
+   selection of the first oligonucleotide-like polymers by UV light.
+   _BMC Evolutionary Biology_ 3:12.
+   http://www.biomedcentral.com/1471-2148/3/12/abstract
+4. Mullen, Leslie. 2003.  Shining light on life's origin.  _Astrobiology
+   Magazine_, https://web.archive.org/web/20090105141656if_/http://www.astrobio.net/news/article492.html
+
+Further Reading:
+
+Bernstein, M. P., S. A. Sandford and L. J. Allamandola. 1999.  Life's
+ far-flung raw materials.  _Scientific American_ 281(1) (July): 42-49.
+
+Date: 2001-2-17, 2004-6-12

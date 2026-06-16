@@ -1,0 +1,47 @@
+BriefClaim: Fruit fly experiments produce only fruit flies.
+Title: New fruit fly species
+Keywords: speciation
+
+Claim:
+
+Fruit flies have been mutated and bred in laboratories for generations,
+but they are still fruit flies.
+
+Source:
+
+LifeHow, 104.
+
+Response:
+
+1. Biological classification is hierarchical; when a new species evolves,
+   it branches at the very lowermost level, and it remains part of all
+   groups it is already in.  Anything that evolves from a fruit fly, no
+   matter how much it diverges, would still be classified as a fruit fly,
+   a dipteran, an insect, an arthropod, an animal, and so forth.
+
+2. There are about 3,000 described species of fruit flies (family
+   Drosophilidae; Wheeler 1987).  "Still fruit flies" covers a wide
+   range.
+
+3. Fruit flies do not remain the same species of fruit flies.  _Drosophila
+   melanogaster_ populations evolved reproductive isolation as a result of
+   contrasting microenvironments within a canyon (Korol et al. 2000).
+   We would not expect to see much greater divergence in historical
+   times.
+
+Links:
+
+References:
+
+1. Korol, A. et al., 2000.  Nonrandom mating in _Drosophila melanogaster_
+   laboratory populations derived from closely adjacent ecologically
+   contrasting slopes at "Evolution Canyon." PNAS 97: 12637-12642.  See
+   also Schneider, C. J., 2000.  Natural selection and
+   speciation.  PNAS 97: 12398-12399.
+2. Wheeler, M. R., 1987.  Drosophilidae.  In: Agriculture Canada, _Manual
+   of Nearctic Diptera_, vol. 2, Hull, Quebec: Canadian Government
+   Publishing Centre. pg. 1011.
+
+Further Reading:
+
+Date: 2003-8-20

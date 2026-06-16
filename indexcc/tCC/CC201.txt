@@ -1,0 +1,113 @@
+BriefClaim: We should see smooth change through the fossil record, not gaps.
+Title: Phyletic gradualism
+Keywords: phyletic gradualism, punctuated equilibrium, fossil
+
+Claim:
+
+If evolution proceeds via the accumulation of small steps, we should see a
+smooth continuum of creatures across the fossil record.  Instead, we see
+long periods where species do not change, and there are gaps between the
+changes.
+
+Source:
+
+SciCre,
+ pg. 78.
+Johnson, Phillip E., 1990.  Evolution as dogma: The establishment
+ of naturalism.  _First Things_ no. 6, p. 15-22,
+ http://www.arn.org/docs/johnson/pjdogma1.htm
+
+Response:
+
+1. The idea that gradual change should appear throughout the fossil record
+   is called _phyletic gradualism_.  It is based on the following tenets:
+    a. New species arise by the transformation of an ancestral population
+       into its modified descendants. 
+    b. The transformation is even and slow.
+    c. The transformation involves most or all of the ancestral population.
+    d. The transformation occurs over most or all of the ancestral
+       species' geographic range.
+
+   However, all but the first of these is false far more often that not.
+   Studies of modern populations and incipient species show that new
+   species arise mostly from the splitting of a small part of the original
+   species into a new geographical area.  The population genetics of small
+   populations allow this new species to evolve relatively quickly.  Its
+   evolution may allow it to spread into new geographical areas.  Since
+   the actual transitions occur relatively quickly and in a relatively
+   small area, the transitions do not often show up in the fossil record.
+   Sudden appearance in the fossil record often simply reflects that an
+   existing species moved into a new region.
+
+   Once species are well adapted to an environment, selective pressures
+   tend to keep them that way.  A change in the environment that alters
+   the selective pressure would then end the "stasis" (or lead to
+   extinction).
+
+   It should be noted that even Darwin did not expect the rate of
+   evolutionary change to be constant.
+
+    "[N]atural selection will generally act very slowly, only at long
+     intervals of time, and only on a few of the inhabitants of the same
+     region. I further believe that these slow, intermittent results
+     accord well with what geology tells us of the rate and manner at
+     which the inhabitants of the world have changed (Darwin 1872,
+     140-141, chap. 4).
+
+    "But I must here remark that I do not suppose that the process ever
+     goes on so regularly as is represented in the diagram, though in
+     itself made somewhat irregular, nor that it goes on continuously; it
+     is far more probable that each form remains for long periods
+     unaltered, and then again undergoes modification (Darwin 1872, 152).
+
+    "It is a more important consideration . . . that the period during
+     which each species underwent modification, though long as measured by
+     years, was probably short in comparison with that during which it
+     remained without undergoing any change (Darwin 1872, 428, chap. 10).
+
+#    "[V]arieties are generally at first local; and that such local
+#     varieties do not spread widely and supplant their parent-form until
+#     they have been modified and perfected in some considerable
+#     degree. According to this view, the chance of discovering in a
+#     formation in any one country all the early stages of transition
+#     between any two forms is small, for the successive changes are
+#     supposed to have been local or confined to some one spot
+#     (Darwin 1872, 427-428).
+
+    "it might require a long succession of ages to adapt an organism
+     to some new and peculiar line of life, for instance, to fly through
+     the air; and consequently that the transitional forms would often
+     long remain confined to some one region; but that, when this
+     adaptation had once been effected, and a few species had thus
+     acquired a great advantage over other organisms, a comparatively
+     short time would be necessary to produce many divergent forms, which
+     would spread rapidly and widely throughout the world (Darwin 1872,
+     433).
+
+2. The imperfection of the fossil record (due to erosion and periods
+   unfavorable to fossil preservation) also causes gaps, although it
+   probably cannot account for all of them.
+
+3. Some <CC200>transitional sequences> exist, which, despite an uneven
+   rate of change, still show a gradual continuum of forms.
+
+4. The fossil record still shows a great deal of change over time.  The
+   creationists who make note of the many gaps almost never admit the
+   logical conclusion: If they are due to creation, then there have been
+   hundreds, perhaps even millions, of separate creation events scattered
+   through time.
+
+Links:
+
+Elsberry, Wesley R. 1996.  Punctuated equilibria.
+ http://www.talkorigins.org/faqs/punc-eq.html
+
+References:
+
+1. Darwin, C. 1872.  _The Origin of Species_, 6th Edition.  Senate,
+   London.
+   https://web.archive.org/web/20211027220602if_/http://www.literature.org/authors/darwin-charles/the-origin-of-species-6th-edition/index.html
+
+Further Reading:
+
+Date: 2003-5-24, 2004-3-17

@@ -1,0 +1,61 @@
+BriefClaim: Meteor craters are never found in deeper strata.
+Title: Meteor craters in deep strata
+Keywords: strata
+
+Claim:
+
+Meteor craters are never found in deeper strata, as they should be if the
+strata were deposited over many millions of years.
+
+Source:
+
+Wysong, R. L., 1976.  _The Creation-Evolution Controversy_.  Midland, MI:
+ Inquiry Press, p. 171.
+
+Response:
+
+1. At least 130 fossil craters have been found, ranging from the
+   Precambrian to the Recent. (Grieve 1997).
+
+2. In addition to craters, we also find other evidence of meteor impacts,
+   including shocked quartz, glass microspherules, and fullerenes with
+   extraterrestrial gases (Becker et al. 2000), and <CD111>meteorites>.
+
+Links:
+
+Earth Impact Database, 2003.
+ http://www.unb.ca/passc/ImpactDatabase/
+
+Greene, Todd S., 2000, 2002.  Impact craters on Earth.
+ http://www.geocities.com/Athens/Thebes/7755/ancientproof/impactcraters.html
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof4
+
+References:
+
+1. Becker, Luann, Robert J. Poreda and Ted E. Bunch, 2000.  Fullerenes: An
+   extraterrestrial carbon carrier phase for noble gases.  PNAS 97:
+   2979-2983.
+2. Grieve, R. A. F., 1997. Extraterrestrial impact events: the record in
+   the rocks and the stratigraphic column.  _Palaeogeography,
+   Paleoclimatology, Paleoecology_ 132: 5-23.
+
+Further Reading:
+
+Becker, Luann, 2002.  Repeated blows.  _Scientific American_ 286(3) (Mar.):
+ 76-83.
+
+#"Impact Stratigraphy" - Geological Society of America 2002 Denver Annual
+# Meeting (October 27-30, 2002), Session No. 178.
+# https://web.archive.org/web/20021102001553if_/http://gsa.confex.com/gsa/2002AM/finalprogram/session_2932.htm
+#
+#Drilling into Impact Structures: Petrology, Geochemistry, and Geophysics -
+# Geological Society of America 2002 Denver Annual Meeting (October 27-30,
+# 2002), Session No. 142
+# https://web.archive.org/web/20030103133139if_/http://gsa.confex.com/gsa/2002AM/finalprogram/session_2248.htm
+
+Montanari, A., and C. Koeberl, 2000.  _Impact Stratigraphy: The Italian
+ Record_. Heidelberg: Springer Verlag. (technical)
+
+Date: 2003-4-26, 2004-8-19

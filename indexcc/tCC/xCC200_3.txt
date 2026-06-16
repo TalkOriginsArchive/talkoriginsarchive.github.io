@@ -1,0 +1,35 @@
+BriefClaim: There should be transitionals among living creatures.
+Title: Transitionals among living creatures
+Keywords: transitional fossil
+
+Claim:
+
+There should be transitionals among living creatures, not just between
+fossils.
+[Subsumed by CB805]
+
+Source:
+
+Brown20.
+
+Response:
+
+1. This claim stems from not understanding how the process of evolution is
+   supposed to work.  According to the theory, any two species share a
+   common ancestor, but the more remote in time that ancestor was, the
+   more those species have diverged.  The transitions occurred over time,
+   and most, perhaps all, of the intermediates to a remote ancestor would
+   have gone extinct.
+
+2. In some groups, such as many grasses and leafhoppers, there are "living
+   transitionals," or lots of different species which are hard to tell
+   apart.  This is due to a relatively recent divergence where the
+   intermediate forms have not gone extinct.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-5-24

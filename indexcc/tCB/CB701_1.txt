@@ -1,0 +1,54 @@
+BriefClaim: Recapitulation theory is not supported.
+Title: Recapitulation theory
+Keywords: Haeckel, recapitulation, biogenetic law
+
+Claim:
+
+The biogenetic law that ontogeny recapitulates phylogeny (that is, that
+the embryological stages of a developing organism follow the organism's
+evolutionary history) is false, yet embryological stages are still claimed
+as evidence for evolution.
+
+Source:
+
+SciCre, 76-77.
+
+Response:
+
+1. Haeckel's biogenetic law was never part of Darwin's theory and was
+   challenged even in his own lifetime.  Haeckel himself did not
+   necessarily advocate the strict form of recapitulation commonly
+   attributed to him (Richardson and Keuck 2002).
+
+2. Irrespective of biogenetic law, embryological characters are still
+   useful as evidence for evolution (in constructing phylogenies, for
+   example), just as adult characters are.  Furthermore, there is some
+   degree of parallelism between ontogeny and phylogeny, especially when
+   applied only to individual characters (Richardson and Keuck 2002).
+   Various causes for this have been proposed.  For example, there is
+   selective pressure to retain embryonic structures that are needed for
+   the development of other organs.
+
+Links:
+
+Chase, Scott, 1999.  Is Haeckel's law of recapitulation a problem?
+ http://www.talkorigins.org/origins/postmonth/feb99.html
+
+Wilkins, John, 1996.  Darwin's precursors and influences: 1.
+ transmutationism.
+ http://www.talkorigins.org/faqs/precursors/precurstrans.html
+
+References:
+
+1. Richardson, M. K. and G. Keuck, 2002. (see below)
+
+Further Reading:
+
+Gould, Stephen J., 1977.  _Ontogeny and Phylogeny_.  Cambridge, MA:
+ Belknap Press.
+
+Richardson, M. K. and G. Keuck, 2002.  Haeckel's ABC of evolution and
+ deveolopment.  _Biol. Rev._ 77: 495-528.
+
+Date: 2003-7-23
+

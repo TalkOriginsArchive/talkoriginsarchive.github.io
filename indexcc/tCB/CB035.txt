@@ -1,0 +1,63 @@
+BriefClaim: Miller's experiments had an invalid assumption of the type of atmosphere.
+Title: Abiogenesis atmosphere
+Keywords: abiogenesis, methane, atmosphere, oxidizing, reducing.
+
+Claim:
+
+In Miller's experiment demonstrating the formation of complex organics
+from simple compounds, the atmospheric composition used was a reducing
+atmosphere, with no free oxygen.  The early earth probably had a more
+oxidizing atmosphere.
+
+Source:
+
+LifeHow, pp. 40-41.
+
+Response:
+
+1. Since his first experiment, Miller and others have experimented with
+   other atmospheric compositions, too (Chang et al. 1983; Miller 1987;
+   Schlesinger and Miller 1983; Stribling and Miller 1987).  Complex
+   organic molecules form under a wide range of prebiotic conditions.
+
+2. It is possible that <CB010_2>life arose> well away from the
+   atmosphere -- for example, around deep-sea hydrothermal vents.  This
+   could make the atmospheric content largely irrelevant.
+
+3. The early atmosphere, even if it was oxidizing, was <CB035_1>nowhere
+   near as oxidizing> as it is today.  It was likely high in hydrogen,
+   which facilitates the formation of organic molecules (Tian et
+   al. 2005).
+
+Links:
+
+Gishlick, Alan D. n.d.  Icons of evolution?  Miller-Urey experiment.
+ https://web.archive.org/web/20040221170140if_/http://www.ncseweb.org/icons/icon1millerurey.html
+
+Tamzek, Nic. 2002. Icon of obfuscation.
+ http://www.talkorigins.org/faqs/wells/iconob.html#Miller-Urey
+
+References:
+
+1. Chang, S., D. DesMarais, R. Mack, S. L. Miller, and G. E. Strathearn.
+   1983. Prebiotic organic syntheses and the origin of life. In:
+   Schopf, J. W., ed., _Earth's Earliest Biosphere: Its Origin and
+   Evolution_.  Princeton, NJ: Princeton University Press, pp. 53-92.
+2. Miller, S. L. 1987.  Which organic compounds could have occurred on
+   the prebiotic earth?  _Cold Spring Harbor Symposia on Quantitative
+   Biology_ 52: 17-27.
+3. Schlesinger, G. and S. L. Miller. 1983.  Prebiotic synthesis in
+   atmospheres containing CH4, CO, and CO2. I. Amino acids.  _Journal of
+   Molecular Evolution_ 19: 376-382.
+4. Stribling, R. and S. L. Miller. 1987.  Energy yields for hydrogen
+   cyanide and formaldehyde syntheses: the HCN and amino acid
+   concentrations in the primitive ocean. _Origins of Life and Evolution
+   of the Biosphere_ 17: 261-273.
+5. Tian, F., O. B. Toon, A. A. Pavlov and H. De Sterck. 2005.  A
+   hydrogen-rich early Earth atmosphere.  _Science_ 308: 1014-1017.  See
+   also: Chyba, C. F. 2005.  Rethinking Earth's early atmosphere.
+   _Science_ 308: 962-963.
+
+Further Reading:
+
+Date: 2001-2-17, 2005-6-18

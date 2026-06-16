@@ -1,0 +1,40 @@
+BriefClaim: Homology cannot be evidence of ancestry if it is defined thus.
+Title: Homology defined in terms of ancestry
+Keywords: homology, circular argument.
+
+Claim:
+
+Homology is defined as similarity due to common ancestry.  The claim then
+that it is evidence for common ancestry is a circular argument.
+
+Source:
+
+Wells, Jonathan, 2000. _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 63-65.
+
+Response:
+
+1. Homology is not defined as similarity due to common ancestry and then
+   used as evidence for common ancestry.  Rather, the evidence for common
+   ancestry comes from the patterns of similarity of many traits.  These
+   similarities show that organisms group naturally into a nested
+   hierarchy.  For example, that ladybugs and scarabs are both types of
+   beetle is based on various common traits such as hardened front wings;
+   beetles, flies, and grasshoppers are types of insect; insects,
+   scorpions, and centipedes are types of arthropod.  Such grouping does
+   not depend on any assumptions about origins and in fact was first
+   codified by Linnaeus, a creationist.  A grouping suggested by many
+   common traits is evidence of common ancestry.  This is true no matter
+   what you choose to call the traits.  The homology label gets added
+   after the evidence for common ancestry is already in.
+
+Links:
+
+References:
+
+Further Reading:
+
+Mindell, David P. and Axel Meyer. 2001.  Homology evolving.  _Trends in
+ ecology and evolution_ 16: 434-440.
+
+Date: 2001-1-27, 2005-2-11

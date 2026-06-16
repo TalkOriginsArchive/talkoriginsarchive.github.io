@@ -1,0 +1,41 @@
+BriefClaim: The metabolic pathway for AMP synthesis is too complex to have evolved.
+Title: AMP synthesis and irreducible complexity
+Keywords: AMP, adenosine, complexity
+
+Claim:
+
+The metabolic pathway for AMP synthesis is too complex to have evolved.
+It requires several intermediate steps, and it is highly improbable that
+all of the steps could have evolved simultaneously.
+
+Source:
+
+DBB, pp. 140-160.
+
+Response:
+
+1. Although AMP synthesis is done in several steps in modern life, several
+   steps are not required.  In fact, adenosine can and does form entirely
+   outside of life, both in aqueous solution (Ferris et al. 1984) and in
+   space (Kuzicheva and Gontareva 2002).  The earliest life could have used
+   prebiotic AMP and later have gradually developed and refined mechanisms
+   for synthesizing AMP itself.
+
+   <CB200>Irreducible complexity> itself is no obstacle to evolution.
+
+Links:
+
+References:
+
+1. Ferris, J. P., H. Yanagawa, P. A. Dudgeon, W. J. Hagan Jr., and
+   T. E. Mallare, 1984.  The investigation of the HCN derivative
+   diiminosuccinonitrile as a prebiotic condensing agent. The formation of
+   phosphate esters.  _Origins of Life and Evolution of the Biosphere_ 15:
+   29-43.
+2. Kuzicheva, E. A. and N. B. Gontareva, 2002.  Prebiotic synthesis of
+   nucleotides at the Earth orbit in presence of Lunar soil.  _Advances in
+   Space Research_ 30(6): 1525-1531.
+
+Further Reading:
+
+Date: 2003-8-27

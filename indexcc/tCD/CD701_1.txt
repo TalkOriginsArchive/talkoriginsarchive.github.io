@@ -1,0 +1,35 @@
+BriefClaim: Cowling's theorem disproves dynamo theory of earth's magnetic field.
+Title: Cowling's theorem and dynamo theory
+Keywords: magnetic field, young earth, Cowling's theorem, geodynamo,
+dynamo.
+
+Claim:
+
+Cowling's theorem proves that the dynamo theory of earth's magnetic field
+is wrong.
+
+Source:
+
+Barnes, Thomas G., 1973. _Origin and destiny of Earth's magnetic field_,
+ ICR Technical Monograph No. 4.
+
+
+Response:
+
+1. Cowling's theorem proves that an axially symmetric field cannot be
+   maintained through a self-sustaining dynamo by an axially symmetric
+   current.  However, this theorem is limited to special cases.  A
+   symmetric field can be generated, for example, by nonuniform convection
+   (Cowling 1981).
+
+
+Links:
+
+References:
+
+1. Cowling, T. G., 1981.  The present status of dynamo theory. _Annual
+   Review of Astronomy and Astrophysics_ 19: 115-135.
+
+Further Reading:
+
+Date: 2001-2-18

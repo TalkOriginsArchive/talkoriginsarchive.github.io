@@ -1,0 +1,48 @@
+BriefClaim: The oldest living thing is younger than 4,900 years.
+Title: Oldest living thing
+Keywords: young earth, dendrochronology
+
+Claim:
+
+The oldest living thing (a bristlecone pine) is younger than 4,900 years,
+supporting a recent date for a worldwide cataclysm.
+
+Source:
+
+SciCre, p. 193.
+
+Response:
+
+1. The age of the oldest living thing does not indicate dates of events
+   happening before it.  It merely shows that no global cataclysm happened
+   less than 4900 years ago.
+
+2. Tree rings give an unbroken record back more than 11,000 years (Becker
+   and Kromer 1993; Becker et al. 1991; Stuiver et al. 1986).  A
+   worldwide cataclysm during that time would have broken the tree ring
+   record.
+
+3. The King Clone creosote bush in the Mojave Desert is 11,700 years old.
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?  A close
+ look at Dr. Hovind's list of young-earth arguments and other claims.
+ http://www.talkorigins.org/faqs/hovind/howgood-yea2.html#proof27
+
+References:
+
+1. Becker, B. and B. Kromer, 1993.  The continental tree-ring record --
+   absolute chronology, <sup>14</sup>C calibration and climatic change
+   at 11 ka.  _Palaeogeography Palaeoclimatology Palaeoecology_ 103 (1-2):
+   67-71.
+2. Becker, B., B. Kromer and P. Trimborn, 1991.  A stable-isotope
+   tree-ring timescale of the late glacial Holocene boundary. _Nature_
+   353: 647-649.
+3. Stuiver, Minze et al., 1986. Radiocarbon age calibration back to 13,300
+   years BP and the <sup>14</sup>C age matching of the German oak and US
+   bristlecone pine chronologies.  _Radiocarbon_ 28(2B): 969-979.
+
+Further Reading:
+
+Date: 2003-5-8

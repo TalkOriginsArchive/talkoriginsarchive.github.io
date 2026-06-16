@@ -1,0 +1,46 @@
+BriefClaim: The Poynting-Robertson effect would remove space dust in an old solar system.
+Title: Poynting-Roberston Effect Removing Space Dust
+Keywords: old earth, solar radiation, Poynting-Robertson, dust.
+
+Claim:
+
+The Poynting-Robertson effect causes orbiting particles (on the order of a
+centimeter in diameter) to slow and fall inward because solar radiation
+falls slightly more on their leading edge, like raindrops on a speeding
+car.  If the solar system were old, the Poynting-Robertson effect would
+have caused all particles above a certain size to spiral into the sun,
+removing them from the solar system, but we still find interplanetary dust.
+
+Source:
+
+Brown, Walt, 1995.  _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 20, 30.
+
+Response:
+
+1. The particles are replenished by disintegrating comets and colliding
+   asteroids.  It takes hundreds of millions of years for the
+   Poynting-Robertson effect to cause centimeter-sized particles to fall
+   into the sun, so the replenishment need not be particularly rapid.
+
+2. For smaller particles, there is a balance between the
+   Poynting-Robertson effect and <CE280>radiation pressure>, thereby
+   preserving the dust in stable orbits.  Gravitational effects of planets
+   can also keep particles in stable orbits.
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof7
+
+Wong, Michael, 2001. Young-earth creationism: pseudoscience.
+ https://web.archive.org/web/20040504021652if_/http://www.stardestroyer.net/Creationism/YoungEarth/Hartman-5.shtml
+
+References:
+
+Further Reading:
+
+Thompson, Tim, n.d.  Is the Earth young? 
+ http://www.tim-thompson.com/young-earth.html
+
+Date: 2001-2-18, 2004-4-17

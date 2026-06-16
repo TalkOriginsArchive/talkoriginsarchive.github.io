@@ -1,0 +1,117 @@
+BriefClaim: Federal law (Santorum Amendment) supports teaching alternatives.
+Title: Santorum Amendment's legal standing
+Keywords: Santorum Amendment, conference committee, education, intelligent design.
+
+Claim:
+
+The Santorum Amendment, which was passed by the Senate and preserved in
+the conference committee report of the No Child Left Behind bill, gives
+federal legislative weight to the idea that alternatives to evolution
+should be taught in science classes.
+
+Source:
+
+Santorum, Rick. 2002.  Illiberal education in Ohio schools. _Washington
+ Times_, 14 March 2002.
+
+Boehner, John A. and Steve Chabot. 2002.  Letter to Ohio Department of
+ Education, 15 March 2002,
+ http://www.discovery.org/scripts/viewDB/index.php?command=view&id=1131
+
+Response:
+
+1. The legislative history of the Santorum Amendment actually opposes
+   the idea of teaching intelligent design, because it was removed from
+   the bill.
+
+   Federal laws in the United States must be passed by both the Senate and the
+   House of Representatives.  Often, a bill is submitted to both houses at
+   the same time, and the two houses work on them independently.  But
+   before the bill goes to the president, there must be just one bill;
+   both houses must vote on exactly the same language.  To accomplish
+   this, a conference committee, formed of members of both houses,
+   hashes out the differences and makes a compromise bill.  The committee
+   produces an explanatory statement that tells the legislative history
+   of the bill and any views about it that conference committee members
+   want to include.  Such a report may be taken into account if courts
+   later need to consider the intent of the bill, but it has no legal
+   force per se.
+
+   The Santorum Amendment was added to an early draft of HR-1 by Senator
+   Rick Santorum.  It was a recommendation that would have made no binding
+   requirements anyway.  It was not included in the House version of the
+   bill.  The conference committee for the bill considered the amendment
+   and deliberately chose to omit it, and the Santorum Amendment does not
+   exist in the law that was signed by the president (Public Law 107-110).
+   The amendment still exists, in watered-down form, in the explanatory
+   statement due to the special interest of one or more of the conference
+   committee members.
+
+   As noted above, the explanatory statement can still be used to
+   interpret the law.  But what does it mean to interpret a nonbinding
+   recommendation that was removed before the bill became law?
+
+2. Even in its original form, the Santorum Amendment did not oppose
+   teaching evolution or advocate teaching intelligent design.  The
+   language said, "where topics are taught that may generate controversy
+   (such as biological evolution), the curriculum should help students to
+   understand the full range of scientific views that exist."  Evolution
+   is used only as an example.  It is a poor example, since there are no
+   competing scientific views.  In particular, <CI001>intelligent design
+   is not scientific>.
+
+3. The No Child Left Behind Act of 2001 prohibits the federal government
+   from mandating curriculum content.  Section 9527 reads, in part,
+
+    "(a) GENERAL PROHIBITION - Nothing in this Act shall be construed to
+     authorize an officer or employee of the Federal Government to mandate,
+     direct, or control a State, local educational agency, or school's
+     curriculum, program of instruction, or allocation of State or local
+     resources. . . .
+
+     (b). . . [N]o funds provided to the Department under this Act may be
+     used by the Department to endorse, approve, or sanction any
+     curriculum designed to be used in an elementary school or secondary
+     school.  (U.S. Department of Education 2001)
+
+4. A governmental requirement for teaching intelligent design or other
+   so-called alternatives to evolution would likely be found
+   unconstitutional, given the precedent of past cases, particularly
+   Edwards v. Aguillard, 393 U.S. 97 (1987).
+
+5. Members of the U.S. Congress are not well qualified in educational
+   matters.  Rick Santorum in particular proposed and supported the
+   amendment for religious reasons, not for pedagogy.
+
+Links:
+
+#Hirsch, Dennis D., n.d.  The Santorum Amendment.
+# https://web.archive.org/web/20031217121510if_/http://ecology.cwru.edu/ohioscience/legal-hirsch.asp
+# [broken?]
+
+Miller, Kenneth R. 2002.  The truth about the "Santorum Amendment"
+ language on evolution.
+ http://www.millerandlevine.com/km/evol/santorum.html
+
+NCSE. 2002.  Is there a federal mandate to teach intelligent design
+ creationism?
+ https://web.archive.org/web/20040720013628if_/http://www.ncseweb.org/resources/articles/ID-activists-guide-v1.pdf
+
+References:
+
+1. U.S. Department of Education.  2001.  The Elementary and Secondary
+   Education Act.
+   https://web.archive.org/web/20191020045246if_/http://www.ed.gov/policy/elsec/leg/esea02/index.html , specifically
+   https://web.archive.org/web/20190706100320if_/http://www.ed.gov/policy/elsec/leg/esea02/pg112.html#sec9527
+
+Further Reading:
+
+Branch, G. and E. Scott. 2003.  The antievolution law that wasn't.
+ _The American Biology Teacher_  65(3): 165-166.
+
+Brauer, Matthew J., Barbara Forrest and Steven G. Gey. 2005. 
+ Is it science yet?: Intelligent design creationism and the Constitution.
+ _Washington University Law Quaterly_ 83(1): 1-149.
+ https://web.archive.org/web/20080516045900if_/http://law.wustl.edu/WULQ/83-1/p%201%20Brauer%20Forrest%20Gey%20book%20pages.pdf
+
+Date: 2003-6-15, 2006-3-3

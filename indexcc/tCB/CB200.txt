@@ -1,0 +1,149 @@
+BriefClaim: Some systems are irreducibly complex.
+Title: Irreducible complexity
+Keywords: irreducible complexity, design, biochemistry, function.
+
+Claim:
+
+Some biochemical systems are irreducibly complex, meaning that the removal
+of any one part of the system destroys the system's function.  Irreducible
+complexity rules out the possibility of a system having evolved, so it
+must be <CI102>designed>.
+
+Source:
+
+DBB.
+
+
+Response:
+
+1. Irreducible complexity can evolve.  It is defined as a system that
+   loses its function if any one part is removed, so it only indicates
+   that the system did not evolve by the addition of single parts with no
+   change in function.  That still leaves several evolutionary mechanisms:
+
+    - deletion of parts
+    - addition of multiple parts; for example, duplication of much or all
+      of the system (Pennisi 2001)
+    - change of function
+    - addition of a second function to a part (Aharoni et al. 2004)
+    - gradual modification of parts
+
+   All of these mechanisms have been observed in genetic mutations.  In
+   particular, deletions and gene duplications are fairly common (Dujon et
+   al. 2004; Hooper and Berg 2003; Lynch and Conery 2000), and together
+   they make irreducible complexity not only possible but expected.  In
+   fact, it was predicted by Nobel-prize-winning geneticist Hermann Muller
+   almost a century ago (Muller 1918, 463-464).  Muller referred to it as
+   interlocking complexity (Muller 1939).
+
+   Evolutionary origins of some irreducibly complex systems have been
+   described in some detail.  For example, the evolution of the Krebs
+   citric acid cycle has been well studied (Mel&eacute;ndez-Hevia et
+   al. 1996), and the evolution of an "irreducible" system of a
+   hormone-receptor system has been elucidated (Bridgham et al. 2006).
+   Irreducibility is no obstacle to their formation.
+
+2. Even if irreducible complexity did prohibit Darwinian evolution, the
+   <CI102>conclusion of design> does not follow.  Other processes might
+   have produced it.  Irreducible complexity is an example of a failed
+   <CA100>argument from incredulity>.
+
+3. Irreducible complexity is poorly defined.  It is defined in terms of
+   parts, but it is far from obvious what a "part" is.  Logically, the
+   parts should be individual atoms, because they are the level of
+   organization that does not get subdivided further in biochemistry, and
+   they are the smallest level that biochemists consider in their
+   analysis.  Behe, however, considered sets of molecules to be individual
+   parts, and he gave no indication of how he made his determinations.
+
+4. Systems that have been considered irreducibly complex might not be.
+   For example:
+   - The mousetrap that Behe used as an example of irreducible complexity
+     can be simplified by bending the holding arm slightly and removing the
+     latch.
+   - The bacterial <CB200_1>flagellum> is not irreducibly complex because
+     it can lose many parts and still function, either as a simpler
+     flagellum or a secretion system.  Many proteins of the eukaryotic
+     flagellum (also called a cilium or undulipodium) are known to be
+     dispensable, because functional swimming flagella that
+     lack these proteins are known to exist.
+   - In spite of the complexity of Behe's <CB200_3>protein transport>
+     example, there are other proteins for which no transport is necessary
+     (see Ussery 1999 for references).
+   - The <CB200_4>immune system> example that Behe includes is not
+     irreducibly complex because the antibodies that mark invading cells
+     for destruction might themselves hinder the function of those cells,
+     allowing the system to function (albeit not as well) without the
+     destroyer molecules of the complement system.
+
+
+Links:
+
+TalkOrigins Archive. n.d.  Irreducible complexity and Michael Behe.
+ http://www.talkorigins.org/faqs/behe.html
+
+#Dunkelberg, Pete, 2003.  Irreducible complexity demystified.
+# http://www.talkdesign.org/faqs/icdmyst/ICDmyst.html
+#
+#Robison, Keith, 1996.  Darwin's Black Box:  Irreducible complexity or
+# irreproducible irreducibility?
+# http://www.talkorigins.org/faqs/behe/review.html
+
+References:
+
+1. Aharoni, A., L. Gaidukov, O. Khersonsky, S. McQ. Gould, C. Roodveldt
+   and D. S. Tawfik. 2004.  The 'evolvability' of promiscuous protein
+   functions.  _Nature Genetics_ [Epub Nov. 28 ahead of print]
+2. Bridgham, Jamie T., Sean M. Carroll and Joseph W. Thornton. 2006.
+   Evolution of hormone-receptor complexity by molecular exploitation.
+   _Science_ 312: 97-101.  See also Adami, Christopher. 2006.  Reducible
+   complexity.  _Science_ 312: 61-63.
+1. Dujon, B. et al. 2004.  Genome evolution in yeasts.
+   _Nature_ 430: 35-44.
+1. Hooper, S. D. and O. G. Berg. 2003.  On the nature of gene innovation:
+   Duplication patterns in microbial genomes.
+   _Molecular Biololgy and Evolution_ 20(6): 945-954.
+2. Lynch, M. and J. S. Conery. 2000.  The evolutionary fate and
+   consequences of duplicate genes.  _Science_ 290: 1151-1155.  See also
+   Pennisi, E., 2000.  Twinned genes live life in the fast lane.
+   _Science_ 290: 1065-1066.
+3. Mel&eacute;ndez-Hevia, Enrique, Thomas G. Waddell and Marta
+   Cascante. 1996.  The puzzle of the Krebs citric acid cycle: Assembling
+   the pieces of chemically feasible reactions, and opportunism in the
+   design of metabolic pathways during evolution.  _Journal of Molecular
+   Evolution_ 43(3): 293-303.
+6. Muller, Hermann J. 1918.  Genetic variability, twin hybrids and
+   constant hybrids, in a case of balanced lethal factors.  _Genetics_ 3:
+   422-499.  https://web.archive.org/web/20080724015408if_/http://www.genetics.org/content/vol3/issue5/index.shtml
+5. Muller, H. J. 1939. Reversibility in evolution considered from the
+   standpoint of genetics.  _Biological Reviews of the Cambridge
+   Philosophical Society_ 14: 261-280.
+5. Pennisi, Elizabeth. 2001.  Genome duplications: The stuff of evolution?
+   _Science_ 294: 2458-2460.
+#8. Thornhill, R. H., and D. W. Ussery, 2000. A classification of possible
+#   routes of Darwinian evolution.  _Journal of Theoretical Biology_ 203
+#   (2): 111-116.
+6. Ussery, David. 1999.  A biochemist's response to "The biochemical
+   challenge to evolution".  _Bios_ 70: 40-45.
+   https://web.archive.org/web/20030624041733if_/http://www.cbs.dtu.dk/staff/dave/Behe.html
+
+Further Reading:
+
+Gray, Terry M.. 1999. Complexity--yes! Irreducible--maybe! 
+ Unexplainable--no! A creationist criticism of irreducible complexity. 
+ https://web.archive.org/web/20030619114122if_/http://tallship.chm.colostate.edu/evolution/irred_compl.html
+
+Lindsay, Don. 1996. Review: "Darwin's black box, the biochemical challenge
+ to evolution" by Michael Behe. 
+ https://web.archive.org/web/20230529050445if_/http://www.don-lindsay-archive.org/creation/behe.html
+
+Miller, K. 1999.  _Finding Darwin's God_.  Harper-Collins, chap. 5.
+
+Shanks, N. and K. H. Joplin. 1999. Redundant complexity: A
+ analysis of intelligent design in biochemistry. _Philosophy of Science_
+ 66: 268-298.
+ https://web.archive.org/web/20010929161808if_/http://www.asa3.org/ASA/topics/Apologetics/POS6-99ShenksJoplin.html
+
+Ussery, David. 1999.  (see above)
+
+Date: 2001-2-17, 2007-7-19

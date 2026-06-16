@@ -1,0 +1,53 @@
+BriefClaim: Evolution does not explain human intelligence.
+Title: Evolution of intelligence
+Keywords: intelligence, brain, natural selection
+
+Claim:
+
+Evolution does not explain how humans became so intelligent.
+
+Source:
+
+Yahya, Harun, 2004.  Errors concerning human intelligence on the BBC's
+ Horizon programme.
+ https://web.archive.org/web/20111111180403if_/http://www.harunyahya.net/V2/Lang/en/Pg/WorkDetail/Number/1905
+
+Response:
+
+1. Intelligence has obvious advantages that can help with survival, so it
+   is consistent with evolutionary theory.  What remains to be explained
+   is why human brains are significantly larger (relative to body size)
+   than brains of other animals.  Several hypotheses have been proposed,
+   including the following:
+    - Greater intelligence allows more effective foraging, especially for
+      learning and remembering where and when fruits ripen (Kaplan et
+      al. 2000).
+    - Greater intelligence allows more effective tool invention and use.
+    - Greater intelligence allows more successful functioning in the
+      complex social groups that primates form.  This could be intertwined
+      with the development of <CB402>language>.
+   The last hypothesis is probably the most likely, although they are not
+   mutually exclusive.
+
+   Much of how larger brains evolved may be explained by neoteny, the
+   prolonging of immature periods of development.  Evolving a larger brain
+   does not require large genetic change, just a relatively small change
+   to keep the brain growing for a longer time (Gould 1977).
+
+Links:
+
+References:
+
+1. Gould, Stephen Jay, 1977.  The child as man's real father.  In: _Ever
+   Since Darwin_, New York: W. W. Norton, pp. 63-69.
+1. Kaplan, H., K. Hill, J. Lancaster and A. M. Hurtado, 2000.  A theory of
+   human life history evolution: diet, intelligence, and longevity.
+   _Evolutionary Anthropology_ 9: 156-185.
+   https://web.archive.org/web/20040228212230if_/http://www.soc.upenn.edu/courses/2003/spring/soc621_iliana/readings/kapl00d.pdf
+
+Further Reading:
+
+Cosmides, Leda and John Tooby, 1997. Evolutionary psychology: A primer.
+ https://web.archive.org/web/20190701211548if_/http://www.psych.ucsb.edu/research/cep/primer.html
+
+Date: 2003-8-27, 2004-2-22

@@ -1,0 +1,48 @@
+BriefClaim: Intelligent design has explanatory power.
+Title: Explanatory power of intelligent design
+Keywords: design, science
+
+Claim:
+
+Intelligent design has explanatory power, especially given Dembski's
+"explanatory filter."  It accounts for a wide range of biological facts.
+This makes it scientific.
+
+Source:
+
+Dembski, William A., 2001.  Is intelligent design testable?
+ http://www.arn.org/docs/dembski/wd_isidtestable.htm
+
+Response:
+
+1. Merely accounting for facts does not make a theory scientific.  Saying
+   "it's magic" can account for any fact anywhere but is as far from
+   science as you can get.  A theory has explanatory power if facts can be
+   deduced from it.  No facts have ever been deduced from ID theory.  The
+   theory is equivalent to saying, "it's magic."
+
+2. Dembski's <CI110>explanatory filter> requires the examination of an
+   infinite number of other hypotheses -- even unknown ones -- to accept
+   the design hypothesis.  Thus it is impossible to apply.  Intelligent
+   design remains untestable and impossible to use in practice.
+   Dembski himself has never rigorously applied his filter (Elsberry 2002).
+
+3. "Intelligent" and "design" remain effectively undefined.  A theory
+   cannot have explanatory power if it is uncertain what the theory says
+   in the first place.
+
+Links:
+
+References:
+
+1. Elsberry, Wesley R., 2002.  Commentary on William A. Dembski's "No
+   Free Lunch: Why specified complexity cannot be purchased without
+   intelligence"
+   https://www.antievolution.org/people/dembski_wa/rev_nfl_wre_bn.html
+
+Further Reading:
+
+Pennock, Robert T., 1999. _Tower of Babel: The Evidence against the
+ New Creationism_. Cambridge, MA, MIT Press.
+
+Date: 2003-5-7, 2004-5-5

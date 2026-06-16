@@ -1,0 +1,65 @@
+BriefClaim: No two-celled life exists intermediate between one- and multicelled.
+Title: Intermediate two-celled life
+Keywords: multicellularity, intermediate.
+
+Claim:
+
+There are no two-celled life forms intermediate between unicellular and
+multicellular life, demonstrating that the intermediate stage is not
+viable.
+
+Source:
+
+Brown, Walt. 1995. _In the Beginning: Compelling evidence for creation and
+ the flood_.  Phoenix, AZ: Center for Scientific Creation, p. 9.
+ http://www.creationscience.com/
+
+Response:
+
+1. The intermediate stage between one-celled and multicelled life need
+   not have been two-celled.  The first requirement is for signals between
+   cells, which is necessary if cells are to cooperate in division of
+   labor to break down a food source.  Many bacteria utilize a variety of
+   different signals.  The evolution of a signal for cooperative swarming
+   has been observed in one bacterium (Velicer and Yu 2003).
+
+   The transition to multicellularity has been studied in experiments with
+   _Pseudomonas fluorescens_, which showed that "transitions to higher
+   orders of complexity are readily achievable" (Rainey and Rainey 2003,
+   72).  Choanoflagellates, which are unicellular and colonial organisms
+   related to multicelled animals, express several proteins similar to
+   those used in cell interactions, showing that such proteins could arise
+   in single-celled animals and be co-opted for multicellular development
+   (King et al. 2003).
+
+2. Desmidoideae is a class of conjugating green algae, phylum Gamophyta.
+   Most desmids form pairs of cells whose cytoplasms are joined at an
+   isthmus (Margulis and Schwartz 1982, 100).  The bacterium _Neisseria_
+   also tends to form two-celled arrangements.  As noted above, this may
+   not be relevant to the evolution of multicellularity.
+
+Links:
+
+References:
+
+1. King, Nicole, Christopher T. Hittinger and Sean B. Carroll.  2003.
+   Evolution of key cell signaling and adhesion protein families predates
+   animal origins.  _Science_ 301: 361-363.
+1. Margulis, Lynn and Karlene V. Schwartz. 1982.  _Five Kingdoms_
+   San Francisco: W. H. Freeman.
+1. Rainey, Paul B. and Katrina Rainey. 2003.  Evolution of cooperation and
+   conflict in experimental bacterial populations.  _Nature_ 425: 72-74.
+2. Velicer, Gregory J. and Yuen-tsu N. Yu. 2003.  Evolution of novel
+   cooperative swarming in the bacterium _Myxococcus xanthus_.
+   _Nature_ 425: 75-78.
+
+Further Reading:
+
+Bonner, John Tyler. 2000.  _First Signals: The evolution of multicellular
+ development_. Princeton University Press.
+
+Cavalier-Smith, Tom. 2002.  The phagotrophic origin of eukaryotes and
+ phylogenetic classification of Protozoa. _International Journal of
+ Systematic and Evolutionary Microbiology_ 52: 297-354. (technical)
+
+Date: 2000-9-30, 2005-7-18

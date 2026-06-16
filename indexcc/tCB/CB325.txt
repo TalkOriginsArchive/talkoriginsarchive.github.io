@@ -1,0 +1,55 @@
+BriefClaim: The giraffe neck could not evolve without a special circulatory system.
+Title: Giraffe neck and blood pressure
+Keywords: giraffe, circulatory system, irreducible complexity
+
+Claim:
+
+A giraffe's heart must be quite large (it is over 24 lbs) to pump blood
+to the giraffe's head.  A series of special one-way valves in the neck
+regulates blood flow, and there is a special net of elastic blood vessels
+at the base of the brain.  Without these valves and elastic blood vessels,
+the blood pressure in the giraffe's head would be immense when it bends
+over, enough to cause brain damage.  All of these features -- large heart,
+valves in the jugular vein, and wondernet of vessels -- must be in place
+simultaneously or the giraffe would die.  They could not have evolved
+gradually.
+
+Source:
+
+Davis, Percival and Dean H. Kenyon, 1989.  _Of Pandas and People: The
+ Central Question of Biological Origins_ (2nd ed.).  Dallas, TX: Haughton,
+ pp. 69-72.
+Setterfield, Barry, 1998.  Birds, beetles, and life.
+ http://www.setterfield.org/essays/giraffe.html
+
+Response:
+
+1. Darwin answered this claim in 1868 (206).
+   The claim assumes that "gradually" must mean "one at a time."  Not so.
+   The different features could have (and almost certainly would have)
+   evolved both simultaneously and gradually.  Partial valves would have
+   been useful for reducing blood pressure to a degree.  An intermediate
+   heart would have produced enough pressure for a shorter neck.  A
+   smaller net of blood vessels in the head could have handled the lesser
+   pressure.  As longer necks were selected for, all of the other
+   components would have been modified bit by bit as well.  In other
+   words, for each inch that the neck grew, the giraffe's physiology would
+   have evolved to support such growth before the next inch of neck
+   growth.
+
+Links:
+
+References:
+
+1. Darwin, Charles, 1868.  _Variation of Animals and Plants Under
+   Domestication_, vol. 2, chpt. 20.  London: John Murray.
+   https://web.archive.org/web/20040214015542if_/http://pages.britishlibrary.net/charles.darwin/texts/variation/variation20.html
+
+Further Reading:
+
+Gould, Stephen J., 1998.  The tallest tale.  In: _Leonardo's Mountain of
+ Clams and the Diet of Worms_, New York: Three Rivers Press, 301-318.
+
+Date: 2003-5-18
+
+

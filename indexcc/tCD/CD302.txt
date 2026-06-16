@@ -1,0 +1,31 @@
+BriefClaim: Evaporites are too thick.
+Title: Thick evaporites
+Keywords: evaporites
+
+Claim:
+
+Evaporite deposits are far too thick to have been formed from the
+evaporation of ancient seas.
+
+Source:
+
+SciCre, p. 106.
+
+Response:
+
+1. This is only a problem for creationists who cannot imagine long time
+   spans.  Thick deposits with numerous beds are consistent with cyclical
+   sea transgression/regressions (Burke n.d.).  They can also form in
+   sinking basins that have had no outlet over geological time.
+
+Links:
+
+References:
+
+1. Burke, Randy B., n.d.  Some aspects of salt dissolution in the
+   Williston Basin of North Dakota.  _NDGS Newsletter_ 28(1): 1-5.
+   https://web.archive.org/web/20031029060427if_/http://www.state.nd.us/ndgs//Newsletter/NL01S/PDF/salts01.pdf
+
+Further Reading:
+
+Date: 2003-5-31

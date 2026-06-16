@@ -1,0 +1,73 @@
+BriefClaim: Earth's early atmosphere had abundant oxygen.
+Title: Oxygen for early earth
+Keywords: oxygen, atmosphere, reducing atmosphere, banded iron, hematite,
+oxide.
+
+Claim:
+
+Free oxygen is fatal to abiogenesis scenarios such as those that Stanley
+Miller experimented with.  Evidence indicates that the early earth had
+significant oxygen.
+
+Source:
+
+Ankerberg, John, Steve Austin, Duane Gish and Kurt Wise. 1990.  The
+ creation debate: oxygen -- the deathblow to life?
+ https://web.archive.org/web/20110912041013if_/http://www.johnankerberg.org/Articles/science/SC1202W3.htm
+
+Response:
+
+1. There is a variety of evidence that the early atmosphere did not have
+   significant oxygen (Turner 1981).
+
+    - Banded iron formations are layers of hematite
+      (Fe<sub>2</sub>O<sub>3</sub>) and other iron oxides deposited in
+      the ocean 2.5 to 1.8 billion years ago.  The conventional
+      interpretation is that oxygen was introduced into the atmosphere
+      for the first time in significant quantities beginning about 2.5
+      billion years ago when photosynthesis evolved.  This caused the free
+      iron dissolved in the ocean water to oxidize and precipitate.  Thus,
+      the banded iron formations mark the transition from an early earth
+      with little free oxygen and much dissolved iron in water to present
+      conditions with lots of free oxygen and little dissolved iron.
+    - In rocks older than the banded iron formations, uranite and pyrite
+      exist as detrital grains, or sedimentary grains that were rolling
+      around in stream beds and beaches.  These minerals are not stable
+      for long periods in the present high-oxygen conditions.
+    - "Red beds," which are terrestrial sediments with lots of iron
+      oxides, need an oxygen atmosphere to form.  They are not found in
+      rocks older than about 2.3 billion years, but they become
+      increasingly common afterward.
+    - Sulfur isotope signatures of ancient sediments show that oxidative
+      weathering was very low 2.4 billion years ago (Farquhar et
+      al. 2000).
+
+   The dominant scientific view is that the early atmosphere had 0.1
+   percent oxygen or less (Copley 2001).
+
+2. Free oxygen in the atmosphere today is mainly the result of
+   photosynthesis.  Before photosynthetic plants and bacteria appeared, we
+   would expect little oxygen in the atmosphere for lack of a source.
+   The oldest fossils (over a billion years older than the transition to
+   an oxygen atmosphere) were bacteria; we do not find fossils of fish,
+   clams, or other organisms that need oxygen in the oldest sediments.
+
+Links:
+
+Tamzek, Nic. 2002. Icon of obfuscation.
+ http://www.talkorigins.org/faqs/wells/iconob.html#Miller-Urey
+
+References:
+
+1. Copley, Jon. 2001.  The story of O.  _Nature_ 410: 862-864.
+2. Farquhar, J., H. Bao and M. Thiemens. 2000.  Atmospheric influence of
+   earth's earliest sulfur cycle.  _Science_ 289: 756-758.
+1. Turner, G. 1981.  The development of the atmosphere.  In: _The
+   Evolving Earth_, ed. L. R. M. Cocks.  London: British Museum, 121-136.
+
+Further Reading:
+
+Wiechert, Uwe H. 2002.  Earth's early atmosphere.  _Science_ 298:
+ 2341-2342.
+
+Date: 2003-4-1, 2004-11-22

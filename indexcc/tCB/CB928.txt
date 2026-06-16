@@ -1,0 +1,39 @@
+BriefClaim: Why are beneficial traits not evolved more often?
+Title: Beneficial traits not ubiquitous.
+Keywords: adaptation, selection
+
+Claim:
+
+Why are beneficial traits not evolved more often?  If wings were
+beneficial for protobirds, for example, why have they not evolved on
+gazelles and apes?
+
+Source:
+
+Response:
+
+1. Different organisms make their living in different ways, so a trait
+   that is beneficial for one organism may not be benefical for another.
+   For example, if the ability to eat a certain kind of hard seed is
+   beneficial for one bird, it may not be beneficial to another for the
+   simple reason that the first bird has a monopoly on those seeds
+   already.
+
+   Beneficial traits have drawbacks, too.  They usually cost extra energy
+   to grow and use, and often they have other costs.  If a trait's
+   advantages do not outweigh its disadvantages, it will not evolve.  The
+   existence of an organism that already has the trait often means it is
+   not worth it for another organism to evolve it.
+
+2. Evolution can work only (or almost only; there may be rare
+   exceptions) by making slight modifications to existing features.  Most
+   of the modifications must be adaptive.  If the raw materials for a
+   trait do not exist, the trait will not evolve even if it is beneficial.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-7-1

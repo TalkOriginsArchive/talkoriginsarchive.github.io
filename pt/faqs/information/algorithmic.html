@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Information Theory and Creationism: Algorithmic Information
+Theory (Chaitin, Solomonoff &amp; Kolmogorov) — TalkOrigins Archive</title>
+<meta content="What is this Creationist argument about Information? This article provides a brief background on Information Theory and explains how Creationists such as Werner Gitt and Lee Spetner misuse one of the greatest contributions of the 20th Century." name="description"/>
+<meta content="talkorigins-modern" name="scisiteforge:theme"/>
+<meta content="/faqs/information/algorithmic.html" name="toa:legacy-route"/>
+<meta content="faqs_articles" name="toa:content-kind"/>
+<link href="../../../theme/style.css" rel="stylesheet"/>
+<link href="../../../assets/poc3-legacy.css" rel="stylesheet"/>
+<link href="../../../theme/assets/toa.ico" rel="icon" sizes="any"/>
+<link href="../../../rss/talkorigins.xml" rel="alternate" title="TalkOrigins Archive updates" type="application/rss+xml"/>
+<link href="../../../rss/talkorigins.atom" rel="alternate" title="TalkOrigins Archive updates" type="application/atom+xml"/>
+<link href="../../../rss/feedback.xml" rel="alternate" title="TalkOrigins feedback compilations" type="application/rss+xml"/>
+<link href="../../../rss/translations.xml" rel="alternate" title="TalkOrigins translation status" type="application/rss+xml"/>
+<script id="scisiteforge-shell-i18n" type="application/json">{&quot;en&quot;: {&quot;language&quot;: &quot;Language&quot;, &quot;viewing&quot;: &quot;English source page&quot;}, &quot;es&quot;: {&quot;language&quot;: &quot;Idioma&quot;, &quot;viewing&quot;: &quot;Página fuente en inglés&quot;}, &quot;fr&quot;: {&quot;language&quot;: &quot;Langue&quot;, &quot;viewing&quot;: &quot;Page source anglaise&quot;}, &quot;de&quot;: {&quot;language&quot;: &quot;Sprache&quot;, &quot;viewing&quot;: &quot;Englische Quellseite&quot;}, &quot;pt&quot;: {&quot;language&quot;: &quot;Idioma&quot;, &quot;viewing&quot;: &quot;Página fonte em inglês&quot;}}</script>
+<script defer="" src="../../../theme/main.js"></script><script defer="" src="../../../theme/portable-lite.js"></script>
+<meta content="automated-unreviewed" name="toa:translation-review"/><meta content="../../.." name="scisiteforge:portable-root"/></head>
+<body class="theme-talkorigins-modern poc3-augmented">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="site-shell">
+<header class="site-header">
+<div class="brand-block">
+<div class="brand-row">
+<a aria-label="Home do Arquivo TalkOrigins" class="brand-mark" href="../../index.html">
+<img alt="Logotipo do Arquivo TalkOrigins" src="../../../theme/assets/toa_logo_001_edit_001.png"/>
+</a>
+<div class="brand-copy">
+<p class="brand-kicker">arquivo modernizado</p>
+<a class="brand-title" href="../../index.html">Arquivo TalkOrigins</a>
+<p class="brand-summary">Rotas legadas estáveis com leitura responsiva, pesquisa consciente do corpus, preparação de tradução e suporte de estudo revisado.</p>
+</div>
+</div>
+</div>
+<nav aria-label="Navegação principal" class="top-nav">
+<a href="../../index.html">Início</a>
+<a href="../../origins/faqs-qa.html">Perguntas Frequentes</a>
+<a href="../../origins/faqs.html">Navegar</a>
+<a href="../../indexcc/list.html">Índice de Alegações</a>
+<a href="../../timeline/index.html">Cronologia</a>
+<a href="../../dossiers/index.html">Dossiês</a>
+<a href="../../../search/index.html">Pesquisa</a>
+<a href="../../../fb/index.html">Feedback</a>
+<a href="../../origins/other-links.html">Links</a>
+<a href="../../../workbench/index.html">Banco de Trabalho</a>
+<a href="../../../notebook/index.html">Caderno</a>
+<a href="../../../downloads/toa-lite/index.html">Downloads</a>
+<a href="../../../translation-status/index.html">Traduções</a>
+<select aria-label="Idioma" id="lang-switch" onchange="switchLanguage(this.value)" translate="no"><option data-coverage="true" lang="en" translate="no" value="en">Inglês</option>
+<option data-coverage="false" lang="es" translate="no" value="es">Espanhol</option>
+<option data-coverage="false" lang="fr" translate="no" value="fr">Francês</option>
+<option data-coverage="false" lang="de" translate="no" value="de">Alemão</option>
+<option data-coverage="true" lang="pt" selected="" translate="no" value="pt">Português</option>
+<option data-coverage="true" lang="en" translate="no" value="00">Legado</option></select>
+</nav>
+</header>
+<main id="main">
+<section class="article-header">
+<p class="eyebrow">Artigos de Perguntas Frequentes</p>
+<h1>Teoria da Informação e Criacionismo: Teoria da Informação Algorítmica (Chaitin, Solomonoff &amp; Kolmogorov)</h1>
+<p class="article-meta">Rota legada: <code>/faqs/information/algorithmic.html</code> · Fonte: <code>faqs/information/algorithmic.html</code></p>
+</section><aside aria-label="Aviso de tradução automática" class="translation-quality-disclaimer" data-translation-disclaimer="automated" role="note"><p><strong>Aviso de tradução automática</strong>: Esta página foi traduzida por um processo automatizado. Ela pode conter erros ou frases pouco naturais. Se você é falante nativo e encontrar um problema, deixe um comentário para nos ajudar a corrigi-lo. <a href="../../../fb/index.html">Deixar comentários</a>.</p></aside>
+<article class="article-body legacy-converted-page faqs-articles-page">
+<div class="center">
+<table cellpadding="10" summary="">
+<tr>
+<td>
+<p><a href="shannon.html"><img alt="Anterior" height="40" src="../../../pictures/arrow_l.gif" width="40"/><br/>
+Anterior</a></p>
+</td>
+<td>
+<p><a href="infotheory.html"><img alt="Cima" height="40" src="../../../pictures/arrow_u.gif" width="40"/><br/>
+Principal</a></p>
+</td>
+<td>
+<p><a href="gitt.html"><img alt="Próximo" height="40" src="../../../pictures/arrow_r.gif" width="40"/><br/>
+Próximo</a></p>
+</td>
+</tr>
+</table>
+<p>[<a href="shannon.html">Informação de Shannon</a>] [<a href="gitt.html">Informação de Gitt</a>] [<a href="dembski.html">Informação de Dembski</a>] [<a href="spetner.html">Informação de Spetner</a>]</p>
+</div>
+<table cellpadding="10" class="otherlinks" summary="Esta tabela é uma lista de links para este assunto.">
+<tr align="left">
+<td><b>Outros Links:</b>
+<div>
+<dl>
+<dt><a href="https://web.archive.org/web/20150613230917if_/http://www.umcs.maine.edu/~chaitin/" rel="external">Página Inicial de G J Chaitin</a></dt>
+<dd>A página inicial de um dos inventores da Teoria da Informação Algorítmica, cientista da computação e matemático Gregory Chaitin.
+Muitos de seus artigos estão disponíveis aqui.</dd>
+<dt><a href="http://www.kolmogorov.com/" rel="external">Kolmogorov</a></dt>
+<dd>Um site dedicado ao matemático <a href="https://web.archive.org/web/20030606214728if_/http://mech.math.msu.su/probab/Kolmogorov/kolmogorov.html" rel="external">Andrei
+Nikolaevich Kolmogorov</a>.</dd>
+<dt><a href="http://www.idsia.ch/~marcus/kolmo.htm" rel="external">Complexidade de Kolmogorov e
+Indução de Solomonoff</a></dt>
+<dd>Um site com numerosas referências e links (alguns expirados)
+sobre as ideias de Kolmogorov e Solomonoff.</dd>
+<dt><a href="http://www.best.com/~szabo/kolmogorov.html" rel="external">Introdução à
+Teoria da Informação Algorítmica</a></dt>
+<dd>Um tutorial sobre Teoria da Informação Algorítmica por Nick
+Szabo</dd>
+<dt><a href="http://www.turing.org.uk/turing/" rel="external">A
+Página Inicial de Alan Turing</a></dt>
+<dd>Um site dedicado ao matemático Alan Turing. Mantido
+por Andrew Hodges.</dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+<p><a id="Top" name="Top"></a><b>Conteúdo deste Artigo:</b></p>
+<ul>
+<li><a href="#Algorithmic_Information_Theory">Teoria da Informação Algorítmica</a></li>
+<li><a href="#Turing">Máquinas de Turing e o Problema da Parada</a></li>
+<li><a href="#churtur">Tese de Church-Turing</a></li>
+<li><a href="#UTM">Máquinas de Turing Universais</a></li>
+<li><a href="#KC">Complexidade de Kolmogorov</a></li>
+<li><a href="#Other">Outros Conceitos</a></li>
+<li><a href="#selfdel">Programas e Códigos Auto-Delimitantes</a></li>
+<li><a href="#selutm">Seleção de UTM</a></li>
+<li><a href="#Omega">Probabilidade de Parada de Chaitin: Omega</a></li>
+<li><a href="#References">Referências</a></li>
+<li><a href="#Links">Links</a></li>
+</ul>
+<h3 class="plus0"><a id="Teoria_Informação_Algorítmica" name="Teoria_Informação_Algorítmica"></a><b>Teoria da Informação Algorítmica</b></h3>
+<p><a href="https://web.archive.org/web/20150613230917if_/http://www.umcs.maine.edu/~chaitin/" rel="external">Gregory
+Chaitin</a><sup>[<a href="#p1">1</a>]</sup>, Ray Solomonoff, e
+<a href="http://www.kolmogorov.com/" rel="external">Andrei
+Kolmogorov</a> desenvolveram uma visão diferente de informação em
+relação à de <a href="shannon.html">Shannon</a>. Em vez de
+considerar o conjunto estatístico de mensagens de uma
+fonte de informação, a teoria da informação algorítmica examina
+sequências individuais de símbolos. Aqui, a informação
+<em>H</em>(<em>X</em>) é definida como o tamanho mínimo de um
+programa necessário para gerar a sequência <em>X</em>.</p>
+<p>Este artigo destaca alguns dos principais conceitos da Teoria da Informação Algorítmica. O conhecimento deste assunto pode ser útil ao debater com criacionistas cujos usos de conceitos tanto da Teoria da Informação Clássica quanto da Teoria da Informação Algorítmica podem ser imprecisos. Este artigo é apenas uma revisão das ideias principais. Para as demonstrações matemáticas e um background mais detalhado, consulte o material citado e os links.</p>
+<h3 class="plus0"><a id="Turing" name="Turing"></a><strong>Máquinas de Turing e o Problema da Parada</strong>[<a href="#Top">Topo</a>]</h3>
+<p>Entender a Teoria da Informação Algébrica requer conhecimento
+de Máquinas de Turing. <a href="http://www.turing.org.uk/turing/" rel="external">Alan Turing</a><sup>[<a href="#p2">2</a>]</sup> demonstrou que é possível inventar uma única
+máquina <em>U</em> capaz de calcular qualquer sequência computável.
+As notações de Turing são um pouco difíceis, mas a ideia básica é
+a seguinte:</p>
+<p>Os elementos de uma Máquina de Turing são uma fita de programa com uma cabeça de leitura, uma fita de trabalho com uma cabeça de leitura/escrita, um estado (representado por um número), uma tabela de estados e uma tabela de ações. A fita de programa tem comprimento finito e contém uma sequência de símbolos. A fita de trabalho está inicialmente em branco. Para cada ciclo da máquina, o estado é substituído pelo valor de consulta na tabela de estados. O índice de consulta é uma combinação do estado atual, do símbolo lido da fita de programa e do símbolo lido da fita de trabalho.</p>
+<p>A tabela de ações controla as fitas. As seguintes ações são permitidas:</p>
+<ol>
+<li>Parar</li>
+<li>Avançar a fita do programa
+um símbolo para a direita</li>
+<li>Avançar a fita de trabalho
+um símbolo para a direita</li>
+<li>Recuar a fita de trabalho
+um símbolo para a esquerda</li>
+<li>Apagar o símbolo atual
+na fita de trabalho</li>
+<li>Escrever qualquer um dos
+símbolos <i>R</i> na fita de trabalho (há <i>R</i> dessas
+ações).</li>
+</ol>
+<p>Podemos pensar nas fitas da Máquina de Turing como strings;
+ou seja, sequências de símbolos. Chamaremos a string do programa
+<i>p</i>, e a string de saída resultante na fita de trabalho
+<i>X</i>. O programa <i>p</i> produz a string <i>X</i> na Máquina de Turing
+<i>T</i>. Dado que temos a Máquina de Turing <i>T</i>,
+a string <i>X</i> pode ser representada por <i>p</i>. Também podemos pensar
+em <i>p</i> e <i>X</i> como números, já que os números são
+representados como sequências de símbolos.</p>
+<p>Muitas vezes, estamos falando de Máquinas de Turing binárias, para as quais o conjunto de símbolos nas duas fitas consiste em 0 e 1. No entanto, isso não precisa ser o caso. Podemos ter qualquer número de símbolos. Agora, obviamente, não podemos realmente ter uma fita de trabalho infinitamente longa, mas a Máquina de Turing é usada para problemas teóricos, então podemos imaginar que podemos.</p>
+<p>Abaixo é mostrado um diagrama de uma Máquina de Turing:</p>
+<div class="center">
+<table summary="">
+<caption><i>Fig. 1.</i> <i>Máquina de Turing</i></caption>
+<tr><td><img alt="" height="720" src="../../../faqs/information/TM.gif" width="576"/></td></tr>
+</table></div>
+<p>Para uma boa descrição de Máquinas de Turing, consulte a Stanford Encyclopedia of Philosophy<sup>[</sup><sup><a href="#p3">3</a>]</sup>. Observe que as Máquinas de Turing teóricas possuem fitas de trabalho infinitas, o que, é claro, não pode ser construído. Alguns problemas não são, portanto, possíveis de serem executados em Máquinas de Turing físicas reais.</p>
+<p>Turing inventou sua máquina teórica para abordar o
+<em>Entscheidungsproblem</em> ou problema da decisão; isto é,
+se é possível na lógica simbólica encontrar um algoritmo geral
+que decida, para enunciados de primeira ordem dados, se estes
+são universalmente válidos ou não.</p>
+<p>As raízes modernas do <em>Entscheidungsproblem</em> remontam a um discurso de 1900 de <a href="https://web.archive.org/web/20170526230609if_/http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Hilbert.html" rel="external">
+David Hilbert</a>. <sup>[<a href="#p4">4</a>]</sup> Hilbert havia
+esperado que fosse possível desenvolver um algoritmo geral para
+decidir se um conjunto de axiomas era auto-contraditório. <a href="https://web.archive.org/web/20170606022127if_/http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Godel.html" rel="external">
+Kurt Gödel</a> <sup>[<a href="#p5">5</a>]</sup> mostrou que,
+em qualquer sistema axiomático para aritmética sobre números naturais,
+existem algumas proposições que não podem ser
+provadas ou refutadas dentro dos axiomas do sistema. Isso é
+conhecido como o Teorema da Incompletude de Gödel, e demonstrou
+que o Segundo Problema de Hilbert não poderia ser resolvido.</p>
+<p>Turing, baseando-se no trabalho de Gödel, provou que o
+<em>Entscheidungsproblem</em> não era solucionável. <a href="https://web.archive.org/web/20170610044143if_/http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Church.html" rel="external">
+Alonzo Church</a>, independentemente de Turing, mostrou a mesma
+coisa.</p>
+<p>Turing usou o problema da parada para sua prova. O problema da parada é um problema de decisão. Ele formula a seguinte questão: dada uma descrição de um algoritmo e suas condições iniciais, é possível demonstrar que o algoritmo irá parar? Um algoritmo que produz os dígitos de π é um exemplo de um algoritmo não parável (π é um <i>número irracional</i> e <i>transcendental</i>; não pode ser expresso como um polinômio com coeficientes racionais e, portanto, possui um número infinito de dígitos). Turing provou que não existe um algoritmo geral que possa resolver o problema da parada para todas as entradas possíveis, e, portanto, que o <em lang="de">Entscheidungsproblem</em> é insolúvel.</p>
+<h3 class="plus0"><a id="churtur" name="churtur"><b>Tese de Church-Turing</b></a>
+[<a href="#Top">Topo</a>]</h3>
+<p>A <i>Tese de Church-Turing</i> é uma síntese da
+Tese de Church e da Tese de Turing. Ela essencialmente
+afirma que, sempre que existe um método eficaz para obter os
+valores de uma função matemática, a função pode ser
+calculada por uma máquina de Turing. A ideia básica é que, se você tem
+um cálculo que pode ser computado por qualquer máquina (determinística)
+que possa ser efetivamente implementada, uma máquina de Turing pode fazer o
+cálculo.</p>
+<p>Dois pontos de vista concorrentes sobre a Tese de Church-Turing foram publicados por Copeland<sup>[<a href="#p6">6</a>]</sup> e Hodges<sup>[<a href="#p7">7</a>]</sup> (o argumento é, pelo menos em parte, sobre o quão fortemente enunciada uma tese Church e Turing concordariam em aceitar, e se eles aderiram ao conceito descrito por Gandy como Tese M).</p>
+<h3 class="plus0"><a id="UTM" name="UTM"><b>Máquina Universal de Turing</b></a>
+[<a href="#Top">Topo</a>]</h3>
+<p>Não seria prático construir uma nova Máquina de Turing a cada vez que se deseja executar um cálculo, dando origem ao conceito de Máquina de Turing Universal (MTU). Uma Máquina de Turing Universal (MTU) é definida como uma Máquina de Turing que pode simular qualquer outra Máquina de Turing. Se tivermos uma MTU, podemos programá-la para agir como qualquer Máquina de Turing que desejarmos.</p>
+<p>Como uma Máquina de Turing pode ser descrita por suas tabelas de estado e ação, ela pode ser representada como uma string. Se <i>p</i> for um programa em uma Máquina de Turing <i>T</i> que produz a string <i>X</i> na fita de trabalho, então em uma Máquina de Turing Universal podemos carregar uma representação em string de <i>T</i>, executar o programa <i>p</i> e obter <i>X</i>. Usaremos o símbolo <i>u</i> para a representação de <i>T</i> em <i>U</i>. Portanto, se &lt;<i>u</i>&gt;&lt;<i>p</i>&gt; for a entrada para <i>U</i>, ele produzirá <i>X</i>. Observe que <i>u</i> depende tanto de <i>T</i> quanto de <i>U</i>, enquanto <i>p</i> depende de <i>X</i> e de <i>T</i>.</p>
+<p>Existem um número infinito de Máquinas de Turing Universais.
+Algumas pesquisas foram realizadas para descobrir o quão pequenas elas podem ser.
+<a href="http://www.media.mit.edu/people/minsky/" rel="external">Marvin Minsky</a>
+descobriu uma UTM de 7 estados e 4 símbolos em 1962<sup>[<a href="#p8">8</a>]</sup>. Yurii Rogozhin descobriu um número de
+UTMs pequenas<sup>[</sup><sup><a href="#p9">9</a>]</sup>. Se as
+descrevermos como (<i>m</i>, <i>n</i>) onde <i>m</i> é o
+número de estados e <i>n</i> é o número de símbolos, Rogozhin
+adicionou (24, 2), (10, 3), (5, 5), (4, 6), (3, 10) e (2, 18)
+aos de Minsky (7, 4). Stephen Wolfram relata uma UTM (2, 5)
+<sup>[</sup><sup><a href="#p10">10</a>]</sup>.</p>
+<h3 class="plus0"><a id="KC" name="KC"></a><strong>Complexidade de Kolmogorov</strong>[<a href="#Top">
+Top</a>]</h3>
+<p>Kolmogorov, Chaitin e Solomonoff chegaram independentemente à ideia de representar a complexidade de uma string com base em sua compressibilidade, representando-a como um programa.</p>
+<p>Dada uma Máquina Universal de Turing <em>U</em>, o
+<em>conteúdo informacional algorítmico</em>, também chamado de
+<em>complexidade algorítmica</em> ou <em>Complexidade de Kolmogorov</em> <em>(KC)</em> <em>H</em>(<em>X</em>) da
+string <em>X</em> é definido como o comprimento do programa mais curto
+<em>p</em> em <em>U</em> que produz a string <em>X</em>. O
+programa mais curto capaz de produzir uma string é chamado de
+<em>elegante</em>. O programa também pode ser denotado
+<em>X<sup>*</sup></em>, onde <em>U</em>(<em>X<sup>*</sup></em>)
+= <em>X</em>, e pode ser considerado em si mesmo uma string. Dado um
+programa elegante <em>X</em><sup>*</sup>,</p>
+<p><em>H</em>(<em>X</em>) = |<em>X</em><sup>*</sup>|</p>
+<p>onde |<em>X</em><sup>*</sup>| é o tamanho de
+<em>X</em><sup>*</sup>.</p>
+<p>A terminologia na literatura é variável. Por exemplo, alguns autores usam <i>C</i><sub>M</sub>(<i>X</i>) ou <i>I</i>(<i>X</i>) para <i>H</i>(<i>X</i>) na máquina <i>M</i>, ou <i>I</i>(<i>X</i>) para <i>H</i>(<i>X</i>), ou min(<i>p</i>) para |<i>X</i><sup>*</sup>|.</p>
+<p>Uma string <em>X</em> é dita ser <em>aleatoriamente algorítmica</em> se seu programa elegante <em>X<sup>*</sup></em> não pode ser expresso de forma mais curta que <em>X</em>; isto é, se sua complexidade algorítmica é máxima. Em outras palavras, ela não pode ser comprimida na UTM de referência.</p>
+<p>Uma string aleatória algorítmica infinitamente longa não contém dados redundantes. Pode-se demonstrar que a proporção de cada símbolo na string é aproximadamente igual, com uma distribuição aleatória. Se tal string representar um número entre 0 e 1 (o <em>intervalo unitário</em>), então o número é um <em><a href="http://en.wikipedia.org/wiki/Normal_number" rel="external"><i>número normal ou Borel normal</i></a></em>, após o trabalho de <a href="https://web.archive.org/web/20170526230559if_/http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Borel.html" rel="external">
+Emile Borel</a>.</p>
+<p>Não todos os números normais são aleatórios algorítmicos. Um número pode ser normal, mas definido como um programa curto em alguma UTM. Da mesma forma, nem todos os números aleatórios algorítmicos são normais. Strings de comprimento finito são consideradas aleatórias algorítmicamente por definição. Qualquer string de comprimento finito pode ser tomada como um número racional em alguma base, e números racionais não podem ser normais em nenhuma base.</p>
+<p>Devem ser feitas algumas observações sobre a Complexidade de Kolmogorov:</p>
+<ol>
+<li><i>O KC não pode ser
+calculado.</i> Quando estamos testando se um programa <i>p</i> irá
+gerar a string <i>X</i> em <i>U</i>, nunca poderemos saber se
+<i>p</i> irá parar (como Turing demonstrou). Mesmo que tenhamos
+encontrado um programa <i>p</i><sub>1</sub> que gera <i>X</i> em
+<i>U</i>, não poderemos saber se existe um programa mais curto
+<i>p</i><sub>0</sub> que gera <i>X</i> em <i>U</i>. Pode-se
+estimar limites para o KC, mas o cálculo absoluto do KC para uma
+string é teoricamente impossível.<br/>
+<br/>
+</li>
+<li><i>O KC depende do
+UTM de referência selecionado, não apenas da string</i>. Se você tem
+dois UTMs <i>U</i> e <i>V</i>, o comprimento do programa mais curto
+<i>p</i><sub>U</sub> para produzir <i>X</i> em <i>U</i> não precisa
+corresponder ao comprimento do programa mais curto
+<i>p</i><sub>V</sub> para produzir <i>X</i> em <i>V</i>. Em outras
+palavras, <i>H</i><sub>U</sub>(<i>X</i>) não é igual a
+<i>H</i><sub>V</sub>(<i>X</i>) em geral. Normalmente, isso
+não importa porque o UTM de referência é dado e toda discussão é
+relativa a ele, ou há uma suposição implícita de que qualquer UTM
+selecionado terá um overhead pequeno em relação às strings
+algoritmicamente aleatórias muito grandes em discussão. Isso importa
+quando você não tem um UTM de referência e não está falando sobre
+strings algoritmicamente aleatórias muito grandes (veja abaixo, sob
+<a href="#selutm">Seleção de UTM</a>).<br/><br/></li>
+<li><i>Devem existir
+strings algoritmicamente aleatórias</i>. Isso é uma consequência do
+<i>Princípio da Casa dos Pombos</i>. Existem 2<i><sup>n</sup></i>
+strings de comprimento <i>n</i>, e
+2<i><sup>n</sup></i>-1 programas de comprimento menor que <i>n</i>.
+Simplesmente não há programas mais curtos suficientes para gerar todas
+as 2<i><sup>n</sup></i> strings de comprimento <i>n</i>.<br/>
+<br/>
+</li>
+<li><i>A maioria das
+strings é pelo menos próxima de ser algoritmicamente aleatória</i>.
+Isso é outra consequência do <i>Princípio da Casa dos Pombos</i>.
+Existem 2<i><sup>n-k</sup></i>-1 programas de comprimento menor que
+<i>n</i>-<i>k</i>, e 2<sup>n</sup> - (2<i><sup>n-k</sup></i>) =
+2<sup>n</sup>(1-2<sup>-k</sup>) programas de comprimento entre
+<i>n-k</i> e <i>n</i>. Vamos dizer k = 10. Pelo menos 99,9% das strings de
+comprimento <i>n</i> têm um KC de pelo menos <i>n</i>-10<i>.</i><br/>
+<br/>
+</li>
+<li><i>O KC é limitado
+pelo comprimento de uma string mais uma constante.</i> Um programa
+muito simples é <i>imprimir X</i>. Seu overhead em um UTM dado é uma
+constante <i>c</i>. O KC para qualquer string naquele UTM não pode
+exceder o comprimento da string + <i>c</i>. A constante depende do
+UTM.<br/>
+<br/>
+</li>
+<li><i>Teorema da
+Invariância</i>. Se temos um UTM <i>U</i> e qualquer outra TM <i>V</i>,
+<i>H</i><sub>U</sub>(<i>X</i>) ≤<i>H</i><sub>V</sub>(<i>X</i>) + <i>c</i> para
+todas as <i>X</i>. A constante <i>c</i> depende de <i>U</i> e
+<i>V</i>, mas não de <i>X</i>.<br/>
+<br/>
+</li>
+<li><i>Algoritmicamente
+aleatório não é o mesmo que estatisticamente aleatório.</i> Pensamos
+em virar moedas, rolar dados e decaimento atômico como processos
+não-determinísticos ou estocásticos, e chamamos isso de aleatório.
+Aleatório algoritmicamente tem uma definição diferente e é um conceito
+diferente, embora strings algoritmicamente aleatórias muito longas
+tenham distribuições de símbolos com propriedades estatísticas. Strings
+aleatórias algoritmicamente são ou computáveis e determinísticas, ou
+incomputáveis.<br/>
+<br/>
+</li>
+<li><i>O KC não é o
+mesmo que complexidade computacional.</i> <a href="http://en.wikipedia.org/wiki/Computational_complexity_theory" rel="external">Teoria
+da complexidade computacional</a> lida com a quantidade de recursos
+de computação (tempo e memória) necessários para resolver um problema.
+A complexidade computacional não está relacionada ao fato de uma string
+ser compressível em um UTM dado.</li>
+</ol>
+<h3 class="plus0"><a id="Other" name="Other"></a><b>Outros Conceitos</b>
+[<a href="#Top">Topo</a>]</h3>
+<p><i>Informação Conjunta</i> <i>Conteúdo</i>. Suponha que tivéssemos uma UTM com duas fitas de trabalho em vez de uma. Um programa poderia produzir duas strings, uma em cada fita de trabalho. Alternativamente, poderia produzir duas strings em uma única fita de trabalho, uma após a outra (possivelmente separadas por um espaço em branco). Ou poderíamos executar o mesmo programa em duas UTMs diferentes rodando em paralelo. De qualquer forma, temos um programa produzindo duas strings. O <em>conteúdo de informação conjunta</em> <em>H</em>(<em>X</em>,<em>Y</em>) das strings <em>X</em> e <em>Y</em> é o tamanho do menor programa para produzir simultaneamente tanto <em>X</em> quanto <em>Y</em>.</p>
+<p><i>Conteúdo Condicional de Informação</i>. O
+<em>condicional</em> ou <em>relativo</em> <em>conteúdo de
+informação H</em>(<em>X</em>|<em>Y</em>) é o tamanho do menor programa
+para produzir <em>X</em> a partir de um programa mínimo para <em>Y</em>. Observe
+que <em>H</em>(<em>X</em>|<em>Y</em>) requer
+<em>Y</em><sup>*</sup> e não <em>Y</em>. Chaitin mostrou
+que:</p>
+<p><em>H</em>(<em>X</em>,<em>Y</em>) ≤ <em>H</em>(<em>X</em>) +
+<em>H</em>(<em>Y</em>|<em>X</em>) + <em>O</em>(1)</p>
+<p>onde <em>O</em>(1) é uma constante que representa o sobrecarga computacional.</p>
+<p><i>Conteúdo de Informação Mútua</i>. O <em>conteúdo de informação mútua H</em>(<em>X</em> : <em>Y</em>) é calculado por qualquer um dos seguintes:</p>
+<p><em>H</em>(<em>X</em> : <em>Y</em>) = <i>H</i>(<i>X</i>) +
+<i>H</i>(<i>Y</i>) - <i>H</i>(<i>X</i>,<i>Y</i>)</p>
+<p><em>H</em>(<em>X</em> : <em>Y</em>) = <em>H</em>(<em>X</em>) -
+<em>H</em>(<em>X</em>|<em>Y</em>) + <em>O</em>(1)</p>
+<p><em>H</em>(<em>X</em> : <em>Y</em>) = <i>H</i>(<i>Y</i>) -
+<i>H</i>(<i>Y</i>|<i>X</i>) + <em>O</em>(1)</p>
+<p>As strings <em>X</em> e <em>Y</em> são <em>independentes algorítmicamente</em> se</p>
+<p><em>H</em>(<em>X</em>,<em>Y</em>) ≈ <em>H</em>(<em>X</em>) +
+<em>H</em>(<em>Y</em>)</p>
+<p>neste caso, o conteúdo de informação mútua é pequeno.</p>
+<p>Deve-se enfatizar que, apesar da semelhança na notação e forma com a Teoria da Informação Clássica, a Teoria da Informação Algorítmica lida com strings individuais, enquanto a Teoria da Informação Clássica lida com o comportamento estatístico de fontes de informação. Pode-se estabelecer uma relação entre a <i>média</i> da Complexidade de Kolmogorov e a entropia de Shannon, mas não entre a KC e a entropia de Shannon.</p>
+<h3 class="plus0"><a id="selfdel" name="selfdel"><b>Programas e Códigos Auto-Delimitantes</b></a> [<a href="#Top">Topo</a>]</h3>
+<p>Um problema que devemos resolver para nossa UTM <i>U</i> é como distinguir entre <i>u</i>, a representação de uma Máquina de Turing, e <i>p</i>, o programa que gera a string <i>X</i>. Um método para fazer isso é representar <i>u</i> por um <i>código auto-delimitante</i>. Um exemplo é o <i>código unário</i>, no qual o número N é representado por N-1 zeros seguidos por um único 1. Em outras palavras, 1 = 1, 2 = 01, 3 = 001, 4 = 0001, e assim por diante. O código unário é ineficiente se você tiver muitos números grandes, mas em alguns casos pode ser uma boa escolha.</p>
+<p>Outro exemplo é adicionar um símbolo ao conjunto de símbolos, cujo significado é <i>fim</i>. Se <i>u</i> for representado como um número binário, precisamos de um conjunto de três símbolos para o <i>u</i> delimitado. Os códigos 0101101001<i>e</i> e 01011<i>e</i> podem ser distinguidos, mesmo que 01011 pareça o início de 0101101001.</p>
+<p>Da mesma forma, se representarmos um conjunto de símbolos por um código binário (como o ASCII), podemos reservar uma representação binária para o símbolo <i>final</i> (como o símbolo EOF do ASCII). O caso mais simples é usar uma sequência de 2 bits que representa os dois símbolos binários 0 e 1, mais o símbolo <i>final</i> (00 = 0, 11 = 1, 01 = <i>final</i>).</p>
+<p>Códigos auto-delimitantes são às vezes chamados de <i>códigos prefixo</i>, porque nenhum código é um prefixo de qualquer outro código.</p>
+<h3 class="plus0"><a id="selutm" name="selutm"><b>Seleção de UTM</b></a>
+[<a href="#Top">Topo</a>]</h3>
+<p>Lembre-se de que a Complexidade de Kolmogorov (o comprimento do programa mais curto em uma UTM para calcular uma string) depende da seleção da UTM. Na Teoria da Informação Algorítmica, isso geralmente não importa. Lembre-se de que o limite superior da CK para uma string é limitado por uma constante <i>c</i>, que é o overhead para representar uma TM que implementa "imprimir <i>X</i>" na UTM de referência. Desde que escolhamos uma UTM de referência para a qual este overhead seja muito pequeno em relação ao comprimento das strings com as quais estamos trabalhando, podemos ignorar a constante. Por exemplo, se estamos trabalhando com |<i>X</i>| &gt; 1 milhão e <i>c</i> &lt; cem, podemos ignorar <i>c</i>.</p>
+<p>Alternativamente, se toda a discussão se refere a um determinado UTM de referência, então <i>c</i> representa um deslocamento fixo para nosso limite superior e, para muitos tipos de discussões teóricas, podemos omiti-lo.</p>
+<p>Em geral, se não selecionamos uma das infinitas UTM como nossa referência, não podemos ignorar a constante. Nada nos obriga a usar uma UTM para a qual <i>c</i> é pequeno. Em outras palavras, existem UTM nas quais "imprimir <i>X</i>" não pode ser codificado eficientemente.</p>
+<p>O diagrama a seguir ilustra o problema, que remonta ao Princípio da Gaveta. Suponha que tenhamos três UTM diferentes, <i>U</i>, <i>V</i> e <i>W</i>, todas as quais mapeiam o conjunto de programas possíveis {<i>up</i>} para o conjunto de strings finitas possíveis {<i>X</i>}. Como estamos preocupados apenas com o comprimento da string de entrada, não nos importa a diferença nos descritores de TM em <i>U</i>, <i>V</i> e <i>W</i>.</p>
+<div class="center"><table summary="">
+<caption><i>Fig. 2. O Princípio da Casa dos Pombos para Diferentes
+UTMs</i></caption>
+<tr><td><img alt="" height="261" src="../../../faqs/information/Pigeon.gif" width="581"/></td></tr>
+</table></div>
+<p>Para o conjunto de cadeias de entrada onde |<i>up</i>| &lt; <i>n</i>,
+cada UTM deve mapear no máximo 2<i><sup>n</sup></i> cadeias em
+{<i>X</i>} graças ao Princípio das Casacas de Pombos. As regiões
+alvo em {<i>X</i>} para <i>U</i>, <i>V</i> e <i>W</i> podem ou não
+se sobrepor. Não precisam. Como temos um número infinito de UTMs
+para escolher, podemos imaginar que qualquer mapeamento é possível,
+e isso pode, de fato, ser demonstrado.</p>
+<p>Primeiro, considere o seguinte tipo de Máquina de Turing: ela lê um programa de entrada <i>p</i> como um número, que sua tabela de estados usa para iniciar uma sequência. Cada passo na sequência produz um símbolo sem referência adicional à fita do programa ou à fita de trabalho, e então para. Isso implementa uma consulta de tabela. Se a MT lê <i>N</i> números diferentes, ela pode produzir <i>N</i> cadeias de caracteres de comprimento arbitrário. Poderíamos construir uma MT que produza cadeias de caracteres após ler programas de 2 bits da seguinte forma:</p>
+<table border="1" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<p>Programa de Entrada</p>
+</td>
+<td>
+<p>Cadeia de Saída</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00</p>
+</td>
+<td>
+<p>1011100001001111001</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>01</p>
+</td>
+<td>
+<p>1010</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>0000011110110</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+</table>
+<p>O menor tamanho de tabela é, naturalmente, uma tabela com uma entrada, então com este tipo de Máquina de Turing podemos gerar qualquer string com um programa de 1 bit.</p>
+<p>Na verdade, não há limite para o comprimento da string de saída para uma tabela de consulta TM. Basta ter uma tabela grande o suficiente, o que nos leva ao seguinte problema: o tamanho da tabela de consulta excede sua string mais longa. Em outras palavras, geralmente esperaríamos que a string necessária para descrever a TM fosse muito mais longa do que qualquer string que ela possa produzir. É aí que a seleção de UTM se torna crítica.</p>
+<p>O problema é, como codificamos a seleção da TM para executar na UTM? Como a descrição da nossa TM na UTM é uma string, ela também é um número. A UTM executará a TM 1, TM 2, TM 3, … TM <i>N</i> etc., dependendo de qual número é carregado na UTM. Podemos projetar uma UTM para pular praticamente para qualquer lugar em sua tabela de estados quando lê o descritor da TM <i>u</i>, de modo que qualquer mapeamento de <i>u</i> para a TM implementada seja possível. De fato, poderíamos novamente usar busca em tabela.</p>
+<p>Vamos projetar uma UTM chamada MFTM, ou Minha Máquina de Turing Favorita. O MFTM possui uma tabela de estados e ações dividida. A primeira parte é dedicada a uma única implementação embutida de uma MT, seja qual for a que decidirmos ser a nossa favorita. A outra parte implementa qualquer outra UTM escolhida arbitrariamente <i>Z</i>. O MFTM lê a string de entrada &lt;a&gt;&lt;<i>q</i>&gt;. Se <i>a</i> for um 0, executa <i>q</i> na MT embutida. Se <i>a</i> for qualquer outro símbolo, executa &lt;<i>q</i>&gt; = &lt;<i>z</i>&gt;&lt;<i>p</i>&gt; em <i>Z</i>, onde <i>z</i> é um descritor de uma MT em <i>Z</i> e <i>p</i> é um programa.</p>
+<p>Se incorporarmos uma tabela de consulta TM no MFTM, ele pode produzir sequências arbitrárias a partir de entradas muito curtas. O programa mais curto no MFTM seria de 2 bits se incorporarmos uma tabela com uma entrada. O MFTM não viola o Princípio das Casas de Pombos, porque qualquer &lt;<i>u</i>&gt;&lt;<i>p</i>&gt; em <i>Z</i> deve ser alongado em 1 bit no MFTM. A KC de cada string não incorporada na tabela aumenta em 1 bit.</p>
+<p>Agora, admito que esta é uma maneira astuta de obter baixa Complexidade de Kolmogorov para qualquer string arbitrária, mas ilustra o problema. Como temos um número infinito de UTMs, e há um número infinito de maneiras de codificar descritores de TM em UTMs, incluindo códigos auto-delimitantes para os quais alguns descritores são inerentemente curtos, existem UTMs para os quais conjuntos arbitrários de strings finitas não são aleatórios algorítmicos. Isso é importante, porque demonstra como fortemente a KC pode depender da seleção do UTM. O descritor do UTM não é incluído no cálculo da KC.</p>
+<p>Também é possível projetar uma UTM na qual as strings têm KC arbitrariamente grande. Vamos projetar uma UTM chamada RIM, ou Máquina Realmente Ineficiente. Ela usará um código auto-delimitante para descrever as MMs, e este código terá a pior eficiência que possamos inventar. Em vez de codificar 0 como 00, 1 como 11 e <i>end</i> como 01, vamos codificar 0 como uma string sucessiva de <i>n</i> 0's, 1 como uma string sucessiva de <i>n</i> 1's, e <i>end</i> como qualquer outra substring de comprimento <i>n</i>. Podemos tornar <i>n</i> muito grande, como 10<sup>20</sup>. Mesmo que possamos codificar <i>T</i> como <i>u</i> com <i>q</i> bits, o RIM não pode carregar <i>T</i> em menos de <i>nq</i> bits. Isso significa que <i>nq</i> é um limite inferior para o KC no RIM.</p>
+<p>Esta é uma maneira astuta de obter alta Complexidade de Kolmogorov para qualquer string arbitrária, mas, novamente, ilustra o problema. O RIM não viola o limite superior da KC ou o Teorema da Invariância, porque podemos deixar a constante <i>c</i> ficar muito grande. Na verdade, fizemos isso artificialmente.</p>
+<h3 class="plus0"><a id="Omega" name="Omega"></a><strong>Probabilidade de Parada de Chaitin:</strong> <a id="OLE_LINK1" name="OLE_LINK1">Ω</a><b>(Omega)</b>[<a href="#Top">Top</a>]</h3>
+<p>Chaitin estendeu o trabalho de Turing ao definir a probabilidade de parada. Considerando programas em uma máquina de Turing universal <i>U</i> que não requerem entrada, definimos <em>P</em> como o conjunto de todos os programas em <em>U</em> que param. Seja |<em>p</em>| o comprimento da string de bits que codifica o programa <em>p</em>, que é qualquer elemento de <em>P</em>. A probabilidade de parada ou número Ω é definida:</p>
+<p>Ω=
+∑2<sup>-|<em>p</em>|</sup> para todos os elementos <em>p</em> de
+<em>P</em></p>
+<p>Novamente, a notação de valor absoluto |<em>p</em>| denota o tamanho ou comprimento da string de bits <i>p</i>.</p>
+<p>Uma maneira de pensar sobre Ω é que, se você alimentar uma UTM com uma string binária aleatória gerada por um processo Bernoulli 1/2 (como lançar uma moeda justa) como seu programa, Ω é a probabilidade de que a UTM pare.</p>
+<p>Como uma probabilidade, Ω tem um valor entre 0 e 1. Chaitin mostrou que Ω não é apenas irracional e transcendental, mas também um número real não computável. É <em>irredutível algorítmica</em> ou <em>aleatória algorítmica</em>, não importa qual UTM você escolha. Não existe nenhum algoritmo que possa calcular seus dígitos.</p>
+<h3 class="plus0"><a id="Referências" name="Referências"></a><strong>Referências</strong>[<a href="#Top">Topo</a>]</h3>
+<div class="bibliography">
+<p>[<a id="p1" name="p1"></a>1] Chaitin, G.J., <a href="https://web.archive.org/web/20040602070849if_/http://www.umcs.maine.edu/~chaitin/cup.pdf" rel="external">Teoria da Informação Algorítmica</a>. Terceira Impressão, Cambridge University Press, 1990. Disponível on-line.</p>
+<p>[<a id="p2" name="p2"></a>2] Turing, A.M., <a href="http://www.abelard.org/turpap2/tp2-ie.asp" rel="external">Sobre Números Computáveis, com uma Aplicação ao Entscheidungsproblem</a>. <em>Proceedings of the</em> <em>London</em><em>Mathematical Society</em>, ser. 2. vol. 42 (1936-7), pp.230-265; correções, Ibid, vol 43 (1937) pp. 544-546. Disponível on-line.</p>
+<p>[<a id="p3" name="p3"></a>3] na SEP, Editores, "<a href="http://plato.stanford.edu/archives/spr2002/entries/turing-machine/" rel="external">Máquina de Turing</a>", <em>The Stanford Encyclopedia of Philosophy (Spring 2002 Edition)</em>, Edward N. Zalta(ed.), URL =&lt;<a href="http://plato.stanford.edu/archives/spr2002/entries/turing-machine/" rel="external">http://plato.stanford.edu/archives/spr2002/entries/turing-machine/</a>&gt;</p>
+<p>[<a id="p4" name="p4"></a>4] Hilbert, D., <a href="https://web.archive.org/web/20030404020604if_/http://babbage.clarku.edu/~djoyce/hilbert/problems.html" rel="external">Problemas Matemáticos: Palestra Proferida perante o Congresso Internacional de Matemáticos em Paris em 1900</a>, traduzido por Maby Newson, <i>Bulletin of the American Mathematical Society</i> 8 (1902), pp. 437-479. , versão HTML por D. Joyce disponível on-line.</p>
+<p>[<a id="p5" name="p5"></a>5] Gödel, K., <a href="https://web.archive.org/web/20030407005504if_/http://home.ddc.net/ygg/etext/godel/godel3.htm" rel="external">Sobre Proposições Formalmente Indecidíveis de Principia Mathematica e Sistemas Relacionados</a>. Monatshefte für Mathematik und Physik, 38 (1931), pp. 173-198. Traduzido em van Heijenoort: <em>From Frege to Gödel</em>. Harvard University Press, 1971.</p>
+<p>[<a id="p6" name="p6">6</a>] Copeland, B. Jack, "<a href="http://plato.stanford.edu/archives/fall2002/entries/church-turing/" rel="external">A Tese de Church-Turing</a>", <em>The Stanford Encyclopedia of Philosophy (Fall 2002 Edition)</em>, Edward N. Zalta(ed.), <span style="white-space:nowrap">URL =</span> <span style="white-space:nowrap">&lt;<a href="http://plato.stanford.edu/archives/fall2002/entries/church-turing/" rel="external">http://plato.stanford.edu/archives/fall2002/entries/church-turing/</a>&gt;.</span></p>
+<p>[<a id="p7" name="p7">7</a>] Hodges, Andrew, "<a href="http://plato.stanford.edu/archives/sum2002/entries/turing/" rel="external">Alan Turing</a>", <em>The Stanford Encyclopedia of Philosophy (Summer 2002 Edition)</em>, Edward N. Zalta(ed.), <span style="white-space:nowrap">URL =</span> <span style="white-space:nowrap">&lt;<a href="http://plato.stanford.edu/archives/sum2002/entries/turing/" rel="external">http://plato.stanford.edu/archives/sum2002/entries/turing/</a>&gt;.</span></p>
+<p>[<a id="p8" name="p8">8</a>] Minsky, M., "Size and Structure of Universal Turing Machines," Recursive Function Theory, Proc. Symposium. in Pure Mathematics, 5, American Mathematical Society, 1962, pp. 229-238.</p>
+<p>[<a id="p9" name="p9">9</a>] Rogozhin, Y. "Small Universal Turing Machines." <a href="http://www.ingenta.com/isis/browsing/TOC/ingenta;jsessionid=19tq5x49to0b6.crescent?issue=pubinfobike://els/03043975/1996/00000168/00000002" rel="external">Theoretical Computer Science 168 iss. 2, 215-240, 1996</a>.</p>
+<p>[<a id="p10" name="p10">10</a>] Wolfram, S. <a href="http://www.amazon.com/exec/obidos/ASIN/1579550088/thetalkorigin-20/" rel="external">Uma Nova Ciência.</a> Champaign, IL: Wolfram Media, pp.<a href="http://www.wolframscience.com/nksonline/page-706-text" rel="external">706</a>-711, 2002.</p>
+</div>
+<div>
+<hr/></div>
+<p>[<a href="#Top">Topo</a>]</p>
+<div class="center">
+<table cellpadding="10" summary="">
+<tr>
+<td>
+<p><a href="shannon.html"><img alt="Anterior" height="40" src="../../../pictures/arrow_l.gif" width="40"/><br/>
+Anterior</a></p>
+</td>
+<td>
+<p><a href="infotheory.html"><img alt="Voltar" height="40" src="../../../pictures/arrow_u.gif" width="40"/><br/>
+Principal</a></p>
+</td>
+<td>
+<p><a href="gitt.html"><img alt="Próximo" height="40" src="../../../pictures/arrow_r.gif" width="40"/><br/>
+Próximo</a></p>
+</td>
+</tr>
+</table>
+<p>[<a href="shannon.html">Informação de Shannon</a>] [<a href="gitt.html">Informação de Gitt</a>] [<a href="dembski.html">Informação de Dembski</a>] [<a href="spetner.html">Informação de Spetner</a>]</p>
+</div>
+<aside aria-label="Estudo adicional" class="poc3-augmentation">
+<h2>Rotas de Leitura</h2>
+<div class="augmentation-grid">
+<section>
+<h3>Links de Origem</h3>
+<ul><li class="study-link-card">
+<span class="study-link-tag">Origem</span>
+<a href="https://web.archive.org/web/20150613230917if_/http://www.umcs.maine.edu/~chaitin/">Página Inicial de G J Chaitin</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Origem</span>
+<a href="http://www.kolmogorov.com/">Kolmogorov</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Origem</span>
+<a href="https://web.archive.org/web/20030606214728if_/http://mech.math.msu.su/probab/Kolmogorov/kolmogorov.html">Andrei Nikolaevich Kolmogorov</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Origem</span>
+<a href="http://www.idsia.ch/~marcus/kolmo.htm">Complexidade de Kolmogorov e Indução de Solomonoff</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Origem</span>
+<a href="http://www.best.com/~szabo/kolmogorov.html">Introdução à Teoria da Informação Algorítmica</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Origem</span>
+<a href="http://www.turing.org.uk/turing/">Página Inicial de Alan Turing</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Origem</span>
+<a href="https://web.archive.org/web/20170526230609if_/http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Hilbert.html">David Hilbert</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">Origem</span>
+<a href="https://web.archive.org/web/20170606022127if_/http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Godel.html">Kurt Gödel</a>
+</li></ul>
+</section>
+<section>
+<h3>Leituras Relacionadas</h3>
+<ul><li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="infotheory.html">Principal</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="shannon.html">Informação de Shannon</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="gitt.html">Informação de Gitt</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="dembski.html">Informação de Dembski</a>
+</li>
+<li class="study-link-card">
+<span class="study-link-tag">FAQ</span>
+<a href="spetner.html">Informação de Spetner</a>
+</li></ul>
+</section>
+<section><h3>Conexões Conceituais</h3><ul><li class="study-link-card concept-card">
+<span class="study-link-tag">Conceito</span>
+<a href="../../indexcc/list.html">Alegações criacionistas</a>
+<p>Encaminha alegações recorrentes para o Índice de alegações criacionistas para contexto alegação por alegação.</p>
+<a class="study-search-link" href="../../../search/index.html?q=creationist+claims&amp;corpora=faqs_articles,index_to_creationist_claims,archive_navigation">Pesquisar</a>
+</li>
+<li class="study-link-card concept-card">
+<span class="study-link-tag">Conceito</span>
+<a href="../faq-misconceptions.html">Seleção natural</a>
+<p>Conecta a seleção a concepções equivocadas sobre acaso, direção e adaptação.</p>
+<a class="study-search-link" href="../../../search/index.html?q=natural+selection&amp;corpora=faqs_articles,index_to_creationist_claims,archive_navigation">Pesquisar</a>
+</li></ul></section>
+</div>
+</aside>
+</article>
+</main>
+<footer class="site-footer">
+<p class="footer-note"><strong>Arquivo TalkOrigins</strong></p>
+<p class="footer-note">Edição modernizada que preserva a cobertura de rotas legadas enquanto move a navegação repetida para o shell do site.</p>
+<p class="footer-note"><a href="../../index.html">Início</a> | <a href="../../origins/faqs.html">Navegar</a> | <a href="../../../search/index.html">Pesquisar</a> | <a href="../../../fb/index.html">Feedback</a> | <a href="../../origins/other-links.html">Links</a> | <a href="../../../downloads/toa-lite/index.html">Downloads</a> | <a href="../../../translation-status/index.html">Fila de tradução</a></p>
+</footer>
+</div>
+</body>
+</html>

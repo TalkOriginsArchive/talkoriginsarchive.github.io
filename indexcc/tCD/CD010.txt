@@ -1,0 +1,82 @@
+BriefClaim: Radiometric dating gives unreliable results.
+Title: Radiometric Dating
+Keywords: radiometric dating, radioactivity
+
+Claim:
+
+Radiometric dating gives unreliable results.
+
+Source:
+
+Brown, Walt, 1995.  _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 24.
+
+Response:
+
+1. Independent measurements, using different and independent radiometric
+   techniques, give consistent results (Dalrymple 2000; Lindsay 1999;
+   Meert 2000).  Such results cannot be explained either by <CD020>chance>
+   or by a systematic error in decay rate assumptions.
+
+2. Radiometric dates are consistent with several nonradiometric dating
+   methods.  For example:
+
+   - The Hawaiian archipelago was formed by the Pacific ocean plate moving
+     over a hot spot at a slow but observable rate.  Radiometric dates of
+     the islands are consistent with the order and rate of their being
+     positioned over the hot spot (Rubin 2001).
+
+   - Radiometric dating is consistent with Milankovitch cycles, which
+     depend only on astronomical factors such as precession of the earth's
+     tilt and orbital eccentricity (Hilgen et al. 1997).
+
+   - Radiometric dating is consistent with the luminescence dating
+     method (Thompson n.d.; Thorne et al. 1999).
+
+   - Radiometric dating gives results consistent with relative dating
+     methods such as "deeper is older" (Lindsay 2000).
+
+3. The creationist claim that radiometric dates are inconsistent rest on a
+   relatively few examples.  Creationists ignore the vast majority of
+   radiometric dates showing consistent results (e.g., Harland et
+   al. 1990).
+
+Links:
+
+Thompson, Tim, 2003.  A radiometric dating resource list. 
+ http://www.tim-thompson.com/radiometric.html
+
+Wiens, Roger C., 1994, 2002.  Radiometric dating: A Christian perspective.
+ http://www.asa3.org/ASA/resources/Wiens.html
+
+References:
+
+1. Dalrymple, G. Brent, 2000.  Radiometric dating does work!
+   Some examples and a critique of a failed creationist strategy.  RNCSE
+   20(3): 14-17.
+   https://web.archive.org/web/20040808141102if_/http://www.ncseweb.org/resources/rncse_content/vol20/6061_radiometeric_dating_does_work_12_30_1899.asp
+2. Harland, W. B., R. L. Armstrong, A. V. Cox, L. E. Craig, A. G. Smith,
+   and D. G. Smith, 1990.  _A Geologic Time Scale 1989_.  Cambridge:
+   Cambridge University Press.
+3. Hilgen, F. J., W. Krijgsman, C. G. Langereis and L. J. Lourens, 1997.
+   Breakthrough made in dating of the geological record.  _EOS_ 78(28):
+   285,288-289.  https://web.archive.org/web/20001212125800if_/http://www.agu.org/sci_soc/eos96336.html
+4. Lindsay, Don, 1999.  Are radioactive dating methods consistent with
+   each other? 
+   https://web.archive.org/web/20240607153233if_/http://www.don-lindsay-archive.org/creation/crater_chain.html
+5. Lindsay, Don, 2000.  Are radioactive dating methods consistent with
+   the deeper-is-older rule?
+   https://web.archive.org/web/20240607152823if_/http://www.don-lindsay-archive.org/creation/confirm.html
+6. Meert, Joe, 2000.  Consistent radiometric dates. 
+   https://web.archive.org/web/20040810222353if_/http://gondwanaresearch.com/radiomet.htm
+7. Rubin, Ken, 2001.  The formation of the Hawaiian Islands.
+   http://www.soest.hawaii.edu/GG/HCV/haw_formation.html
+8. Thompson, Tim, n.d.  Luminescence and radiometric dating.
+   http://www.tim-thompson.com/luminescence.html
+9. Thorne, A. et al., 1999.  Australia's oldest human remains: Age of
+   the Lake Mungo 3 skeleton.  _Journal of Human Evolution_ 36(6):
+   591-612.
+
+Further Reading:
+
+Date: 2001-2-18

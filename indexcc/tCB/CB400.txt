@@ -1,0 +1,53 @@
+BriefClaim: Evolution cannot explain consciousness.
+Title: Evolution of consciousness
+Keywords: consciousness, free will
+
+Claim:
+
+Evolution cannot explain consciousness or free will.
+
+Source:
+
+Johnson, Phillip, 1990. Evolution as dogma: The establishment of
+ naturalism.  _First Things_, Oct. 1990, 15-22.
+ http://www.arn.org/docs/johnson/pjdogma1.htm
+
+Response:
+
+1. This is an <CA100>argument from ignorance>.  Not knowing an explanation
+   does not mean an explanation is impossible.  And since we are barely
+   beginning to understand what consciousness is, it is not surprising
+   that we would not have its origin worked out yet.
+
+   In fact, preliminary explanations for the origin of consciousness have
+   been proposed, although they are too complicated to try to summarize
+   here (see Dennett 1991 and Minsky 1985).  Much more experimentation and
+   refinement is needed before we have a full-fledged theory of the origin
+   of consciousness, but we have more than enough to know that such a
+   theory is possible.
+
+2. A factor that likely contributes to the claim of consciousness's
+   inexplicability is the fact that many people do not want a
+   naturalistic explanation of consciousness, since a natural
+   consciousness does not fit easily with a divine soul.  This threatens
+   people's desire for a divine origin and immortality (but see Dennett
+   1991, 430, for immortality of a naturalistic consciousness).  An
+   examination of this point alone could fill a book.  However, suffice it
+   to say,
+    a. There is much evidence -- from genetic predispositions of behavior
+       and personality, from brain injury studies, from brain imaging of
+       healthy people -- that consciousness is naturalistic now.  A
+       natural origin would not matter much beyond that.
+    b. What we want has no bearing on what really is.
+
+Links:
+
+References:
+
+1. Dennett, Daniel C., 1991.  _Consciousness Explained_.  Boston: Little,
+   Brown and Company.
+2. Minsky, M., 1985.  _The Society of Mind_.  New York: Simon & Schuster.
+
+Further Reading:
+
+Date: 2003-6-25

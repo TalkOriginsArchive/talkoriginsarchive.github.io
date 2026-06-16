@@ -1,0 +1,36 @@
+/*
+  padding: 4px;
+  background-color: #0066FF;
+*/
+a {text-decoration: none;}
+
+#ToYearLink p{
+  text-align: center;
+}
+/* Above goes with
+<div id="ToYearLink">
+</div>
+*/
+
+.openingcomment {
+  font-size: 90%;
+  font-style: italic;
+  color: #000040
+}
+
+.quotecomment {
+  font-size: 80%;
+  font-style: italic;
+}
+/* Above goes with
+<div class="quotecomment">
+</div>
+*/
+
+
+.maincomment {
+  font-size: 90%;
+  font-style: italic;
+  font-weight: bold;
+  color: #000040
+}

@@ -1,0 +1,82 @@
+BriefClaim: There are gaps between reptiles and mammals.
+Title: Reptile-mammal transition
+Keywords: transitional fossil, cynodont, mammal, reptile
+
+Claim:
+
+There is a great gulf between reptiles and mammals, with no transitional
+fossils between them.
+
+Source:
+
+LifeHow, p. 80-81.
+
+Response:
+
+1. The transition from reptile to mammal has an excellent record.
+   The following fossils are just a sampling.
+   In particular, these fossils document the transition of one type of jaw
+   joint into another.  Reptiles have one bone in the middle ear and
+   several bones in the lower jaw.  Mammals have three bones in the middle
+   ear and only one bone in the lower jaw.  These species show
+   transitional jaw-ear arrangements (Hunt 1997; White 2002b).  The
+   sequence shows transitional stages in other features, too, such as
+   skull, vertebrae, ribs, and toes.
+
+    a. _Sphenacodon_ (late Pennsylvanian to early Permian, about 270
+       million years ago (Mya)).  Lower jaw is made of multiple bones; the
+       jaw hinge is fully reptilian.  No eardrum.
+    b. _Biarmosuchia_ (late Permian).  One of the earliest therapsids.
+       Jaw hinge is more mammalian.  Upper jaw is fixed.  Hindlimbs are
+       more upright.
+    c. _Procynosuchus_ (latest Permian).  A primitive cynodont, a group of
+       mammal-like therapsids.  Most of the lower jaw bones are grouped in
+       a small complex near the jaw hinge.
+    d. _Thrinaxodon_ (early Triassic).  A more advanced cynodont.  An
+       eardrum has developed in the lower jaw, allowing it to hear
+       airborne sound.  Its quadrate and articular jaw bones could
+       vibrate freely, allowing them to function for sound transmission
+       while still functioning as jaw bones.  All four legs are fully
+       upright.
+    e. _Probainognathus_ (mid-Triassic, about 235 Mya).  It has two
+       jaw joints: mammalian and reptilian (White 2002a).
+    f. _Diarthrognathus_ (early Jurassic, 209 Mya).  An advanced cynodont.
+       It still has a double jaw joint, but the reptilian joint functions
+       almost entirely for hearing.
+    g. _Morganucodon_ (early Jurassic, about 220 Mya).  It still has
+       a remnant of the reptilian jaw joint (Kermack et al. 1981).
+    h. _Hadrocodium_ (early Jurassic). Its middle ear
+       bones have moved from the jaw to the cranium (Luo et al. 2001;
+       White 2002b).
+
+Links:
+
+Flank, Lenny, 1995.  The Therapsid--mammal transitional series.
+ http://www.geocities.com/CapeCanaveral/Hangar/2437/therapsd.htm
+
+Hunt, Kathleen, 1997.  Transitional vertebrate fossils FAQ, part 1B.
+ http://www.talkorigins.org/faqs/faq-transitional/part1b.html#syn2mamm
+
+Theobald, Douglas, 2004.  29+ evidences for macroevolution, part 1: The
+ unique universal phylogenetic tree.
+ http://www.talkorigins.org/faqs/comdesc/section1.html#morphological_intermediates_ex2
+
+References:
+
+1. Hunt, K. 1997.  (see above)
+2. Kermack, K. A., F. Mussett and H. W. Rigney, 1981. The skull of
+   _Morganucodon_. _Zoological Journal of the Linnean Society_ 71: 1-158.
+3. Luo, Z.-X., A. W. Crompton and A.-L. Sun, 2001.  A new mammaliaform
+   from the Early Jurassic and evolution of mammalian characteristics.
+   _Science_ 292: 1535-1540.
+4. White, T., 2002a. Palaeos Vertebrates 420.500: Cynodontia: Probainognathia.
+   https://web.archive.org/web/20100316011941if_/http://www.palaeos.com/Vertebrates/Units/410Cynodontia/410.500.html
+5. White, T., 2002b. Palaeos Vertebrates 420.300: Mammaliformes: Symmetrodonta.
+   https://web.archive.org/web/20080206013542if_/http://www.palaeos.com/Vertebrates/Units/Unit420/420.300.html
+
+Further Reading:
+
+Benton, Michael J. 1991.  _The Rise of the Mammals_.
+ New York: Crescent Books.
+
+Date: 2003-6-13, 2004-3-18

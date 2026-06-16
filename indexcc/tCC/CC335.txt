@@ -1,0 +1,39 @@
+BriefClaim: A fossil whale was found vertically through several strata.
+Title: Vertical whale fossil
+Keywords: polystrate, fossilization
+
+Claim:
+
+Near Lompoc, California, an eighty-foot whale fossil was found in a
+diatomaceous earth quarry.  It was oriented vertically (standing on its
+tail), passing through millions of years of strata.  Only a cataclysmic
+deposition could account for this.
+
+Source:
+
+Ackerman, P. D., 1986.  _It's a Young World After All_, Grand Rapids, MI:
+ Baker Book House, pp. 81-83.
+
+Response:
+
+1. The fossil was not vertical.  It was 40 to 50 degrees off horizontal,
+   and the fossil was oriented parallel to the strata.  In other words,
+   the whale was horizontal when buried.  The strata were later uplifted
+   and folded into their present orientation.
+
+2. There is no evidence for catastrophic deposition.  The strata show
+   laminations such as occur from slow accumulation onto an anoxic
+   bottom.  A partially buried whale skeleton has been observed off
+   the coast of California; it exemplifies how such fossilization could
+   occur.
+
+Links:
+
+South, Darby, 1995.  A whale of a tale.
+ http://www.talkorigins.org/faqs/polystrate/whale.html
+
+References:
+
+Further Reading:
+
+Date: 2003-4-18

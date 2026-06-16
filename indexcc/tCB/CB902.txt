@@ -1,0 +1,74 @@
+BriefClaim: Microevolution is distinct from macroevolution.
+Title: Microevolution vs. Macroevolution
+Keywords: microevolution, macroevolution, speciation.
+
+Claim:
+
+Microevolution is distinct from macroevolution.
+
+Source:
+
+Wallace, Timothy, 2002.  Five major _evolutionist_ misconceptions about
+ evolution.  https://web.archive.org/web/20080518113931if_/http://www.trueorigins.org/isakrbtl.asp
+
+Response:
+
+1. Microevolution and macroevolution are different things, but they
+   involve mostly the same processes.  Microevolution is defined as the
+   change of allele frequencies (that is, genetic variation due to
+   processes such as selection, mutation, genetic drift, or even
+   migration) within a population.  There is no argument that
+   microevolution happens (although some creationists, such as Wallace,
+   deny that mutations happen).  Macroevolution is defined as evolutionary
+   change at the species level or higher, that is, the formation of new
+   species, new genera, and so forth.  <CB910>Speciation> has also been
+   observed.
+
+   Creationists have created another category for which they use the word
+   "macroevolution."  They have no technical definition of it, but in
+   practice they use it to mean evolution to an extent great enough that
+   it has not been observed yet.  (Some creationists talk about
+   macroevolution being the emergence of new features, but it is not clear
+   what they mean by this.  Taking it literally, gradually changing a
+   feature from fish fin to tetrapod limb to bird wing would not be
+   macroevolution, but a mole on your skin which neither of your parents
+   have would be.)  I will call this category supermacroevolution to avoid
+   confusing it with real macroevolution.
+
+   Speciation is distinct from microevolution in that speciation usually
+   requires an isolating factor to keep the new species distinct.  The
+   isolating factor need not be biological; a new mountain range or the
+   changed course of a river can qualify.  Other than that, speciation
+   requires no processes other than microevolution.  Some processes such
+   as disruptive selection (natural selection that drives two states of
+   the same feature further apart) and polyploidy (a mutation that
+   creates copies of the entire genome), may be involved more often in
+   speciation, but they are not substantively different from
+   microevolution.
+
+   Supermacroevolution is harder to observe directly.  However, there is
+   not the slightest bit of evidence that it requires anything but
+   microevolution.  Sudden large changes probably do occur rarely, but
+   they are not the only source of large change.  There is no reason to
+   think that small changes over time cannot add up to large changes,
+   and every reason to believe they can.  Creationists claim that
+   microevolution and supermacroevolution are distinct, but they have
+   never provided an iota of evidence to support their claim.
+
+2. There is evidence for supermacroevolution in the form of progressive
+   changes in the fossil record and in the pattern of similarities among
+   living things showing an absence of distinct "kinds."  This evidence
+   caused evolution in some form to be accepted even before Darwin
+   proposed his theory.
+
+
+Links:
+
+References:
+
+Further Reading:
+
+Wilkins, John, 1997.  Macroevolution. 
+ http://www.talkorigins.org/faqs/macroevolution.html
+
+Date: 2000-11-4, 2004-2-26

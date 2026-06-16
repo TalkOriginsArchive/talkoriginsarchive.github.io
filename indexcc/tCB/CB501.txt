@@ -1,0 +1,40 @@
+BriefClaim: Dendrochronology is suspect because two or more rings can grow per year.
+Title: Multiple tree rings per year
+Keywords: dendrochronology
+
+Claim:
+
+Two or more growth periods frequently occur during a year, so dates
+derived from tree rings (dendrochronology) are suspect.
+
+Source:
+
+SciCre, 193.
+
+Response:
+
+1. For some trees, including bristlecone pine, ponderosa pine, and
+   douglass fir, double rings are rare and easy to spot with a little
+   practice.  A bigger problem is missing rings; a bristlecone pine can
+   have up to 5 percent of its rings missing.  Thus, dates derived from
+   dendrochronology, if they are suspect at all, should indicate ages too
+   young.
+
+   For most of the dendrochronological record, dates are determined from
+   more than one source, so errors can be spotted and corrected.
+
+2. Dendrochronology is in rough agreement with carbon-14 dating, so even
+   if it is off, it is not off by much -- certainly not by orders of
+   magnitude, as young-earth claims would require.
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?  A close
+ look at Dr. Hovind's list of young-earth arguments and other claims.
+ http://www.talkorigins.org/faqs/hovind/howgood-yea2.html#proof27
+
+References:
+
+Further Reading:
+
+Date: 2003-4-21

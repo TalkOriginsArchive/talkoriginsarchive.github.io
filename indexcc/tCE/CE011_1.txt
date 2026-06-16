@@ -1,0 +1,52 @@
+BriefClaim: The frequency of leap seconds indicates a young earth.
+Title: Leap seconds and earth's slowing
+Keywords: young earth
+
+Claim:
+
+Leap seconds have had to be inserted into the year twenty-two times
+between 1970 and 1999, showing that the earth is slowing 0.77 seconds per
+year.  At this rate, the earth would have slowed to a stop if it were
+billions of years old.
+
+Source:
+
+Huse, Scott, 1996.  _The Collapse of Evolution_, Grand Rapids: Baker Book
+ House, p. 25.
+# Milton, Gary, n.d.  Evidence for a young earth.
+# https://web.archive.org/web/20160420191002if_/http://genesis.amen.net/earth.html
+#Wysong, R. L., 1981.  _The Creation-Evolution Controversy_.  Midland, MI:
+# Inquiry Press, p. 164-166.
+
+Response:
+
+1. Adding leap seconds nearly every year does not indicate that the earth
+   is slowing by nearly one second per year; it shows that there is a
+   discrepancy between Coordinated Universal Time (UTC, an international
+   standard) and astronomical time (NIST Time and Frequency Division
+   n.d.).  The earth is <CE011>slowing down>, but not at such a great
+   rate.  The length of a day now is very slightly more than twenty-four
+   hours.  If the earth kept rotating at the same rate, leap seconds would
+   need to be inserted at the same rate they have been inserted in the
+   last thirty years.
+
+Links:
+
+Robinson, B. A., 2002.  A failed attempt to dialog with creation scientists, 
+ https://web.archive.org/web/20220408003732if_/http://www.religioustolerance.org/ev_dialog.htm
+
+References:
+
+1. NIST Time and Frequency Division, n.d., Frequently asked questions.
+   https://web.archive.org/web/20050206205511if_/http://www.boulder.nist.gov/timefreq/general/leaps.htm
+
+Further Reading:
+
+NIST, updated monthly.  NIST time scale data archive.
+ https://web.archive.org/web/20131012235735if_/http://www.boulder.nist.gov/timefreq/pubs/bulletin/leapsecond.htm
+
+Thwaites, William M. and Frank T. Awbrey, 1982.  As the world turns: Can
+ creationists keep time?  _Creation/Evolution_ IX (summer): 18-22,
+ https://web.archive.org/web/20080908113503if_/http://www.natcenscied.org/resources/articles/9626_issue_09__volume_3_number_3__1_3_2003.asp
+
+Date: 2003-4-21, 2003-9-16

@@ -1,0 +1,54 @@
+BriefClaim: Systems left to themselves invariably tend toward disorder.
+Title: Disorder by neglect
+Keywords: second law of thermodynamics, disorder, closed system.
+
+Claim:
+
+Systems or processes left to themselves invariably tend to move from order
+to disorder.
+
+Source:
+
+Wallace, Timothy, 2002.  Five major _evolutionist_ misconceptions about
+ evolution.  https://web.archive.org/web/20080518113931if_/http://www.trueorigins.org/isakrbtl.asp
+
+Response:
+
+1. This is an attempt to claim that the <CF001>second law of
+   thermodynamics implies an inevitable increase in entropy> even in open
+   systems by quibbling with the verbiage "left to themselves."  The
+   simple fact is that, unless "left to themselves" means "not acted upon
+   by any outside influence," disorder of systems can decrease.  And since
+   outside influence is more often the rule in biological systems, order
+   can and does increase in them.
+
+2. That the claim is false is not theory.  Exceptions happens all the
+   time.  For example, plants around my house are left to themselves every
+   spring, and every spring they produce order locally by turning carbon
+   from the air into plant tissue.  Drying mud, left to itself, produces
+   orderly cracks.  Ice crystals, left to themselves, produce arrangements
+   far more orderly than they would if I interfered.  Freeze-thaw cycles
+   naturally sort stones into regular patterns (Kessler and Werner 2003).
+   How can a trend to disorder be invariable when exceptions are
+   ubiquitous?  And why do creationists argue at such length for claims
+   that they themselves can plainly see are false?
+
+3. Disorder and entropy are not the same.  The second law of
+   thermodynamics deals with entropy, not disorder (although disorder
+   defined to apply to microscopic states can be relevant to
+   thermodynamics).  There are no laws about disorder as people normally
+   use the word.  (Styer 2000)
+
+Links:
+
+References:
+
+1. Kessler, M. A. and B. T. Werner, 2003.  Self-organization of sorted
+   patterned ground.  _Science_ 299: 380-383.  See also: Mann, D., 2003.
+   On patterend ground.  _Science_ 299: 354-355.
+2. Styer, Daniel F.  2000.  Insight into entropy.  _American Journal of
+   Physics_ 68(12): 1090-1096.
+
+Further Reading:
+
+Date: 2000-11-4, 2006-1-13

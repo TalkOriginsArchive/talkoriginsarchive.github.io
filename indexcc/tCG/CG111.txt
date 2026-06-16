@@ -1,0 +1,43 @@
+BriefClaim: Why are languages getting less complex?
+Title: Language complexity change.
+Keywords: language, complexity
+
+Claim:
+
+If current languages evolved gradually from primitive grunts or noises,
+earliest languages should be the simplest.  But ancient languages such as
+Latin and Vedic Sanskrit are more complex than modern languages in terms
+of cases, genders, voices, verb forms, etc.
+
+Source:
+
+Brown, Walt, 1995.  _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 8.
+Reffner, Ken, 2003. Feedback letter (June).
+ http://www.talkorigins.org/origins/feedback/jun03.html#f37
+
+Response:
+
+1. Languages are not becoming less complex overall.  They may be simpler
+   in some ways (such as verb endings) but are more complex in others
+   (such as syntax and vocabulary) (Teegarden 2002).
+
+2. Evolution is not necessarily a uniform progression from simple to
+   complex.  Evolution towards simplicity is consistent with both
+   biological and linguistic evolution.
+
+Links:
+
+Teegarden, Dave, 2002 (Jan.).  Feedback letter.
+ http://www.talkorigins.org/origins/feedback/jan02.html#language
+
+References:
+
+1. Teegarden, D., 2002 (see above).
+
+Further Reading:
+
+Croft, William, 2001. _Explaining Language Change: An Evolutionary
+ Approach_.  Harlow, Essex: Longman.
+
+Date: 2003-7-4, 2004-1-8

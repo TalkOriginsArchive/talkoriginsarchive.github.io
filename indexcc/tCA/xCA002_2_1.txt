@@ -1,0 +1,36 @@
+BriefClaim: Marx offered to dedicate Das Kapital to Darwin.
+Title: Marx dedicating book to Darwin
+Keywords: Marx, Darwin, Das Kapital
+Obsolete: Merged with CA002_2, which it adds little to, 2004-6-28
+
+Claim:
+
+Marx offered to dedicate _Das Kapital_ to Darwin, and Darwin refused.
+
+Source:
+
+Morris, Henry M., 1973.  Geology and the Flood.  _Impact_ #6.
+ http://www.icr.org/pubs/imp/imp-006.htm
+
+Response:
+
+1. This is a myth.  Darwin had a copy of _Das Kapital_, presumably sent by
+   Marx, but Darwin never read it.
+
+   Edward Aveling, Marx's son-in-law, sought permission from Darwin to
+   dedicate _The Student's Darwin_, an exposition of Darwin's ideas.
+   Darwin declined and argued that science should not address religious
+   matters directly.  [Young 1985, 20-21]
+
+2. None of this matters to the science of evolution.
+
+Links:
+
+References:
+
+1. Young, Robert M., 1985.  _Darwin's Metaphor: Nature's Place in
+   Victorian Culture_.  Cambridge: Cambridge University Press,
+   http://human-nature.com/dm/chap1.html
+
+Further Reading:
+Date: 2003-4-9

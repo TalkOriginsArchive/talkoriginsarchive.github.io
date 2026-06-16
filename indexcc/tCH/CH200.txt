@@ -1,0 +1,64 @@
+BriefClaim: The universe is 6,000-10,000 years old.
+Title: Age of the Universe
+Keywords: old earth
+
+Claim:
+
+The universe is relatively young, only 6,000 to 10,000 years old.
+
+Source:
+
+Response:
+
+1. The <CH210>age of the earth> is 4.5 billion years.
+
+2. The universe is shown to be old by several independent types of
+   measurements:
+
+    - We can measure the distances to some types of stars from their
+      apparent brightness.  (We know their absolute brightness from nearby
+      stars of the same type whose distances can be measured
+      geometrically.)  We find distances more than fifty million
+      light-years away, which means the universe must be at least 50
+      million years old for the light to reach us.  Measurements based on
+      the brightness of supernovae and galaxies, although less accurate,
+      give distances up to billions of light years.
+    - The Large Magellanic Cloud is 153,000 light years away, as measured
+      by an eclipsing binary star (Cole 2000).  This method gives a
+      relatively direct measurement from simple observations.  A star's
+      absolute brightness is determined from its temperature and diameter,
+      which can be determined from its spectrum and length of eclipse.
+      Distance is then determined from the apparent brightness.
+    - The orbits of thirteen of the Koronis family of asteroids were
+      traced back and found to match 5.8 million years ago, suggesting
+      that they formed then from a collision of larger asteroids (Nesvorny
+      et al. 2002)
+    - The ages of stars in the oldest globular clusters puts a lower limit
+      on the age of the universe at 12.07 billion years (Chaboyer et
+      al. 1996).
+    - There are white dwarf stars found to be twelve to thirteen billion
+      years old, based on their cooling rate.
+
+Links:
+
+Fraknoi, Andrew, George Greenstein, Bruce Partridge, and John Percy, 2004.
+ An ancient universe: How astronomers know the vast scale of cosmic time.
+ http://education.aas.org/publications/ancientuniverse.html or
+ http://education.aas.org/publications/AncientUniverseWeb.pdf
+
+References:
+
+1. Chaboyer, Brian, Pierre Demarque, Peter J. Kernan, and Lawrence M.
+   Krauss. 1996.  A lower limit on the age of the universe.  _Science_
+   271: 957-961.
+1. Cole, Andrew A., 2000.  The distance to the Large Magellanic Cloud.
+   _Science_ 289: 1149-1150.
+2. Nesvorny, D., W. F. Bottke Jr., L. Dones and H. F. Levison, 2002.  The
+   recent breakup of an asteroid in the main-belt region.  _Nature_ 417:
+   720-722.
+
+Further Reading:
+
+Ferris, Timothy, 1997.  _The Whole Shebang_.  New York: Simon & Schuster.
+
+Date: 2001-2-17, 2005-2-24

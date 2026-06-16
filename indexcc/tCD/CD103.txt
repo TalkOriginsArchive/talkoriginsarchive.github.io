@@ -1,0 +1,56 @@
+BriefClaim: The geologic column is based on the assumption of evolution.
+Title: Geologic column assumption
+Keywords: stratigraphy
+
+Claim:
+
+The entire geologic column is based on the assumption of evolution.
+
+Source:
+
+Huse, Scott, M., 1983.  _The Collapse of Evolution_.  Grand Rapids, MI:
+ Baker Book House, p. 14.
+
+Response:
+
+1. The geologic column was outlined by creationist geologists.  For
+   example, Adam Sedgwick, who described and named the Cambrian era,
+   referred to the theory of evolution as "no better than a phrensied
+   dream" (Ritland 1982).  The geologic column is based on the observation
+   of faunal succession, the fact that organisms vary across strata, and
+   that they do so in a consistent order from place to place.  William
+   "Strata" Smith (1769-1839) recognized faunal succession years before
+   Darwin published his ideas on biological evolution.
+
+2. The geologic column is validated in great detail by radiometric dating,
+   which is based on principles of physics, not evolution.  Furthermore,
+   different dating techniques are consistent, and they are consistent
+   with the order established by the early pioneers of stratigraphy.
+
+Links:
+
+Ritland, Richard, 1982.  Historical development of the current
+ understanding of the geologic column: part II.  _Origins_ 9(1): 28-50.
+ http://www.grisda.org/origins/09028.htm
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-gc.html#G2
+
+References:
+
+1. Ritland, R. 1982.  (see above).
+#2. Sedgwick, Adam. 1831. Presidential address to the Geological Society.
+#   _Proceedings of the Geological Society of London_ 1(20): 281-332.
+##   ("phrensied dream" quote on p. 305)
+
+Further Reading:
+
+#Winchester, Simon, 20??.  _The Map That Changed the World_
+
+Schneer, Cecil J., n.d.  William "Strata" Smith on the web. 
+ http://www.unh.edu/esci/wmsmith.html
+
+Young, Davis A., 1988.  _Christianity and the Age of the Earth_.  Thousand
+ Oaks, CA: Artisan Sales.
+
+Date: 2003-3-27, 2004-9-8

@@ -1,0 +1,136 @@
+BriefClaim: Most mutations are harmful.
+Title: Most mutations harmful?
+Keywords: mutation, selection, breeding.
+
+Claim:
+
+Most mutations are harmful, so the overall effect of mutations is
+harmful.
+
+Source:
+
+SciCre, pp.
+ 55-57.
+LifeHow, pg. 100.
+
+Response:
+
+1. Most mutations are neutral.  Nachman and Crowell estimate around 3
+   deleterious mutations out of 175 per generation in humans (2000).  Of
+   those that have significant effect, most are harmful, but the
+   fraction which are beneficial is higher than usually though.  An
+   experiment with _E. coli_ found that about 1 in 150 newly arising
+   mutations and 1 in 10 functional mutations are beneficial (Perfeito
+   et al. 2007).
+
+   The harmful mutations do not survive long, and
+   the beneficial mutations survive much longer, so when you consider only
+   surviving mutations, most are beneficial.
+
+2. Beneficial mutations are commonly observed.  They are common enough to
+   be problems in the cases of antibiotic resistance in disease-causing
+   organisms and pesticide resistance in agricultural pests (e.g., Newcomb
+   et al. 1997; these are not merely <CB110>selection of pre-existing
+   variation>.)  They can be repeatedly observed in laboratory populations
+   (Wichman et al. 1999).  Other examples include the following:
+    - Mutations have given bacteria the ability to degrade nylon
+      (Prijambada et al. 1995).
+    - Plant breeders have used mutation breeding to induce mutations
+      and select the beneficial ones (FAO/IAEA 1977).
+    - Certain mutations in humans confer resistance to AIDS (Dean et al.
+      1996; Sullivan et al. 2001) or to heart disease (Long 1994;
+      Weisgraber et al. 1983).
+    - A mutation in humans makes bones strong (Boyden et al. 2002).
+    - Transposons are common, especially in plants, and help to provide
+      beneficial diversity (Moffat 2000).
+    - In vitro mutation and selection can be used to evolve substantially
+      improved function of RNA molecules, such as a ribozyme (Wright and
+      Joyce 1997).
+
+3. Whether a mutation is beneficial or not depends on environment.  A
+   mutation that helps the organism in one circumstance could harm it in
+   another.  When the environment changes, variations that once were
+   counteradaptive suddenly become favored.  Since environments are
+   constantly changing, variation helps populations survive, even if some
+   of those variations do not do as well as others.  When beneficial
+   mutations occur in a changed environment, they generally sweep through
+   the population rapidly (Elena et al. 1996).
+
+4. High mutation rates are advantageous in some environments.
+   Hypermutable strains of _Pseudomonas aeruginosa_ are found more
+   commonly in the lungs of cystic fibrosis patients, where antibiotics
+   and other stresses increase selection pressure and variability, than in
+   patients without cystic fibrosis (Oliver et al. 2000).
+
+5. Note that the existence of any beneficial mutations is a
+   falsification of the young-earth creationism model (Morris 1985, 13).
+
+Links:
+
+Williams, Robert. n.d.  Examples of beneficial mutations and natural
+ selection.  https://web.archive.org/web/20100706210334if_/http://www.gate.net/~rwms/EvoMutations.html
+Williams, Robert. n.d.  Examples of beneficial mutations in humans.
+ https://web.archive.org/web/20010803041220if_/http://www.gate.net/~rwms/EvoHumBenMutations.html
+
+References:
+
+1. Boyden, Ann M., Junhao Mao, Joseph Belsky, Lyle Mitzner, Anita Farhi,
+   Mary A. Mitnick, Dianqing Wu, Karl Insogna, and Richard P. Lifton. 2002.
+   High bone density due to a mutation in LDL-receptor-related protein 5.
+   _New England Journal of Medicine_ 346: 1513-1521, May 16, 2002.
+   https://web.archive.org/web/20100228163324if_/http://content.nejm.org/cgi/content/short/346/20/1513
+1. Dean, M. et al. 1996.  Genetic restriction of HIV-1
+   infection and progression to AIDS by a deletion allele of the CKR5
+   structural gene.  _Science_ 273: 1856-1862.
+2. Elena, S. F., V. S. Cooper and R. E. Lenski. 1996.  Punctuated evolution
+   caused by selection of rare beneficial mutations.  _Science_ 272:
+   1802-1804.
+3. FAO/IAEA. 1977. _Manual on Mutation Breeding_, 2nd ed.  Vienna:
+   International Atomic Energy Agency.
+4. Long, Patricia. 1994. A town with a golden gene. _Health_ 8(1)
+   (Jan/Feb.): 60-66.
+5. Moffat, Anne S. 2000.  Transposons help sculpt a dynamic genome.
+   _Science_ 289: 1455-1457.
+5. SciCre.
+6. Nachman, M. W. and S. L. Crowell. 2000.  Estimate of the mutation rate
+   per nucleotide in humans.  _Genetics_ 156(1): 297-304.
+8. Newcomb, R. D. et al. 1997.  A single amino acid substitution converts
+   a carboxylesterase to an organophosporus hydrolase and confers
+   insecticide resistance on a blowfly.  PNAS 94: 7464-7468.
+7. Oliver, Antonio et al. 2000.  High frequency of hypermutable
+   _Pseudomonas aeruginosa_ in cystic fibrosis lung infection.  _Science_
+   288: 1251-1253.  See also: Rainey, P. B. and R. Moxon, 2000.  When
+   being hyper keeps you fit.  _Science_ 288: 1186-1187.  See also:
+   LeClerc, J. E. and T. A. Cebula, 2000.  _Pseudomonas_ survival
+   strategies in cystic fibrosis (letter), 2000.  _Science_ 289: 391-392.
+9. Perfeito, Lilia, Lisete Fernandes, Catarina Mota and Isabel
+   Gordo. 2007.  Adaptive mutations in bacteria: High rate and small
+   effects.  _Science_ 317: 813-815.
+8. Prijambada, I. D., S. Negoro, T. Yomo and I. Urabe. 1995.  Emergence of
+   nylon oligomer degradation enzymes in _Pseudomonas aeruginosa_ PAO
+   through experimental evolution.  _Applied and Environmental
+   Microbiology_ 61(5): 2020-2022.
+9. Sullivan, Amy D., Janis Wigginton and Denise Kirschner. 2001.  The
+   coreceptor mutation CCR5-delta-32 influences the dynamics of HIV
+   epidemics and is selected for by HIV.  PNAS 98: 10214-10219.
+10. Weisgraber K. H., S. C. Rall Jr., T. P. Bersot, R. W. Mahley, G.
+    Franceschini, and C. R. Sirtori. 1983.  Apolipoprotein A-I
+    Milano. Detection of normal A-I in affected subjects and evidence for
+    a cysteine for arginine substitution in the variant A-I.  _Journal of
+    Biological Chemistry_ 258: 2508-2513.
+11. Wichman, H. A. et al. 1999.  Different trajectories of parallel
+    evolution during viral adaptation. _Science_ 285: 422-424.
+12. Wright, M. C. and G. F. Joyce. 1997.  Continuous in vitro evolution of
+    catalytic function.  _Science_ 276: 614-617.  See also:
+    Ellington, A. D., M. P. Robertson and J. Bull, 1997.  Ribozymes
+    in wonderland.  _Science_ 276: 546-547.
+
+Further Reading:
+
+Harter, Richard. 1999.  Are mutations harmful? 
+ http://www.talkorigins.org/faqs/mutations.html
+
+Peck, J. R.  and A. Eyre-Walker. 1997.  The muddle about mutations.
+ _Nature_ 387: 135-136.
+
+Date: 2001-2-17, 2008-6-20

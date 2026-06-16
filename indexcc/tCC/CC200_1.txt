@@ -1,0 +1,91 @@
+BriefClaim: There should be billions of transitional fossils.
+Title: Transitional fossil abundance
+Keywords: transitional fossil, taphonomy
+
+Claim:
+
+Given all the species that exist and have existed, there should be
+billions of transitional fossils in the fossil record; we should have
+found tens of thousands at least.
+
+Source:
+
+Gish, Duane T., 1994.  When is a whale a whale?  _Impact_ 250
+ (Apr.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=379
+
+Response:
+
+1. Some important factors prevent the formation of fossils from being
+   common:
+
+    - Fossilization itself is not a particularly common event.  It
+      requires conditions that preserve the fossil before it becomes
+      scavenged or decayed.  Such conditions are common only in a very
+      few habitats, such as river deltas, peat bogs, and tar pits.
+      Organisms that do not live in or near these habitats will be
+      preserved only rarely.
+
+    - Many types of animals are fragile and do not preserve well.
+
+    - Many species have small ranges.  Their chance of fossilization will
+      be proportionally small.
+
+    - The evolution of new species probably is fairly rapid in geological
+      terms, so the transitions between species will be uncommon.
+
+   Passenger pigeons, once numbered in the billions, went extinct less
+   than 200 years ago.  How many passenger pigeon fossils can you find?
+   If they are hard to find, why should we expect to find fossils that are
+   likely from smaller populations and have been subject to millions of
+   years of potential erosion?
+
+2. Other processes destroy fossils.  Erosion (and/or lack of deposition in
+   the first place) often destroys hundreds of millions of years or more
+   of the geological record, so the geological record at any place usually
+   has long gaps.  Fossils can also be destroyed by heat or pressure when
+   buried deep underground.
+
+3. As rare as fossils are, fossil discovery is still rarer.  For the most
+   part, we find only fossils that have been exposed by erosion, and only
+   if the exposure is recent enough that the fossils themselves do not
+   erode.
+
+   As climates change, species will move, so we cannot expect a transition
+   to occur all at one spot.  Fossils often must be collected from all
+   over a continent to find the transitions.
+
+   Only Europe and North America have been well explored for fossils
+   because that is where most of the paleontologists lived.  Furthermore,
+   regional politics interfere with collecting fossils.  Some fabulous
+   fossils have been found in China only recently because before then the
+   politics prevented most paleontology there.
+
+4. The shortage is not just in fossils but in paleontologists and
+   taxonomists.  Preparing and analyzing the material for just one lineage
+   can take a decade of work.  There are likely hundreds of transitional
+   fossils sitting in museum drawers, unknown because nobody knowledgeable
+   has examined them.
+
+5. Description of fossils is often limited to professional literature and
+   does not get popularized.  This is especially true of marine
+   microfossils, which have the best record.
+
+6. If fossilization were so prevalent and young-earth creationism were
+   true, we should find indications in the fossil record of animals
+   migrating from the Ark to other continents.
+
+Links:
+
+Hunt, Kathleen. 1997.  Transitional vertebrate fossils FAQ, part 1A.
+ http://www.talkorigins.org/faqs/faq-transitional/part1a.html#gaps
+
+References:
+
+Further Reading:
+
+Kidwell, S. M. and S. M. Holland. 2002.  The quality of the fossil record:
+ Implications for evolutionary analyses.  _Annual Review of Ecology and
+ Systematics_ 33: 561-588. (technical)
+
+Date: 2003-7-11, 2004-1-29

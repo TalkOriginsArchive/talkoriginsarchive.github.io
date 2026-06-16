@@ -1,0 +1,272 @@
+{
+  "id": "phase-4-archive-navigation-batch-021",
+  "phase": "phase-4-archive-navigation",
+  "phase_label": "Archive Navigation and Feedback",
+  "sequence": 21,
+  "status": "complete",
+  "page_count": 14,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/origins/contact.html",
+      "source_path": "origins/contact.html",
+      "title": "Contacting the Talk.Origins Archive",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1176
+    },
+    {
+      "route": "/origins/copyright.html",
+      "source_path": "origins/copyright.html",
+      "title": "The Talk.Origins Archive Copyright Policy",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3333
+    },
+    {
+      "route": "/origins/cosmo_timeline.html",
+      "source_path": "origins/cosmo_timeline.html",
+      "title": "HISTORY EVENTS IN AN INFLATIONARY BIG BANG COSMOLOGY",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2987
+    },
+    {
+      "route": "/origins/faqs-acknowledge.html",
+      "source_path": "origins/faqs-acknowledge.html",
+      "title": "The Talk.Origins Archive: Acknowledgements",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1865
+    },
+    {
+      "route": "/origins/faqs-catastrophism.html",
+      "source_path": "origins/faqs-catastrophism.html",
+      "title": "The Talk.Origins Archive: Catastrophism FAQs",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3465
+    },
+    {
+      "route": "/origins/faqs-creationists.html",
+      "source_path": "origins/faqs-creationists.html",
+      "title": "The Talk.Origins Archive: Arguments against\nCreationism and Intelligent Design FAQs",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 15785
+    },
+    {
+      "route": "/origins/faqs-debates.html",
+      "source_path": "origins/faqs-debates.html",
+      "title": "The Talk.Origins Archive: Debates, Gatherings &\nCourt Decisions",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6345
+    },
+    {
+      "route": "/origins/faqs-evolution.html",
+      "source_path": "origins/faqs-evolution.html",
+      "title": "The Talk.Origins Archive: Evolution FAQs",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8398
+    },
+    {
+      "route": "/origins/faqs-flood.html",
+      "source_path": "origins/faqs-flood.html",
+      "title": "The Talk.Origins Archive: Flood Geology FAQs",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4502
+    },
+    {
+      "route": "/origins/faqs-qa_grey.html",
+      "source_path": "origins/faqs-qa_grey.html",
+      "title": "Frequently Asked Questions About Creationism and Evolution",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 970
+    },
+    {
+      "route": "/origins/faqs-rff.html",
+      "source_path": "origins/faqs-rff.html",
+      "title": "The Talk.Origins Archive: Request For FAQs\n(RFF)",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 879
+    },
+    {
+      "route": "/origins/faqs-submit.html",
+      "source_path": "origins/faqs-submit.html",
+      "title": "The Talk.Origins Archive: Submission Guidelines",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2660
+    },
+    {
+      "route": "/origins/faqs-youngearth.html",
+      "source_path": "origins/faqs-youngearth.html",
+      "title": "The Talk.Origins Archive: The Age of the Earth FAQs",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8463
+    },
+    {
+      "route": "/origins/feedback/",
+      "source_path": "origins/feedback/index.html",
+      "title": "The TalkOrigins Archive: Feedback",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-021",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1583
+    }
+  ],
+  "status_counts": {
+    "translated": 56
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

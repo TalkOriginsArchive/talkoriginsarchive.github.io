@@ -1,0 +1,72 @@
+BriefClaim: Specified information criterion produces no false positives.
+Title: False positives of complexity-specification
+Keywords: Complex specified information, explanatory filter
+
+Claim:
+
+<CI110>Specified complexity> is a reliable criterion for detecting design.
+The complexity-specification criterion successfully avoids false positives
+-- in other words, whenever it attributes design, it does so correctly.
+
+Source:
+
+Dembski, William A., 2002.  _No Free Lunch_, Lanham, MD: Rowman &
+ Littlefield, pp. 24-25.
+
+Response:
+
+1. Complexity-specification allows false positives because it does not
+   consider the combination of regularity and chance acting together, and
+   it does not consider unknown causes.
+
+2. Specific examples of false positives are <CB200>irreducibly complex>
+   structures for which plausible evolutionary origins have been found.
+
+   Another false positive is canals on Mars.  Percival Lowell saw that
+   many Martian canals meet at each of several points. The odds of this
+   happening by chance, he calculated, are less than 1 in 1.6 &times;
+   10^260, proving that Mars must be inhabited (Lowell, 1907). We now know
+   that the canals were optical illusions caused by the human mind
+   connecting indistinct features.
+
+3. Dembski himself admitted the possibility of error in the same book
+   in which he claimed reliability:
+
+    "Now it can happen that we may not know enough to determine
+     all the relevant chance hypotheses.  Alternatively, we might think we
+     know the relevant chance hypotheses, but later discover that we
+     missed a crucial one.  In the one case a design inference could not
+     even get going; in the other, it would be mistaken.  But these are
+     the risks of empirical inquiry, which of its nature is fallible.
+     Worse by far is to impose as an _a priori_ requirement that all gaps
+     in our knowledge must ultimately be filled by non-intelligent causes.
+     (Dembski 2002, 123)
+
+   What Dembski fails to appreciate is that his complexity-specification
+   criterion imposes an a priori requirement that all gaps must be
+   filled by supernatural causes.
+
+   Dembski also said, "On the other hand, if things end up in the net that
+   are not designed, the criterion will be useless" (Dembski 1999, 142).
+
+Links:
+
+References:
+
+1. Dembski, William A., 1999.  _Intelligent Design: The bridge between
+   science and theology_.  Downers Grove, Ill.: InterVarsity Press.
+2. Dembski, William A., 2002.  (see above)
+3. Lowell, Percival (as "A Mathematician"), October 26, 1907.  The evidence
+   of life on Mars: A simple mathematical proof that the canals  are not
+   due to natural causes.  _Scientific American_, reprinted at Becker,
+   Barbara J., 2003. History 135C: Exploring the Cosmos,
+   http://eee.uci.edu/clients/bjbecker/ExploringtheCosmos/week10b.html
+
+
+Further Reading:
+
+Ratzsch, Del, 2001. _Nature, Design and Science_. Albany: State University
+ of New York Press.  (The appendix addresses false positives and other
+ problems with Dembski's explanatory filter.)
+
+Date: 2003-7-8

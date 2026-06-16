@@ -1,0 +1,43 @@
+BriefClaim: U-Th dating gives inaccurate results for modern volcanic rocks.
+Title: U-Th dating of modern rocks
+Keywords: radiometric dating
+
+Claim:
+
+U-Th dating of volcanic rocks formed in historic times gives dates vastly
+older than their true age.
+
+Source:
+
+Clementson, S. P., 1970, A critical examination of radioactive dating of
+ rocks. _Creation Research Society Quarterly_ 7 (Dec.): 137-141; citing
+ Cherdyntsev, V. V., et al., Geological Institute Academy of Sciences,
+ USSR, Earth Science Section, 172, p. 178. Cited in: SciCre, p. 143.
+
+Response:
+
+1. This claim is based on a single obscure reference.  Until we get hold
+   of that reference, we cannot address it directly, but some general
+   comments are possible.
+
+   First, dating techniques, like any tool, can be misused.  This
+   particular case could be an example, especially if <CD013>xenoliths>
+   (older inclusions) are incorporated in the volcanic rocks.  The misuse
+   could be accidental; it could also be deliberate so as to illustrate
+   how not to do things; or it could be someone deliberately trying for a
+   discrepant age.  Other examples of discordant dates among these claims
+   show that a date alone does not invalidate the method; one must also
+   consider how the method was applied.
+
+   Second, there is a vast body of literature showing that the U-Th method
+   does work.  It would take more than one published counterexample to
+   discredit it.  And if that counterexample were a serious challenge to
+   the method, there would be plenty of publications about it.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-8-22

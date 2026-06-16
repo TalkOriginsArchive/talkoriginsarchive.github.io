@@ -1,0 +1,165 @@
+BriefClaim: Bacterial flagella are irreducibly complex.
+Title: Bacterial flagella and Irreducibly Complexity
+Keywords: irreducible complexity, flagella, design.
+
+Claim:
+
+Bacterial flagella and eukaryotic cilia are <CB200>irreducibly complex>,
+Since nonfunctional intermediates cannot be preserved by natural
+selection, these systems can only be explained by intelligent design.
+
+Source:
+
+DBB, pp. 59-73.
+
+
+Response:
+
+1. This is an example of <CA100>argument from incredulity>, because
+   <CB200>irreducible complexity can evolve naturally>.  Many of the
+   proteins in the bacterial flagellum or eukaryotic cilium are similar to
+   each other or to proteins for other functions.  Their origins can
+   easily be explained by a series of gene duplication events followed by
+   modification and/or co-option, proceeding gradually through
+   intermediate systems different from and simpler than the final
+   flagellum.
+
+   One plausible path for the evolution of flagella goes through the
+   following basic stages (keep in mind that this is a summary, and
+   that each major co-option event would be followed by long periods of
+   gradual optimization of function):
+
+    a. A passive, nonspecific pore evolves into a more specific passive
+       pore by addition of gating protein(s).  Passive transport
+       converts to active transport by addition of an ATPase that couples
+       ATP hydrolysis to improved export capability.  This complex forms
+       a primitive type-III export system.
+
+    b. The type-III export system is converted to a type-III secretion
+       system (T3SS) by addition of outer membrane pore proteins (secretin
+       and secretin chaperone) from the type-II secretion system.  These
+       eventually form the P- and L-rings, respectively, of modern
+       flagella.  The modern type-III secretory system forms a structure
+       strikingly similar to the rod and ring structure of the flagellum
+       (Hueck 1998; Blocker et al. 2003).
+
+    c. The T3SS secretes several proteins, one of which is an adhesin (a
+       protein that sticks the cell to other cells or to a substrate).
+       Polymerization of this adhesin forms a primitive pilus, an
+       extension that gives the cell improved adhesive capability.  After
+       the evolution of the T3SS pilus, the pilus diversifies for various
+       more specialized tasks by duplication and subfunctionalization of
+       the pilus proteins (pilins).
+
+    d. An ion pump complex with another function in the cell fortuitously
+       becomes associated with the base of the secretion system structure,
+       converting the pilus into a primitive protoflagellum.  The initial
+       function of the protoflagellum is improved dispersal.  Homologs of
+       the motor proteins MotA and MotB are known to function in diverse
+       prokaryotes independent of the flagellum.
+
+    e. The binding of a signal transduction protein to the base of the
+       secretion system regulates the speed of rotation depending on the
+       metabolic health of the cell.  This imposes a drift toward
+       favorable regions and away from nutrient-poor regions, such as
+       those found in overcrowded habitats.  This is the beginning of
+       chemotactic motility.
+
+    f. Numerous improvements follow the origin of the crudely functioning
+       flagellum.  Notably, many of the different axial proteins (rod,
+       hook, linkers, filament, caps) originate by duplication and
+       subfunctionalization of pilins or the primitive flagellar axial
+       structure.  These proteins end up forming the axial protein family.
+
+   The eukaryotic cilium (also called the eukaryotic flagellum or
+   undulipodium) is fundamentally different from the bacterial flagellum.
+   It probably originated as an outgrowth of the mitotic spindle in a
+   primitive eukaryote (both structures make use of sliding microtubules
+   and dyneins).  Cavalier-Smith (1987; 2002) has discussed the origin of
+   these systems on several occasions.
+
+2. The bacterial flagellum is not even irreducible.  Some bacterial
+   flagella function without the L- and P-rings.  In experiments with
+   various bacteria, some components (e.g. FliH, FliD (cap), and the
+   muramidase domain of FlgJ) have been found helpful but not absolutely
+   essential (Matzke 2003).  One third of the 497 amino acids of flagellin
+   have been cut out without harming its function (Kuwajima 1988).
+   Furthermore, many bacteria have additional proteins that are required
+   for their own flagella but that are not required in the "standard"
+   well-studied flagellum found in _E. coli_.  Different bacteria have
+   different numbers of flagellar proteins (in _Helicobacter pylori_, for
+   example, only thirty-three proteins are necessary to produce a working
+   flagellum), so Behe's favorite example of irreducibility seems actually
+   to exhibit quite a bit of variability in terms of numbers of required
+   parts (Ussery 1999).
+
+   Eukaryotic cilia are made by more than 200 distinct proteins, but even
+   here irreducibility is illusive.  Behe (1996) implied and Denton
+   (1986, 108) claimed explicitly that the common 9+2 tubulin
+   structure of cilia could not be substantially simplified.  Yet
+   functional 3+0 cilia, lacking many microtubules as well as some of the
+   dynein linkers, are known to exist (Miller 2003, 2004).
+
+3. Eubacterial flagella, archebacterial flagella, and cilia use entirely
+   different designs for the same function.  That is to be expected if
+   they evolved separately, but it makes no sense if they were the work of
+   the same designer.
+
+Links:
+
+Matzke, N. J. 2003.  Evolution in (brownian) space:
+ a model for the origin of the bacterial flagellum.
+ http://www.talkdesign.org/faqs/flagellum.html or
+ https://web.archive.org/web/20240512085152if_/http://www.talkreason.org/articles/flag.pdf
+ (see also 'Background to "Evolution in (Brownian) space"',
+ http://www.talkdesign.org/faqs/flagellum_background.html or
+ https://web.archive.org/web/20230605123028if_/http://www.talkreason.org/articles/flagback.cfm)
+
+Dunkelberg, Pete. 2003.  Irreducible complexity demystified
+ http://www.talkdesign.org/faqs/icdmyst/ICDmyst.html
+
+Musgrave, Ian. 2000.  Evolution of the bacterial flagella.
+ http://www.health.adelaide.edu.au/Pharm/Musgrave/essays/flagella.htm
+
+References:
+
+#0. Gophna U., Ron E.Z., Graur D. 2003.  Bacterial type III secretion
+#   systems are ancient and evolved by multiple horizontal-transfer events.
+#   _Gene_ 312: 151-63.
+
+1. Blocker, Ariel, Kaoru Komoriya, and Shin-Ichi Aizawa. 2003.  Type III
+   secretion systems and bacterial flagella: Insights into their function
+   from structural similarities.  PNAS 100(6): 3027-3030.
+   https://web.archive.org/web/20080312234133if_/http://www.pnas.org/cgi/content/full/100/6/3027
+2. Cavalier-Smith, T. 1987. The origin of eukaryote and
+   archaebacterial cells.  _Annals of the New York Academy
+   of Sciences_ 503: 17-54.
+3. Cavalier-Smith, T. 2002. The phagotrophic origin of eukaryotes and
+   phylogenetic classification of Protozoa.  _International Journal of
+   Systematic and Evolutionary Microbiology_ 52: 297-354.
+4. Denton, M. 1986.  _Evolution: A Theory in Crisis_.
+   Bethesda, MD: Adler & Adler.
+2. Hueck, C. J. 1998.  Type III protein secretion systems in bacterial
+   pathogens of animals and plants.  _Microbiology and Molecular Biology
+   Reviews_ 62: 379-433.
+3. Kuwajima, G. 1988. Construction of a minimum-size functional
+   flagellin of Escherichia coli. _Journal of Bacteriology_ 170:
+   3305-3309.
+4. Matzke, N. J. 2003.  (see above)
+5. Miller, K. 2003.  Answering the biochemical argument from design.
+   in: Manson, N. (Ed.), _God and design: the teleological argument and 
+   modern science_, Routledge, London, pp. 292-307. 
+   http://www.millerandlevine.com/km/evol/design1/article.html
+6. Miller, K. 2004.  The flagellum unspun. In _Debating Design: from
+   Darwin to DNA_, 81-97, eds. Dembski, W., and M. Ruse, New York:
+   Cambridge University Press.
+   http://www.millerandlevine.com/km/evol/design2/article.html
+7. Ussery, D. 1999. (see below)
+
+Further Reading:
+
+Ussery, David. 1999.  A biochemist's response to "The biochemical
+ challenge to evolution".  _Bios_ 70: 40-45.
+ https://web.archive.org/web/20030624041733if_/http://www.cbs.dtu.dk/staff/dave/Behe.html
+
+Date: 2001-2-17, 2003-12-15

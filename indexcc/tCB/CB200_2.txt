@@ -1,0 +1,78 @@
+BriefClaim: Blood clotting is irreducibly complex.
+Title: Blood clotting and Irreducibly Complexity
+Keywords: irreducible complexity, blood clotting, design.
+
+Claim:
+
+The biochemistry of blood clotting is irreducibly complex, indicating that
+it must have been designed.
+
+Source:
+
+DBB, pp. 74-97.
+
+
+Response:
+
+1. The blood clotting systems appears to be put together by using whatever
+   long polymeric bridges are handy.  There are many examples of
+   complicated systems made from components that have useful but
+   completely different roles in different components.  There is also
+   evidence that the genes for blood clotting (indeed, the whole genome)
+   duplicated twice in the course of its evolution (Davidson et al. 2003).
+   The duplication of parts and co-opting of parts with different
+   functions gets around the "challenge" of irreducible complexity
+   evolving gradually.
+
+2. Blood clotting is not irreducibly complex.  Some animals -- dolphins,
+   for example -- get along fine without the Hagemann factor (Robinson et
+   al. 1969), a component of the human blood clotting system which Behe
+   includes in its "irreducible" complexity (Behe 1996, 84).  Doolittle
+   and Feng (1987) predicted that "lower" vertebrates would lack the
+   "contact pathway" of blood clotting.  Work on the genomes of the puffer
+   fish and zebrafish have confirmed this (Yong and Doolittle 2003).
+
+3. Irreducible complexity <CB200>is not an obstacle to evolution> and
+   <CI102>doesn't imply design>.
+
+Links:
+
+Acton, George, 1997. Behe and the blood clotting cascade. 
+ http://www.talkorigins.org/origins/postmonth/feb97.html
+
+Behe, M. and K. Miller.  2002.  Transcript: American Museum of Natural
+ History April 23, 2002 (Part 7).
+ https://web.archive.org/web/20070211040005if_/http://www.ncseweb.org/resources/articles/7819_part_07_dr_michael_behe_dr_10_31_2002.asp
+
+Dunkelberg, Pete, 2003.  Irreducible complexity demystified.
+ http://www.talkdesign.org/faqs/icdmyst/ICDmyst.html
+
+EvoWiki, 2004. Blood clotting.
+ https://web.archive.org/web/20060116180145if_/http://www.evowiki.org/wiki.phtml?title=Blood_clotting
+
+Musgrave, Ian, 2005.  Clotted rot for rotten clots.
+ https://web.archive.org/web/20051018165022if_/http://www.pandasthumb.org/pt-archives/000884.html
+
+References:
+
+1. Davidson, C. J., E. G. Tuddenham, and J. H. McVey. 2003.  450 million
+   years of hemostasis.  _Journal of Thrombosis and Haemostasis_ 1:
+   1478-1497.
+2. Robinson, A. J., M. Kropatkin, and P. M. Aggeler. 1969. Hagemann factor
+   (factor XII) deficiency in marine mammals.  _Science_ 166: 1420-1422.
+
+Further Reading:
+
+Doolittle, Russell F., 1997. A delicate balance.  _Boston Review_
+ (Feb./Mar.), https://web.archive.org/web/20071008091650if_/http://bostonreview.net/BR22.1/doolittle.html
+
+Ussery, David, 1999.  A biochemist's response to "The biochemical
+ challenge to evolution".  _Bios_ 70: 40-45.
+ https://web.archive.org/web/20030624041733if_/http://www.cbs.dtu.dk/staff/dave/Behe.html
+
+#C. J. Davidson, E. G. Tuddenham and J. H. McVey (2003). 450 million 
+#years of hemostasis.  Journal of Thrombosis and Haemostasis. Volume 1 
+#Issue 7 Page 1487
+#http://www.blackwell-synergy.com/links/doi/10.1046/j.1538-7836.2003.00334.x/enhancedabs/ 
+
+Date: 2001-2-17, 2005-9-24

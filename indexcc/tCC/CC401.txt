@@ -1,0 +1,51 @@
+BriefClaim: Paleontologists reconstruct an entire animal from a single bone.
+Title: Fossil reconstruction from bits
+Keywords: fossil, reconstruction
+
+Claim:
+
+Many of the fossils on which evolution is based on are reconstructed from
+the flimsiest evidence, even from a single tooth or bone.  The conclusions
+based on such fossils are mere speculation.
+
+Source:
+
+Lenner, G., M. Rajock and J. Browning, 1995.  Evidence #4.
+ https://web.archive.org/web/20001209194200if_/http://emporium.turnpike.net/C/cs/evid4.htm
+
+Response:
+
+1. Evolution is not based on fragmentary fossils.  The theory would still
+   be extremely robust with no fossils at all, based on evidence from
+   modern life.  Furthermore, there are more than enough substantially
+   complete skeletons to support evolution.  The <CC216.1>whale
+   transitional sequence>, for example, is based on several excellent
+   skeletons.
+
+2. A single bone, even in isolation, can give a surprising amount of
+   information.  A tooth, for example, can show generally what kind of
+   food an animal ate and give an idea of its size.  These conclusions, in
+   turn, tell how the animal fits into the ecology.
+
+3. Bones are never considered in isolation; rather, they are compared with
+   other bones from more complete skeletons.  If you have a bone that
+   looks like an _Iguanodon_ femur but smaller, to give a simple example,
+   the reconstruction would look a lot like a smaller _Iguanodon_.  A
+   complete reconstruction, however, is possible only if you can match the
+   single bone to an animal for which there is a complete skeleton already.
+
+   The ability to deduce much about a fossil from a single tooth or bone
+   was made famous by anatomist and paleontologist Georges Cuvier.  In
+   1804, for example, he confidently announced that a French fossil was an
+   opossum (then unknown from France) on the basis of only its teeth
+   (Zimmer 1998, 135-137).  Cuvier was a creationist.
+
+Links:
+
+References:
+
+1. Zimmer, Carl, 1998.  _At the Water's Edge_.  New York: Touchstone.
+
+Further Reading:
+
+Date: 2003-7-28, 2004-3-1

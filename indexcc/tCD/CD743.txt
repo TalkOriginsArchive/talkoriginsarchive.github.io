@@ -1,0 +1,43 @@
+Title: Movement of tectonic plates
+Keywords: plate tectonics, GPS, VLBI
+
+Claim:
+
+A problem with the theory of plate tectonics is that there is no solid
+evidence that tectonic plates are still moving.
+
+Source:
+
+CreationWiki. 2005 (27 June).  Continental drift.
+ https://web.archive.org/web/20060301153445if_/http://www.nwcreation.net/wiki/index.php?title=Continental_drift
+
+Response:
+
+1. Few creationist claims show such a blatant denial of reality.  GPS and
+   VBLI (Very Long Baseline Interferometry) allow measurements of
+   positions more than precise enough to verify movement over time.  Even
+   more obvious, earthquakes often move the plates several feet at once.
+   The 26 December 2004 Sumatra earthquake produced a slip averaging more
+   than five meters along the length of the rupture (Banerjee et
+   al. 2005).  One can see the shift as twisted train rails or broken and
+   offset fences in pictures of major earthquakes of the past.  The
+   Calaveras fault in Hollister, California creeps continuously, varying
+   by time and location from about 6 to 15 mm per year (Rogers and Nason).
+
+Links:
+
+Johansson, Sverker, n.d.  [GPS Motions].
+ http://home.hj.se/~lsj/S_gps_motions.jpg
+
+Johansson, Sverker, n.d.  Selected VLBI velocities.
+ http://home.hj.se/~lsj/VLBI_World_Wide_Totals.jpg
+
+References:
+
+1. Banerjee, P., F. F. Pollitz and R. B&uuml;rgmann.  2005.  The size and
+   duration of the Sumatra-Andaman earthquake from far-field static
+   offsets.  _Science_ 308: 1769-1772.
+
+2. Rogers, T. H. and R. D. Nason. 1971.  Active fault displacement on the
+   Calaveras fault zone at Hollister, California.  _Seism. Soc. Am. Bull._
+   61: 399-416.

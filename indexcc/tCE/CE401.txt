@@ -1,0 +1,62 @@
+BriefClaim: There are too few supernova remnants for an old universe.
+Title: Supernova Remnants
+Keywords: supernova, remnant
+
+Claim:
+
+If the universe is old, many supernova remnants (SNRs) should have reached
+the third, oldest stage.  We observe no Stage 3 SNRs and few Stage 2 SNRs.
+Both observations are consistent with a young universe, not an old one.
+
+Source:
+
+Davies, Keith, 1994.  Distribution of supernova remnants in the galaxy.
+ _Proceedings of the Third International Conference on Creationism_.
+ Pittsburgh, PA: Creation Science Fellowship.
+ https://web.archive.org/web/20211117175034if_/http://www.creationdiscovery.org/cdp/articles/snrart.html
+Sarfati, Jonathan, 1997.  Exploding stars point to a young universe: Where
+ are all the supernova remnants?, _Creation Ex Nihilo_ 19(3) (Jun-Aug):
+ 46-48; http://www.answersingenesis.org/docs/248.asp
+
+Response:
+
+1. Many more SNRs have been found, including many Stage 3 remnants older
+   than 20,000 years.  And the census is not over yet.  If the universe is
+   old, many SNRs should have reached the third, oldest stage, and that is
+   what we see.  The evidence contradicts a young universe, not an old
+   one.
+
+2. Davies's estimate of what proportion of SNRs should be visible to us is
+   grossly oversimplified.  It is impossible to say with certainty what
+   proportion should be visible.  Furthermore, he ignores data, including
+   observations of possible old remnants, that would weaken his case.
+
+   SNRs are relatively hard to see.  They would not be visible for one
+   million years, the figure Davies used in his calculations.  A million
+   years is the theoretical lifetime of a remnant; it will be visible for
+   a much shorter time because of background noise and obscuring dust and
+   interstellar matter.  Fewer than 1 percent of SNRs last more than
+   100,000 years.  It may be that as few as 15-20 percent of supernova
+   events are visible at all through the interstellar matter.
+
+3. Supernovas are evidence for an old universe in other ways:
+    - Supernovas are evidence that stars have reached the end of their
+      lifetime, which for many stars is billions of years.
+    - The formation of new stars indicates that many are
+      second generation; the universe must be old enough for some stars to
+      go through their entire lifetime and for the dust from their
+      supernovas to collect into new stars.
+    - It takes time for the light from the supernovas to reach us.  All
+      supernovas and SNRs are more than 7,000 light-years from us.  SN
+      1987A was 167,000 +/- 4,000 light years away.
+
+Links:
+
+Moore, Dave, 2001.  Supernovae, supernova remnants and young earth
+ creationism FAQ.  http://www.talkorigins.org/faqs/supernova/
+
+References:
+
+Further Reading:
+
+Date: 2000-7-21, 2003-9-1

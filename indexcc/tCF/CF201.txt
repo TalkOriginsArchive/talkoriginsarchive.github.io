@@ -1,0 +1,77 @@
+BriefClaim: Polonium haloes indicate a young earth.
+Title: Polonium Haloes
+Keywords: polonium halo, radiohalo, radioactive decay, radon, mica,
+biotite.
+
+Claim:
+
+Some micas in granite have tiny haloes caused by the decay of radioactive
+elements.  From their diameters, we know the energy of the alpha particles
+that caused the haloes, which tells us what element decayed.  Some of
+these haloes formed from isotopes of polonium, all of which have short
+half-lives (138 days for the longest-lived isotope).  According to
+conventional geology, the rocks in which the polonium radio-haloes occur
+took millions of years to form.  All of the original polonium should have
+decayed in that time.  Thus polonium radio-haloes indicate a sudden
+creation of polonium in rock.
+
+Source:
+
+Gentry, R. V., 1986.  _Creation's Tiny Mystery_.  Knoxville, TN: Earth
+ Science Associates.
+Snelling, A. A., 2000.  Polonium radiohaloes: Still "a very tiny
+ mystery".  _Impact_ 326 (Aug.), i-iv.
+
+Response:
+
+1. Polonium forms from the alpha decay of radon, which is one of the decay
+   products of uranium. Since radon is a gas, it can migrate through small
+   cracks in the minerals.  The fact that polonium haloes are found only
+   associated with uranium (the parent mineral for producing radon)
+   supports this conclusion, as does the fact that such haloes are
+   commonly found along cracks (Brawley 1992; Wakefield 1998).
+
+2. The biotite in which Gentry (1986) obtained some of his samples
+   (Fission Mine and Silver Crater locations) was not from granite, but
+   from a calcite dike.  The biotite formed metamorphically as minerals in
+   the walls of the dike migrated into the calcite.  Biotite from the
+   Faraday Mine came from a granite pegmatite that intruded a paragneiss
+   that formed from highly metamorphosed sediments.  Thus, all of the
+   locations Gentry examined show evidence of an extensive history
+   predating the formation of the micas; they show an appearance of age
+   older than the three minutes his polonium halo theory allows.  It is
+   possible God created this appearance of age, but that reduces Gentry's
+   argument to the <CH220>omphalos> argument, for which evidence is
+   irrelevant (Wakefield 1998).
+
+3. Stromatolites are found in rocks intruded by (and therefore older than)
+   the dikes from which Gentry's samples came, showing that living things
+   existed before the rocks that Gentry claimed were primordial (Wakefield
+   1998).
+
+
+Links:
+
+Brawley, John. 1992.  Evolution's tiny violences: The Po-halo mystery. 
+ http://www.talkorigins.org/faqs/po-halos/violences.html
+
+References:
+
+1. Brawley, J. 1992.  See above.
+2. Gentry, R. V. 1988.  _Creation's Tiny Mystery_.  Knoxville, TN: Earth
+   Science Associates.
+#3. Odom, L. A. and W. J. Rink. 1989.  Giant radiation-induced color halos
+#   in quartz: Solution to a riddle.  _Science_ 246: 107-109.
+4. Wakefield, J. R. 1998.  See below.
+
+Further Reading:
+
+Wakefield, J. Richard. 1998.  The geology of Gentry's "tiny mystery".
+ _Journal of Geological Education_ 36 (May): 161-175.
+ http://www.csun.edu/~vcgeo005/gentry/tiny.htm
+
+Collins, Lorence G. 1997.  Polonium halos and myrmekite in pegmatite and
+ granite.  http://www.csun.edu/~vcgeo005/revised8.htm
+
+Date: 2001-3-31, 2003-9-11
+

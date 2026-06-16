@@ -1,0 +1,63 @@
+BriefClaim: The Bible says that the earth is round.
+Title: Bible on earth's roundness
+Keywords: Bible, accuracy, sphere
+
+Claim:
+
+The Bible says the earth is round, showing that its authors were inspired
+to understand science beyond their time.
+
+Source:
+
+Morris, Henry M., 1986.  _Science and the Bible_.
+ Chicago: Moody Press, pp. 13-14.
+Jeffrey, Grant R., 1996.  _The Signature of God_.
+ Toronto: Frontier Research Publications, p. 114.
+
+Response:
+
+1. The passage saying the earth is round is Isaiah 40:22:
+    "He sits enthroned above the circle of the earth,
+     and its people are like grasshoppers.
+     He stretches out the heavens like a canopy,
+     and spreads them out like a tent to live in. 
+
+   This passage may reasonably be interpreted as referring to a *flat*
+   circular earth with the heavens forming a dome above it.  Such an
+   interpretation is consistent with other passages of the Bible which
+   refer to a solid firmament (Gen. 1:6-20, 7:11; Ezekiel 1:22-26; Job
+   9:8, 22:14, etc.).  It is also consistent with the cosmology common in
+   neighboring cultures.
+
+   Isaiah 11:12 refers to the "four quarters of the earth", but we do not
+   take that as indicative of the earth's shape.
+
+2. The shape of the earth may already have been known in Isaiah's time.
+   Ancient astronomers could determine that the earth was round by
+   observing its circular shadow move across the moon during lunar
+   eclipses.  There is some suggestion that the Egyptians knew of the
+   earth's spherical size and shape around 2550 B.C.E. (more than a
+   thousand years before Moses).  The Greek philosopher Pythagoras, who
+   was born in 532 B.C.E., defended the spherical theory on the basis of
+   observations he had made of the shape of the sun and moon (Uotila
+   1984). If this information was known by educated Greeks and Egyptians
+   during biblical times, its use by Isaiah is nothing special.
+
+Links:
+
+Harwood, William, 2000.  The inconsistency of round-earth religionists.
+ http://www.infidels.org/library/magazines/tsr/2000/4/004round.html
+
+References:
+
+1. Uotila, Urho A., 1984.  Earth, figure of.  _Encyclopaedia Britannica_
+   vol. 6, 1-8.
+
+Further Reading:
+
+Meyers, Stephen, 2000.  The Signature of God by Grant R. Jeffrey (review).
+ http://members.aol.com/ibss2/gospel.html
+#https://web.archive.org/web/20030217072520if_/http://bibleandscience.com/grant%20jeffrey.htm
+#http://bibleandscience.com/_vti_bin/shtml.exe/grant%20jeffrey.htm
+
+Date: 2003-6-7

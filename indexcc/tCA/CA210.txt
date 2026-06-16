@@ -1,0 +1,114 @@
+BriefClaim: Evolution does not make predictions.
+Title: Evolution predictions
+Keywords:  prediction, falsifiable.
+
+Claim:
+
+A true science must make predictions.  Evolution only describes what
+happened in the past, so it is not predictive.
+
+Source:
+
+Batten, Don. 2002.  It's not science.
+ https://web.archive.org/web/20090122062251if_/http://www.answersingenesis.org/docs2002/0228not_science.asp
+
+Response:
+
+1. The difference in predictive power between evolution and other sciences
+   is one of degree, not kind.  All theories are simplifications; they
+   purposely neglect as many outside variables as they can.  But these
+   extraneous variables do affect predictions.  For example, you can
+   predict the future position of an orbiting planet, but your prediction
+   will be off very slightly because you can not consider the effects of
+   all the small bodies in the solar system.  Evolution is more sensitive
+   to initial conditions and extraneous factors, so specific predictions
+   about what mutations will occur and what traits will survive are
+   impractical.  It is still possible to use evolution to make general
+   predictions about the future, though.  For example, we can predict that
+   diseases will become resistant to any new widely used antibiotics.
+
+2. The predictive power of science comes from being able to say things we
+   would not have been able to say otherwise.  These predictions do not have
+   to be about things happening in the future.  They can be
+   "retrodictions" about things from the past that we have not found yet.
+   Evolution allows innumerable predictions of this sort.
+
+3. Evolution has been the basis of many predictions.  For example:
+
+   - Darwin predicted, based on homologies with African apes, that human
+     ancestors arose in Africa.  That prediction has been supported by
+     fossil and genetic evidence (Ingman et al. 2000).
+   - Theory predicted that organisms in heterogeneous and rapidly
+     changing environments should have higher mutation rates.  This has
+     been found in the case of bacteria infecting the lungs of chronic
+     cystic fibrosis patients (Oliver et al. 2000).
+   - Predator-prey dynamics are altered in predictable ways by evolution
+     of the prey (Yoshida et al. 2003).
+   - Ernst Mayr predicted in 1954 that speciation should be accompanied with
+     faster genetic evolution.  A phylogenetic analysis has supported
+     this prediction (Webster et al. 2003).
+   - Several authors predicted characteristics of the ancestor of
+     craniates.  On the basis of a detailed study, they found the fossil
+     _Haikouella_ "fit these predictions closely" (Mallatt and Chen 2003).
+   - Evolution predicts that different sets of character data should still
+     give the same phylogenetic trees.  This has been confirmed informally
+     myriad times and quantitatively, with different protein sequences, by
+     Penny et al. (1982).
+   - Insect wings evolved from gills, with an intermediate stage of
+     skimming on the water surface.  Since the primitive surface-skimming
+     condition is widespread among stoneflies, J. H. Marden predicted that
+     stoneflies would likely retain other primitive traits, too.  This
+     prediction led to the discovery in stoneflies of functional
+     hemocyanin, used for oxygen transport in other arthropods but never
+     before found in insects (Hagner-Holler et al. 2004; Marden 2005).
+
+   With predictions such as these and others, evolution can be, and has
+   been, put to <CA215>practical use> in areas such as drug discovery and
+   avoidance of resistant pests.
+
+4. If evolution's low power to make future predictions keeps it from
+   being a science, then some other fields of study cease to be
+   sciences, too, especially archeology and astronomy.
+
+Links:
+
+Wilkins, John. 1997.  Evolution and philosophy: Predictions and
+ explanations.  http://www.talkorigins.org/faqs/evolphil/predict.html
+
+References:
+
+1. Hagner-Holler, Silke et al. 2004.  A respiratory hemocyanin from an
+   insect.  PNAS 101: 871-874.
+2. Ingman, M., H. Kaessmann, S. Paaba and U. Gyllensten. 2000.
+   Mitochondrial genome variation and the origin of modern humans.
+   _Nature_ 408: 708-713 .  See also: Blair Hedges, S. 2000. A start for
+   population genomics.  _Nature_ 408: 552-553.  See also:
+   Thomson, Jeremy, 2000 (7 Dec.).
+   Humans did come out of Africa, says DNA.  _Nature Science Update_,
+   https://web.archive.org/web/20080516061018if_/http://www.nature.com/nsu/001207/001207-8.html
+3. Mallatt, J. and J.-Y. Chen. 2003.  Fossil sister group of craniates:
+   Predicted and found.  _Journal of Morphology_ 258(1): 1-31.
+4. Marden, Jim, 2005.  Flap those gills and fly: Comment (#46024: 10/29).
+   http://pharyngula.org/index/weblog/comments/flap_those_gills_and_fly/P25/#c46024
+4. Oliver, Antonio et al. 2000.  High frequency of hypermutable
+   _Pseudomonas aeruginosa_ in cystic fibrosis lung infection.  _Science_
+   288: 1251-1253.  See also Rainey, P. B. and R. Moxon. 2000.  When
+   being hyper keeps you fit.  _Science_ 288: 1186-1187.  See also:
+   LeClerc, J. E. and T. A. Cebula. 2000.  _Pseudomonas_ survival
+   strategies in cystic fibrosis (letter), 2000.  _Science_ 289: 391-392.
+5. Penny, David, L. R. Foulds, and M. D. Hendy. 1982.  Testing the theory
+   of evolution by comparing phylogenetic trees constructed from five
+   different protein sequences.  _Nature_ 297: 197-200.
+5. Webster, Andrea J., Robert J. H. Payne, and Mark Pagel. 2003.
+   Molecular phylogenies link rates of evolution and speciation.
+   _Science_ 301: 478.
+6. Yoshida, T., L. E. Jones, S. P. Ellner, G. F. Fussmann
+   and N. G. Hairston Jr. 2003.  Rapid evolution drives ecological
+   dynamics in a predator-prey system.  _Nature_ 424: 303-306.
+
+Further Reading:
+
+Rainey, Paul. 2003.  Evolution: Five big questions: 4. Is
+ evolution predictable?  _New Scientist_ 178(2399) (14 June): 37-38.
+
+Date: 2001-2-18, 2005-11-3

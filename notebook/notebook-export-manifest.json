@@ -1,0 +1,141 @@
+{
+  "schema": "evo-edu.notebook.export_manifest.v1",
+  "id": "evo-edu.notebook.export-manifest.foundations-first-ring",
+  "title": "Notebook Export Manifest",
+  "updated": "2026-05-25",
+  "bundle_id": "foundations-first-ring",
+  "intent": "Define the stable release/export boundary for a Notebook-mode bundle so deployment and downstream consumers can distinguish reviewed export artifacts from workspace state.",
+  "export_unit": "notebook_bundle",
+  "export_contracts": [
+    "/notebook/notebook-pack-mode-contract.json",
+    "/notebook/notebook-course-bundle-contract.json"
+  ],
+  "generation_inputs": {
+    "learning_path": "/notebook/learning-paths/foundations-first-ring.json",
+    "didactopus_learning_sequence": "/notebook/learning-paths/foundations-first-ring.didactopus.json",
+    "selection_policy": "/notebook/learning-paths/foundations-first-ring.selection-policy.json",
+    "reviewed_elements": "/notebook/reviewed-elements/index.json",
+    "staging_policy_private": "/notebook/docs/conceptual-extraction-workflow.md",
+    "public_artifact_policy": "/ops/scisiteforge_deployment_profile.evo-edu.json"
+  },
+  "required_artifacts": [
+    {
+      "kind": "landing_page",
+      "path": "/notebook/index.html"
+    },
+    {
+      "kind": "export_index",
+      "path": "/notebook/notebook-export-index.json"
+    },
+    {
+      "kind": "reviewed_elements_index",
+      "path": "/notebook/reviewed-elements/index.json"
+    },
+    {
+      "kind": "learning_path",
+      "path": "/notebook/learning-paths/foundations-first-ring.json"
+    },
+    {
+      "kind": "didactopus_learning_sequence",
+      "path": "/notebook/learning-paths/foundations-first-ring.didactopus.json"
+    },
+    {
+      "kind": "selection_policy",
+      "path": "/notebook/learning-paths/foundations-first-ring.selection-policy.json"
+    },
+    {
+      "kind": "bundle_contract",
+      "path": "/notebook/notebook-course-bundle-contract.json"
+    },
+    {
+      "kind": "mode_contract",
+      "path": "/notebook/notebook-pack-mode-contract.json"
+    }
+  ],
+  "current_concept_artifacts": [
+    {
+      "concept_id": "notebook.concepts.allele-frequency-change",
+      "html": "/notebook/concepts/allele-frequency-change.html",
+      "scaffold": "/notebook/concepts/allele-frequency-change.scaffold.json"
+    },
+    {
+      "concept_id": "notebook.concepts.hardy-weinberg-equilibrium",
+      "html": "/notebook/concepts/hardy-weinberg-equilibrium.html",
+      "scaffold": "/notebook/concepts/hardy-weinberg-equilibrium.scaffold.json"
+    },
+    {
+      "concept_id": "notebook.concepts.genetic-drift",
+      "html": "/notebook/concepts/genetic-drift.html",
+      "scaffold": "/notebook/concepts/genetic-drift.scaffold.json"
+    },
+    {
+      "concept_id": "notebook.concepts.natural-selection",
+      "html": "/notebook/concepts/natural-selection.html",
+      "scaffold": "/notebook/concepts/natural-selection.scaffold.json"
+    },
+    {
+      "concept_id": "notebook.concepts.mutation",
+      "html": "/notebook/concepts/mutation.html",
+      "scaffold": "/notebook/concepts/mutation.scaffold.json"
+    },
+    {
+      "concept_id": "notebook.concepts.adaptation",
+      "html": "/notebook/concepts/adaptation.html",
+      "scaffold": "/notebook/concepts/adaptation.scaffold.json"
+    },
+    {
+      "concept_id": "notebook.concepts.speciation",
+      "html": "/notebook/concepts/speciation.html",
+      "scaffold": "/notebook/concepts/speciation.scaffold.json"
+    },
+    {
+      "concept_id": "notebook.concepts.common-descent",
+      "html": "/notebook/concepts/common-descent.html",
+      "scaffold": "/notebook/concepts/common-descent.scaffold.json"
+    }
+  ],
+  "downstream_consumers": [
+    {
+      "system": "Didactopus",
+      "consumes": [
+        "learning paths",
+        "Didactopus learning sequences",
+        "selection policy",
+        "concept scaffolds"
+      ]
+    },
+    {
+      "system": "static site deployment",
+      "consumes": [
+        "landing page",
+        "concept HTML",
+        "history/overview pages",
+        "public contract artifacts"
+      ]
+    }
+  ],
+  "release_meaning": {
+    "workspace_state": "source files may exist but are not yet guaranteed as an export surface",
+    "export_state": "the listed artifacts are present together as the reviewed Notebook-mode bundle after SciSiteForge public-artifact filtering",
+    "staging_state": "specific claims, examples, questions, and source trails may be held for review under /notebook/staging before promotion; staging is private and excluded from public artifacts",
+    "reviewed_elements_state": "reviewed sidecars are generated only from staged items marked reviewed or promoted; public export sanitizes local source locators before release"
+  },
+  "public_release_safety": {
+    "profile": "/ops/scisiteforge_deployment_profile.evo-edu.json",
+    "notebook_policy": "deny-by-default allowlist for public Notebook routes",
+    "private_prefixes": [
+      "/notebook/staging/",
+      "/notebook/docs/",
+      "/notebook/tools/"
+    ],
+    "sanitized_prefixes": [
+      "/notebook/reviewed-elements/"
+    ],
+    "public_source_rule": "Publish reviewed summary, paraphrase, public citations, and short justified quotations only; do not publish raw OCR, local scan paths, local filesystem locators, source-text dumps, prompt traces, or unresolved review state."
+  },
+  "derived_counts": {
+    "learning_path_steps": 8,
+    "didactopus_sequence_steps": 8,
+    "concept_artifacts": 8
+  }
+}

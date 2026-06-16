@@ -1,0 +1,42 @@
+BriefClaim: Natural gas escapes too fast to allow for long ages.
+Title: Natural gas seepage and age
+Keywords: uniformitarianism, young earth
+
+Claim:
+
+Natural gas appears underground often under great pressures.  If the earth
+were old, the gas would have seeped out and the reservoirs would have
+emptied.
+
+Source:
+
+Pathlights, n.d.  The age of the earth - 2.
+ https://web.archive.org/web/20210426214031if_/http://www.pathlights.com/ce_encyclopedia/05agee3.htm
+
+Response:
+
+1. As with <CD231>oil>, the high pressures show that rocks trapping the
+   gas are impermeable enough to hold the reservoirs for many millions of
+   years.  If the assumptions (young earth and leaky rocks) behind the
+   claim were true, the pressures never would have built up in the first
+   place.
+
+   It is also important to remember that pressure does not mean much to
+   seepage rate without a pressure gradient.  If the pressure around a
+   reservoir of gas is as great as the pressure within it, the gas will
+   not be forced out.
+
+2. A geological event that could cause oil and gas to migrate into a
+   reservoir could have occurred relatively recently.  Even if the gas
+   reservoir is young, that does not mean the earth is young.
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea2.html#proof18
+
+References:
+
+Further Reading:
+
+Date: 2003-8-8

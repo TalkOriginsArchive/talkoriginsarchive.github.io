@@ -1,0 +1,67 @@
+BriefClaim: Sodium accumulates in oceans too fast for an old earth.
+Title: Amount of dissolved sodium in oceans
+Keywords: uniformitarianism, sodium
+
+Claim:
+
+Known processes to remove sodium from the oceans account for only 27
+percent of the sodium that is added.  Given the accumulation of sodium
+this implies, the oceans could not be more than 62 million years old.
+
+Source:
+
+Austin, S. A. and D. R. Humphreys, 1990.  The sea's missing salt: A
+ dilemma for evolutionists.  _Proceedings of the Second International
+ Conference on Creationism_, Pittsburgh, 2: 17-33.
+ https://web.archive.org/web/20221118040605if_/http://tccsa.tc/articles/ocean_sodium.html
+
+Response:
+
+1. Austin and Humphreys greatly underestimate the amount of sodium lost in
+   the alteration of basalt.  They omit sodium lost in the formation of
+   diatomaceous earth, and they omit numerous others mechanisms which are
+   minor individually but collectively account for a significant fraction
+   of salt.
+
+   A detailed analysis of sodium shows that 35.6 x 10^10 kg/yr come into
+   the ocean, and 38.1 x 10^10 kg/yr are removed (Morton 1996).  Within
+   measurement error, the amount of sodium added matches the amount
+   removed.
+
+#   Austin and Humphreys list the following outputs:
+#Sea spray 6.7 x 10^10 kg/yr
+#Cation Exchange 5.2 x 10^10 kg/yr
+#Burial of pore water 3.9 x 10^10 kg/yr
+#Halite deposition 4.0 x 10^10 kg/yr
+#Alteration of Basalt .4 x 10^10 kg/yr
+#Albite formation 0 kg/yr
+#Zeolite Formation .2 x 10^10 kg/yr 
+#Total 20.6 x 10^10 kg/yr
+#
+#   Morton revises this to:
+#Sea spray 6.7 x 10^10 kg/yr
+#Cation Exchange 5.2 x 10^10 kg/yr
+#Burial of pore water 3.9 x 10^10 kg/yr
+#Halite deposition 4.0 x 10^10 kg/yr
+#Alteration of Basalt 14 x 10^10 kg/yr
+#Albite formation 0 kg/yr
+#Zeolite Formation .2 x 10^10 kg/yr
+#Biogenic output .5 x 10^10 kg/yr
+#Collective Small outputs 3.6 x 10^10 kg/yr 
+#Total 38.1 x 10^10 kg/yr.
+
+Links:
+
+References:
+
+#1. Holland, H. D., 1978.  _The Chemistry of the Atmophere and the Oceans_.
+#   New York: John Wiley and Sons.
+1. Morton, Glenn R., 1996.  Salt in the sea.
+   http://www.asa3.org/archive/evolution/199606/0051.html
+
+Further Reading:
+
+Burton, J. D. and D. Wright, 1981. Sea water and its evolution.  In: _The
+   Evolving Earth_, ed. L. R. M. Cocks.  London: British Museum, 89-101.
+
+Date: 2004-12-20

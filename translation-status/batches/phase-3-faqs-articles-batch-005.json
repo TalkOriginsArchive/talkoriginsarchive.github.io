@@ -1,0 +1,920 @@
+{
+  "id": "phase-3-faqs-articles-batch-005",
+  "phase": "phase-3-faqs-articles",
+  "phase_label": "FAQs and Articles",
+  "sequence": 5,
+  "status": "complete",
+  "page_count": 50,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/faqs/dover/day19pm.html",
+      "source_path": "faqs/dover/day19pm.html",
+      "title": "Kitzmiller v. Dover: Day19, PM: Michael Baksa",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 61662
+    },
+    {
+      "route": "/faqs/dover/day19pm2.html",
+      "source_path": "faqs/dover/day19pm2.html",
+      "title": "Kitzmiller v. Dover: Day 19, PM: Michael Baksa (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 63493
+    },
+    {
+      "route": "/faqs/dover/day1am.html",
+      "source_path": "faqs/dover/day1am.html",
+      "title": "Kitzmiller v. Dover: Day 1, AM: Opening arguments, Kenneth R. Miller",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 79076
+    },
+    {
+      "route": "/faqs/dover/day1am2.html",
+      "source_path": "faqs/dover/day1am2.html",
+      "title": "Kitzmiller v. Dover: Day 1, AM: Kenneth R. Miller",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 86778
+    },
+    {
+      "route": "/faqs/dover/day1pm.html",
+      "source_path": "faqs/dover/day1pm.html",
+      "title": "Kitzmiller v. Dover: Day 1, PM: Kenneth R. Miller",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 68120
+    },
+    {
+      "route": "/faqs/dover/day1pm2.html",
+      "source_path": "faqs/dover/day1pm2.html",
+      "title": "Kitzmiller v. Dover: Day 1, PM: Kenneth R. Miller (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 66751
+    },
+    {
+      "route": "/faqs/dover/day20am.html",
+      "source_path": "faqs/dover/day20am.html",
+      "title": "Kitzmiller v. Dover: Day 20, AM: Michael Baksa",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 61922
+    },
+    {
+      "route": "/faqs/dover/day20am2.html",
+      "source_path": "faqs/dover/day20am2.html",
+      "title": "Kitzmiller v. Dove: Day 20, AM: Robert Linker",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 41273
+    },
+    {
+      "route": "/faqs/dover/day20pm.html",
+      "source_path": "faqs/dover/day20pm.html",
+      "title": "Kitzmiller v. Dover: Day 20, PM: Scott Minnich",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 63644
+    },
+    {
+      "route": "/faqs/dover/day20pm2.html",
+      "source_path": "faqs/dover/day20pm2.html",
+      "title": "Kitzmiller v. Dover: Day 20, PM: Scott Minnich (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 92680
+    },
+    {
+      "route": "/faqs/dover/day21am.html",
+      "source_path": "faqs/dover/day21am.html",
+      "title": "Kitzmiller v. Dover: Day 21, AM: Scott Minnich",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 62151
+    },
+    {
+      "route": "/faqs/dover/day21am2.html",
+      "source_path": "faqs/dover/day21am2.html",
+      "title": "Kitzmiller v. Dover: Day 21, AM: Scott Minnich (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 72943
+    },
+    {
+      "route": "/faqs/dover/day21pm.html",
+      "source_path": "faqs/dover/day21pm.html",
+      "title": "Kitzmiller v. Dover: Day 21, PM: Arguments on evidence admissability",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 28787
+    },
+    {
+      "route": "/faqs/dover/day21pm2.html",
+      "source_path": "faqs/dover/day21pm2.html",
+      "title": "Kitzmiller v. Dover: Day 21, PM: Closing arguments",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 80022
+    },
+    {
+      "route": "/faqs/dover/day2am.html",
+      "source_path": "faqs/dover/day2am.html",
+      "title": "Kitzmiller v. Dover: Day 2, AM: Kenneth Miller",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 69077
+    },
+    {
+      "route": "/faqs/dover/day2am2.html",
+      "source_path": "faqs/dover/day2am2.html",
+      "title": "Kitzmiller v. Dover: Day 2, AM: Kenneth Miller & Tammy Kitzmiller",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 80645
+    },
+    {
+      "route": "/faqs/dover/day2pm.html",
+      "source_path": "faqs/dover/day2pm.html",
+      "title": "Kitzmiller v. Dover: Day 2, PM: Aralene Callahan & Bryan Rehm",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 75000
+    },
+    {
+      "route": "/faqs/dover/day2pm2.html",
+      "source_path": "faqs/dover/day2pm2.html",
+      "title": "Kitzmiller v. Dover: Day 2, PM: Bryan Rehm",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 54625
+    },
+    {
+      "route": "/faqs/dover/day3am.html",
+      "source_path": "faqs/dover/day3am.html",
+      "title": "Kitzmiller v. Dover Area: Day 3, AM: Robert Pennock",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 61117
+    },
+    {
+      "route": "/faqs/dover/day3am2.html",
+      "source_path": "faqs/dover/day3am2.html",
+      "title": "Kitzmiller v. Dover: Day 3, AM: Robert Pennock (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 65275
+    },
+    {
+      "route": "/faqs/dover/day3pm.html",
+      "source_path": "faqs/dover/day3pm.html",
+      "title": "Kitzmiller v. Dover: Day 3, PM: Reporters' status, Julie  Smith & Christy Rehm",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 81005
+    },
+    {
+      "route": "/faqs/dover/day3pm2.html",
+      "source_path": "faqs/dover/day3pm2.html",
+      "title": "Kitzmiller v. Dove: Day 3, PM: Christy Rehm & Beth Eveland",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 41636
+    },
+    {
+      "route": "/faqs/dover/day4am.html",
+      "source_path": "faqs/dover/day4am.html",
+      "title": "Kitzmiller v. Dover: Day 4, AM: Carol Brown",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 62698
+    },
+    {
+      "route": "/faqs/dover/day4am2.html",
+      "source_path": "faqs/dover/day4am2.html",
+      "title": "Kitzmiller v. Dover: Day 4, AM: Casey Brown (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 25488
+    },
+    {
+      "route": "/faqs/dover/day4pm.html",
+      "source_path": "faqs/dover/day4pm.html",
+      "title": "Kitzmiller v. Dover: Day 4, PM: Carol Brown & Jeffrey Brown",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 70089
+    },
+    {
+      "route": "/faqs/dover/day4pm2.html",
+      "source_path": "faqs/dover/day4pm2.html",
+      "title": "Kitzmiller v. Dover: Day 4, PM: Jeffrey Brown & Frederick Callahan",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 68192
+    },
+    {
+      "route": "/faqs/dover/day5pm.html",
+      "source_path": "faqs/dover/day5pm.html",
+      "title": "Kitzmiller v. Dover Area: Day 5, PM: John F. Haught",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 73392
+    },
+    {
+      "route": "/faqs/dover/day5pm2.html",
+      "source_path": "faqs/dover/day5pm2.html",
+      "title": "Kitzmiller v. Dover: Day 5, PM: John F. Haught (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 31937
+    },
+    {
+      "route": "/faqs/dover/day6am.html",
+      "source_path": "faqs/dover/day6am.html",
+      "title": "Kitzmiller v. Dover: Day 6, AM: Barbara Forrest",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 62370
+    },
+    {
+      "route": "/faqs/dover/day6am2.html",
+      "source_path": "faqs/dover/day6am2.html",
+      "title": "Kitzmiller v. Dover: Day 6, AM: Barbara Forrest (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 80919
+    },
+    {
+      "route": "/faqs/dover/day6pm.html",
+      "source_path": "faqs/dover/day6pm.html",
+      "title": "Kitzmiller v. Dover: Day 6, PM: Barbara Forrest",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 61303
+    },
+    {
+      "route": "/faqs/dover/day6pm2.html",
+      "source_path": "faqs/dover/day6pm2.html",
+      "title": "Kitzmiller v. Dover: Day 6, PM: Barbara Forrest (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 63878
+    },
+    {
+      "route": "/faqs/dover/day7am.html",
+      "source_path": "faqs/dover/day7am.html",
+      "title": "Kitzmiller v. Dover: Day 7, PM: Barbara Forrest",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 61715
+    },
+    {
+      "route": "/faqs/dover/day7am2.html",
+      "source_path": "faqs/dover/day7am2.html",
+      "title": "Kitzmiller v. Dover: Day 7, AM: Barbara Forest and Jennifer Miller",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 85424
+    },
+    {
+      "route": "/faqs/dover/day7pm.html",
+      "source_path": "faqs/dover/day7pm.html",
+      "title": "Kitzmiller v. Dover: Day 7, PM: Jennifer Miller",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 63631
+    },
+    {
+      "route": "/faqs/dover/day7pm2.html",
+      "source_path": "faqs/dover/day7pm2.html",
+      "title": "Kitzmiller v. Dover: Day 7, PM: Bertha Spahr",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 37142
+    },
+    {
+      "route": "/faqs/dover/day8am.html",
+      "source_path": "faqs/dover/day8am.html",
+      "title": "Kitzmiller v. Dover: Day 8, AM: Bertha Spahr & Brian Alters",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 69967
+    },
+    {
+      "route": "/faqs/dover/day8am2.html",
+      "source_path": "faqs/dover/day8am2.html",
+      "title": "Kitzmiller v. Dove: Day 8, AM: Brian J. Alters",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 71144
+    },
+    {
+      "route": "/faqs/dover/day8pm.html",
+      "source_path": "faqs/dover/day8pm.html",
+      "title": "Kitzmiller v. Dover: Day 8, PM: Brian Alters",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 74057
+    },
+    {
+      "route": "/faqs/dover/day8pm2.html",
+      "source_path": "faqs/dover/day8pm2.html",
+      "title": "Kitzmiller v. Dover: Day 8, PM: Cynthia Sneath & Steven Stough",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 67642
+    },
+    {
+      "route": "/faqs/dover/day9am.html",
+      "source_path": "faqs/dover/day9am.html",
+      "title": "Kitzmiller v. Dover Area: Day 9, AM: Steven Stough & Kevin Padian",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 73780
+    },
+    {
+      "route": "/faqs/dover/day9am2.html",
+      "source_path": "faqs/dover/day9am2.html",
+      "title": "Kitzmiller v. Dover: Day 9, AM: Kevin Padian",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 91177
+    },
+    {
+      "route": "/faqs/dover/day9pm.html",
+      "source_path": "faqs/dover/day9pm.html",
+      "title": "Kitzmiller v. Dover: Day 9, PM: Kevin Padian",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 70035
+    },
+    {
+      "route": "/faqs/dover/day9pm2.html",
+      "source_path": "faqs/dover/day9pm2.html",
+      "title": "Kitzmiller v. Dover: Day 9, PM: Kevin Padian & Joel Leib",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 85450
+    },
+    {
+      "route": "/faqs/dover/jones.html",
+      "source_path": "faqs/dover/jones.html",
+      "title": "Kitzmiller v. Dover: Decision of the Court",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 78486
+    },
+    {
+      "route": "/faqs/dover/jones2.html",
+      "source_path": "faqs/dover/jones2.html",
+      "title": "Kitzmiller v. Dover: Decision of the Court, Part 2",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 63405
+    },
+    {
+      "route": "/faqs/dover/jones3.html",
+      "source_path": "faqs/dover/jones3.html",
+      "title": "Kitzmiller v. Dover: Decision of the Court, Part 3",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 74467
+    },
+    {
+      "route": "/faqs/dover/kitzmiller_v_dover.html",
+      "source_path": "faqs/dover/kitzmiller_v_dover.html",
+      "title": "Kitzmiller v. Dover Area School District Intelligent\nDesign case",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9129
+    },
+    {
+      "route": "/faqs/dover/kitzmiller_v_dover_decision.html",
+      "source_path": "faqs/dover/kitzmiller_v_dover_decision.html",
+      "title": "Kitzmiller v. Dover: Decision of the Court",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 81046
+    },
+    {
+      "route": "/faqs/dover/kitzmiller_v_dover_decision2.html",
+      "source_path": "faqs/dover/kitzmiller_v_dover_decision2.html",
+      "title": "Kitzmiller v. Dover: Decision of the Court, Part 2",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 64679
+    }
+  ],
+  "status_counts": {
+    "translated": 200
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

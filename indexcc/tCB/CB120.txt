@@ -1,0 +1,30 @@
+BriefClaim: Genetic load from mutations would make populations unviable.
+Title: Genetic load
+Keywords: genetic load, mutation
+
+Claim:
+
+The overall effect of mutations is to lower the viability of populations,
+due to the "genetic load," or genetic burden, that they add to the gene
+pool.
+
+Source:
+
+SciCre, 56-57.
+
+Response:
+
+1. As new harmful mutations enter the population, selection removes
+   existing harmful traits.  The genetic load of a stable population is an
+   equilibrium between the two.
+
+2. Bacteria mutate much faster than plants and animals do, yet their
+   populations are not becoming less viable.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-6-9

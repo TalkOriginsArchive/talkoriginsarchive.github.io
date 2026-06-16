@@ -1,0 +1,171 @@
+BriefClaim: In places, light moths increased before lichens reappeared.
+Title: Light peppered moth increase before lichens
+Keywords: peppered moth, Biston betularia, natural selection, visual predation
+
+Claim:
+
+In the Wirral Peninsula, East Anglia and Michigan, the proportions of
+light moths increased before any lichens had reappeared on the trees.
+This is a serious problem for the theory that industrial melanism is due
+to cryptic coloration and selective predation.
+
+Source:
+
+Wells, Jonathan, 1999.  Second thoughts about peppered moths.  
+ http://www.arn.org/docs/wells/jw_pepmoth.htm,
+ https://web.archive.org/web/20010805140533if_/http://www.trueorigin.org/pepmoth1.htm
+Wells, Jonathan, 2000. _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 146-148.
+
+Response:
+
+1. The conclusion of the claim is a _non sequitur_ for at least two
+   reasons.
+
+    a. The dark moths were better camouflaged in industrial areas not
+       merely because the surfaces of the trees were lichen-free but also
+       because they had been darkened by soot and smoke.  When pollution
+       control was introduced, the surfaces of the trees in heavily
+       polluted industrial areas soon became lighter (Bishop and Cook
+       1975, 92-93).  Even though the black moths would still have
+       enjoyed a selective advantage over the light ones in these areas,
+       it would nevertheless have been smaller than it had been earlier,
+       so the proportion of black moths would be expected to
+       decrease, because their now smaller advantage would no longer be
+       sufficient to counterbalance the effects of migration of the light
+       moths from neighboring areas where they were more common.
+
+       Thus, even if the disappearance of lichens *does* turn out to have
+       been an important factor in the original spread of the dark moths,
+       there seems to be no good reason why their their reappearance
+       should have preceded the recovery in the numbers of the light
+       moths.
+
+    b. After pollution controls were introduced, lichens would be expected
+       to first recolonize those areas straddling the borders between the
+       countryside where they had remained abundant and industrial centers
+       where they were absent.  The proportion of light moths would
+       therefore be expected to increase in these areas first, and then in
+       areas closer to the industrial centers a little later, as the
+       influence of migration began to take effect.
+
+   Thus, it is quite possible for the recovery of lichens in one area to
+   have been indirectly responsible for an increase in the proportion of
+   light moths in another area where lichens had remained absent.  Indeed,
+   there is observational evidence to indicate that this may well have
+   been a contributing factor to the increase in the proportion of the
+   light moths in the Wirral during the late 1960s and early 1970s (see
+   below).
+
+2. Claims that the proportion of light moths began to increase before
+   lichens recovered are based on anecdotal evidence which is either
+   largely irrelevant because it refers to only a single location (Clarke
+   et al. 1985, 191-193), or is so lacking in detail that its
+   significance is difficult to assess (Kettlewell 1973, 151; Clarke et
+   al. 1985, 193; Grant and Howlett 1988, 231; Grant et al. 1995, 1996,
+   355-356).  Moreover, for the Wirral and East Anglia, there appears
+   to be direct observational evidence that contradicts it.
+
+   The first indication of an increase in the proportion of light peppered
+   moths in Britain were obtained by Clarke and Sheppard (1966) at Caldy
+   on the Wirral peninsula.  The increase appears to have started between
+   1962 and 1963, some six or seven years after Britain had passed the
+   Clean Air Act of 1956.
+
+   Henderson-Sellers and Seaward (1979) recorded the recolonization of a
+   large urban area in West Yorkshire by the crustose lichen _Lecanora
+   muralis_ over the period 1969 to 1977.  They found that the
+   recolonization of a given location occurred about 5 years after the
+   atmospheric concentration of sulfur dioxide had fallen below 120 &mu;g
+   m<sup>-3</sup> there, and progressed at an average rate of about 23
+   km<sup>2</sup> per year over the period of the study.  At the start of
+   their study, the lichen was already well established over an area of
+   about 100 km<sup>2</sup>, indicating that the recolonization could well
+   have been occurring since the early 1960s.  While _L. muralis_ is a
+   species of little importance for the protection of the peppered moth
+   (because it inhabits surfaces of stone), closely related species of
+   pollution-resistant lichens, such as _L. conizaeoides_, which may well
+   be of such importance, are likely to have behaved similarly.  Indeed
+   there is some corroborating evidence for this.
+
+   The areas where various bryophytes and lichens appeared on trees in
+   southern Britain in the late 1960s are recorded on a map of Hawksworth
+   and Rose (1970).  This map shows that over the Wirral peninsula, and a
+   strip of land about 10km wide on the other side (i.e. the south-western
+   bank) of the river Dee delta, the lichen cover scored 0 to 2 on their
+   classification scale.  Roughly speaking, a higher score on the scale
+   corresponds to a greater abundance of the more pollution-sensitive
+   lichens.  The categories 0 to 2 correspond to the absence of any
+   lichens except for the grey-green _L. conizaeoides_ occurring at the
+   bases of trees in zones of classification 2.  However, measurements by
+   Bishop et al. (1975), showed that by 1975 the land south-west of the
+   Dee delta had been sufficiently recolonized by lichens to be
+   reclassified into category 3 in the south-east and 4 in the north-west.
+   Zones of category 3 are characterized by the trees having
+   _L. conizaeoides_ extending up their trunks, and another crustose
+   species, _Lepraria incana_, frequent at their bases.  Zones of category
+   4 are characterized by the occurrence of some of the more hardy foliose
+   species of lichen at the bases of trees.
+
+   While these observations were only made *after* the numbers of light
+   moths had started to increase on the Wirral peninsula, they
+   nevertheless seem to contradict the impression of Wynne (Clarke et al.
+   1985, 193) that "there has been little change in the lichen
+   situation in N Wales in the last 30 years".  Thus, there seems to be no
+   good reason for supposing that the changes in lichen cover recorded by
+   Bishop et al. (1975) had only started to occur some time after
+   Hawksworth and Rose had drawn up their map.
+
+   Kettlewell (1973, 124) stated that in 1954 he had examined large
+   areas of countryside over the eastern half of England, including parts
+   of East Anglia, without finding any lichened woods south of Yorkshire.
+   Yet Hawksworth and Rose's (1970) map shows that by 1970 most of East
+   Anglia scored 6 to 7 on their scale, and a substantial area on the
+   north-eastern coast scored 8.  Zones in these categories are
+   characterized by trees bearing a wide range of both foliose and
+   crustose lichens on their trunks.  This would appear to contradict
+   Howlett's observation that the recovery of the light moths in East
+   Anglia occurred "in the virtual absence of these lichens".  (Grant and
+   Howlett 1988, 231).
+
+   Until the apparent contradictions between these accounts can be
+   resolved by further investigations, categorical declarations that that
+   the proportion of light peppered moths started to increase before the
+   reappearance of any lichens would seem to be unwarranted.
+
+References:
+
+1. Bishop, J. A. and L. M. Cook, 1975.  Moths, melanism and clean
+   air.  _Scientific American_ 232: 90-99.
+2. Bishop, J. A., L. M. Cook, J. Muggleton and M. R. D. Seaward, 1975.
+   Moths Lichens and Air Pollution along a Transect from Manchester
+   to North Wales. _J. App. Ecol._ 12: 83-98.
+3. Clarke, C. A., G. S. Mani and G. Wynne, 1985.  Evolution in reverse:
+   clean air and the peppered moth.  _Biol. J. Linn. Soc._ 26: 189-199.
+4. Clarke, C. A. and P. M. Sheppard, 1966.  A local survey of the industrial
+   melanic forms in the moth _Biston betularia_ and estimates of the
+   selective values of these in an industrial environment. _Proc. R. Soc.
+   Lond._(B) 165: 424-439.
+5. Grant, Bruce and Rory J. Howlett, 1988. Background selection by the
+   peppered moth (_Biston betularia_ Linn.): Individual differences.
+   _Biol. J. Linn. Soc._ 33: 217-232.
+6. Grant, Bruce, Denis F. Owen and Cyril A. Clarke, 1995. Decline of
+   melanic moths. _Nature_ 373: 565.
+7. Grant, B.S., D.F. Owen and C. A. Clarke, 1996.  Parallel rise and fall
+   of melanic peppered moths in America and Britain.  _J. Hered._ 87:
+   351-357.
+8. Hawksworth, D. L. and F. Rose, 1970.  Qualitative scale for estimating
+   sulphur dioxide air pollution in England and Wales using epiphytic
+   lichens.  _Nature_ 227: 145-148.
+9. Henderson-Sellers, A. and M. R. D. Seaward, 1979.  Monitoring lichen
+   reinvasion of ameliorating environments.  _Environ. Pollut._ 19:
+   207-213.
+10. Kettlewell, Bernard, 1973.  _The Evolution of Melanism_.
+    Oxford University Press, London.
+
+Further Reading:
+
+Grant, Bruce S., 1999.  Fine tuning the peppered moth paradigm.
+ _Evolution_ 53(3): 980-984.  https://web.archive.org/web/20011109061143if_/http://www.wm.edu/biology/melanism.pdf
+
+Date: 2003-11-30

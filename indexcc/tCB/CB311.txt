@@ -1,0 +1,41 @@
+BriefClaim: Butterfly metamorphosis is too complex to have evolved.
+Title: Butterfly metamorphosis
+Keywords: insect, metamorphosis, butterfly, larva, pupa, incredulity.
+
+Claim:
+
+Butterfly metamorphosis is too complex to have evolved.
+
+Source:
+
+Poirier, Jules and Kenneth B. Cumming, 1993.  Design features of
+ the monarch butterfly life cycle.  _Impact_ 237 (Mar.);
+ http://www.icr.org/index.php?module=articles&action=view&ID=366
+
+Response:
+
+1. This is an <CA100>argument from incredulity>.  Because one does
+   not understand how butterfly metamorphosis evolved does not mean it is
+   too complex to have evolved.
+
+   Growth patterns intermediate to full metamorphosis already exist,
+   ranging from growth with no metamorphosis (such as with silverfish) to
+   partial metamorphosis (as with true bugs and mayflies) complete
+   metamorphosis with relatively little change in form (as with rove
+   beetles), and the metamorphosis seen in butterflies.  It is surely
+   possible that similar intermediate stages could have developed over
+   time to produce butterfly metamorphosis from an ancestor without
+   metamorphosis.  In fact, an explanation exists for the evolution of
+   metamorphosis based largely on changes in the endocrinology of
+   development (Truman and Riddiford 1999).
+
+Links:
+
+References:
+
+1. Truman, J. W. and L. M. Riddiford, 1999. The origins of insect
+   metamorphosis.  _Nature_ 401: 447-452.
+
+Further Reading:
+
+Date: 2001-2-17

@@ -1,0 +1,76 @@
+BriefClaim: All kinds could fit.
+Title: Fitting animals aboard the Ark
+Keywords: Noah's Ark
+
+Claim:
+
+Noah's ark could have carried pairs of all kinds of animals for a year.
+
+Source:
+
+Woodmorappe, John, 1996.  _Noah's Ark: A Feasibility Study_, Santee,
+ CA: ICR.
+
+Response:
+
+1. Woodmorappe (1996, 1-44) has done a detailed analysis of the
+   possibility of fitting all animals aboard the Ark.  He found that the
+   animals, together with the food and water they require, would fit in
+   about 90 percent of the available space.  However, he made several
+   invalid assumptions that, when corrected, fill the ark past overflowing
+   (Isaak 1998).
+
+    - The "kinds" used in Woodmorappe's calculations were genera.  Taking
+      individual species, which is a much more reasonable definition of
+      kind in the context of the ark, increases the load three- or
+      fourfold.
+
+    - Woodmorappe did not account for the extra clean animals,
+      considering their number negligible.  However, he believed that the
+      only clean animals would be thirteen domestic ruminants
+      traditionally considered clean.  But if the Bible is taken
+      literally, all ruminants would be considered clean.  Under
+      Woodmorappe's assumption, the extra clean animals would increase the
+      load by 1.5 percent, or 3 percent if you include seven pairs of the
+      animals.  Taking all ruminants increases the load by 14 or 28
+      percent.
+
+    - Woodmorappe included only <CH512.1>juveniles> of animals larger than
+      about 10 kg.  This assumption, however, is unbiblical and, for some
+      animals, impractical.  Taking adult animals would increase the
+      total mass more than thirteenfold.  Taking even some of these
+      animals as adults or taking older juveniles could easily fill the
+      ark beyond capacity.
+
+    - According to the creation model, dinosaurs and other animals now
+      extinct would have been alive at the time of the flood and
+      therefore would be aboard the ark.  The only extinct animals that
+      Woodmorappe included in his calculations were the ones that were
+      known at the time.  Since then, many other dinosaur genera have
+      been discovered, and no doubt there are many more as yet
+      undiscovered.
+
+    - Woodmorappe <CH511>excluded land invertebrates> from his
+      calculations, despite the fact that they must have been aboard the
+      ark.  These animals are small enough that they alone would not
+      have increased the load significantly, but they are numerous enough
+      and have many special requirements, so the infrastructure needed to
+      house and care for them would have been significant.
+
+    - Woodmorappe made no allowance for food spoilage or water wasted
+      from spilling, although the conditions he described aboard the ark
+      guarantee that both of these problems would have been severe.
+
+Links:
+
+Isaak, Mark, 1998.  Problems with a global flood, 2nd edition.
+ http://www.talkorigins.org/faqs/faq-noahs-ark.html
+
+References:
+
+1. Isaak, Mark, 1998.  (see above)
+2. Woodmorappe, John, 1996. (see above)
+
+Further Reading:
+
+Date: 2003-5-14

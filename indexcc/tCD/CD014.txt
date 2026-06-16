@@ -1,0 +1,64 @@
+BriefClaim: Isochron dating gives unreliable results.
+Title: Isochron reliability
+Keywords: isochron, radiometric dating, isotope, young earth
+
+Claim:
+
+Isochron dating is unreliable.  The method assumes that the samples are
+cogenetic, that is, that they form at the same time from a reasonably
+homogeneous common pool.  This assumption is invalid.  In particular,
+mixing two sources with different isotopic compositions gives meaningless
+but apparently valid isochron plots.
+
+Source:
+
+Overn, William, n.d.  Isochron rock dating is fatally flawed.
+ https://web.archive.org/web/20220105141521if_/http://www.tccsa.tc/articles/isochrons2.html
+
+Response:
+
+1. Mixing can usually be detected by plotting the total daughter
+   isotopes against the ratio of daughter isotopes.  These would not
+   likely fall on a straight line if mixing occurred.
+
+2. Isochron plots from mixing can have any slope, even negative slopes.
+   If mixing were common, we would expect a high percentage of isochron
+   results to show negative slopes.  They do not.
+
+3. Other factors can produce false isochrons (Stassen 1998; Zheng 1989).
+   For example:
+    - Protracted fractionation.  This requires slow cooling (over millions
+      of years) and produces only a small error.
+    - Inherited ages as from partial melting.  The age given by this
+      method is the age of the source material.  Furthermore, this factor
+      requires unusual conditions and usually produces scatter in the
+      isochron plot.
+    - Metamorphosism.  This produces apparent ages younger than the age
+      of the source material.
+  
+
+4. False isochrons can usually be avoided by choosing appropriate samples.
+   The samples must come from an (apparently) initially homogeneous source
+   and avoiding obvious signs of weathering and metamorphism.
+
+Links:
+
+Stassen, Chris, 1998.  Isochron dating.
+ http://www.talkorigins.org/faqs/isochron-dating.html
+
+References:
+
+1. Stassen, C., 1998.  (see above)
+2. Zheng, Y.-F., 1989. Influences of the nature of the initial Rb-Sr
+   system on isochron validity. In _Chemical Geology (Isotope Geoscience
+   Section)_ 80, pp. 1-16.
+
+Further Reading:
+
+Dalrymple, G. Brent, 1991.  _The Age of the Earth_.  Stanford, CA:
+ Stanford University Press
+
+Faure, Gunter, 1986.  _Principles of Isotope Geology_, 2nd ed.  New
+ York: John Wiley and Sons.
+
+Date: 2003-8-4

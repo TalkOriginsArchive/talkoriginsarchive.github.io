@@ -1,0 +1,145 @@
+BriefClaim: Archaeopteryx is a fake.
+Title: Archaeopteryx is a fake.
+Keywords: Archaeopteryx, forgery, transitional fossil, Solnhofen, feathers.
+
+Claim:
+
+The feather imprints of the London _Archaeopteryx_ specimen were forged.
+Evidence for this is that
+  - The feather impressions appear only on the slab, not on the
+    counterslab.
+  - The surface texture is different between the feathered and unfeathered
+    areas.
+  - Slightly elevated "blobs" appear which are not always matched by
+    depressions on the counterslab.
+  - The feathers show "double strike" impressions.
+  - Hairline cracks which pass through both bones and feathers could have
+    formed by slight movements to the slab after the cement was in place.
+  - Under magnification, the limestone appears different in fossil and
+    non-fossil areas of the specimen.
+  - Unknown material appears within the matrix in the fossil area.
+  - An x-ray chemical analysis showed chemical differences, including
+    silicon, sulfur, and chlorine in the fossil area that were not present
+    in the non-fossil area.
+
+These points indicate that the feather impressions were made by someone
+impressing feathers in a cement-like matrix that was added to the stone.
+Without the feathers, _Archaeopteryx_ would be identified as the dinosaur
+_Compsognathus_, not as a transitional fossil.
+
+
+Source:
+
+Watkins, R. S., F. Hoyle, N. C. Wickramasinghe, J. Watkins, R. Rabilizirov,
+ and L. M. Spetner, 1985a.  _Archaeopteryx_ -- a photographic study. 
+ _British Journal of Photography_ 132: 264-266.
+Watkins, R. S. et al., 1985b.  _Archaeopteryx_ -- a further comment. 
+ _British Journal of Photography_ 132: 358-359,367.
+Watkins, R. S. et al., 1985c.  _Archaeopteryx_ -- further evidence.
+ _British Journal of Photography_ 132: 468-470.
+Hoyle, Fred, N. C. Wickramasinghe and R. S. Watkins, 1985. 
+ _Archaeopteryx_: Problems arise -- and a motive.  _British Journal of
+ Photography_ 132(6516): 693-695,703.
+Hoyle, Fred and C. Wickramasinghe, 1986.  _Archaeopteryx, The
+ Primordial Bird_, Christopher Davis, London.
+Spetner, L. M., F. Hoyle, N. C. Wickramasinghe and M. Magaritz, 1988. 
+ _Archaeopteryx_ -- more evidence for a forgery.  _British Journal of
+ Photography_ 135: 14-17.
+
+Response:
+
+1. There are nine other _Archaeopteryx_ fossils discovered at different
+   times and places under well documented conditions.  At least six of
+   these also have unequivocal feathers (Charig 1986; Wellnhofer 1993;
+   Mayr et al. 2005).  On the Maxburg specimen, the feathers continue
+   under the bones and are overlain with dendrites that sometimes form
+   within bedding planes, precluding the possibility of forgery (Charig
+   1986).  In addition, several other <CC214>feathered dinosaurs> have
+   been discovered.
+
+2. Tiny fractures, infilled with calcite, extend through both feathers and
+   bones, showing that they have the same source.  They also match
+   perfectly from slab to counterslab, proving that the two fit together
+   (Charig 1986).  These fractures are invisible to normal vision; a
+   nineteenth-century forger would not even know they existed, much less
+   be able to replicate them.
+
+3. The "double struck effect" on the counterslab is due to the
+   fossilization method.  Feather-degrading bacteria grew under the
+   feathers, causing the sediments beneath to lithify, and so preserving a
+   hardened feather impression.  When the feathers decayed away, the
+   sediments above pressed down to create a cast of the surface below
+   (Davis and Briggs 1995).  Evidence of this process, including lithified
+   bacteria, is visible under high magnification and could not plausibly
+   be forged.
+
+   Other lack of detailed impressions results from the _Archaeopteryx_
+   body resting on a flat surface without sinking into it much.  The bulk
+   of the fossil projected above the sea floor into the sediments that
+   settled around and over it.  When the shale split along the original
+   seafloor surface, the upper part contained the bulk of the fossil,
+   while the lower part showed only the impression which the body made on
+   the sea floor.  This pattern is typical of Solnhofen fossils.
+   (Swinburne 1988)
+
+4. The difference in surface texture in the area of the fossils is due to
+   the impression of the animal body (Charig 1986).
+
+5. The elevated "blobs" are natural irregularities.  There are none which
+   don't have corresponding depressions on the counterslab.  The two
+   halves fit together well except where one surface has been destroyed by
+   subsequent preparation. (Charig 1986)
+
+6. The double-strike impressions are not imprints; they are underlying
+   feathers.  A double-strike impression would be harder to forge than a
+   single impression.
+
+7. The hairline cracks are infilled with calcite both in the original slab
+   and in the area Spetner claims was cement.  Plus, the cracks match
+   between the slab and counterslab (Charig et al. 1986).  None of this
+   would be possible if the cracks formed after a cement layer were
+   applied.
+
+8. Differences in appearance are due to different resolutions used in the
+   SEM photography (Nedin 1997).
+
+9. The unknown materials are clearly not within the limestone matrix
+   (Spetner et al. 1988, Figs. 4b-f).  The carbonate grains on top of them
+   are simply dust.
+
+10. The chemical differences between the fossil and non-fossil areas are
+    likely due to residues of preservatives applied to the fossil
+    areas. (Nedin 1997)
+
+
+Links:
+
+Nedin, Chris, 1997.  On Archaeopteryx, astronomers, and forgery. 
+ http://www.talkorigins.org/faqs/archaeopteryx/forgery.html
+
+References:
+
+1. Charig, Alan J. et al. 1986.  _Archaeopteryx_ is not a forgery.
+   _Science_ 232: 622-626.
+2. Davis, Paul G. and Derek E. G. Briggs. 1995.  Fossilization of
+   feathers.  _Geology_ 23(9): 783-786.
+3. Mayr, Gerald, Burkhard Pohl, and D. Stefan Peters. 2005.  A
+   well-preserved _Archaeopteryx_ specimen with theropod features.
+   _Science_ 310: 1483-1486.
+2. Nedin, Chris. 1997.  (see above)
+3. Spetner, L. M., F. Hoyle, N. C. Wickramasinghe and M. Magaritz. 1988. 
+   _Archaeopteryx_ - more evidence for a forgery.  _British Journal of
+   Photography_ 135: 14-17.
+4. Swinburne, N. H. M. 1988.  The Solnhofen Limestone and the
+   preservation of _Archaeopteryx_.  _Trends in Ecology and Evolution_
+   3(10): 274-277.
+5. Wellnhofer, P. 1993.  The seventh specimen of Archaeopteryx from the
+   Solnhofen Limestone. _Archaeopteryx_ 11: 1-47.
+
+Further Reading:
+
+Majka, Christopher, 1992.  Archaeopteryx - is this bird a fraud?  _New
+ Brunswick Naturalist_
+ http://www.chebucto.ns.ca/Environment/NHR/archaeopteryx.html
+
+Date: 2001-2-18, 2007-4-17

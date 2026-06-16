@@ -1,0 +1,62 @@
+BriefClaim: Human population growth indicates a young earth.
+Title: Population growth
+Keywords: population growth, uniformitarianism.
+
+Claim:
+
+A reasonable assumption of population growth rate (0.5 percent) fits with
+a population that began with two people about 4000 years ago, not with a
+human history of millions of years.
+
+Source:
+
+SciCre, pp. 167-169.
+
+Response:
+
+1. This claim assumes that the population growth rate was always constant,
+   which is a false assumption.  Wars and plagues would have caused
+   populations to drop from time to time.  In particular, population sizes
+   before agriculture would have been severely limited and would have had
+   an average population growth of zero for any number of years.
+
+2. There is no particular reason to choose a population growth rate of
+   0.5 percent for the calculation.  The population growth from 1000 to
+   1800 has been closer to 0.1227 percent per year (Encyclopaedia
+   Britannica 1984).  At that rate, the population would have
+   grown to its present size from the eight Flood survivors in 16,660
+   years.
+
+3. The population growth rate proposed by the claim would imply
+   unreasonable populations early in history.  We will be more generous in
+   our calculations and start with eight people in 2350 B.C.E. (a
+   traditional date for the Flood).  Then, assuming a growth rate of 0.5
+   percent per year, the population after _N_ years is given by
+
+   P(N) = 8 &times; (1.005)<sup>N</sup>
+
+   The Pyramids of Giza were constructed before 2490 B.C.E., even before
+   the proposed Flood date.  Even if we assume they were built 100 years
+   after the flood, then the world population for their construction
+   was 13 people.  In 1446 B.C.E., when Moses was said to be leading 600,000
+   men (plus women and children) on the Exodus, this model of population
+   growth gives 726 people in the world.  In 481 B.C.E., Xerxes gathered
+   an army of 2,641,000 (according to Herodotus) when the world
+   population, according to the model, was 89,425.  Even allowing for
+   exaggerated numbers, the population model makes no sense.
+
+Links:
+
+Elsberry, Wesley R., 1998.  Population size and time of creation or Flood.
+ http://www.rtis.com/nat/user/elsberry/evobio/evc/argresp/populate.html
+
+References:
+
+1. _Encyclopaedia Britannica_, 1984, Population. _Encyclopaedia
+   Britannica_ vol. 14: 816.
+#2. Martin, Glen, 1999, And baby makes 6 billion.  _San Francisco
+#   Chronicle_, 11 Oct. 1999, pg. A1.
+
+Further Reading:
+
+Date: 2003-4-10, 2006-3-31

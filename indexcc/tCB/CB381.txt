@@ -1,0 +1,44 @@
+BriefClaim: Men have fewer ribs than women.
+Title: Adam's rib count.
+Keywords: rib, Adam, Eve, creation, baculum
+
+Claim:
+
+As related in Genesis 2, Eve was created from one of Adam's ribs.  As a
+consequence, men have one fewer set of ribs than women do.
+
+Source:
+
+reported by Root-Bernstein, 1995. (see below)
+
+Response:
+
+1. Men and women have the same number of ribs.
+
+2. The Genesis account may be an explanatory myth for the absence of a
+   different bone.  Most male mammals have a baculum, a bone for
+   stiffening the penis.  Humans are one of the rare exceptions, relying
+   on hydraulics instead.  Genesis 2:21-23 could refer to its removal from
+   Adam.  A baculum, unlike a rib, is associated with reproduction.  The
+   closing of flesh mentioned in Genesis 2:21 could refer to the raphe, a
+   seam on the penis and scrotum.  Biblical Hebrew has no word for penis,
+   so another term would have to be used.  The Hebrew word for "rib" has
+   other meanings such as the supporting columns in trees, or planks in
+   doors; it could have referred to a structural support generally
+   (Gilbert and Zevit 2001).
+
+Links:
+
+References:
+
+1. Gilbert, Scott F. and Ziony Zevit. 2001.  Congenital human baculum
+   deficiency: The generative bone of Genesis 2:21-23.  _American Journal
+   of Medical Genetics_ 101(3): 284-285.
+
+Further Reading:
+
+Root-Bernstein, R. S. 1995.  Darwin's rib.  _Discover_ 16(9)
+ (Sept.): 38-41.
+ http://www.msu.edu/~rootbern/evolution/darwinsrib.html
+
+Date: 2004-6-26

@@ -1,0 +1,25 @@
+Title: Ontogenetic depth
+Keywords: ontogenetic depth, development, natural selection
+
+Claim:
+
+"Ontogenetic depth" is "a measure of the distance (in terms of cell
+division and differentiation) between a single-celled state and an adult
+animal (metazoan) capable of reproduction." (Nelson n.d.)
+(Somehow, this is incompatible with natural selection.)
+
+References:
+
+1. Nelson, Paul, n.d.  ISCID Encyclopedia: Ontogenetic depth.
+   https://web.archive.org/web/20220509181305if_/http://www.iscid.org/encyclopedia/Ontogenetic_Depth
+
+Further Reading:
+
+
+Shalizi, Cosma, March 28, 2004
+ Creationism and Stupid Complexity Measures Make a bte noire with Two Backs
+ http://cscs.umich.edu/~crshalizi/weblog/archives/2004_03.html
+
+Meyrs, P. Z., 26 March 2004.
+ http://pharyngula.org/comments/524_0_1_0_C/
+

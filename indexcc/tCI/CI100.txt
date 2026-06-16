@@ -1,0 +1,147 @@
+BriefClaim: Design is detectable.
+Title: Intelligent Design
+Keywords: design, designer, jury-rigged, intelligent, watchmaker, complexity.
+
+Claim:
+
+Life looks intelligently designed because of its complexity and
+arrangement.  As a watch implies a watchmaker, so life requires a
+designer.
+
+Source:
+
+Cicero, Marcus Tullius. 1896 (45 B.C.).  _De Natura Deorum (On the Nature
+ of the Gods)_, transl. Francis Brooks.  London: Methuen; Book 2,
+ chap. 34.
+ https://web.archive.org/web/20090106030504if_/http://oll.libertyfund.org/Texts/Cicero0070/NatureOfGods/HTMLs/0040_Pt03_Book2.html#hd_lf040.label.159
+Paley, William, 1802.  _Natural Theology: or, Evidences of the Existence
+ and Attributes of the Deity_.  London: J. Faulder.
+Davis, Percival and Dean H. Kenyon, 1989.  _Of Pandas and People: The
+ Central Question of Biological Origins_ (2nd ed.).  Dallas, TX: Haughton.
+
+Response:
+
+1. According to the definition of design, we must determine something
+   about the design process in order to infer design.  We do this by
+   observing the design in process or by comparing with the results of
+   known designs.  The only example of known intelligent design we have is
+   human design.  Life does not look man-made.
+
+2. Nobody argues that life is not complicated.  However, complexity is not
+   the same as design.  There are simple things that are designed and
+   complex things that originate naturally.  Complexity does not imply
+   design; in fact, simplicity is a design goal in most designs.
+
+3. In most cases, the inference of design is made because people cannot
+   envision an alternative.  This is simply the <CA100>argument from
+   incredulity>.  Historically, supernatural design has been attributed to
+   lots of things that we now know form naturally, such as lightning,
+   rainbows, and seasons.
+
+4. Life as a whole looks very undesigned by human standards, for several
+   reasons:
+
+   - In known design, innovations that occur in one product quickly get
+     incorporated into other, often very different, products.  In
+     eukaryotic life, innovations generally stay confined in one lineage.
+     When the same sort of innovation occurs in different lineages (such
+     as webs of spiders, caterpillars, and web spinners), the details of
+     their implementation differ in the different lineages.  When one
+     traces lineages, one sees a great difference between life and
+     design.  (Eldredge has done this, comparing trilobites and cornets;
+     Walker 2003.)
+
+   - In design, form typically follows function.  Some creationists expect
+     this (Morris 1974).  Yet life shows many examples of different forms
+     with the same function (e.g., different structures making up the
+     wings of birds, bats, insects, and pterodactyls; different organs for
+     making webs in spiders, caterpillars, and web spinners; and at least
+     eleven different types of insect ears), the same basic form with
+     different functions (e.g., the same pattern of bones in a human hand,
+     whale flipper, dog paw, and bat wing) and some structures and even
+     entire organisms without apparent function (e.g., some vestigial
+     organs, creatures living isolated in inaccessible caves and deep
+     underground).
+
+   - As noted above, life is complex.  Design aims for simplicity.
+
+   - For almost all designed objects, the manufacture of the object is
+     separate from any function of the object itself.  All living objects
+     reproduce themselves.
+
+   - Life lacks plan.  There are no specifications of living structures
+     and processes.  Genes do not fully describe the phenotype of an
+     organism.  Sometimes in the absence of genes, structure results
+     anyway.  Organisms, unlike designed systems, are self-constructing in
+     an environmental context.
+
+   - Life is wasteful.  Most organisms do not reproduce, and most
+     fertilized zygotes die before growing much.  A designed process would
+     be expected to minimize this waste.
+
+   - Life includes many examples of systems that are jury-rigged out of
+     parts that were used for another purpose.  These are what we would
+     expect from evolution, not from an intelligent designer.  For
+     example:
+      - Vertebrate eyes have a blind spot because the retinal nerves are in
+        front of the photoreceptors.
+      - On orchids that provide a platform for pollinating insects to land
+        on, the stem of the flower has a half twist to move the platform to
+        the lower side of the flower.
+
+   - Life is highly variable.  In almost every species, there is a spread
+     of values for anything you care to measure.  The "information" that
+     specifies life is of very low tolerance in engineering terms.  There
+     are few standards.
+
+5. Life is nasty.  If life is designed, then death, <CH321>disease>, and
+   decay also must be designed since they are integral parts of life.
+   This is a standard problem of apologetics.  Of course, many designed
+   things are also nasty (think of certain weapons), but if the designer
+   is supposed to have moral standards, then it is added support against
+   the design hypothesis.
+
+6. The process of evolution can be considered a design process, and the
+   complexity and arrangement we see in life are much closer to what we
+   would expect from evolution than from known examples of intelligent
+   design.  Indeed, engineers now use essentially the same processes as
+   evolution to find solutions to problems that would be intractably
+   complex otherwise.
+
+7. Does evolution itself look designed?  When you consider that some sort
+   of adaptive mechanism would be necessary on the changing earth if life
+   were to survive, then if life were designed, evolution or something
+   like it would have to be designed into it.
+
+8. Claiming to be able to recognize design in life implies that nonlife
+   is different, that is, not designed.  To claim that life is
+   recognizably designed is to claim that an intelligent designer did not
+   create the rest of the universe.
+
+9. As it stands, the design claim makes no predictions, so it is
+   unscientific and useless.  It has generated no research at all.
+
+
+Links:
+
+References:
+
+1. SciCre, pg. 70.
+2. Walker, Gabrielle, 2003.  The collector.  _New Scientist_
+   179(2405) (26 July): 38-41. 
+
+Further Reading:
+
+Aulie, Richard P., 1998.  A reader's guide to _Of Pandas and People_
+ https://web.archive.org/web/20231208232047if_/http://www.nabt.org/sub/evolution/panda1.asp
+
+Isaak, Mark, 2003.  What design looks like.  RNCSE 23(5-6): 25-26,31-35.
+
+Miller, Kenneth R., n.d.  Of pandas and people: A brief critique.
+ http://www.kcfs.org/pandas.html
+
+Pennock, Robert T., 1999.  _Tower of Babel_.  Cambridge, MA: MIT Press.
+
+Perakh, Mark, 2003.  _Unintelligent Design_.  Amherst, NY: Prometheus.
+
+Date: 2003-5-13, 2004-4-3

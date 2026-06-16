@@ -1,0 +1,53 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+
+THE TALKORIGINS FOUNDATION, INC.
+A Texas Nonprofit Corporation
+
+
+TREASURER'S REPORT
+August 13, 2005
+
+
+This Treasurer's report concerns the Foundation's fiscal status after
+the second quarter of 2005.  This report actually covers the period
+from March 21, 2005, since that date marks the beginning of the
+Foundation's fiscal history.
+
+The Foundation has created two financial accounts.  The first is a
+checking account with Hibernia National Bank; the second is a money
+market account with Paypal.  This allows the Foundation both to
+deposit and write checks and to receive online credit card payments.
+
+The Foundation received a gratifying response to its call for
+donations that went out in April 2005.  During the second quarter
+reporting period, the Foundation received $2,931.78 in donations. 
+The Foundation also received $4.62 in interest income over that
+period.
+
+There were two expenses during the second quarter.  The first was
+$59.05 in bank charges, primarily Paypal fees for processing online
+donations.  The second was $23.46 in supplies, namely the checkbook
+and register for the Hibernia account.
+
+Beginning balance for the quarter was $0.00.  The ending balance was
+$2,853.89, on $2,936.40 in income and $82.51 of expenses.
+
+There is one known outstanding bill, not reflected in the Q2
+financials, for $287.40 for 12 months of hosting for the Archive. 
+Other expected expenses for the next quarter include paying for
+increased bandwidth for the Archive and related sites.
+
+
+    /s/ Kenneth J. Fair
+          Treasurer, TalkOrigins Foundation
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP 8.0.2 - not licensed for commercial use: www.pgp.com
+
+iQA/AwUBQv56Yjz5KF0EZhfWEQKgFwCfaWA/CI/XAAc9zEhxuklkQ12gZ2AAn1b+
+AnmgLXLIJQjXuLbfSJHr1JXu
+=9FrB
+-----END PGP SIGNATURE-----

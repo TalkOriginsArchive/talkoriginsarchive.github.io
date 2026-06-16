@@ -1,0 +1,60 @@
+BriefClaim: Complexity does not come from simplicity.
+Title: Complexity from simplicity
+Keywords: complexity
+
+Claim:
+
+Complexity does not arise from simplicity.
+
+Source:
+
+Response:
+
+1. Complexity arises from simplicity all the time.  The Mandelbrot set is
+   an example (Dewey 1996).  Real-life examples include the following: A
+   pan of water with heat applied uniformly to its bottom will develop
+   convection currents that are more complex than the still water; complex
+   hurricanes arise from similar principles; complex planetary ring
+   systems arise from simple laws of gravitation; complex ant nests arise
+   from simple behaviors; and complex organisms arise from simpler seeds
+   and embryos.
+
+2. Complexity should be expected from evolution.  In computer
+   simulations, complex organisms were more robust than simple ones
+   (Lenski et al. 1999), and natural selection forced complexity to
+   increase (Adami et al. 2000).  Theoretically, complexity is expected
+   because complexity-generating processes dissipate the entropy from
+   solar energy influxes, in accordance with the second law of
+   thermodynamics (Wicken 1979).  Ilya Prigogine won the Nobel Prize "for
+   his contributions to non-equilibrium thermodynamics, particularly the
+   theory of dissipative structures" (Nobel Foundation 1977).  According
+   to Prigogine, "it is shown that non-equilibrium may become a source of
+   order and that irreversible processes may lead to a new type of dynamic
+   states of matter called 'dissipative structures' " (Prigogine 1977,
+   22).
+
+
+Links:
+
+References:
+
+1. Adami, C., C. Ofria and T. C. Collier, 2000.  Evolution of biological
+   complexity. PNAS 97(9):
+   4463-4468. https://web.archive.org/web/20080515131819if_/http://www.pnas.org/cgi/content/full/97/9/4463
+2. Dewey, David, 1996.  Introduction to the Mandelbrot set.
+   http://www.ddewey.net/mandelbrot/
+3. Lenski, R. E., C. Ofria, T. C. Collier and C. Adami, 1999.  Genome
+   complexity, robustness and genetic interactions in digital organisms.
+   _Nature_ 400: 661-664.
+4. Nobel Foundation 1977.  The Nobel Prize in chemistry 1977.
+   https://web.archive.org/web/20081204160743if_/http://nobelprize.org/chemistry/laureates/1977
+4. Prigogine, Ilya, 1977.  Time, structure, and fluctuations,
+   http://www.nobel.se/chemistry/laureates/1977/prigogine-lecture.pdf
+5. Wicken, Jeffrey S., 1979.  The generation of complexity in evolution: A
+   thermodynamic and information-theoretical discussion.  _Journal of
+   Theoretical Biology_ 77: 349-365.
+
+Further Reading:
+
+
+Date: 2003-5-7, 2005-3-29

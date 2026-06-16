@@ -1,0 +1,64 @@
+BriefClaim: Oceans do not have enough dissolved minerals for an old earth.
+Title: Amount of dissolved minerals in oceans
+Keywords: uniformitarianism
+
+Claim:
+
+An upper limit for the age of the oceans is obtained by dividing the
+amount of an element dissolved in the sea by the amount added each year by
+rivers.  These calculations yield the following figures:
+<table align="center">
+<tr><td>Element</td>	<td>Years to Accumulate</td></tr>
+<tr><td>sodium</td>	<td>260,000,000</td></tr>
+<tr><td>magnesium</td>	<td>45,000,000</td></tr>
+<tr><td>silicon</td>	<td>8,000</td></tr>
+<tr><td>potassium</td>	<td>11,000,000</td></tr>
+<tr><td>copper</td>	<td>50,000</td></tr>
+<tr><td>gold</td>	<td>560,000</td></tr>
+<tr><td>silver</td>	<td>2,100,000</td></tr>
+<tr><td>mercury</td>	<td>42,000</td></tr>
+<tr><td>lead</td>	<td>2,000</td></tr>
+<tr><td>tin</td>	<td>100,000</td></tr>
+<tr><td>nickel</td>	<td>18,000</td></tr>
+<tr><td>uranium</td>	<td>500,000</td></tr>
+</table>
+
+Source:
+
+SciCre, pp. 153-155.
+
+Response:
+
+1. The numbers in the table are residence times, or the average time
+   that a small amount of an element stays in the sea water before being
+   removed.  They are not times that it takes the element to accumulate,
+   and individual atoms may stay much briefer or longer than those times.
+   Elements in the ocean are in approximate equilibrium between sources
+   adding them and mechanisms removing them.
+
+   A detailed <CD221_1>analysis of sodium>, for example, shows that,
+   within measurement error, the amount of sodium added matches
+   the amount removed.
+
+2. Morris left aluminum off the list.  It would show (according to Morris's
+   reasoning) that the earth is only 100 years old.
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof13
+
+Stassen, Chris, 1997.  The age of the earth.
+ http://www.talkorigins.org/faqs/faq-age-of-earth.html#ocean
+
+References:
+
+1. Morton, Glenn R., 1996.  Salt in the sea.
+   http://www.asa3.org/archive/evolution/199606/0051.html
+
+Further Reading:
+
+Burton, J. D. and D. Wright, 1981. Sea water and its evolution.  In: _The
+   Evolving Earth_, ed. L. R. M. Cocks.  London: British Museum, 89-101.
+
+Date: 2003-4-21, 2004-12-20

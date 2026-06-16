@@ -1,0 +1,48 @@
+BriefClaim: DNA needs proteins to form; proteins need DNA.
+Title: DNA or protein: Which came first?
+Keywords: abiogenesis, RNA world.
+
+Claim:
+
+DNA needs certain proteins in order to replicate.  Proteins need DNA to
+form.  Neither could have formed naturally without the other already in
+existence.
+
+Source:
+
+SciCre, pp.
+ 47-48.
+LifeHow, pg. 45.
+
+Response:
+
+1. DNA could have evolved gradually from a simpler replicator; RNA is a
+   likely candidate, since it can catalyze its own duplication (Jeffares
+   et al. 1998; Leipe et al. 1999; Poole et al. 1998).  The RNA itself
+   could have had simpler precursors, such as peptide nucleic acids
+   (B&ouml;hler et al. 1995).
+   A deoxyribozyme can both catalyze its own replication and function to
+   cleave RNA -- all without any protein enzymes (Levy and Ellington
+   2003).
+
+Links:
+
+References:
+
+1. B&ouml;hler, C., P. E. Nielsen, and L. E. Orgel. 1995.  Template
+   switching between PNA and RNA oligonucleotides.  _Nature_ 376:
+   578-581.  See also: Piccirilli, J. A., 1995.  RNA seeks its maker.
+   _Nature_ 376: 548-549.
+2. Jeffares, D. C., A. M. Poole and D. Penny. 1998.  Relics from the RNA
+   world.  _Journal of Molecular Evolution_ 46: 18-36.
+3. Leipe, D. D., L. Aravind, and E. V. Koonin. 1999.  Did DNA replication
+   evolve twice independently?  _Nucleic Acids Research_ 27: 3389-3401.
+4. Levy, Matthew and Andrew D. Ellington. 2003.  Exponential growth by
+   cross-catalytic cleavage of deoxyribozymogens.  PNAS 100(11):
+   6416-6421.
+5. Poole, A. M., D. C. Jeffares, and D. Penny. 1998.  The path from the
+   RNA world.  _Journal of Molecular Evolution_ 46: 1-17.
+
+Further Reading:
+
+Date: 2001-2-17, 2003-10-2

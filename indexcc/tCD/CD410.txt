@@ -1,0 +1,70 @@
+BriefClaim: World War II airplanes are now beneath thousands of "annual" ice layers.
+Title: Airplanes Buried in Ice
+Keywords: ice cores, dating, Greenland, airplane, Lost Squadron.
+
+Claim:
+
+Ice cores are claimed to have as many as 135,000 annual layers.  Yet
+airplanes of the Lost Squadron were buried under 263 feet of ice in
+forty-eight years, or about 5.5 feet per year.  This contradicts the
+presumption that the wafer-thin layers in the ice cores could be annual
+layers.
+
+Source:
+
+Vardiman, Larry. 1992.  Ice cores and the age of the earth.  _Impact_ 226
+ (Apr.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=355
+
+Response:
+
+1. Ice layers are counted by different methods (mainly, visible layers of
+   hoar frost, visible dust layers, and layers of differing electrical
+   conductivity) which have nothing to do with thickness.  These methods
+   corroborate each other and match with other independently determined
+   dates (Seely 2003).
+
+2. The airplanes landed near the shore of Greenland, where snow
+   accumulation is rapid, at about 2 m per year.  Allowing for some
+   compaction due to the weight of the snow, that accounts for the depth
+   of snow under which they are buried.  The planes are also on an active
+   glacier and have moved about 2 km since landing.  Ice core dating takes
+   place on stable ice fields, not active glaciers.  The interior of
+   Greenland, where ice cores were taken, receives much less snow.  In
+   Antarctica, where ice cores dating back more than 100,000 years have
+   been collected, the rate of snow accumulation is much less still.
+
+3. A report of "many hundreds" of layers in the ice above the Lost
+   Squadron may also be explained by the airplanes' location on Greenland.
+   That location is relatively warm because it is low and more southerly;
+   its surface gets repeatedly melted during the summer, creating multiple
+   melt layers per year.  At the site of the GISP2 ice core, melting
+   occurs only about once every couple centuries.  Melt layers are easily
+   distinguished in ice cores.  The more than 100,000 layers in ice cores
+   are definitely not melt layers (Seely 2003).
+
+Links:
+
+Kuechmann, F. C., 2000.  Creationist comedy.
+ http://noanswersingenesis.org.au/kuechmann_cretin_comedy.htm
+
+References:
+
+1. Seely, Paul H. 2003.  The GISP2 ice core: Ultimate proof that Noah's
+   flood was not global.  _Perspectives on Science and Christian Faith_
+   55(4): 252-260.  http://www.asa3.org/ASA/PSCF/2003/PSCF12-03Seely.pdf
+
+Further Reading:
+
+Seely, Paul H. 2003.  The GISP2 ice core: Ultimate proof that Noah's
+ flood was not global.  _Perspectives on Science and Christian Faith_
+ 55(4): 252-260.  http://www.asa3.org/ASA/PSCF/2003/PSCF12-03Seely.pdf
+
+#Elsberry, W., 2000.  The Airplanes in the Ice: A Challenge to Ice Core
+# Dating?
+# http://www.geocities.com/buyu_2000/evolution/lostsquadron.html [broken]
+
+Brinkman, Matt, 1995.  Ice core dating. 
+ http://www.talkorigins.org/faqs/icecores.html
+
+Date: 2001-2-18, 2006-1-20

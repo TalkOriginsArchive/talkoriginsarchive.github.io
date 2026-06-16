@@ -1,0 +1,85 @@
+BriefClaim: Stalactites can grow very rapidly.
+Title: Stalactite growth rates
+Keywords: young earth
+
+Claim:
+
+Stalactites can grow very quickly.  Some have been observed to grow more
+than half an inch per year.  The largest stalactites and flowstones could
+have formed in a few thousand years.
+
+Source:
+
+Meyers, Stephen and Robert Doolan, 1987.  Rapid stalactites?  _Creation
+ Magazine_ 9(4) (Sep.-Nov.): 6-8.
+ http://answersingenesis.org/home/area/magazines/docs/cen_v9n4_stalactites.asp
+
+Response:
+
+1. The fast-growing stalactites form via processes very different from
+   calcium carbonate stalactites found in limestone caves.  Limestone is
+   not soluble in water.  When carbon dioxide (from decaying plants in the
+   soil above the cave) mixes with water, it forms a very weak carbonic
+   acid.  This turns the calcium carbonate into calcium bicarbonate, which
+   dissolves.  When drips are exposed to air in the cave, a little carbon
+   dioxide escapes from them into the atmosphere, which reverses the
+   process and precipitates a small amount of calcium carbonate.  The
+   upper average rate for limestone stalactite growth is ten centimeters
+   per thousand years, with lower growth rates outside of tropical areas.
+
+   Fast-growing stalactites, on the other hand, either grow from gypsum
+   through an evaporative process, or they form from concrete or mortar.
+   When water is added to concrete, one product is calcium hydroxide,
+   which is about 100 times more soluble than calcite.  The calcium
+   hydroxide absorbs carbon dioxide from the atmosphere to reconstitute
+   calcium carbonate.
+
+2. The time for stalactite growth also has to allow for time for the cave
+   to dissolve in the first place, which is a very slow process, sometimes
+   on the order of tens of millions of years.  Then the geological
+   conditions have to change so that the cave is no longer under water.
+   Only then can stalactite growth begin.
+
+3. Direct measurement via radiometric dating gives stalactite ages over
+   190,000 years (Ford and Hill 1999).  Other deposits in caves have
+   been dated to several million years old.  For example, argon-argon
+   dating of alunite (an aluminum sulfate mineral) gives an age of 11.3
+   million years for a cave near Carlsbad Caverns (Polyak et al. 1998).
+
+4. Oxygen isotope measurements in stalactites give an indication of
+   outside temperatures.  They are consistent with the coming and going of
+   ice ages back at least 160,000 years (Dorale et al. 1998; Wang et
+   al. 2001; Zhang et al. 2004).
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?  A close
+ look at Dr. Hovind's list of young-earth arguments and other claims.
+ http://www.talkorigins.org/faqs/hovind/howgood-yea2.html#proof22
+
+References:
+
+1. Dorale, J. A. Dorale, R. L. Edwards, E. Ito and Luis A.
+   Gonz&aacute;lez, 1998.  Climate and vegetation history of the
+   midcontinent from 75 to 25 ka: A speleothem record from Crevice Cave,
+   Missouri, USA.  _Science_ 282: 1871-1874.
+2. Ford, Derek C. and Carol A. Hill, 1999.  Dating of speleothems in
+   Kartchner Caverns, Arizona.  _Journal of Cave and Karst Studies_ 61(2):
+   84-88.  https://web.archive.org/web/20051217190002if_/http://www.caves.org/pub/journal/PDF/V61/v61n2-Ford.pdf
+3. Polyak, V. J., W. C. McIntosh, N. G&uuml;ven and P. Provencio, 1998.
+   Age and origin of Carlsbad Cavern and related caves from
+   <sup>40</sup>Ar/<sup>39</sup>Ar of alunite.  _Science_ 279: 1919-1922.
+   See also Sasowsky, I. D., 1998.  Determining the age of what is not
+   there.  _Science_ 279: 1874.
+3. Wang, Y. J. et al., 2001.  A high-resolution absolute-dated Late
+   Pleistocene monsoon record from Hulu Cave, China.
+   _Science_ 294: 2345-2348.
+4. Zhang, M., D. Yuan, Y Lin, H. Cheng, J. Qin and H Zhang, 2004.  The
+   record of paleoclimatic change from stalagmites and the determination
+   of termination II in the south of Guizhou Province, China.  _Science in
+   China Ser. D_ 47(1): 1-12.
+   https://web.archive.org/web/20050129084345if_/http://www.karst.edu.cn/publication/Zhang%20Ml200401.pdf
+
+Further Reading:
+
+Date: 2003-4-21, 2004-5-12

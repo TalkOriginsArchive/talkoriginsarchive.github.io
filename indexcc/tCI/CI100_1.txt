@@ -1,0 +1,46 @@
+BriefClaim: Look; is design not obvious?
+Title: Self-evident design
+Keywords: design
+
+Claim:
+
+Design is self-evident.  You just need to open your eyes and see it.
+
+Source:
+
+Wells, Jonathan, 2006.  _The Politically Incorrect Guide to Darwinism and
+ Intelligent Design_.  Washington DC: Regnery, 83.
+Anon, Jan. 2003.  Feedback.
+ http://www.talkorigins.org/origins/feedback/jan03.html (2nd from end)
+
+Response:
+
+1. This claim lacks any substance.  It is nothing more than a subjective
+   assertion.  That design is far from self-evident is demonstrated by the
+   difficulty people have in trying to describe the objective evidence for
+   it.
+
+2. There are good reasons why people should see design that is not there.
+    - Humans anthropomorphize.  We tend to attribute our humanlike
+      qualities to all sorts of things.  Since design is what humans do,
+      we attribute it far and wide.
+    - Evolution and some human design both involve complex systems dealing
+      with the same physical constraints (Csete and Doyle 2002).
+    - Evolution has much in common with a design process.  It generates
+      trial-and-error modifications of existing forms and discards the
+      inferior versions.
+
+Links:
+
+References:
+
+1. Csete, Marie E. and John C. Doyle, 2002.  Reverse engineering of
+      biological complexity.  _Science_ 295: 1664-1669.
+#1. Guthrie, Stewart, 1993.  _Faces in the Clouds: A New Theory of
+#   Religion_.  New York: Oxford University Press.
+
+Further Reading:
+
+Isaak, Mark, 2003.  What design looks like.  RNCSE 23(5-6): 25-26,31-35.
+
+Date: 2003-11-29, 2006-8-22

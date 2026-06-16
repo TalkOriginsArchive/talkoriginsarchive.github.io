@@ -1,0 +1,54 @@
+BriefClaim: Vollosovitch and Dima mammoths yielded inconsistent C-14 dates.
+Title: Dating of Vollosovitch and Dima Mammoths
+Keywords: radiocarbon, C14, radiometric, dating, mammoth.
+
+Claim:
+
+Widely different radiocarbon dates are obtained from the same frozen
+mammoths.  Different parts of the Vollosovitch mammoth date to 29,500 and
+44,000 years before present (BP).  One part of Dima, a frozen baby mammoth,
+was 40,000, another part 26,000, and wood immediately around it was
+9-10,000 BP.  Two parts of the Fairbanks Creek mammoth date to 15,380 and
+21,300 BP.
+
+Source:
+
+Brown, Walt, 2001.  _In the beginning: Compelling evidence for creation
+ and the Flood (7th ed.)_ Center for Scientific Creation. 
+ https://web.archive.org/web/20230127055627if_/http://www.creationscience.com/onlinebook/FrozenMammoths8.html
+Hovind, Kent, n.d.  Doesn't carbon dating or potassium argon dating prove
+ the Earth is millions of years old? 
+ https://web.archive.org/web/20210609153702if_/http://www.drdino.com/QandA/index.jsp?varFolder=CreationEvolution&varPage=CarbonPotassiumargondating.jsp
+
+Response:
+
+1. The dates come from different mammoths.  The reference cited by Brown
+   and cribbed by Hovind likely refers only to a Fairbanks mammoth, which
+   Brown also mentions (P&eacute;w&eacute; 1975, 30).  The 15,380 and
+   21,300 BP dates come from separate mammoths, and it is noted that the
+   21,300 date is invalid because it comes from a hide soaked in glycerin.
+   It is uncertain what is Brown's source for the 29,500 and 44,000 dates.
+
+   Ukraintseva (1993) reviews the Kirgilyakh mammoth, also known as Dima,
+   and cites three dates obtained for it.  All are around 40,000 years
+   before present.  Dates for deposits surrounding the mammoth are
+   consistent with dates for the mammoth.
+
+Links:
+
+References:
+
+1. P&eacute;w&eacute;, Troy L., 1975.  Quaternary stratigraphic
+   nomenclature in unglaciated Central Alaska.  U. S. Geological Survey
+   Professional Paper 862.
+2. Ukraintseva, V. V., 1993.  _Vegetation Cover and Environment
+   of the "Mammoth Epoch" in Siberia_. Hot Springs, SD: Mammoth Site of
+   Hot Springs of South Dakota.
+#  1800 Highway 18-Truck Route, Hot Springs, SD. 57747-0606, 309 pp.
+
+Further Reading:
+
+Heinrich, Paul, 1996.  The mysterious origins of man: Atlantis, mammoths,
+ and crustal shift.  http://www.talkorigins.org/faqs/mom/atlantis.html
+
+Date: 2001-4-29

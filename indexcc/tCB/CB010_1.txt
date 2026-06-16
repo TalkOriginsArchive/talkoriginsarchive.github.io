@@ -1,0 +1,44 @@
+BriefClaim: Even the simplest life is incredibly complex.
+Title: Complex "simple" life
+Keywords: complexity, design, bacteria, primitive, abiogenesis.
+
+Claim:
+
+Even the simplest, most primitive forms of life -- bacteria -- are
+incredibly complex, much too complex to have arisen by chance.
+
+Source:
+
+Sherwin, Frank. 2001.  Just how simple are bacteria?  _Back to
+ Genesis_ 146 (Feb.).
+
+Response:
+
+1. There is no reason to think that the life around today is comparable in
+   complexity to the earliest life.  All of the simplest life would almost
+   certainly be extinct by now, outcompeted by more complex forms.
+
+2. Self-replicators can be incredibly simple, as simple as a strand of six
+   DNA nucleotides (Sievers and von Kiedrowski 1994).  This is simple
+   enough to form via prebiotic chemistry.  Self-replication sets the
+   stage for evolution to begin, whether or not you call the molecules
+   "life."
+
+3. Nobody claims the <CB010_2>first life> arose by chance.  To jump from
+   the fact that the origin is unknown to the conclusion that it could not
+   have happened naturally is the <CA100>argument from incredulity>.
+
+Links:
+
+Musgrave, Ian. 1998.  Lies, damned lies, statistics, and probability of
+ abiogenesis calculations.
+ http://www.talkorigins.org/faqs/abioprob/abioprob.html
+
+References:
+
+1. Sievers, D. and G. von Kiedrowski. 1994.  Self-replication of
+   complementary nucleotide-based oligomers.  _Nature_ 369: 221-224.
+
+Further Reading:
+
+Date: 2001-2-18, 2003-10-4

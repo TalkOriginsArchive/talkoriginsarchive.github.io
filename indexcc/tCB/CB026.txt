@@ -1,0 +1,44 @@
+BriefClaim: Abiogenesis experiments produce toxins, such as cyanide and formaldehyde.
+Title: Toxic chemicals from abiogenesis experiments
+Keywords: Miller-Urey, abiogenesis, cyanide, amino acid, formaldehyde
+
+Claim:
+
+Miller-Urey type experiments produce toxic chemicals, such as cyanide and
+formaldehyde, but not amino acids.
+
+Source:
+
+Discovery Institute. 2003.  A preliminary analysis of the treatment of
+ evolution in biology textbooks currently being considered for adoption by
+ the Texas State Board of Education.
+ http://www.discovery.org/articleFiles/PDFs/TexasPrelim.pdf, p. 5.
+
+Response:
+
+1. Cyanide and formaldehyde are necessary building blocks for important
+   biochemical compounds, including amino acids (Abelson 1996).  They are
+   not toxins in this context.
+
+2. Miller-Urey experiments produce amino acids among other chemical
+   compounds (Kawamoto and Akaboshi 1982; Schlesinger and Miller 1983).
+
+Links:
+
+References:
+
+1. Abelson, P. 1996.  Chemical events on the primitive earth.  PNAS 55:
+   1365-1372.
+2. Kawamoto, K. and M. Akaboshi. 1982.  Study on the chemical evolution of
+   low molecular weight compounds in a highly oxidized atmosphere using
+   electric discharges.  _Origins of Life_ 12(2): 133-141.
+3. Schlesinger, G. and S. L. Miller. 1983.  Prebiotic synthesis in
+   atmospheres containing CH<sub>4</sub>, CO, and CO<sub>2</sub>. I. Amino
+   acids.  _Journal of Molecular Evolution_ 19(5): 376-382.
+
+Further Reading:
+
+Ellington, Andrew D. and Matthew Levy. 2003.  Gas, discharge, and the
+ Discovery Institute.  RNCSE 23(3-4): 39-40.
+
+Date: 2003-11-17

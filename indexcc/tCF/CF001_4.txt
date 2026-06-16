@@ -1,0 +1,37 @@
+BriefClaim: The second law is about organized complexity, not entropy.
+Title: Organized complexity and entropy
+Keywords: complexity, thermodynamics, entropy
+
+Claim:
+
+The second law of thermodynamics allows higher order (lower entropy) to
+appear locally, but it still disallows organized complexity.  For example,
+it allows highly ordered arrangements such as "aaaaaaaaaaaaaaaaa . . ." to
+originate, but not complex ordered arrangements such as the words on this
+page.
+
+Source:
+
+Yahya, Harun, 1999.  The evolution deceit: Thermodynamics falsifies
+ evolution.  https://web.archive.org/web/20111109223402if_/http://www.evolutiondeceit.com/chapter12.php
+
+Response:
+
+1. The second law of thermodynamics is about spontaneous heat flow or,
+   more generally, about the impossibility to perform useful work
+   indefinitely.  The twists put on it by creationists, including
+   "organized complexity," are entirely fictional.
+
+   Arrangements such as the words on this page are not prohibited by any
+   laws of physics.  If they were, they could not exist for you to be
+   reading them now.
+
+2. <CF002>Complex ordered arrangements> can and do arise naturally.
+   
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-6-4

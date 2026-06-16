@@ -1,0 +1,54 @@
+BriefClaim: Fossilization requires sudden burial.
+Title: Requirements for fossilization
+Keywords: fossilization, taphonomy
+
+Claim:
+
+Fossilization requires rapid burial, or the organism will decay.  This
+suggests that a catastrophe is responsible for fossils.
+
+Source:
+
+Whitcomb, John C. Jr. and Henry M. Morris, 1961.  <#The Genesis Flood#>.
+ Philadephia, PA: Presbyterian and Reformed Publishing Co., pp. 128-129.
+
+Response:
+
+1. Bones can survive for over a year before being buried.  Shells can last
+   decades or even centuries.  In fact, some fossils that have been eroded
+   or encrusted or bored by other animals have been found, showing that
+   long times passed before they were buried, and discrediting
+   catastrophic burial.  Only soft tissues need to be preserved quickly.
+
+2. Rapid burial is not necessary for rapid preservation.  Fossils can also
+   be preserved by falling in a peat bog or on an anoxic lake bottom,
+   areas where decay is slow or nonexistent.  Other fossils are preserved
+   in tree sap, which can become amber over time.
+
+3. Rapid burial is common as a result of processes that are local
+   catastrophes or that can scarcely be considered catastrophes at all,
+   such as
+    - burial in sediments in a river delta
+    - burial in sediments from a local river flood
+    - burial in a small landslide, as along an eroded stream bank
+    - burial in ash from a volcano
+    - burial in a blown sand dune
+
+4. Patterns of fossilization are consistent with noncatastrophic
+   processes such as those mentioned above.  Fossilization occurs as a
+   result of all those different processes, not as a result of a single
+   catastrophe.  And it occurs where we would expect on the basis of
+   commonplace processes.  Bison fossils, for example, are found in active
+   floodplains, not in upland areas.
+
+Links:
+
+Littleton, Keith, 2002.  Fish fossils.
+ http://www.talkorigins.org/origins/postmonth/sep02.html
+
+References:
+
+Further Reading:
+
+Date: 2003-7-23
+

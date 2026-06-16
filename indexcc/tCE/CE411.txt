@@ -1,0 +1,79 @@
+BriefClaim: The speed of light has changed.
+Title: Speed of Light Slowing?
+Keywords: speed of light, uniformitarian
+
+Claim:
+
+The speed of light was faster in the past, so objects millions of
+light-years away are much younger than millions of years.
+
+Source:
+
+Norman, Trevor G. and Barry Setterfield, 1987.  _The Atomic Constants,
+ Light, and Time_.  Flinders University of South Australia, School of
+ Mathematical Sciences, Technical Report.
+ https://web.archive.org/web/20070420225738if_/http://www.ldolphin.org/setterfield/report
+
+Response:
+
+1. The possibility that the speed of light has not been constant has
+   received much attention from physicists, but they have found no
+   evidence for any change.  Many different measurements of the speed of
+   light have been made in the last 180 or so years.  The older
+   measurements were not as accurate as the latest ones.  Setterfield
+   chose 120 data points from 193 measurements available (see Dolphin
+   n.d. for the data), and the line of best fit for these points shows
+   the speed of light decreasing.  If you use the entire data set, though,
+   the line of best fit shows the speed increasing.  However, a constant
+   speed of light is well within the experimental error of the data.
+
+2. If Setterfield's formulation of the changes in physical parameters were
+   true, then there should have been 417 days per year around 1 C.E., and
+   the earth would have melted during the creation week as a result of the
+   extremely rapid radioactive decay (Morton et al. 1983).
+
+3. As an aside, some creationists assert that fundamental laws have not
+   changed (Morris 1974, 18).
+
+Links:
+
+References:
+
+1. Dolphin, Lambert, n.d.  Table 1: Master Set of 193 Values of c.
+   http://www.ldolphin.org/cdata.txt.  See also
+   http://www.ldolphin.org/constc.shtml
+3. SciCre.
+4. Morton, G. R., H. S. Slusher, R. C. Bartman and T. G. Barnes,
+   1983.  Comments on the velocity of light.  CRSQ 20: 63-65.
+
+#3. Lieu, Richard, and Lloyd W. Hillman, 2003 (10 Mar.).  The phase
+#   coherence of light from extragalactic sources: Direct evidence against
+#   first-order Planck-scale fluctuations in time and space.  _The
+#   Astrophysical Journal_ 585: L77-L80.
+#
+#   (Abstract) ...  "We show that the Hubble Space Telescope detection of
+#   Airy rings from the active galaxy PKS 1413 135, located at a distance
+#   of 1.2 Gpc, excludes all first-order (a=1)quantum gravity fluctuations
+#   with an amplitude a_o>0.003. The same result may be used to deduce that
+#   the speed of light in vacuo is exact to a few parts in 10^32."
+#Simply explained: Interference pattern of 4 billion light years distant
+# galaxy shows that speed of light has not varied more than few parts per
+# 10^32.  Man can deduce that speed of light has been very constant for 4
+# billion years.  And so the Universe is really very very old...
+
+Further Reading:
+
+Aardsma, Gerald E., 1988a, "Has the speed of light decayed?," _Impact_ #179,
+ Institute for Creation Research, El Cajon, CA.
+
+Aardsma, Gerald E., 1988b, "Has the speed of light decayed recently?,"
+ CRSQ 25(1): 36f.
+
+##Brown, R. H., 1990.  Speed of light statistics.  CRSQ 26(4): 142-143.
+
+#Humphreys, D. Russell, 1988.  Has the speed of light decayed
+# recently? Paper 2, CRSQ 25(6) (Jun.): 40-45.
+#Samuel R. Conner and Don N. Page, 1998.
+# Starlight and time is the Big Bang.  CENTJ 12(2): 174-194.
+
+Date: 2001-2-18

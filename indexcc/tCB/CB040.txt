@@ -1,0 +1,94 @@
+BriefClaim: Life uses only left-handed amino acids.
+Title: Left-handed amino acids
+Keywords: amino acid
+
+Claim:
+
+The twenty amino acids used by life are all the left-handed variety.  This
+is very unlikely to have occurred by chance.
+
+Source:
+
+LifeHow, pg. 43
+
+Response:
+
+1. The amino acids that are used in life, like most other aspects of
+   living things, are very likely not the product of chance. Instead, they
+   likely resulted from a selection process.  A simple peptide replicator
+   can amplify the proportion of a single handedness in an initially
+   random mixture of left- and right-handed fragments (Saghatelian et al.
+   2001; TSRI 2001).  Self-assemblies on two-dimensional surfaces can also
+   amplify a single handedness (Zepik et al. 2002).  Serine forms stable
+   clusters of a single handedness which can select other amino acids of
+   like handedness by subtituting them for serine; these clusters also
+   incorporate other biologically important molecules such as
+   glyceraldehyde, glucose, and phosphoric acid (Takats et al. 2003).  An
+   excess of handedness in one kind of amino acid catalyzes the handedness
+   of other organic products, such as threose, which may have figured
+   prominently in proto-life (Pizzarello and Weber 2004).
+
+2. Amino acids found in meteorites from space, which must have formed
+   abiotically, also show significantly more of the left-handed variety,
+   perhaps from circularly polarized UV light in the early solar system
+   (Engel and Macko 1997; Cronin and Pizzarello 1999).  The weak nuclear
+   force, responsible for beta decay, produces only electrons with
+   left-handed spin, and chemicals exposed to these electrons are far more
+   likely to form left-handed crystals (Service 1999).  Such mechanisms
+   might also have been responsible for the prevalence of left-handed
+   amino acids on earth.
+
+3. The first self-replicator may have had eight or fewer types of amino
+   acids (Cavalier-Smith 2001).  It is not all that unlikely that the same
+   handedness might occur so few times by chance, especially if one of the
+   amino acids was glycine, which has no handedness.
+
+4. Some bacteria use right-handed amino acids, too (McCarthy et al. 1998).
+
+Links:
+
+Jacoby, Mitch. 2003.  Serine flavors the primordial soup.  _Chemical and
+ Engineering News_ 81(32): 5.
+ https://web.archive.org/web/20150614005811if_/http://pubs.acs.org/cen/topstory/8132/8132notw1.html
+
+References:
+
+1. Cavalier-Smith T. 2001.  Obcells as proto-organisms: membrane
+   heredity, lithophosphorylation, and the origins of the genetic code,
+   the first cells, and photosynthesis.  _Journal of Molecular Evolution_
+   53: 555-595.
+1. Cronin, J. R. and S. Pizzarello. 1999.  Amino acid enantiomer excesses
+   in meteorites: Origin and significance.  _Advances in Space Research_
+   23(2): 293-299.
+2. Engel, M. H. and S. A. Macko. 1997. Isotopic evidence for
+   extraterrestrial non-racemic amino acids in the Murchison meteorite.
+   _Nature_ 389: 265-268.  See also: Chyba, C. R., 1997.  A left-handed
+   Solar System? _Nature_ 389: 234-235.
+4. McCarthy, Matthew D., John I. Hedges and Ronald Benner. 1998.  Major
+   bacterial contribution to marine dissolved organic nitrogen.  _Science_
+   281: 231-234.
+2. Pizzarello, S. and A. L. Weber. 2004.  Prebiotic amino acids as
+   asymmetric catalysts.  _Science_ 303: 1151.
+2. Saghatelian, A., Y. Yokobayashi, K. Soltani and M. R. Ghadiri. 2001.  A
+   chiroselective peptide replicator.  _Nature_ 409: 797-801.
+3. Service, R. F. 1999.  Does life's handedness come from within?
+   _Science_ 286: 1282-1283.
+8. Takats, Zoltan, Sergio C. Nanita and R. Graham Cooks. 2003.  Serine
+   octamer reactions: indicators of prebiotic relevance.  _Angewandte
+   Chemie International Edition_ 42: 3521-3523.
+4. TSRI. 2001 (15 Feb.).  New study by scientists at the Scripps Research
+   Institute suggests an answer for one of the oldest questions in
+   biology.  http://www.scripps.edu/news/press/021401.html
+5. Zepik, H. et al. 2002.  Chiral amplification of oligopeptides in
+   two-dimensional crystalline self-assemblies on water.  _Science_ 295:
+   1266-1269.
+
+Further Reading:
+
+Clark, Stuart. 1999. Polarized starlight and the handedness of life. 
+ _American Scientist_ 87(4) (Jul/Aug): 336-343.
+
+Guterman, Lila. 1998.  Why life on Earth leans to the left.  _New
+ Scientist_, 160(2164): 16.
+
+Date: 2001-3-31, 2004-11-16

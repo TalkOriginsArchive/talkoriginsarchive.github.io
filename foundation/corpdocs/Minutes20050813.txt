@@ -1,0 +1,71 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+
+THE TALKORIGINS FOUNDATION, INC.
+A Texas Nonprofit Corporation
+
+
+MINUTES OF ANNUAL DIRECTORS MEETING
+August 13, 2005
+
+
+The TalkOrigins Foundation held its annual meeting of the Board of
+Directors starting on April 22, 2004, and continuing from day to day
+thereafter.  All directors (Wesley Elsberry, John Wilkins, and
+Kenneth Fair) were present and participated by electronic mail as
+allowed by Section 5.04 of the Bylaws.
+
+At the meeting the following business was conducted:
+
+1.  The Secretary (Kenneth Fair) presented a report on the
+organization of the Foundation and the granting of tax-exempt status
+by the IRS.  A copy of the report can be found at the following
+location:
+
+	http://www.talkorigins.org/foundation/corpdocs/SecRpt20050422.txt
+
+2.  The Treasurer (Kenneth Fair) presented a report on the initial
+funding of the Foundation and the amount raised by the initial
+donation request.  A copy of the report can be found at the following
+location:
+
+	http://www.talkorigins.org/foundation/corpdocs/TreasRpt20050422.txt
+
+3.  The Board held an election to fill the seat of Kenneth Fair,
+whose term was expiring.  John Wilkins renominated Kenneth Fair to
+fill the seat, which was seconded by Wesley Elsberry.  The vote was
+2-0 in favor, with Kenneth Fair abstaining from the discussion and
+vote.
+
+4.  The Board discussed the need for additional bandwidth for hosting
+The Panda's Thumb.  The Board asked the President to look into and
+report back on options for hosting and the costs of each option.
+
+5.  The Board discussed moving the domain for the Archive to
+joker.com to align it with the other sites, and to transfer ownership
+of the domains to the Foundation.  The Board voted 3-0 in favor of
+the move.
+
+6.  The Board discussed the possibility of setting up a system so
+that individuals could make automatic recurring donations to the
+Foundation.  The Board directed the Treasurer to look into the
+possibility.
+
+7.  The Board discussed the possibility of activating an "Amazon
+Associates" account to receive money from click-throughs from the
+Archive.  The Treasurer agreed to set up such an account.
+
+All business having been concluded, the meeting was adjourned.
+
+
+    /s/ Kenneth J. Fair
+          Secretary, TalkOrigins Foundation
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP 8.0.2 - not licensed for commercial use: www.pgp.com
+
+iQA/AwUBQv56ejz5KF0EZhfWEQJ6FACfYysRGeBDd+Kh52u95ddDWE/8xT0AnRx+
+CBnMY7s/c71fBc4EorLpZxf5
+=UHox
+-----END PGP SIGNATURE-----

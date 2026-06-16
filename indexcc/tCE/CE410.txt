@@ -1,0 +1,82 @@
+BriefClaim: Physical constants are only assumed constant.
+Title: Are constants constant?
+Keywords: physical constants, uniformitarianism, fine structure constant.
+
+Claim:
+
+Physicists only assume that physical constants have been constant over
+billions of years.  In particular, this untestable assumption underlies
+all radiometric dating techniques.
+
+Source:
+
+Brown, Walt, 1995.  _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 24.
+
+Response:
+
+1. The constancy of constants is a conclusion, not an assumption.  It is
+   tested whenever possible.  For example:
+
+    - The fine structure constant affects neutron capture rates, which can
+      be measured from products of the Oklo reactor, where a natural
+      nuclear reaction occurred 1,800 million years ago.  These
+      measurements show that the fine structure constant has remained
+      constant (within one part in 10^17 per year) for almost two billion
+      years (Fujii et al. 2000; Shlyakhter 1976).
+
+    - Despite some weak evidence that the fine structure constant may have
+      varied slightly more than six billion years ago (Musser 1998; Webb
+      et al. 1999), analysis of the spectra of quasars shows that it has
+      changed less than 0.6 parts per million over the last ten billion
+      years (Chand et al. 2004)
+
+    - Experiments with atomic clocks show that any change is less than
+      a rate of about 10^-15 per year (Fischer et al. 2004).
+
+    - Absorption lines in light from quasars suggest that the ratio of
+      masses of the proton and electron may have changed by 20 parts per
+      million over the last 12 billion years (Cho 2006).
+
+Links:
+
+Ball, Philip, 2003.  Lab tests tenets' limits.  _Nature Science Update_,
+ https://web.archive.org/web/20040619154000if_/http://www.nature.com/nsu/030428/030428-20.html
+
+SpaceDaily, 2004.  Quasar studies keep fundamental physical constant -
+ constant.  http://www.spacedaily.com/news/cosmology-04i.html
+
+References:
+
+1. Bize, S. et al., 2003.  Testing the stability of fundamental constants
+   with the <sup>199</sup>Hg+ single-ion optical clock.  _Physical Review
+   Letters_ 90: 150802.
+2. Chand, H., R. Srianand, P. Petitjean and B. Aracil, 2004.  Probing the
+   cosmological variation of the fine-structure constant: Results based on
+   VLT-UVES sample.  _Astronomy and Astrophysics_ 417: 853.
+   http://arxiv.org/abs/astro-ph/0401094
+3. Cho, Adrian. 2006.  Skewed starlight suggests particle masses changed
+   over eons.  _Science_ 312: 348.
+3. Fischer, M. et al., 2004.  New limits on the drift of fundamental
+   constants from laboratory measurements.  _Physical Review Letters_ 92:
+   230802.
+2. Fujii, Yasunori et al., 2000.  The nuclear interaction at Oklo 2
+   billion years ago.  _Nuclear Physics B_ 573: 377-401.
+   http://arxiv.org/abs/hep-ph/9809549
+3. Marion, H. et al., 2003.  Search for variations of fundamental
+   constants using atomic fountain clocks.  _Physical Review Letters_ 90:
+   150801.
+2. Musser, George, 1998.  Inconstant constants.  SciAm 279(5) (Nov.):
+   24,28.
+   https://web.archive.org/web/20041216224008if_/http://members.tripod.com/unifier2/inconstantconstants.html
+3. Shlyakhter, A. I., 1976.  Direct test of the constancy of fundamental
+   nuclear constants.  _Nature_ 264: 340.
+   http://sdg.lcs.mit.edu/~ilya_shl/alex/76a_oklo_fundamental_nuclear_constants.pdf
+4. Webb J. K., V. V. Flambaum, C. W. Churchill, M. J. Drinkwater, J. D.
+   Barrow, 1999.  Search for time variation of the fine structure
+   constant.  _Physical Review Letters_, 82: 884-887.
+   http://xxx.lanl.gov/abs/astro-ph/?9803165
+
+Further Reading:
+
+Date: 2001-2-18, 2007-12-16

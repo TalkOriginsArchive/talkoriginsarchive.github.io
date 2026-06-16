@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
+<html xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline v2.0" l gen true for "http://www.talkorigins.org/" r (nz 1 vz 1 lz 1 oz 1 cz 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://www.talkorigins.org/" r (n 0 s 0 v 0 l 0))' />
+ <meta http-equiv="Content-Style-Type" content="text/css" />
+<title>Search the Talk.Origins Archive</title>
+<meta name="description"
+content="Search form for the Talk.Origins Archive" />
+<link rel="stylesheet" href="/styles/menu.css" type="text/css" />
+<style type="text/css"> <!-- img { border: none } // --> </style>
+<link rel="shortcut icon" href="/pictures/to.ico" />
+<meta name="rating" content="Safe for Kids" />
+<script type="text/javascript" src="/scripts/TOtools.js"></script>
+</head>
+<body>
+<!-- begin header -->
+<div class="center">
+<map id="headermap" name="headermap">
+<area shape="rect" coords="159,63,254,99"
+href="/origins/faqs.html" alt="Browse" />
+<area shape="rect" coords="354,63,451,99"
+href="/origins/feedback/" alt="Feedback" />
+<area shape="rect" coords="452,63,548,99"
+href="/origins/other-links.html" alt="Other Links" />
+<area shape="rect" coords="0,0,158,99" href="/"
+alt="Home" />
+<area shape="rect" coords="159,0,559,62" href="/"
+alt="Home" />
+</map> 
+<p><img
+src="/pictures/header.gif" usemap="#headermap" width="560"
+height="100" alt="The Talk.Origins Archive: Exploring the Creation/Evolution Controversy" 
+ismap="ismap" />
+</p>
+
+<p><big><big>Search</big></big><br />
+Don't forget to try the <a
+href="/origins/faqs-index.html">Keyword Index</a>,
+<a href="/indexcc/">An Index to Creationist Claims</a>,
+and <a href="/origins/outline.html">Outline</a> too.</p>
+</div>
+
+<!-- end header -->
+<p>Google Search of the TalkOrigins Archive.</p>
+
+<div id="cse" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('015252590080525196066:8mpminrwgdy');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+
+<!--
+<p>Old Google Search! Google stopped serving responses to this in July, 2011.</p>
+
+<div class="center">
+<center>
+<form method="get" action="http://www.google.com/custom">
+<table cellspacing="0" 
+summary="">
+<tr>
+<td colspan="2">Search terms: <input type="text" name="q" size="50"
+maxlength="255" value="" /> <input type="submit" name="sa"
+value="Search" /> <br /><br />
+</td></tr><tr><td>
+<input type="radio" name="sitesearch" checked="checked"
+value="www.talkorigins.org" /><a href="/">Talk.Origins Archive</a> 
+(www.talkorigins.org)<br />
+<input type="radio" name="sitesearch"
+value="www.talkdesign.org" /><a rel="external" href="http://www.talkdesign.org/">Talkdesign.org</a>
+ (www.talkdesign.org)<br />
+<input type="radio" name="sitesearch"
+value="www.pandasthumb.org" /><a rel="external" href="http://www.pandasthumb.org/">Panda's Thumb</a>
+ (www.pandasthumb.org)<br />
+<input type="radio" name="sitesearch" value="" />All of the web</td>
+<td class="center">Search facilitated by<br /><a rel="external" href="http://www.google.com/">
+<img style="background:white; color:black"
+src="/pictures/google.gif"
+width="128" height="53"
+alt="Google"  /></a> </td>
+</tr>
+</table>
+</form>
+</center>
+</div>
+-->
+
+
+
+<!-- begin trailer -->
+<div class="center">
+
+<map id="trailermap" name="trailermap">
+<area shape="rect" coords="0,0,96,27" href="/" alt="Home" />
+<area shape="rect" coords="97,0,191,27"
+href="/origins/faqs.html" alt="Browse" />
+<area shape="rect" coords="288,0,383,27"
+href="/origins/feedback/" alt="Feedback" />
+<area shape="rect" coords="384,0,481,27"
+href="/origins/other-links.html" alt="Other Links" />
+</map> 
+
+<p><img
+src="/pictures/trailer.gif" usemap="#trailermap"
+width="481" height="28" alt=""  ismap="ismap" />
+</p>
+
+<p><small><a href="/">Home Page</a> | <a
+href="/origins/faqs.html">Browse</a> | <b>Search</b> | <a
+href="/origins/feedback/">Feedback</a> | <a
+href="/origins/other-links.html">Links</a></small></p>
+</div>
+
+<!-- end trailer -->
+</body>
+</html>
+

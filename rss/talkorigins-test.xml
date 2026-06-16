@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:blogChannel="http://backend.userland.com/blogChannelModule">
+
+<!-- RSS (for Really Simple Syndication or Remote Site Survey) is a -->
+<!-- machine-readable document in XML (Extensible Markup Language). In -->
+<!-- order to use RSS, one needs an application called a "reader" or -->
+<!-- "aggregator". While some HTML browsers may offer an RSS reader -->
+<!-- function, others do not. For a page that lists readers for a -->
+<!-- variety of computer platforms, see -->
+<!-- http://blogspace.com/rss/readers -->
+
+<channel>
+<title>TalkOrigins Archive</title>
+<link>http://www.talkorigins.org/</link>
+<description>The Talk.Origins Archive is a collection of articles and essays, most of which have appeared in talk.origins at one time or another. The primary reason for this archive's existence is to provide mainstream scientific responses to the many frequently asked questions (FAQs) that appear in the talk.origins newsgroup and the frequently rebutted assertions of those advocating intelligent design or other creationist pseudosciences. 
+.</description>
+
+<item>
+<title>More on Walter Brown's debate offer</title>
+<link>http://www.talkorigins.org/faqs/homs/wbrown2.html</link>
+<description> Added June 30, 2004: Walt Brown has long made an "offer" to debate with supporter of evolution. Jim Foley, the maintainer of Fossil Hominids: The Evidence for Human Evolution, has short article on Brown's so-called "offer." </description>
+</item>
+
+<item>
+<title>May 2004 Feedback</title>
+<link>http://www.talkorigins.org/origins/feedback/may04.html</link>
+<description> Added June 22, 2004: </description>
+</item>
+
+<item>
+<title>Other Web Sites</title>
+<link>http://www.talkorigins.org/origins/other-links.html</link>
+<description> Updated June 22, 2004: </description>
+</item>
+
+<item>
+<title>Quote Mine Project: Darwin Quotes</title>
+<link>http://www.talkorigins.org/faqs/quotes/mine/part2.html</link>
+<description> Added June 20, 2004: This is batch of quotes of Charles Darwin used by anti-evolutionists with commentary of what is wrong with the quotes. It is part of the Quote Mine Project which deals with dozens of examples of creationist misquoting. </description>
+</item>
+
+<item>
+<title>Ancient Molecules and Modern Myths</title>
+<link>http://www.talkorigins.org/faqs/dinosaur/osteocalcin.html</link>
+<description> Added June 13, 2004: In Dino-blood and the Young Earth Dr. Gary Hurd debunked false creationist claims that dinosaur blood proved the Earth is young. In this article, he deals with similiar claim by creationist John R. Baumgardner. Dr. Baumgardner claims that osteocalcin in dinosaur remains could not have survived for millions of years. Dr. Hurd shows why Baumgardner is wrong. </description>
+</item>
+
+<item>
+<title>Information on the TalkOrigins Foundation</title>
+<link>http://www.talkorigins.org/foundation/</link>
+<description> Added June 1, 2004: </description>
+</item>
+
+<item>
+<title>Spontaneous Generation and the Origin of Life</title>
+<link>http://www.talkorigins.org/faqs/abioprob/spontaneous-generation.html</link>
+<description> Added April 26, 2004: Creationists often claim that Louis Pasteur disproved spontaneous generation and hence any naturalistic origin of life. This article shows what Pasteur really demonstrated and gives history of the subject from early ideas of spontaneous generation to modern ideas about the origin of life. </description>
+</item>
+
+<item>
+<title>Genetic Algorithms and Evolutionary Computation</title>
+<link>http://www.talkorigins.org/faqs/genalg/genalg.html</link>
+<description> Added April 25, 2004: Creationists often argue that evolutionary processes cannot create new information, or that evolution has no practical benefits. This article disproves those claims by describing the explosive growth and widespread applications of genetic algorithms, computing technique based on principles of biological evolution. </description>
+</item>
+
+<item>
+<title>The Panda's Thumb</title>
+<link>http://www.talkorigins.orghttp://www.pandasthumb.org/</link>
+<description> News flash March 28, 2004: [off site]. web log of interest to readers of this Archive was recently opened. Those behind it include number of people involved with this Archive and other sites critical of the anti-evolutionists. Its raison d'&#234;tre reads: The Panda's Thumb is dedicated to explaining the theory of evolution, critiquing the claims of the anti-evolution movement, and defending the integrity of science and science education in America and around the world. </description>
+</item>
+
+<item>
+<title>Dino-blood and the Young Earth</title>
+<link>http://www.talkorigins.org/faqs/dinosaur/blood.html</link>
+<description> Added February 17, 2004: Answers in Genesis claims that paleontologist Mary Schweitzer found "obvious, fresh-looking blood cells" and traces of blood protein hemoglobin in Tyrannosaurus rex bone. It further claims that this demonstrates that the dinosaur could not have lived millions of years ago. This essay documents that all these claims are absolutely false. They are the result of selective quoting and misrepresentation of popular science articles. </description>
+</item>
+
+<item>
+<title>Wells and Haeckel's Embryos: A Review of Chapter 5 of Icons of Evolution</title>
+<link>http://www.talkorigins.org/faqs/wells/haeckel.html</link>
+<description> Added January 15, 2004: A biologist reviews the embryo claims of the "intelligent design" proponent Jonathan Wells. Haeckel's incorrect views, gill slits, and how textbooks deal with embryology are discussed. </description>
+</item>
+
+<item>
+<title>The Vestigiality of the Human Vermiform Appendix: A Modern Reappraisal</title>
+<link>http://www.talkorigins.org/faqs/vestiges/appendix.html</link>
+<description> Added December 22, 2003: Many anti-evolutionists, and even some medical texts, claim that modern evidence has shown that the human vermiform appendix should no longer be considered vestigial structure. This article re-examines the case of the appendix in light of recent scientific developments and explains why the appendix is still valid example of human vestige. </description>
+</item>
+
+<item>
+<title>Citing Scadding (1981): Another Example of Poor Creationist Scholarship</title>
+<link>http://www.talkorigins.org/faqs/quotes/scadding.html</link>
+<description> Added December 8, 2003: Creationists often quote paper by Steve Scadding as proof that vestigial structures are not evidence for evolution. Scadding's paper was in error as was quickly pointed out in the same journal by another researcher. Furthermore the creationists misrepresent this twenty-year-old paper. This article is useful case study of what is wrong with the creationist practice of quote mining. </description>
+</item>
+
+<item>
+<title>Harun Yahya and Holocaust Revisionism</title>
+<link>http://www.talkorigins.org/faqs/organizations/harunyahya.html</link>
+<description> Added December 7, 2003: In Creation/Evolution Organizations there is brief mention that Harun Yahya, creationist from Turkey, is the author of book whose title translates to The Holocaust Hoax. Since this charge has been disputed by supporter of Yahya, it is now documented in this response. </description>
+</item>
+
+<item>
+<title>Determining Distances to Astronomical Objects</title>
+<link>http://www.talkorigins.org/faqs/astronomy/distance.html</link>
+<description> Added October 21, 2003: Astronomers can measure distances to objects in the universe whose light took thousands, millions, or even billions of years for their light to reach us. This has obvious implications for those who believe the universe is under ten thousand years old. This article explains how scientists measure distances to various types of astronomical objects and how young-earth creationists deal with large astronomical distances. </description>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,85 @@
+BriefClaim: Damadian was denied a Nobel prize because he was a creationist.
+Title: Damadian and the Nobel Prize for MRI
+Keywords: Nobel prize, MRI, Lauterbur, invention
+
+Claim:
+
+The 2003 Nobel Prize in medicine went to Paul C. Lauterbur and Peter
+Mansfield for their development of medical applications for MRI.
+Dr. Raymond Damadian also played a key role in the invention; he was
+denied a share of the prize because he is a creationist.
+
+Source:
+
+Wieland, Carl. 2004.  The not-so-Nobel decision.
+ https://web.archive.org/web/20080516032446if_/http://www.answersingenesis.org/docs2004/0528damadian_decision.asp  
+
+Response:
+
+1. Complex inventions build on the work of many, many people.  It is often
+   a subjective judgment call to say which were the most important
+   inventors.  Damadian discovered that that tumors and normal tissues
+   have different nuclear spin relaxation times; that he deserves much
+   credit for the MRI is beyond question, and he has received much credit.
+   That he deserves a Nobel prize is arguable.  The prize was awarded
+   primarily for the imaging aspects of MRI (Nobel Assembly, 2003), to
+   which Lauterbur and Mansfield contributed more than Damadian.
+   Lauterbur introduced a method for using NMR for generating images, and
+   Mansfield enhanced the technique to make it faster and more useful.
+
+2. There is no indication that Damadian's creationism was a factor in his
+   not getting the Nobel prize.  Personalities play a far greater role
+   than ideologies in affecting whether someone gets a prize.  Damadian's
+   abrasive personality may well have been enough to make him unpopular.
+   Or other factors may have been involved.  The Nobel committee might
+   have felt pressure not to split prizes so much.  Or they might simply
+   have screwed up.  Blaming his exclusion on creationism is pure
+   speculation.
+
+3. The history of the Nobel Prize is full of controversy which has nothing
+   to do with creationism.  Other deserving people passed over for Nobel
+   Prizes include Dmitri Mendeleev (periodic table of the elements), Edwin
+   Hubble (expansion of the universe), Samuel Goudsmit and George
+   Uhlenbeck (spin of the electron), Mohandas K. Gandhi (nonviolent
+   protest), Leo Tolstoy, Henrik Ibsen, and James Joyce (literature).
+   Selman Waksman was the sole winner of the 1952 medicine Nobel prize for
+   discovering streptomycin, although Albert Schatz did most of the work.
+   Penzias and Wilson shared the 1978 physics prize for verifying a
+   prediction of big bang theory, but Ralph Alpher, who was largely
+   responsible for the theory, was not included.  Many people believe
+   Freeman Dyson should have been included in the 1965 physics Nobel prize
+   for quantum electrodynamics, and that Otto Hahn's colleagues Lise
+   Meitner and Fritz Strassmann deserved a share of his 1944 chemistry
+   prize for fission.  Many other examples could be cited (Feldman
+   2000).
+
+   Many people made substantial contributions to MRI but did not win the
+   Nobel Prize.  H. Y. Carr, who pioneered the gradient technique that
+   Lauterbur used, has at least as good a case for being unjustly passed
+   over as Damadian does.
+
+Links:
+
+Stracher, Cameron, 2002.  Scan and deliver: The duel over who should get
+ credit for the original MRI.  _Wall Street Journal OpinionJournal_, 14
+ June 2002.  https://web.archive.org/web/20090131082641if_/http://opinionjournal.com/taste/?id=110001844
+
+Pincock, Stephen, 2003.  Not winning the Nobel.  _The Scientist_ (8 Oct.),
+ http://www.biomedcentral.com/news/20031008/06/
+
+References:
+
+1. Feldman, Burton. 2000.  _The Nobel Prize: A history of genius,
+   controversy, and prestige_.  New York: Arcade.  
+2. Nobel Assembly. 2003.  Press Release: The 2003 Nobel prize in
+   physiology or medicine.
+   http://www.nobel.se/medicine/laureates/2003/press.html
+
+Further Reading:
+
+Judson, Horace Freeland. 2003.  No Nobel prize for whining.  _New York
+ Times_ editorial, 20 Oct. 2003.
+ https://web.archive.org/web/20150614012136if_/http://www.nytimes.com/2003/10/20/opinion/20JUDS.html?ex=1067656573&ei=1&en=bfd8546998e12f58
+
+
+Date: 2004-8-10

@@ -1,0 +1,45 @@
+BriefClaim: Mutations are rare.
+Title: Rare mutations
+Keywords: mutation
+
+Claim:
+
+Evolution requires mutations, but mutations are rare.
+
+Source:
+
+SciCre, pg. 55.
+
+Response:
+
+1. Very large mutations are rare, but mutations are ubiquitous.  There is
+   roughly 0.1 to 1 mutation per genome replication in viruses and 0.003
+   mutations per genome per replication in microbes.  Mutation rates for
+   higher organisms vary quite a bit between organisms, but excluding the
+   parts of the genome in which most mutations are neutral (the junk DNA),
+   the mutation rates are also roughly 0.003 per effective genome per cell
+   replication.  Since sexual reproduction involves many cell
+   replications, humans have about 1.6 mutations per generation.  This is
+   likely an underestimate, because mutations with very small effect are
+   easy to miss in the studies.  Including neutral mutations, each human
+   zygote has about 64 new mutations (Drake et al. 1998).  Another
+   estimate concludes 175 mutations per generation, including at least 3
+   deleterious mutations (Nachman and Crowell 2000).
+
+Links:
+
+Harter, Richard. 1999. Are mutations harmful?
+ http://www.talkorigins.org/faqs/mutations.html
+
+References:
+
+1. Drake, J. W. et al. 1998.  See below.
+2. Nachman, M. W. and S. L. Crowell. 2000.  Estimate of the mutation rate
+   per nucleotide in humans.  _Genetics_ 156(1): 297-304.
+
+Further Reading:
+
+Drake, J. W., B. Charlesworth, D. Charlesworth, and J. F. Crow. 1998. 
+ Rates of spontaneous mutation.  _Genetics_ 148: 1667-1686. (technical)
+
+Date: 2001-2-17

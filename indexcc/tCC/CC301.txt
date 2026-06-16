@@ -1,0 +1,46 @@
+BriefClaim: Cambrian explosion contradicts evolutionary "tree" pattern.
+Title: Cambrian Explosion and Evolutionary Branching
+Keywords: Cambrian explosion, tree of life, branch
+
+Claim:
+
+In the Cambrian explosion, all major animal groups appear together in
+the fossil record fully formed instead of branching from a common
+ancestor, thus contradicting the evolutionary tree of life.
+
+Source:
+
+Wells, Jonathan, 2000.  _Icons of Evolution_, Washington DC: Regnery,
+ pp. 40-45
+
+Response:
+
+1. The Cambrian explosion does not show all groups appearing together
+   fully formed.  <CC300<It shows> some animal groups (and no plant,
+   fungus, or microbe groups) appearing over many millions of years in
+   forms very different, for the most part, from the forms that are seen
+   today.
+
+2. During the Cambrian, there was the first appearance of hard parts, such
+   as shells and teeth, in animals.  The lack of readily fossilizable
+   parts before then ensures that the fossil record would be very
+   incomplete in the Precambrian.  The old age of the Precambrian era
+   contributes to a scarcity of fossils.
+
+3. The Precambrian fossils that have been found are consistent with a
+   branching pattern and inconsistent with a sudden Cambrian origin.  For
+   example, bacteria appear well before multicellular organisms, and there
+   are fossils giving evidence of transitionals leading to
+   <CC200>halkierids> and <CC220>arthropods>.
+
+4. Genetic evidence also shows a branching pattern in the Precambrian,
+   indicating, for example, that plants diverged from a common ancestor
+   before fungi diverged from animals.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2001-1-27

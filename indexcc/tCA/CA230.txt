@@ -1,0 +1,63 @@
+BriefClaim: Interpreting evidence is not the same as observation.
+Title: Interpretation and observation
+Keywords: evidence, observation, interpretation, hypothesis, theory.
+
+Claim:
+
+Evidence for evolution has not been observed.  Claims that it has confuse
+observation with interpretation.  What is observed has to be interpreted
+to fit the hypotheses.
+
+Source:
+
+Wallace, Timothy. 2002.  Five major _evolutionist_ misconceptions about
+ evolution.  https://web.archive.org/web/20080518113931if_/http://www.trueorigins.org/isakrbtl.asp
+
+Response:
+
+1. All observation requires interpretation.  Even something as seemingly
+   simple as seeing an object in front of you requires a great deal of
+   interpretation to determine what it is, what properties it exhibits,
+   how far away it is, and so forth (Sacks 1995).  To dismiss absolutely
+   everything we know because it is interpretation would be ludicrous.
+
+2. Most of the evidence of evolution is not the sort about which
+   interpretation is in question.  The evidence consists of such things
+   as the following:
+    - certain trilobite species are found in certain geological formations;
+    - many more varieties of marsupials are found in Australia than
+      elsewhere;
+    - bacteria in test tubes have been seen to change in certain ways over
+      time;
+    - flies share some traits that other insects do not;
+   and millions of other such facts, none of which are in dispute.
+
+   The sort of interpretation to which creationists object is how all the
+   evidence fits together.  They do not deny the evidence (not most of it,
+   anyway); they deny that it is evidence _for evolution_.
+
+   However, a fact gets to be considered evidence for a theory if it fits
+   that theory and does not fit or is not covered by competing theories.
+   (Ideally, the theory should predict the fact before the fact is known,
+   but that is not essential for the fact to be evidence.)  The millions
+   of facts referred to above fit this criterion, so they qualify as
+   evidence for evolution.
+
+3. The interpretation on which creationism depends, in contrast, is based
+   only on highly questionable and subjective ideas that do not fit
+   together into a coherent whole.
+
+Links:
+
+Wilkins, John. 1997.  Evolution and philosophy: Is evolution science, and
+ what does 'science' mean? 
+ http://www.talkorigins.org/faqs/evolphil/falsify.html
+
+References:
+
+1. Sacks, Oliver. 1995.  _An Anthropologist on Mars_.  New York: Vintage
+   Books.
+
+Further Reading:
+
+Date: 2001-2-18

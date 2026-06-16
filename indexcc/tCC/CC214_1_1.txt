@@ -1,0 +1,82 @@
+BriefClaim: Archaeopteryx is fully bird
+Title: Archaeopteryx a bird?
+Keywords: fossil
+
+Claim:
+
+_Archaeopteryx_ was fully bird.  It had fully formed wings and feathers.
+
+Source:
+
+LifeHow, pp.
+ 79-80.
+SciCre, p. 85.
+
+Response:
+
+1. _Archaeopteryx_ is defined to be a bird (technically, an avialan).
+   However, it had many more dinosaurian traits than bird traits.  Its
+   main bird traits are
+    - long external nostrils.
+    - quadrate and quadratojugal (two jaw bones) not sutured together.
+    - palatine bones that have three extensions.
+    - all teeth lacking serrations.
+    - large lateral furrows in top rear body of the vertebrae.
+
+   Other birdlike traits of _Archaeopteryx_ are found also on several
+   non-avian dinosaurs.  These traits include feathers, a furcula
+   (wishbone) fused at the midline, and a pubis elongate and directed
+   backward.  The birdlike hallux (toe) attributed to _Archaeopteryx_ is
+   not found on a recent better preserved specimen (Mayr et al. 2005;
+   see also Middleton 2002).
+
+   Dinosaurian traits include the following:
+    - no bill
+    - teeth on premaxilla and maxilla bones
+    - nasal opening far forward, separated from the eye by a large
+      preorbital fenestra (hole)
+    - neck attached to skull from the rear
+    - center of cervical vertebrae that have simple concave articular facets
+    - long bony tail; no pygostyle
+    - ribs slender, without joints or uncinate processes, and not
+      articulated with the sternum
+    - sacrum that occupies six vertebrae
+    - small thoracic girdle
+    - metacarpals free (except third metacarpal), wrist hand joint flexible
+    - claws on three unfused digits
+    - pelvic girdle and femur joint shaped like those of
+      archosaurs in many details
+    - bones of pelvis unfused
+   and over 100 other differences from birds (Chiappe 2002; Norell and
+   Clarke 2001).
+
+   In addition, _Archaeopteryx_ was intermediate between dinosaurs and
+   modern birds in the shape of the coracoid and humerus bones and the
+   brain (Elzanowski 2002; Nedin 1999).
+
+Links:
+
+Nedin, Chris. 1999.  All about Archaeopteryx.
+ http://www.talkorigins.org/faqs/archaeopteryx/info.html
+
+References:
+
+1. Chiappe, L. M. 2002.  Basal bird phylogeny.  In:
+   Chiappe and Witmer, pp. 448-472.
+2. Chiappe, L. M. and L. M. Witmer (eds.). 2002.  _Mesozoic Birds: Above
+   the Heads of Dinosaurs_.  Berkeley: Univ. of California Press.
+3. Elzanowski, A. 2002.  Archaeopterygidae (Upper Jurassic of Germany).
+   In: Chiappe and Witmer, pp. 129-159.
+4. Mayr, Gerald, Burkhard Pohl, and D. Stefan Peters. 2005.  A
+   well-preserved _Archaeopteryx_ specimen with theropod features.
+   _Science_ 310: 1483-1486.
+4. Middleton, K. M. 2002.  Evolution of the perching foot in theropods.
+   _Journal of Vertebrate Paleontology_ 22: 88A.
+5. Nedin, Chris. 1999. (see above)
+6. Norell, M. A. and J. A. Clarke. 2001.  Fossil that fills a critical gap
+   in avian evolution.  _Nature_ 409: 181-184.
+
+
+Further Reading:
+
+Date: 2003-5-10, 2005-4-18

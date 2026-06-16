@@ -1,0 +1,60 @@
+BriefClaim: Pope's statement about evolution was mistranslated.
+Title: Pope's statement about evolution
+Keywords: Pope
+
+Claim:
+
+Pope John Paul II's statement that evolution is "more than a hypothesis"
+is a mistranslation; it should be "more than _one_ hypothesis," implying a
+lack of unanimity among scientists.
+
+Source:
+
+Response:
+
+1. The Pope's message was indeed mistranslated, but in a way opposite to
+   the claim.  The phrase which, in the original French, means "more than
+   a hypothesis" was mistranslated into English as "more than one
+   hypothesis."  Looking at the document as a whole, it is clear that the
+   Pope accepts evolution as a scientifically accepted fact.  The
+   sentences following the one in question refer to a convergence of
+   acceptance by researchers.  The message expands on _Humani Generis_,
+   which "had already stated that there was no opposition between
+   evolution and the doctrine of the faith about man and his vocation,"
+   provided certain spiritual points were not disregarded.  The science is
+   not in dispute.
+
+2. The question of unanimity among scientists should be addressed to
+   scientists, who show substantial unanimity in agreement with the theory
+   of evolution (NCSE, n.d.).
+
+3. The truth of the theory of evolution is not decided by an
+   <CA112>argument from authority>.
+
+Links:
+
+Akin, James. 1996.  Evolution: What the Pope said,
+ http://www.cin.org/users/james/files/whatsaid.htm
+
+Thomas, Cal. 1997 (Jan. 25).  We're all fallible: The pope, evolution, and
+ the importance of good translation _World on the Web_ 11(33)
+ https://web.archive.org/web/20020621225616if_/http://lordibelieve.org/twotw/pope.PDF
+
+References:
+
+1. NCSE. n.d., Voices for evolution: Statements from scientific and scholarly
+   organizations,
+   https://web.archive.org/web/20080720031303if_/http://www.ncseweb.org/resources/articles/3053_statements_from_scientific_and_12_19_2002.asp
+
+Further Reading:
+
+Pope John Paul II. 1996.  Magisterium is concerned with question of
+ evolution for it involves conception of man: Message to Pontifical
+ Academy of Sciences, October 22, 1996.
+ http://www.cin.org/jp2evolu.html
+
+Gould, Stephen J. 1998.  Non-overlapping magisteria.  In: _Leonardo's
+ Mountain of Clams and the Diet of Worms_. New York: Three Rivers Press,
+ pp. 269-283.  See esp. footnote on pg. 279.
+
+Date: 2003-3-25, 2003-9-8

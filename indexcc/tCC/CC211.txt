@@ -1,0 +1,68 @@
+BriefClaim: There are gaps between invertebrates and vertebrates.
+Title: Invertebrate-vertebrate transition
+Keywords: transitional
+
+Claim:
+
+No fossils have been found transitional between invertebrates and
+vertebrates.
+
+Source:
+
+SciCre, p. 82
+
+Response:
+
+1. There are Cambrian fossils transitional between vertebrate and
+   invertebrate:
+    a. _Pikaia_, an early invertebrate chordate.  It was at first
+       interpreted as a segmented worm until a reanalysis showed it had a
+       notochord.
+    b. _Yunnanozoon_, an early chordate.
+    c. _Haikouella_, a chordate similar to _Yunnanozoon_, but with
+       additional traits, such as a heart and a relatively larger brain
+       (Chen et al. 1999).
+    d. Conodont animals had bony teeth, but the rest of their body was
+       soft.  They also had a notochord (Briggs et al. 1983; Sansom et
+       al. 1992).
+    e. _Cathaymyrus diadexus_, the oldest known chordate (535 million
+       years old; Shu et al. 1996).
+    f. _Myllokunmingia_ and _Haikouichthys_, two early vertebrates that
+       still lack a clear head and bony skeletons and teeth.  They differ
+       from earlier invertebrate chordates in having a zigzag arrangement
+       of segmented muscles, and their gill arrangement is more complex
+       than a simple slit (Monastersky 1999).
+
+2. There are living invertebrate chordates (Branchiostoma [_Amphioxus_],
+   urochordates [tunicates]) and living basal near-vertebrates (hagfish,
+   lampreys) that show plausible intermediate forms.
+
+Links:
+
+Monastersky, Richard, 1999.  Waking up to the dawn of vertebrates.
+ _Science News_ 156: 292.
+ https://web.archive.org/web/20080829171750if_/http://www.sciencenews.org/sn_arc99/11_6_99/fob1.htm
+
+References:
+
+1. Briggs, D. E. G., E. N. K. Clarkson and R. J. Aldridge, 1983.  The
+   conodont animal.  _Lethaia_ 16: 1-14.
+2. Chen, J.-Y., D.-Y. Huang and C.-W. Li, 1999.  An early Cambrian
+   craniate-like chordate.  _Nature_ 402: 518-522.
+   https://web.archive.org/web/20060916031110if_/http://www.nature.com/cgi-taf/DynaPage.taf?file=/nature/journal/v402/n6761/full/402518a0_r.html
+3. Monastersky, R., 1999. (see above).
+4. Sansom, I. J., M. P. Smith, H. A. Armstrong and M. M. Smith, 1992.
+   Presence of the earliest vertebrate hard tissues in conodonts.
+   _Science_ 256: 1308-1311.
+5. Shu, D.-G., S. Conway Morris and X.-L. Zhang, 1996.  A _Pikaia_-like
+   chordate from the Lower Cambrian of China.  _Nature_ 384: 157-158.
+
+Further Reading:
+
+Speer, B. R. 2000.  Introduction to the Deuterostomia.
+ http://www.ucmp.berkeley.edu/phyla/deuterostomia.html
+
+Waggoner, Ben. 1996.  Introduction to the Cephalochordata.
+ http://www.ucmp.berkeley.edu/chordata/cephalo.html
+
+Date: 2003-7-5

@@ -1,0 +1,102 @@
+BriefClaim: The bombardier beetle is too complex to have evolved.
+Title: Bombardier beetle evolution
+Keywords: bombardier beetle, Brachinus, evolution, design, incredulity.
+
+Claim:
+
+The bombardier beetle cannot be explained by evolution.  It must have been
+designed.
+
+Source:
+
+AIG, 1990. The amazing bombardier beetle.  _Creation Ex Nihilo_ 
+ 12(1): 29.
+Gish, Duane T., 1977.  _Dinosaurs: Those Terrible Lizards_.  El Cajon, CA:
+ Master Book, pp. 51-55.
+
+Response:
+
+1. This is an <CA100>argument from incredulity>.  It is based in
+   part on <CB310_1>an inaccurate description> of how the beetle's
+   bombardier mechanism works, but even then the argument rests solely on
+   the lack of even looking for evidence.  In fact, an evolutionary
+   pathway that accounts for the bombardier beetle is not hard to come up
+   with (Isaak 1997).  One plausible sequence (much abbreviated) is thus:
+    a. Insects produce quinones for tanning their cuticle. Quinones make
+       them distasteful, so the insects evolve to produce more of them
+       and to produce other defensive chemicals, including
+       hydroquinones.
+    b. The insects evolve depressions for storing quinones and muscles for
+       ejecting them onto their surface when threatened with being
+       eaten. The depression becomes a reservoir with secretory glands
+       supplying hydroquinones into it.  This configuration exists in many
+       beetles, including close relatives of bombardier beetles (Forsyth
+       1970).
+    c. Hydrogen peroxide becomes mixed with the hydroquinones. Catalases
+       and peroxidases appear along the output passage of the reservoir,
+       ensuring that more quinones appear in the exuded product.
+    d. More catalases and peroxidases are produced, generating oxygen and
+       producing a foamy discharge, as in the bombardier beetle _Metrius
+       contractus_ (Eisner et al. 2000).
+    e. As the output passage becomes a hardened reaction chamber, still
+       more catalases and peroxidases are produced, gradually becoming
+       today's bombardier beetles.
+
+   All of the steps are small or can be easily broken down into smaller
+   ones, and all are probably selectively advantageous.  Several of the
+   intermediate stages are known to be viable by the fact that they exist
+   in other living species.
+
+2. Bombardier beetles illustrate other aspects of life that look
+   undesigned:
+   - With design, we expect similar forms to be created for similar
+     functions and different forms for different functions (Morris 1974, 70).
+     However, what we see is different forms for similar functions.  Many
+     ground beetles have very similar habits and habitats as centipedes,
+     but their forms differ greatly.  Different groups of bombardier
+     beetles use very different mechanisms for the same function of aiming
+     their spray (Eisner 1958; Eisner and Aneshansley 1982).
+   - Some forms have no function.  Some bombardier beetles have vestigial
+     flight wings (Erwin 1970, 46,55,91,114-115,119).
+   - If bombardier beetles have a purpose, then death is an integral part
+     of it, since the beetles are predators (some, as larvae, are
+     parasitoids, gradually eating pupae of other beetles [Erwin 1967]),
+     and their spray is a defense against other predators.  Many
+     creationists claim that death was not part of God's design.
+
+
+Links:
+
+Isaak, Mark, 1997.  Bombardier beetles and the argument of design. 
+ http://www.talkorigins.org/faqs/bombardier.html
+
+References:
+
+1. Erwin, Terry L., 1967.  Bombardier beetles (Coleoptera, Carabidae) of North
+   America: Part II. Biology and behavior of _Brachinus pallidus_ Erwin in
+   California.  _Coleopterists' Bulletin_ 21: 41-55.
+2. Erwin, Terry L., 1970.  A reclassification of bombardier beetles and a
+   taxonomic revision of the North and Middle American species (Carabidae:
+   Brachinida).  _Quaestiones Entomologicae_ 6: 4-215.
+3. Eisner, T., 1958.  The protective role of the spray mechanism of the
+   bombardier beetle, _Brachynus ballistarius_ Lec.  _Journal of Insect
+   Physiology_ 2: 215-220.
+4. Eisner, T. and D. J. Aneshansley, 1982.  Spray aiming in bombardier
+   beetles: jet deflection by the Coanda effect.  _Science_ 215: 83-85.
+5. Eisner, T., D. J. Aneshansley, M. Eisner, A. B. Attygalle, D. W.
+   Alsop and J. Meinwald, 2000. Spray mechanism of the most
+   primitive bombardier beetle (_Metrius contractus_).
+   _Journal of Experimental Biology_ 203: 1265-1275.
+6. Forsyth, D. J., 1970. The structure of the defence glands of the
+   Cicindelidae, Amphizoidae, and Hygrobiidae (Insecta:
+   Coleoptera). _Journal of Zoology, London_ 160: 51-69.
+7. SciCre.
+
+Further Reading:
+
+Weber, C. G., 1981.  The bombardier beetle myth exploded. 
+ _Creation/Evolution_ 2(1): 1-5.
+
+Angier, N., 1985.  Drafting the bombardier beetle.  _Time_ (Feb. 25), 70.
+
+Date: 2001-2-17, 2004-2-19

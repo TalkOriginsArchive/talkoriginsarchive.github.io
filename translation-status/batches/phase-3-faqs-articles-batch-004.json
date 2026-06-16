@@ -1,0 +1,920 @@
+{
+  "id": "phase-3-faqs-articles-batch-004",
+  "phase": "phase-3-faqs-articles",
+  "phase_label": "FAQs and Articles",
+  "sequence": 4,
+  "status": "complete",
+  "page_count": 50,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/faqs/dating.html",
+      "source_path": "faqs/dating.html",
+      "title": "Radiometric Dating and the Geological Time\nScale",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 46525
+    },
+    {
+      "route": "/faqs/debate-age-of-earth.html",
+      "source_path": "faqs/debate-age-of-earth.html",
+      "title": "A talk.origins Age of the Earth Debate",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 73498
+    },
+    {
+      "route": "/faqs/debate-rob-day.html",
+      "source_path": "faqs/debate-rob-day.html",
+      "title": "An Account of a Debate with a Creationist",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 35488
+    },
+    {
+      "route": "/faqs/debating-creationists.html",
+      "source_path": "faqs/debating-creationists.html",
+      "title": "Debating Creationists: Some Pointers",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2339
+    },
+    {
+      "route": "/faqs/debating/gish.html",
+      "source_path": "faqs/debating/gish.html",
+      "title": "Debating the ICR's Duane Gish",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9519
+    },
+    {
+      "route": "/faqs/debating/globetrotters.html",
+      "source_path": "faqs/debating/globetrotters.html",
+      "title": "Debates and the Globetrotters",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 13589
+    },
+    {
+      "route": "/faqs/denton.html",
+      "source_path": "faqs/denton.html",
+      "title": "Critique of Michael Denton's \"Evolution: A Theory in Crisis\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 31672
+    },
+    {
+      "route": "/faqs/dinosaur/bird_and_frog_development.html",
+      "source_path": "faqs/dinosaur/bird_and_frog_development.html",
+      "title": "Digit Numbering and Limb Development",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 13107
+    },
+    {
+      "route": "/faqs/dinosaur/blood.html",
+      "source_path": "faqs/dinosaur/blood.html",
+      "title": "Dino Blood and the Young Earth",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 35647
+    },
+    {
+      "route": "/faqs/dinosaur/flesh.html",
+      "source_path": "faqs/dinosaur/flesh.html",
+      "title": "Dino Blood Redux",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 43536
+    },
+    {
+      "route": "/faqs/dinosaur/osteocalcin.html",
+      "source_path": "faqs/dinosaur/osteocalcin.html",
+      "title": "Ancient Molecules and Modern Myths",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 31141
+    },
+    {
+      "route": "/faqs/dover/Newday16pm.html",
+      "source_path": "faqs/dover/Newday16pm.html",
+      "title": "Kitzmiller v. Dover: Day 16, PM: William Buckingham",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 64908
+    },
+    {
+      "route": "/faqs/dover/buell.html",
+      "source_path": "faqs/dover/buell.html",
+      "title": "Kitzmiller v. Dover: July 21: Reporter's status",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 45320
+    },
+    {
+      "route": "/faqs/dover/buell2.html",
+      "source_path": "faqs/dover/buell2.html",
+      "title": "Kitzmiller v. Dover: July 14 Hearing: Jon A. Buell",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 96842
+    },
+    {
+      "route": "/faqs/dover/day10am.html",
+      "source_path": "faqs/dover/day10am.html",
+      "title": "Kitzmiller v. Dover: Day 10, AM: Michael Behe",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 90867
+    },
+    {
+      "route": "/faqs/dover/day10am2.html",
+      "source_path": "faqs/dover/day10am2.html",
+      "title": "Kitzmiller v. Dover: Day 10, AM: Michael Behe (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 52794
+    },
+    {
+      "route": "/faqs/dover/day10pm.html",
+      "source_path": "faqs/dover/day10pm.html",
+      "title": "Kitzmiller v. Dover: Day 10, PM: Michael Behe",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 72320
+    },
+    {
+      "route": "/faqs/dover/day10pm2.html",
+      "source_path": "faqs/dover/day10pm2.html",
+      "title": "Kitzmiller v. Dover: Day 10, PM: Michael Behe (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 52539
+    },
+    {
+      "route": "/faqs/dover/day11am.html",
+      "source_path": "faqs/dover/day11am.html",
+      "title": "Kitzmiller v. Dover: Day 11, AM: Michael Behe",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 54840
+    },
+    {
+      "route": "/faqs/dover/day11am2.html",
+      "source_path": "faqs/dover/day11am2.html",
+      "title": "Kitzmiller v. Dover: Day 11, AM: Michael Behe (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 67019
+    },
+    {
+      "route": "/faqs/dover/day11pm.html",
+      "source_path": "faqs/dover/day11pm.html",
+      "title": "Kitzmiller v. Dover: Day 11, PM: Michael Behe",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 64742
+    },
+    {
+      "route": "/faqs/dover/day11pm2.html",
+      "source_path": "faqs/dover/day11pm2.html",
+      "title": "Kitzmiller v. Dover: Day 11, PM: Michael Behe (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 65597
+    },
+    {
+      "route": "/faqs/dover/day12am.html",
+      "source_path": "faqs/dover/day12am.html",
+      "title": "Kitzmiller v. Dover: Day 12, AM: Michael Behe",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 57277
+    },
+    {
+      "route": "/faqs/dover/day12am2.html",
+      "source_path": "faqs/dover/day12am2.html",
+      "title": "Kitzmiller v. Dover: Day 12, AM: Michael Behe (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 75399
+    },
+    {
+      "route": "/faqs/dover/day12pm.html",
+      "source_path": "faqs/dover/day12pm.html",
+      "title": "Kitzmiller v. Dover: Day 12, PM: Michael Behe",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 45524
+    },
+    {
+      "route": "/faqs/dover/day12pm2.html",
+      "source_path": "faqs/dover/day12pm2.html",
+      "title": "Kitzmiller v. Dover: Day 12, PM: Michael Behe (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 62112
+    },
+    {
+      "route": "/faqs/dover/day13pm.html",
+      "source_path": "faqs/dover/day13pm.html",
+      "title": "Kitzmiller v. Dover: Day 13, PM: Richard Nilsen",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 60398
+    },
+    {
+      "route": "/faqs/dover/day13pm2.html",
+      "source_path": "faqs/dover/day13pm2.html",
+      "title": "Kitzmiller v. Dover: Day 13, PM: Richard Nilsen (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 55018
+    },
+    {
+      "route": "/faqs/dover/day14am.html",
+      "source_path": "faqs/dover/day14am.html",
+      "title": "Kitzmiller v. Dover: Day 14, AM: Richard Nilsen",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 64388
+    },
+    {
+      "route": "/faqs/dover/day14am2.html",
+      "source_path": "faqs/dover/day14am2.html",
+      "title": "Kitzmiller v. Dover: Day 14, AM: Richard Nilsen (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 67068
+    },
+    {
+      "route": "/faqs/dover/day14pm.html",
+      "source_path": "faqs/dover/day14pm.html",
+      "title": "Kitzmiller v. Dover: Day 14, PM: Richard Nilsen",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 54400
+    },
+    {
+      "route": "/faqs/dover/day14pm2.html",
+      "source_path": "faqs/dover/day14pm2.html",
+      "title": "Kitzmiller v. Dover: Day 14, PM: Michael Richard Baksa",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 75457
+    },
+    {
+      "route": "/faqs/dover/day15am.html",
+      "source_path": "faqs/dover/day15am.html",
+      "title": "Kitzmiller v. Dover: Day 15, AM: Steve William Fuller",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 70142
+    },
+    {
+      "route": "/faqs/dover/day15am2.html",
+      "source_path": "faqs/dover/day15am2.html",
+      "title": "Kitzmiller v. Dover: Day 15, AM: Steve William Fuller (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 92916
+    },
+    {
+      "route": "/faqs/dover/day15pm.html",
+      "source_path": "faqs/dover/day15pm.html",
+      "title": "Kitzmiller v. Dover: Day 15, PM: Stephen Fuller",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 71472
+    },
+    {
+      "route": "/faqs/dover/day15pm2.html",
+      "source_path": "faqs/dover/day15pm2.html",
+      "title": "Kitzmiller v. Dover: Day 15, PM: Stephen Fuller (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 53769
+    },
+    {
+      "route": "/faqs/dover/day16am.html",
+      "source_path": "faqs/dover/day16am.html",
+      "title": "Kitzmiller v. Dover: Day 16, AM: William Buckingham",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 63393
+    },
+    {
+      "route": "/faqs/dover/day16am2.html",
+      "source_path": "faqs/dover/day16am2.html",
+      "title": "Kitzmiller v. Dover: Day 16, AM: Bill Buckingham (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 65327
+    },
+    {
+      "route": "/faqs/dover/day16pm.html",
+      "source_path": "faqs/dover/day16pm.html",
+      "title": "Kitzmiller v. Dover: Day 16, PM: William Buckingham",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 64956
+    },
+    {
+      "route": "/faqs/dover/day16pm2.html",
+      "source_path": "faqs/dover/day16pm2.html",
+      "title": "Kitzmiller v. Dover: Day 16, PM: Heidi Bernhard-Bubb",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 63348
+    },
+    {
+      "route": "/faqs/dover/day17am.html",
+      "source_path": "faqs/dover/day17am.html",
+      "title": "Kitzmiller v. Dover: Day 17, AM: Heidi Bernhard-Bubb & Joseph Maldonado",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 63119
+    },
+    {
+      "route": "/faqs/dover/day17am2.html",
+      "source_path": "faqs/dover/day17am2.html",
+      "title": "Kitzmiller v. Dover: Day 17, AM: Joseph S. Maldonado",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 66603
+    },
+    {
+      "route": "/faqs/dover/day17pm.html",
+      "source_path": "faqs/dover/day17pm.html",
+      "title": "Kitzmiller v. Dover: Day 17, PM: Heather Geesey",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 69620
+    },
+    {
+      "route": "/faqs/dover/day17pm2.html",
+      "source_path": "faqs/dover/day17pm2.html",
+      "title": "Kitzmiller v. Dover: Day 14, PM: Michael Baksa",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 41403
+    },
+    {
+      "route": "/faqs/dover/day18am.html",
+      "source_path": "faqs/dover/day18am.html",
+      "title": "Kitzmiller v. Dover: Day 18, AM: Alan Bonsell",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 57999
+    },
+    {
+      "route": "/faqs/dover/day18am2.html",
+      "source_path": "faqs/dover/day18am2.html",
+      "title": "Kitzmiller v. Dover: Day 18, AM: Alan Bonsell (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 75293
+    },
+    {
+      "route": "/faqs/dover/day18pm.html",
+      "source_path": "faqs/dover/day18pm.html",
+      "title": "Kitzmiller v. Dover: Day 18, PM: Alan Bonsell",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 69334
+    },
+    {
+      "route": "/faqs/dover/day18pm2.html",
+      "source_path": "faqs/dover/day18pm2.html",
+      "title": "Kitzmiller v. Dover: Day 18, PM: Alan Bonsell (continued)",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 69951
+    },
+    {
+      "route": "/faqs/dover/day19am.html",
+      "source_path": "faqs/dover/day19am.html",
+      "title": "Kitzmiller v. Dover: Day 19, AM: Alan Bonsell & Sheila Harkins",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 55564
+    },
+    {
+      "route": "/faqs/dover/day19am2.html",
+      "source_path": "faqs/dover/day19am2.html",
+      "title": "Kitzmiller v. Dover: Day 19, AM: Sheila Harkins",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-004",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 76630
+    }
+  ],
+  "status_counts": {
+    "translated": 200
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

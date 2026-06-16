@@ -1,0 +1,38 @@
+BriefClaim: Overspecialization with no adaptive value sometimes occurs.
+Title: Overspecialization
+Keywords: overspecialization, trends
+
+Claim:
+
+Evolution says that complex structures would not be formed without a
+selective advantage for them.  But overspecialization with no adaptive
+value sometimes occurs.  An example is the enormous antlers of the Irish
+elk.  Despite the seeming disadvantages, animals with such extreme
+features seem to do as well as other animals.
+
+Source:
+
+Macbeth, Norman, 1971.  _Darwin Retried_.  Boston: Delta, pp. 70-73
+
+Response:
+
+1. There are no established cases of overspecialization that did not have
+   adaptive value.  In some cases, the adaptive value may not be obvious,
+   but there are none where its absence is plausible.  In particular,
+   sexual selection can produce exaggerated and seemingly detrimental
+   features, such as the stalks of stalk-eyed flies and the huge antlers
+   of Irish elk.
+
+2. Adaptation can become non-adaptive overspecialization when the
+   environment changes.  If a flower becomes dependant on one pollinator,
+   for example, the loss of the pollinator can cause the extinction of the
+   flower.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-7-28, 2004-3-1
+

@@ -1,0 +1,126 @@
+BriefClaim: Karl Popper said Darwinism is not testable.
+Title: Popper on natural selection's testability
+Keywords: Popper, falsifiability, testability, science.
+
+Claim:
+
+According to philosopher of science Sir Karl Popper, a theory must be
+falsifiable to qualify as scientific.  Popper (1976, 151) said, "Darwinism
+is not a testable scientific theory but a metaphysical research
+programme."
+
+Source:
+
+Kranz, Russell. n.d.  Karl Popper's challenge.
+ http://www.creationism.org/csshs/v02n4p20.htm
+
+Response:
+
+1. Popper's statement of nonfalsifiability was pretty mild, not as
+   extensive as it is often taken.  He applied it only to natural
+   selection, not evolution as a whole, and he allowed that some testing
+   of natural selection was possible, just not a significant amount.
+
+   Moreover, he said that natural selection is a useful theory.  A
+   "metaphysical research programme" was to him not a bad thing; it is an
+   essential part of science, as it guides productive research by
+   suggesting predictions.  He said of Darwinism,
+
+    "And yet, the theory is invaluable.  I do not see how, without it, our
+     knowledge could have grown as it has done since Darwin.  In trying to
+     explain experiments with bacteria which become adapted to, say,
+     penicillin, it is quite clear that we are greatly helped by the
+     theory of natural selection.  Although it is metaphysical, it sheds
+     much light upon very concrete and very practical researches.  It
+     allows us to study adaptation to a new environment (such as a
+     penicillin-infested environment) in a rational way: it suggests the
+     existence of a mechanism of adaptation, and it allows us even to
+     study in detail the mechanism at work.  And it is the only theory so
+     far which does all that. (Popper 1976, 171-172)
+
+   Finally, Popper notes that theism as an explanation of adaptation "was
+   worse than an open admission of failure, for it created the impression
+   that an ultimate explanation had been reached" (Popper 1976, 172).
+
+2. Popper later changed his mind and recognized that natural selection is
+   testable.  Here is an excerpt from a later writing on "Natural
+   Selection and Its Scientific Status" (Miller 1985, 241-243; see also
+   Popper 1978):
+
+    "When speaking here of Darwinism, I shall speak always of today's
+     theory - that is Darwin's own theory of natural selection supported
+     by the Mendelian theory of heredity, by the theory of the mutation
+     and recombination of genes in a gene pool, and by the decoded genetic
+     code.  This is an immensely impressive and powerful theory.  The
+     claim that it completely explains evolution is of course a bold
+     claim, and very far from being established.  All scientific theories
+     are conjectures, even those that have successfully passed many severe
+     and varied tests.  The Mendelian underpinning of modern Darwinism has
+     been well tested, and so has the theory of evolution which says that
+     all terrestrial life has evolved from a few primitive unicellular
+     organisms, possibly even from one single organism.
+
+     However, Darwin's own most important contribution to the theory of
+     evolution, his theory of natural selection, is difficult to test.
+     There are some tests, even some experimental tests; and in some
+     cases, such as the famous phenomenon known as 'industrial melanism',
+     we can observe natural selection happening under our very eyes, as it
+     were.  Nevertheless, really severe tests of the theory of natural
+     selection are hard to come by, much more so than tests of otherwise
+     comparable theories in physics or chemistry.
+
+     The fact that the theory of natural selection is difficult to test
+     has led some people, anti-Darwinists and even some great Darwinists,
+     to claim that it is a tautology [see <CA500>CA500>].  A tautology
+     like 'All tables are tables' is not, of course, testable; nor has it
+     any explanatory power.  It is therefore most surprising to hear that
+     some of the greatest contemporary Darwinists themselves formulate the
+     theory in such a way that it amounts to the tautology that those
+     organisms that leave most offspring leave most offspring.
+     C. H. Waddington says somewhere (and he defends this view in other
+     places) that 'Natural selection . . . turns out ... to be a
+     tautology' ..4 However, he attributes at the same place to the theory
+     an 'enormous power. ... of explanation'.  Since the explanatory power
+     of a tautology is obviously zero, something must be wrong here.
+
+     Yet similar passages can be found in the works of such great
+     Darwinists as Ronald Fisher, J. B. S. Haldane, and George Gaylord
+     Simpson; and others.
+
+     I mention this problem because I too belong among the culprits.
+     Influenced by what these authorities say, I have in the past
+     described the theory as 'almost tautological', and I have tried to
+     explain how the theory of natural selection could be untestable (as
+     is a tautology) and yet of great scientific interest.  My solution
+     was that the doctrine of natural selection is a most successful
+     metaphysical research programme.  It raises detailed problems in many
+     fields, and it tells us what we would expect of an acceptable
+     solution of these problems.
+
+     I still believe that natural selection works in this way as a
+     research programme.  Nevertheless, I have changed my mind about the
+     testability and the logical status of the theory of natural
+     selection; and I am glad to have an opportunity to make a
+     recantation.  My recantation may, I hope, contribute a little to the
+     understanding of the status of natural selection.
+
+Links:
+
+Brush, Stephen G. 1994.  Popper and evolution.  RNCSE 13(4)-14(1): 29.
+ https://web.archive.org/web/20070519062019if_/http://www.ncseweb.org/resources/articles/8401_popper_and_evolution_9_10_2003.asp
+
+References:
+
+1. Miller, David. 1985.  _Popper Selections_.
+2. Popper, Karl. 1976.  _Unended Quest: An Intellectual Autobiography_
+   Glasgow: Fontana/Collins.
+3. Popper, Karl. 1978.  Natural selection and the emergence of mind.
+   _Dialectica_ 32: 339-355.  (excerpt at
+   https://web.archive.org/web/20091027093508if_/http://www.geocities.com/criticalrationalist/popperevolution.htm )
+
+Further Reading:
+
+Cole, John R. 1981.  Misquoted scientists respond.  _Creation/Evolution_
+ 6: 34-44.
+
+Date: 2005-11-2

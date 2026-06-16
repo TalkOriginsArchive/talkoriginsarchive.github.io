@@ -1,0 +1,39 @@
+BriefClaim: Amino acids are not generated from just CO2, nitrogen, and water.
+Title: Amino acids from simple atmosphere
+Keywords: Miller-Urey, amino acid, abiogenesis
+
+Claim:
+
+When the Miller-Urey experiment is run with an atmosphere consisting only
+of carbon dioxide, nitrogen, and water vapor, no amino acids are
+produced.
+
+Source:
+
+Discovery Institute. 2003.  A preliminary analysis of the treatment of
+ evolution in biology textbooks currently being considered for adoption by
+ the Texas State Board of Education.
+ http://www.discovery.org/articleFiles/PDFs/TexasPrelim.pdf, p. 5.
+
+Response:
+
+1. The claim is false.  Such an atmosphere does give rise to amino
+   acids (Schlesinger and Miller 1983).
+
+Links:
+
+Gishlick, Alan D. n.d.  Icons of evolution?  Miller-Urey experiment.
+ https://web.archive.org/web/20040221170140if_/http://www.ncseweb.org/icons/icon1millerurey.html
+
+References:
+
+1. Schlesinger, G. and S. L. Miller. 1983.  Prebiotic synthesis in
+   atmospheres containing CH<sub>4</sub>, CO, and CO<sub>2</sub>. I. Amino
+   acids.  _Journal of Molecular Evolution_ 19(5): 376-382.
+
+Further Reading:
+
+Ellington, Andrew D. and Matthew Levy. 2003.  Gas, discharge, and the
+ Discovery Institute.  RNCSE 23(3-4): 39-40.
+
+Date: 2003-11-17, 2004-9-16

@@ -1,0 +1,71 @@
+BriefClaim: Human and chimp genomes differ by more than one percent.
+Title: Human/chimp genome difference
+Keywords: Homo sapiens, Pan troglodytes, genome
+
+Claim:
+
+For years, evolutionists have hailed the chimpanzee as "our closest living
+relative" and have pointed out that the DNA is 98 to 99 percent identical
+between the two.  Scientists now say the difference is 4 percent, double
+what they have been claiming for years.
+
+Source:
+
+DeWitt, David A. 2005.  Chimp genome sequence very different from man.
+ http://www.answersingenesis.org/docs2005/0905chimp.asp
+
+Response:
+
+1. The difference between chimpanzees and humans due to single-nucleotide
+   substitutions averages 1.23 percent, of which 1.06 percent or less is
+   due to fixed divergence, and the rest being a result of polymorphism
+   within chimp populations and within human populations.  Insertion and
+   deletion (indel) events account for another approximately 3 percent
+   difference between chimp and human sequences, but each indel typically
+   involves multiple nucleotides.  The number of genetic changes from
+   indels is a fraction of the number of single-nucleotide substitutions
+   (roughly 5 million compared with roughly 35 million).  So describing
+   humans and chimpanzees as 98 to 99 percent identical is entirely
+   appropriate (Chimpanzee Sequencing 2005).
+
+2. The difference measurement depends on what you are measuring.  If you
+   measure the number of proteins for which the entire protein is
+   identical in the two species, humans and chimpanzees are 29 percent
+   identical (Chimpanzee Sequencing 2005).  If you measure nonsynonymous
+   base pair differences within protein coding regions, humans and chimps
+   are 99.75 percent identical (Chimpanzee Sequencing 2005, fig. 9).
+   The original 98.4
+   percent estimate came from DNA hybridization experiments, which
+   measured (indirectly, via DNA melting temperature) sequence difference
+   among short segments of the genomes that are similar enough to
+   hybridize but with repetitive elements removed (Sibley and Ahlquist
+   1987).  Whatever measure is used, however, as long as the same
+   measurement is used consistently, will show that humans are more
+   closely related to chimpanzees (including the bonobo, sister species to
+   the common chimpanzee) than to any other species.
+
+   Note also, though, that evolution has not been uniform throughout the
+   genomes, so estimates of human-chimp divergence which consider only
+   part of the genome can give different results (Britten 2002, Chen et
+   al. 2001).
+
+Links:
+
+References:
+
+1. Britten, Roy J. 2002.  Divergence between samples of chimpanzee and
+   human DNA sequences is 5% counting indels.  PNAS 99: 13633-13635.
+2. Chen, F.-C., E. J. Vallender, H. Wang, C.-S. Tzeng, and W.-H. Li.
+   2001.  Genomic divergence between human and chimpanzee estimated from
+   large-scale alignments of genomic sequences.
+   _Journal of Heredity_ 92(6): 481-489.
+3. Chimpanzee Sequencing and Analysis Consortium. 2005. Initial sequence
+   of the chimpanzee genome and comparison with the human genome. _Nature_
+   437: 69-87.
+4. Sibley, C. G. and J. E. Ahlquist. 1987.  DNA hybridization evidence of
+   hominid phylogeny: Results from an expanded data set.  _Journal of
+   Molecular Evolution_ 26: 99-121.
+
+Further Reading:
+
+Date: 2005-9-28

@@ -1,0 +1,95 @@
+BriefClaim: Functional genetic sequences are too rare to evolve from one to another.
+Title: Functional genetic sequences changing
+Keywords: information, gene sequence, improbability, function, language
+
+Claim:
+
+Evolution requires that protein sequences change to very different
+sequences, with all the intermediate sequences staying functional.  But
+out of all possible sequences, functional sequences are extremely rare, so
+most functional sequences are highly isolated from each other.  Using
+language as an analogy, one sentence cannot be changed to another by
+gradual changes such that all the intermediate changes are meaningful.  It
+is highly improbable that random mutations could change one functional
+sequence to another.
+
+Source:
+
+Meyer, Stephen C., 2004.  The origin of biological information and the
+ higher taxonomic categories.  _Proceedings of the Biological Society of
+ Washington_ 117(2): 213-239.
+
+Response:
+
+1. Functional sequences are not so rare and isolated.  Experiments show
+   that roughly 1 in 10^11 of all random-sequence proteins have
+   ATP-binding activity (Keefe and Szostak 2001), and theoretical work by
+   H. P. Yockey (1992, 326-330) shows that at this density all functional
+   sequences are connected by single amino acid changes.  Furthermore,
+   there are several kinds of mutations that change multiple amino acids
+   at once.  A simulation of duplication and divergence in _E. coli_ based
+   on published measurements of mutants shows that new function can evolve
+   with neutral and harmful mutations playing an almost negligible role
+   (Poelwijk et al. 2006).
+
+2. There is a great deal of evidence showing that <CB101.2>novel genes>
+   with <CB904>novel functions> can and do evolve.  Even an arbitrary
+   genetic sequence can evolve to acquire functionality (Hayashi et
+   al. 2003).  Directed evolution in vitro is a powerful and increasingly
+   popular method of producing new genes and useful gene products
+   (Joyce 2004; Schmidt-Dannert 2001; Tao and Cornish 2002).  Directed
+   evolution can work even starting from random sequences.  Evolution of
+   novel sequences cannot be very improbable if it happens so easily and
+   so often.
+
+3. The analogy to language is flawed.  Proteins are far more flexible.
+   They can differ greatly in their sequence similarity, even seventy to
+   eighty percent or more, and still have the same function.
+
+4. Denton (1998, 276) wrote, "One of the most surprising discoveries which
+   has arisen from DNA sequencing has been the remarkable finding that the
+   genomes of all organisms are clustered very close together in a tiny
+   region of DNA sequence space forming a tree of related sequences that
+   can all be interconverted via a series of tiny incremental natural
+   steps."  Meyer cites an older work of Denton (1986) without alerting
+   readers to Denton's changed view.  Denton now criticizes intelligent
+   design advocates for ignoring the overwhelming evidence (Denton 1999).
+
+Links:
+
+Gishlick, Alan, Nick Matzke, and Wesley R. Elsberry, 2004.  Meyer's
+ hopeless monster.  https://web.archive.org/web/20080512035727if_/http://www.pandasthumb.org/pt-archives/000430.html
+
+References:
+
+1. Denton, M. J., 1986.  _Evolution: A Theory in Crisis_. Adler & Adler,
+   Bethesda, Maryland.
+2. Denton, M. J., 1998.  _Natures Destiny: How the Laws of Biology Reveal
+   Purpose in the Universe_.  Free Press.
+3. Denton, M. J., 1999.  The Intelligent Design movement: Comments on
+   Special Creationism.  In: _Darwinism Defeated? The Johnson-Lamoureux
+   Debate on Biological Origins_.  Regent College Publishing, pp. 141-153. 
+4. Hayashi, Y., H. Sakata, Y. Makino, I. Urabe, and T. Yomo, 2003. Can an
+   arbitrary sequence evolve towards acquiring a biological function?
+   _Journal of Molecular Evolution_ 56: 162-168.
+5. Joyce, G. F., 2004.  Directed evolution of nucleic acid enzymes.
+   _Annual Review of Biochemistry_ 73: 791-836.
+6. Keefe, A. D. and J. W. Szostak, 2001. Functional proteins from a
+   random-sequence library.  _Nature_ 410: 715-718.
+#7. Long, M. 2001. Evolution of novel genes.  _Current Opinion in Genetics
+#   and Development_ 11(6): 673-80.
+7. Poelwijk, Frank J., Daniel J. Kiviet and Sander J. Tans. 2006.
+   Evolutionary potential of a duplicated repressor-operator pair:
+   Simulating pathways using mutation data.  _PLoS Computational Biology_
+   2(5): e58.
+   http://compbiol.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pcbi.0020058
+7. Schmidt-Dannert, Claudia, 2001.  Directed evolution of single proteins,
+   metabolic pathways, and viruses.  _Biochemistry_ 40: 13125-13136.
+8. Tao, Haiyan and Virginia W. Cornish, 2002.  Milestones in directed
+   enzyme evolution.  _Current Opinion in Chemical Biology_ 6: 858-864.
+9. Yockey, H. P., 1992.  _Information Theory and Molecular Biology_.
+   Cambridge: Cambridge University Press.
+
+Further Reading:
+
+Date: 2004-9-22, 2006-5-30

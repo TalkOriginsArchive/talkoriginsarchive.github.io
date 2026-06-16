@@ -1,0 +1,32 @@
+BriefClaim: Snake venom and hollow fangs could not have evolved simultaneously.
+Title: Evolution of snake fangs
+Keywords: coevolution.
+
+Claim:
+
+Venomous snakes have hollow fangs and venom glands.  Evolution would
+have had to produce both of these innovations together, since either would
+be pointless without the other.
+
+Source:
+
+Response:
+
+1. Venom is not pointless without hollow fangs.  Gila monsters have venom
+   glands without hollow fangs.  Other venomous snakes have furrowed
+   fangs.  These show plausible intermediate forms to hollow-fanged
+   venomous snakes:
+    a. A nonvenomous snake already has teeth which break the skin of its
+       victim.
+    b. Poisonous saliva becomes advantageous to some snakes because it
+       can get into the victim and kill it faster.
+    c. Furrowed fangs allow the venom to be concentrated in the prey.
+    d. The furrows gradually become enclosed, resulting in hollow fangs.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-4-9

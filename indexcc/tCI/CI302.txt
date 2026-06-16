@@ -1,0 +1,104 @@
+BriefClaim: The cosmos is fine-tuned to permit scientific discovery.
+Title: Fine-tuning for discovery
+Keywords: anthropic principle, intelligent design, science
+
+Claim:
+
+The conditions that enable life to exist also give the best overall
+setting for scientific discovery; habitability correlates with
+measurability.  For example, the moon exists with the right size and
+distance so that a perfect total solar eclipse is observable, and the
+total solar eclipse of 1919 was crucial in testing general relativity.
+
+Source:
+
+Gonzalez, Guillermo and Jay W. Richards, 2004.  _The Privileged Planet_.
+ Washington DC: Regnery.
+# (See also Branch, G., 2002, "Intelligent Design" visits San
+# Francisco, RNCSE 22(6): 7.)
+
+Response:
+
+1. People tend to start with the easy stuff, and scientists are no
+   different.  The discoveries they have made would naturally tend to fall
+   in the areas where discovery is easiest.
+
+   When airline traffic was halted for three days after the 9/11 attack,
+   scientists took the opportunity to measure the effect of contrails
+   (Travis et al. 2002).  That does not mean the 9/11 attack was designed
+   for scientific discovery.  Likewise, the fact that scientists in
+   general have taken what measurements they have does not mean the
+   universe was designed to allow them to do so.
+
+2. The argument boils down to the tautology "If things had been
+   different, things would be different."  There is no evidence that a
+   different universe would be better or worse.  Different conditions
+   might make it harder to observe what is easy to observe now, but they
+   would make other observations easier, probably leading to the discovery
+   of things we do not yet know.  The philosophy behind this claim was
+   satirized by Voltaire (1759):
+
+    ""It is demonstrable," said he, "that things cannot be otherwise than
+     as they are; for as all things have been created for some end, they
+     must necessarily be created for the best end. Observe, for instance,
+     the nose is formed for spectacles, therefore we wear spectacles. The
+     legs are visibly designed for stockings, accordingly we wear
+     stockings. Stones were made to be hewn and to construct castles,
+     therefore My Lord has a magnificent castle; for the greatest baron in
+     the province ought to be the best lodged. Swine were intended to be
+     eaten, therefore we eat pork all the year round: and they, who assert
+     that everything is right, do not express themselves correctly; they
+     should say that everything is best."
+
+3. In many ways, the configuration of the universe hinders scientific
+   discovery.  For example:
+    - Things in space are hard to get to.  They are very far away; the
+      intervening vacuum is hostile to life; our gravity well makes it
+      costly to leave earth.
+    - The speed of light would hinder communication when and if we ever do
+      explore the galaxy.
+    - Our life spans are too short to individually note many important
+      changes in nature.
+    - Nobody knows of any easy way to find the structure of proteins.
+    - There appears to be no life on other planets with which to compare
+      terran life.
+    - Underwater exploration is quite inconvenient for us.
+    - Our brains may be structured so that some things are difficult to
+      understand.  Many people, for example, cannot seem to comprehend
+      that the question "What is outside the universe?" is meaningless.
+      Quantum mechanics and relativity are also difficult to
+      conceptualize.  And the tendency to categorize things into distinct
+      "kinds" may be biological.  (It is helpful for language, but it
+      hinders understanding of evolution.)
+
+4. A universe whose laws are easy to discover implies a simple universe,
+   but design theorists keep telling us how complex things are.
+
+5. The importance of the 1919 eclipse in establishing the truth of
+   relativity may be exaggerated (Collins 1998; see also Stanley 2003).
+   General relativity, like most theories, was established by a variety of
+   consistent observations.
+#   (Waller, John, 2003.  _Fabulous Science: Fact and Fiction in the History
+#   of Scientific Discovery_, Oxford University Press)
+   
+Links:
+
+References:
+
+1. Collins, Harry, 1998.  Hit or myth?  _New Scientist_ 159(2151) (12
+   Sep.): 36-39.
+#1. Collins, H. and T. Pinch, 1998.  _The Golem: What you should know about
+#   science_.  Cambridge University Press.
+2. Stanley, Matthew, 2003.  "An expedition to heal the wounds of war":
+   The 1919 eclipse and Eddington as Quaker adventurer. _Isis_ 94: 57-89.
+2. Travis, D. J., A. M. Carleton and R. G. Lauritsen, 2002.  Contrails
+   reduce daily temperature range.  _Nature_ 418: 601.
+3. Voltaire, 1759.  (see below)
+
+Further Reading:
+
+Voltaire, 1759.  _Candide_.
+ https://web.archive.org/web/20170501053215if_/http://www.literature.org/authors/voltaire/candide or
+ http://www.infidels.org/library/historical/voltaire/candide.html
+
+Date: 2003-7-9, 2004-6-30

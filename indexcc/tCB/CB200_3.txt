@@ -1,0 +1,43 @@
+BriefClaim: Protein transport within a cell is irreducibly complex.
+Title: Protein transport and Irreducibly Complexity
+Keywords: irreducible complexity, protein transport, design.
+
+Claim:
+
+The biochemistry of protein transport within a cell is irreducibly
+complex, indicating that it must have been designed.
+
+Source:
+
+DBB, pp. 98-116.
+
+Response:
+
+1. Despite the complexity of the system that Behe describes, protein
+   transport need not be that complex.  Some proteins direct their own
+   secretion so that no transport mechanism is necessary (see references
+   in Ussery 1999).  Certainly, other simple systems that could serve as
+   precursors to vesicular transport should be possible.
+
+2. Many of the proteins involved in transport in eukaryote cells have
+   molecular "ancestors" in bacteria.  These molecules, the ABC
+   transporters, serve in a much simpler system.  If Behe is interested in
+   the simplest system that accomplishes a function, why does he not even
+   mention them?
+
+3. Irreducible complexity <CB200>is not an obstacle to evolution> and
+   <CI102>doesn't imply design>.
+
+Links:
+
+References:
+
+1. Ussery, David. 1999.  A biochemist's response to "The biochemical
+   challenge to evolution".  _Bios_ 70: 40-45.
+   https://web.archive.org/web/20030624041733if_/http://www.cbs.dtu.dk/staff/dave/Behe.html
+
+Further Reading:
+
+Ussery, D. 1999.  (see above)
+
+Date: 2001-2-17, 2003-9-3

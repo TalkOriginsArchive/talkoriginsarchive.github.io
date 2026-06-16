@@ -1,0 +1,72 @@
+BriefClaim: Evolution does not explain language ability.
+Title: Evolution of language
+Keywords: language
+
+Claim:
+
+Evolution does not explain the evolution of language ability.
+
+Source:
+
+Yahya, Harun, 2004.  Errors concerning human intelligence on the BBC's
+ Horizon programme.
+ https://web.archive.org/web/20111111180403if_/http://www.harunyahya.net/V2/Lang/en/Pg/WorkDetail/Number/1905
+LifeHow, pp. 174-175.
+
+Response:
+
+1. We do not know the definitive explanation for how language ability
+   arose, but there are plausible hypotheses.  Intermediate stages 
+   may be reached by gradual changes.  For example:
+    - The larger brain size of primates arose before language; it may have
+      come from adaptation for functioning in social groups or for finding
+      food.
+    - Human brain size has evolved to be unusually large through neoteny;
+      the rapid brain growth of childhood is maintained for a longer
+      time.  It may have arisen in conjunction with the evolution of
+      language or before it.
+    - Before language, some communication already was done via gestures
+      (which itself probably arose as mimetic imitation) and via
+      vocalizations.  Spoken language ability may have built on those
+      vocalizations, or it may have been transferred from gestural
+      language, or both.
+    - Once vocal protolanguage began, the vocal tract and neural
+      connections for producing and controlling speech would have begun
+      evolving.  Speech probably began in _Homo erectus_ more than a
+      million years ago.
+    - Once language becomes a central part of human behavior, language
+      acquisition comes more readily because of the Baldwin effect; the
+      plasticity of learning allows natural selection for language ability
+      to proceed more quickly (Baldwin 1896).
+
+2. Language is obviously useful, so it is not hard to see how it could
+   have provided selective advantages.  In fact, the bigger problem is
+   explaining why chimpanzees did not evolve language.  Language was
+   probably primarily an adaptation to a social structure that was (and
+   is) far more complex than that of other primates.
+
+Links:
+
+References:
+
+1. Baldwin, J. M., 1896.  A new factor in evolution.  _American
+   Naturalist_ 30: 441-451,536-553.
+   https://web.archive.org/web/20020815102954if_/http://www.santafe.edu/sfi/publications/Bookinforev/baldwin.html
+
+Further Reading:
+
+Deacon, Terence W., 1998.  _The Symbolic Species: The co-evolution of
+ language and the brain_.  New York: W.W. Norton.
+
+Johansson, Sverker, 2002.  The evolution of human language capacity.
+ Master's Thesis, University of Lund. 
+ https://web.archive.org/web/20041228080322if_/http://home.hj.se/~lsj/langevod.pdf
+ (esp. pp. 65ff)
+# https://web.archive.org/web/20030424134201if_/http://hem.hj.se/~josv/langevod.pdf [old]
+
+Pinker, S., 1994.  _The Language Instinct_.  Harmondsworth: Penguin.
+
+Tattersall, Ian, 2001.  How we came to be human.  SciAm 285(6) (Dec.):
+ 56-63.  Excerpted from _The Monkey in the Mirror_, Harcourt, 2002.
+
+Date: 2003-8-6, 2003-9-6

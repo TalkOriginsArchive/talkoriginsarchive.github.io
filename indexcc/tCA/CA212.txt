@@ -1,0 +1,59 @@
+BriefClaim: Evolution is ambiguously defined.
+Title: Definition of evolution
+Keywords: evolution, theory, definition
+
+Claim:
+
+Evolution is defined ambiguously, and claims that it is fact are based on
+the ambiguity.  It is usually defined as "change in heritable
+characteristics in a population over time" (often expressed as "change in
+allele frequencies"), which everyone accepts as fact, but that does not
+mean that macroevolution or common descent are fact.
+
+Source:
+
+POSH (Parents for Objective Science and History), n.d. Biology text
+ review.  http://posh.roundearth.net/biology.htm
+
+Response:
+
+1. Language tends to be ambiguous at times (e.g., the entry for the word "set"
+   covers more than twenty-two pages of the original Oxford English
+   Dictionary.)  The word "evolution" is an unfortunate instance of that
+   ambiguity; it is used for the fact of biological change over time; as
+   shorthand for the theory of evolution, which encompasses a much
+   broader range of observations and ideas; and for change generally, in
+   any realm.  The ambiguity can usually be resolved by the context in
+   which the word is used, at least by people who know something about
+   biological evolution.
+
+   Mixing contexts is indeed improper, and the fact of allele frequency
+   change, by itself, does not establish the theory of evolution.
+
+2. The soundness of the theory of evolution does not rest on ambiguity.
+   On the contrary, scientific papers are written so other scientists can
+   tell what the authors are talking about; they must be as unambiguous as
+   possible.  The evidence is overwhelming: evolution is not <CA201>only a
+   theory>; major aspects of it, such as common descent, are also facts.
+
+3. Creationists sometimes misuse the ambiguity to their own advantage,
+   trying, for example, to include cosmological change as part of the
+   theory of evolution (Hovind n.d.).  This is gross ignorance, deliberate
+   dishonesty, or both.
+
+Links:
+
+References:
+
+1. Hovind, Kent. n.d.  Dr. Hovind's $250,000 offer.
+   https://web.archive.org/web/20210421200656if_/http://www.drdino.com/seeArticle.php?artid=67
+
+Further Reading:
+
+Wilkins, John. 2001.  Defining evolution.  RNCSE 21(1-2): 29-37.
+ https://web.archive.org/web/20040814045501if_/http://www.ncseweb.org/resources/rncse_content/vol21/9925_defining_evolution_12_30_1899.asp
+
+Gould, Stephen J. 2002.  "What does the dreaded 'E' word mean anyway?"
+ In: _I Have Landed_, New York: Harmony, pp. 241-256.
+
+Date: 2003-9-1

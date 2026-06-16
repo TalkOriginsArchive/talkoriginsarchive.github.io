@@ -1,0 +1,36 @@
+BriefClaim: There are gaps between amphibians and reptiles.
+Title: Amphibian-reptile transition
+Keywords: transitional
+
+Claim:
+
+No unambiguous transitional fossils have been found between amphibians and
+reptiles.  Distinguishing transitionals between these two groups is
+problematic because their bone structures are similar.  Just because it
+is hard to tell whether a fossil is reptile or amphibian does not mean it
+is transitional between the two.
+
+Source:
+
+SciCre,
+ p. 83.
+LifeHow, p. 73.
+
+Response:
+
+1. The main character that separates amphibians (primitive tetrapods)
+   from reptiles (amniotes) is possession of an amnion, which does not
+   fossilize.  We have a lot of Permian creatures; some are early amniotes
+   and some likely are not.  There are no unambiguous intermediates
+   between the two groups like <CC212>_Acanthostega_> between fish and
+   tetrapods, or <CC215>_Morganucodon_> between reptiles and mammals.
+   However, the same uncertainty means there is no clear gap between the
+   amphibians and reptiles, either.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-6-13

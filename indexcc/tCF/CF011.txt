@@ -1,0 +1,82 @@
+BriefClaim: Evolutionary algorithms smuggle in design in the fitness function.
+Title: Design in evolutionary algorithms
+Keywords: intelligent design, genetic algorithm
+
+Claim:
+
+Genetic algorithms are claimed to demonstrate that evolutionary processes
+can create design, but in such algorithms, the design is smuggled in in
+the form of the fitness function.  Evolutionary algorithms do not create
+specified complexity.
+
+Source:
+
+Dembski, William A., 1999.  Why evolutionary algorithms cannot generate
+ specified complexity.  Metaviews 152 (Nov. 1). (www.meta-list.org).
+ http://www.leaderu.com/offices/dembski/docs/bd-algorithms.html
+
+Response:
+
+1. The fitness function of genetic algorithms need not include any new
+   information.  A fitness function can be expressed as whether the
+   algorithm performs better or worse in a particular environment.  The
+   only information is provided by the environment, which is usually
+   modeled on the real world.  The claim makes sense only if design is
+   defined as what is in nature already.
+
+   One may argue that nature and design are inseparable (and Dembski seems
+   to make just such an argument; Dembski 2002, xiv), but this invalidates
+   the design argument.  Design only has meaning if contrasted with
+   nondesign, and defining design as all of nature makes nondesign
+   nonexistent.
+
+2. Genetic algorithms often come up with novel solutions which sometimes
+   even surpass direct human designs (Koza et al. 2003) and which do not
+   rely on human expertise (Chellapilla and Fogel 2001).  Humans may have
+   told the algorithms what to do, but it is the how that defines the
+   design.
+
+3. Genetic algorithms are not perfect evolutionary simulations in that
+   they have a predefined goal which is used to compute fitness.
+   They demonstrate the
+   power of random variation, recombination, and selection to produce
+   novel solutions to problems, but they are not a full simulation of
+   evolution (and are not intended to be).  In simulations of biological
+   evolution, fitness is evaluated only locally; survival and reproduction
+   is based only on information about local conditions, not on ultimate
+   goals.  However, the simulations demonstrate that distant fitness peaks
+   will be reached if there are conditions of intermediate fitness (Lenski
+   et al.  2003).  Evolutionary processes do not "search."  They respond
+   to local fitness topography only.  The fact that evolution
+   (occasionally) reaches fitness peaks is a by-product of evolving on
+   correlated fitness landscapes using purely local fitness evaluation,
+   not an intended outcome.
+
+Links:
+
+Marczyk, Adam, 2004.  Genetic algorithms and evolutionary computation.
+ http://www.talkorigins.org/faqs/genalg/genalg.html
+
+RBH. 2003.  Untitled. (5 July).
+ https://web.archive.org/web/20150914232832if_/http://www.iscid.org/boards/ubb-get_topic-f-6-t-000384.html#000013
+
+References:
+
+1. Chellapilla, K. and D. B. Fogel, 2001. Evolving an expert checkers
+   playing program without using human expertise.  _IEEE Transactions on
+   Evolutionary Computation_ 5: 422-428.
+   https://web.archive.org/web/20160529212445if_/http://www.natural-selection.com/Library/2001/IEEE-TEVC.pdf
+1. Dembski, William A., 2002.  _No Free Lunch_, Lanham, MD: Rowman &
+   Littlefield.
+2. Koza, John R., Martin A. Keane and Matthew J. Streeter, 2003.
+   Evolving inventions.  SciAm 288(2) (Feb.): 52-59.
+2. Lenski, R. E., C. Ofria, R. T. Pennock and C. Adami, 2003.  The
+   evolutionary origin of complex features.  _Nature_ 423: 139-144.
+   https://web.archive.org/web/20211122232656if_/http://myxo.css.msu.edu/papers/nature2003/  See also: National Science
+   Foundation, 2003.  Artificial life experiments show how complex
+   functions can evolve.
+   http://www.sciencedaily.com/releases/2003/05/030508075843.htm
+
+Further Reading:
+
+Date: 2003-4-14, 2005-7-31

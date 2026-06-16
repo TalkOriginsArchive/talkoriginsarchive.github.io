@@ -1,0 +1,80 @@
+BriefClaim: Mitochondrial Eve lived only 6500 years ago.
+Title: Young mitochondrial Eve
+Keywords: African eve, mitochondria
+
+Claim:
+
+Recent research shows the mutation rate in mitochondria much higher than
+previously thought (Loewe and Scherer 1997; Gibbons 1998).  The date of
+"Mitochondrial Eve," the common maternal ancestor of all humankind, was
+based on that mutation rate.  The revised molecular clock indicates that
+she lived about 6500 years ago, not about 200,000 years ago as previously
+claimed.
+
+Source:
+
+Wieland, Carl. 1998.  A shrinking date for 'Eve'.  _Creation Ex Nihilo
+ Technical Journal_ 12(1):1-3.
+ https://web.archive.org/web/20080905163538if_/http://www.answersingenesis.org/docs/4055.asp
+
+Response:
+
+1. The claim is founded primarily on the work of Parsons et al. (1997),
+   who found that the substitution rate was about 25 times higher in the
+   mitochondria control region, which is less than 7% of the mitochondrial
+   genome (mtDNA).  Revised studies of all of the mtDNA find that the
+   control region varies greatly in substitution rates in different
+   populations, but that the rest of the mtDNA shows no such variation
+   (Ingman et al. 2000).  Using mtDNA excluding the control region, they
+   placed the age of the most recent common mitochondrial ancestor at
+   171,500 +/- 50,000 years ago.
+
+   Gibbons (1998) refers to mutations that cause heteroplasmy (inheritance
+   of two or more mtDNA sequences).  This does not apply to mitochondrial
+   Eve research, which is based only on substitution mutation rates.
+
+2. A study similar to the mtEve research was done on a region of the X
+   chromosome which does not recombine with the smaller Y chromosome; it
+   placed the most recent common ancestor 535,000 +/- 119,000 years ago
+   (Kaessmann et al. 1999).  Since the population size of X chromosomes is
+   effectively three times larger than mitochondria (two X chromosomes
+   from women and one from men can get inherited), the most recent common
+   ancestor should be about three times older than that of the
+   Mitochondrial Eve, and it is.
+
+Links:
+
+MacAndrew, Alec. n.d.  Misconceptions around Mitochondrial Eve.
+ http://www.evolutionpages.com/Mitochondrial%20Eve.htm
+
+References:
+
+1. Gibbons, A. 1998. Calibrating the mitochondrial clock.  _Science_ 279:
+   28-29.
+2. Ingman, M., H. Kaessmann, S. P&auml;&auml;bo and U. Gyllensten. 2000.
+   Mitochondrial genome variation and the origin of modern humans.
+   _Nature_ 408: 708-713.
+3. Kaessmann, H., F. Heissig, A. von Haeseler and S. P&auml;&auml;bo.
+   1999.  DNA sequence variation in a non-coding region of low
+   recombination on the human X chromosome. _Nature Genetics_ 22: 78-81.
+4. Loewe, L. and S. Scherer. 1997.  Mitochondrial Eve: the plot thickens.
+   _Trends in Ecology and Evolution_ 12(11): 422-423
+5. Parsons, T. J. et al. 1997.  A high observed substitution rate in the
+   human mitochondrial control region.  _Nature Genetics_ 15: 363-368.
+
+Date: 2004-2-26
+
+#From Reed A. Cartwright:
+#Mutations happen when errors occur in DNA replication. It increases
+#variation in the population. Substitutions occur when a previously dominant
+#allele is replaced by another allele. Let's say we have two alleles A1 and
+#A2. A mutation occurs when an error caused an A1 gene to become and A2 gene.
+#A substitution occurs when A1 goes extinct in favor of the newer A2. (Of
+#course, substitution can happen without total extinction of A1.) Molecular
+#clocks in phylogenetic studies require knowledge of the substitution rate,
+#not the mutation rate. Theoretically, under certain conditions the
+#substitution rate at any time is equal to the mutation rate at that time. I
+#can do the math if you want.  However, there appears to be questions on
+#whether mitochondria meet these assumptions. Therefore, measuring the
+#present mitochondrial mutation rates might not give us the historical
+#substitution rate.

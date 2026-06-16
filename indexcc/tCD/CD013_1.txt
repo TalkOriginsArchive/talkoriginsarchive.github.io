@@ -1,0 +1,47 @@
+BriefClaim: K-Ar dates of 1986 dacite from Mount St. Helens are very old.
+Title: K-Ar dating of Mt. St. Helens dacite
+Keywords: radiometric dating, potassium-argon, young earth
+
+Claim:
+
+The conventional K-Ar dating method was applied to the 1986 dacite flow
+from the new lava dome at Mount St. Helens, Washington.  The whole-rock
+age was 0.35 +/- 0.05 million years (Mya).  Ages for component minerals
+varied from 0.34 +/- 0.06 Mya to 2.8 +/- 0.6 Mya.  These ages show that
+the K-Ar method is invalid.
+
+Source:
+
+Austin, Steven A., 1996.  Excess argon within mineral concentrates from
+ the New Dacite Lava Dome at Mount St. Helens volcano.  _Creation Ex
+ Nihilo Technical Journal_ 10(3): 335-343.
+ http://www.icr.org/index.php?module=research&action=index&page=researchp_sa_r01
+
+Response:
+
+1. Austin sent his samples to a laboratory that clearly states that their
+   equipment cannot accurately measure samples less than two million years
+   old.  All of the measured ages but one fall well under the stated limit
+   of accuracy, so the method applied to them is obviously inapplicable.
+   Since Austin misused the measurement technique, he should expect
+   inaccurate results, but the fault is his, not the technique's.
+   Experimental error is a possible explanation for the older date.
+
+2. Austin's samples were not homogeneous, as he himself admitted.  Any
+   xenocrysts in the samples would make the samples appear older (because
+   the xenocrysts themselves would be old).  A K-Ar analysis of impure
+   fractions of the sample, as Austin's were, is meaningless.
+
+Links:
+
+Henke, Kevin R. n.d.  Young-earth creationist 'dating' of a
+ Mt. St. Helens dacite: The failure of Austin and Swenson to recognize
+ obviously ancient minerals.
+ http://noanswersingenesis.org.au/mt_st_helens_dacite_kh.htm
+
+References:
+
+Further Reading:
+
+Date: 2003-8-20
+

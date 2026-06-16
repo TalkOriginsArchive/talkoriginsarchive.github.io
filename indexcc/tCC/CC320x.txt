@@ -1,0 +1,90 @@
+BriefClaim: The fossil record shows sudden appearance followed by stasis.
+Title: Fossil record of gradual vs. sudden change
+Keywords: punctuated equilibrium, fossil record, phyletic gradualism
+
+Claim:
+
+The fossil record doesn't show gradual change; it shows sudden
+appearances followed by stasis.
+(=> CC201)
+
+Source:
+
+Johnson, Phillip E., 1990.  Evolution as dogma: The establishment
+ of naturalism.  _First Things_ no. 6, p. 15-22,
+ http://www.arn.org/docs/johnson/pjdogma1.htm
+
+Response:
+
+1. Once species are well-adapted to an environment, selective pressures
+   tend to keep them that way.  A change in the environment which alters
+   the selective pressure would then end the "stasis" (or lead to
+   extinction).
+
+   Although gradualism is generally considered the Darwinian view (and
+   seemed to be the dominant view held by his successors), Darwin himself
+   wrote of stasis and relatively rapid change as well as the likelihood
+   of the fossil record tending to amplify the appearance of such.
+   (See also <CC201>"We should see a smooth fossil record">.)
+
+    "It is a more important consideration . . . that the period during
+     which each species underwent modification, though long as measured by
+     years, was probably short in comparison with that during which it
+     remained without undergoing any change. [Darwin, ch. 10, "On the
+     imperfection of the geological record," p. 428]
+
+    "It has been asserted over and over again, by writers who believe in
+     the immutability of species, that geology yields no linking
+     forms. This assertion, as we shall see in the next chapter, is
+     certainly erroneous.  As Sir J. Lubbock has remarked, "Every species
+     is a link between other allied forms." If we take a genus having a
+     score of species, recent and extinct, and destroy fourfifths of them,
+     no one doubts that the remainder will stand much more distinct from
+     each other. If the extreme forms in the genus happen to have been
+     thus destroyed, the genus itself will stand more distinct from other
+     allied genera. What geological research has not revealed, is the
+     former existence of infinitely numerous gradations, as fine as
+     existing varieties, connecting together nearly all existing and
+     extinct species. But this ought not to be expected; yet this has been
+     repeatedly advanced as a most serious objection against my
+     views. [p. 428]
+
+    "When we see a species first appearing in the middle of any formation,
+     it would be rash in the extreme to infer that it had not elsewhere
+     previously existed. So again, when we find a species disappearing
+     before the last layers have been deposited, it would be equally rash
+     to suppose that it then became extinct. We forget how small the area
+     of Europe is compared with the rest of the world . . . when we see a
+     species first appearing in any formation, the probability is that it
+     only then first immigrated into that area. [p. 423]
+
+    "[V]arieties are generally at first local; and that such local
+     varieties do not spread widely and supplant their parent-form until
+     they have been modified and perfected in some considerable
+     degree. According to this view, the chance of discovering in a
+     formation in any one country all the early stages of transition
+     between any two forms is small, for the successive changes are
+     supposed to have been local or confined to some one spot.
+     [pp. 427-428]
+
+2. The fossil record does include some <CC200>transitional sequences>
+   which show gradual change.
+
+3. The fossil record still shows a great deal of change over time.  The
+   creationists who make this claim almost never admit its logical
+   conclusion, that there have been hundreds, perhaps even millions, of
+   separate creation events scattered through time.
+
+Links:
+
+Elsberry, Wesley, 1996.  Punctuated equilibria.
+ http://www.talkorigins.org/faqs/punc-eq.html
+
+References:
+
+1. Darwin, C., 1872.  _The Origin of Species_, 1st Edition.  Senate,
+   London.  http://www.talkorigins.org/faqs/origin.html
+
+Further Reading:
+
+Date: 2003-4-15, 2004-2-13

@@ -1,0 +1,43 @@
+BriefClaim: Archaeologists and forensic scientists can detect design.
+Title: Intelligent design in archaeology etc.
+Keywords: archaeology, forensics, design
+
+Claim:
+
+Just as sciences such as archaeology and forensics can detect design, so
+it is a valid scientific practice to detect intelligent design in nature.
+The success of those sciences shows that the methods of intelligent design
+work in practice.
+
+Source:
+
+Dembski, William A., 1999.  _Intelligent Design: The bridge between
+ science and theology_.  Downers Grove, Ill.: InterVarsity Press.
+Dembski, William A., 2001.  Is intelligent design a form of natural
+ theology?
+ http://www.designinference.com/documents/2001.03.ID_as_nat_theol.htm
+
+Response:
+
+1. The methods of archaeology and forensics are unrelated to any methods
+   proposed by intelligent design advocates.  Archaeologists and forensic
+   scientists look for patterns that they know, from prior observation,
+   are the sort of patterns that human designers make.  The same goes for
+   all other sciences that detect design.  ID theorists have no prior
+   observation of other designers to go by.  Or, if they do use the
+   methods of archaeologists and forensic scientists, they are implicitly
+   assuming that the designers were human.
+
+2. The only proposed intelligent design method, <CI111>Dembski's filter>,
+   is eliminative; it tries to detect design only by eliminating other
+   possibilities.  The methods used by scientists are not eliminative.
+   They consider many possibilities and choose the one that best fits the
+   data.  If none fit the data, the question is left unresolved.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-9-30, 2003-10-4

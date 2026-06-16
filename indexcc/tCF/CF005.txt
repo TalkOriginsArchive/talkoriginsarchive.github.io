@@ -1,0 +1,63 @@
+BriefClaim: 2nd law of thermodynamics applies to information theory.
+Title: 2nd law of thermodynamics and information theory
+Keywords: thermodynamics, entropy, information, Shannon
+
+Claim:
+
+The second law of thermodynamics applies to information theory.  It
+follows that genetic information will become increasingly degraded as it
+gets repeatedly copied over time.
+
+Source:
+
+Kofahl, Robert E., and Kelly L. Segraves, 1975. _The Creation Explanation:
+ A scientific alternative to evolution_.  Wheaton, IL: Harold Shaw, p. 37.
+SciCre, pp. 38-40.
+
+Response:
+
+1. While statistical information theory has a quantity called "entropy",
+   it does not have anything equivalent to the second law of
+   thermodynamics.  In a general information processing/transmitting
+   system, entropy can freely decrease or increase.
+
+2. There are some classes of information systems in which information can
+   only decrease, for example a deterministic, causally isolated system
+   with discrete states.  However (at least in this case) the information
+   loss corresponds to a *decrease* in entropy.
+
+3. Information theory does sort of have a principle of degradation, but it
+   is only applicable in certain situations (which evolution isn't one
+   of).  It implies, essentially, that information change is irreversible:
+   information gets more and more *different from how it started out*, and
+   the more it gets changed, the harder it is to tell how it started out.
+   In a communication or information storage system, where the goal is to
+   transmit or replay the original message intact, change is necessarily
+   bad, so this corresponds to degradation.  In evolution, change is not
+   necessarily bad, so this is not a principle of degradation.
+
+Links:
+
+Davisson, Gordon, 4/18/2001.  Information and microevolution.
+ Message-ID <gordon-A6A709.21492518042001@[127.0.0.1]>,
+ http://www.google.com/groups?selm=gordon-A6A709.21492518042001%40%5B127.0.0.1%5D
+
+Davisson, Gordon, 7/14/2002.  Re: Simple Thermodynamics Argument.
+ Message-ID <gordon-B61948.18383114072002@[127.0.0.1]>,
+ http://www.google.com/groups?selm=gordon-B61948.18383114072002%40%5B127.0.0.1%5D
+
+Davisson, Gordon, 2001.  Macroscopic and molecular entropy.
+ http://www.talkorigins.org/origins/postmonth/aug01.html
+
+References:
+
+Further Reading:
+
+Shannon, Claude E., 1948.  A mathematical theory of communication.  _Bell
+ System Technical Journal_, 27: 379-423 and 623-656.  Reprinted in Claude
+ E. Shannon and Warren Weaver, _The Mathematical Theory of Communication_,
+ University of Illinois Press, Urbana, 1949;
+ http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html (Shannon's
+ seminal paper on information theory; technical)
+
+Date: 2003-9-15

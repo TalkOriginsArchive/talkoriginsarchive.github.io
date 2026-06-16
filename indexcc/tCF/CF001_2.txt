@@ -1,0 +1,44 @@
+BriefClaim: The second law of thermodynamics, and the trend to disorder, is universal.
+Title: Thermodynamics universal
+Keywords: second law of thermodynamics, closed system.
+
+Claim:
+
+The entire universe is a closed system, so the second law of
+thermodynamics dictates that within it, things are tending to break down.
+The second law applies universally.
+
+Source:
+
+Wallace, Timothy, 2002.  Five major _evolutionist_ misconceptions about
+ evolution.  https://web.archive.org/web/20080518113931if_/http://www.trueorigins.org/isakrbtl.asp
+
+Response:
+
+1. <CF001>The second law of thermodynamics> applies universally, but,
+   as everyone can see, that does not mean that everything everywhere is
+   always breaking down.  The second law allows local decreases in entropy
+   offset by increases elsewhere.  The second law does not say that
+   order from disorder is impossible; in fact, as anyone can see, order
+   from disorder happens all the time.
+
+2. The maximum entropy of a closed system of fixed volume is constant,
+   but because the universe is expanding, its maximum entropy is ever
+   increasing, giving ever more room for order to form (Stenger 1995, 228).
+
+3. Disorder and entropy are not the same (Styer 2000).  The second law of
+   thermodynamics deals with entropy.  There are no laws about things
+   tending to "break down."
+
+Links:
+
+References:
+
+1. Stenger, Victor J., 1995. _The Unconscious Quantum_, Amherst, NY:
+   Prometheus.
+2. Styer, Daniel F.  2000.  Insight into entropy.  _American Journal of
+   Physics_ 68(12): 1090-1096.
+
+Further Reading:
+
+Date: 2000-11-4, 2006-1-13

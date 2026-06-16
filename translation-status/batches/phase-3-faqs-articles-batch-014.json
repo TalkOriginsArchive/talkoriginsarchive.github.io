@@ -1,0 +1,902 @@
+{
+  "id": "phase-3-faqs-articles-batch-014",
+  "phase": "phase-3-faqs-articles",
+  "phase_label": "FAQs and Articles",
+  "sequence": 14,
+  "status": "complete",
+  "page_count": 49,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/faqs/origin/preface.html",
+      "source_path": "faqs/origin/preface.html",
+      "title": "The Origin of Species: Preface",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 16639
+    },
+    {
+      "route": "/faqs/paluxy.html",
+      "source_path": "faqs/paluxy.html",
+      "title": "Paluxy Dinosaur/\"Man Track\" controversy",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 15349
+    },
+    {
+      "route": "/faqs/paluxy/acknow.htm",
+      "source_path": "faqs/paluxy/acknow.htm",
+      "title": "Paluxy site acknowledgements",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3798
+    },
+    {
+      "route": "/faqs/paluxy/acknow.html",
+      "source_path": "faqs/paluxy/acknow.html",
+      "title": "Paluxy site acknowledgements",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3865
+    },
+    {
+      "route": "/faqs/paluxy/arizon.html",
+      "source_path": "faqs/paluxy/arizon.html",
+      "title": "Do Human Tracks Occur in the Kayenta of Arizona?",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 30424
+    },
+    {
+      "route": "/faqs/paluxy/brian.html",
+      "source_path": "faqs/paluxy/brian.html",
+      "title": "Commentary by Brian Johnson on Rumor about Destroyed Track",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2893
+    },
+    {
+      "route": "/faqs/paluxy/degrees.html",
+      "source_path": "faqs/paluxy/degrees.html",
+      "title": "A Matter of Degree: Carl Baugh's Claimed Credentials",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 18618
+    },
+    {
+      "route": "/faqs/paluxy/dvsp.html",
+      "source_path": "faqs/paluxy/dvsp.html",
+      "title": "Dinosaur Valley State Park",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 10019
+    },
+    {
+      "route": "/faqs/paluxy/georef.html",
+      "source_path": "faqs/paluxy/georef.html",
+      "title": "Geologic References on Paluxy Controversy",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4850
+    },
+    {
+      "route": "/faqs/paluxy/gkbio.html",
+      "source_path": "faqs/paluxy/gkbio.html",
+      "title": "StatCounter.com code for Glen Kuban's Paluxy sites 12-4-04",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5986
+    },
+    {
+      "route": "/faqs/paluxy/gkbio08.htm",
+      "source_path": "faqs/paluxy/gkbio08.htm",
+      "title": "StatCounter.com code for Glen Kuban's Paluxy sites 12-4-04",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5988
+    },
+    {
+      "route": "/faqs/paluxy/ichno.html",
+      "source_path": "faqs/paluxy/ichno.html",
+      "title": "Other Web Sites on Dinosaur tracks and Ichnology",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2930
+    },
+    {
+      "route": "/faqs/paluxy/mantrack.html",
+      "source_path": "faqs/paluxy/mantrack.html",
+      "title": "Summary of Paluxy \"Man Track\" claims",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 14200
+    },
+    {
+      "route": "/faqs/paluxy/meister.html",
+      "source_path": "faqs/paluxy/meister.html",
+      "title": "The \"Meister Print\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7091
+    },
+    {
+      "route": "/faqs/paluxy/moreref.html",
+      "source_path": "faqs/paluxy/moreref.html",
+      "title": "Paluxy controversy/further reading",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3874
+    },
+    {
+      "route": "/faqs/paluxy/nbc.html",
+      "source_path": "faqs/paluxy/nbc.html",
+      "title": "Alleged Out-of-Order fossil claims on NBC TV show",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 13208
+    },
+    {
+      "route": "/faqs/paluxy/onheel.html",
+      "source_path": "faqs/paluxy/onheel.html",
+      "title": "On the Heels of Dinosaurs",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 71409
+    },
+    {
+      "route": "/faqs/paluxy/ovrdino.htm",
+      "source_path": "faqs/paluxy/ovrdino.htm",
+      "title": "Overview of Dinosaur Tracking",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 48929
+    },
+    {
+      "route": "/faqs/paluxy/ovrdino.html",
+      "source_path": "faqs/paluxy/ovrdino.html",
+      "title": "An Overview of Dinosaur Tracking",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 36906
+    },
+    {
+      "route": "/faqs/paluxy/ovrfig1.html",
+      "source_path": "faqs/paluxy/ovrfig1.html",
+      "title": "An Overview of Dinosaur Tracking",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2023
+    },
+    {
+      "route": "/faqs/paluxy/paluxytemplate.html",
+      "source_path": "faqs/paluxy/paluxytemplate.html",
+      "title": "Page name",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 758
+    },
+    {
+      "route": "/faqs/paluxy/plesios.html",
+      "source_path": "faqs/paluxy/plesios.html",
+      "title": "Sea-Monster or Shark: An Alleged Plesiosaur Carcass",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 49802
+    },
+    {
+      "route": "/faqs/paluxy/rebutt.html",
+      "source_path": "faqs/paluxy/rebutt.html",
+      "title": "Rebuttal to the Rumor that Glen Kuban Destroyed a Track",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 11797
+    },
+    {
+      "route": "/faqs/paluxy/retrack.html",
+      "source_path": "faqs/paluxy/retrack.html",
+      "title": "Retracking Those Incredible Man Tracks",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 13397
+    },
+    {
+      "route": "/faqs/paluxy/revhist.html",
+      "source_path": "faqs/paluxy/revhist.html",
+      "title": "Paluxy site revisions",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1362
+    },
+    {
+      "route": "/faqs/paluxy/sor-ipub.html",
+      "source_path": "faqs/paluxy/sor-ipub.html",
+      "title": "Review of ICR Impact Article 151",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 34606
+    },
+    {
+      "route": "/faqs/paluxy/tooth.html",
+      "source_path": "faqs/paluxy/tooth.html",
+      "title": "A Tale of Two Teeth",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 30660
+    },
+    {
+      "route": "/faqs/paluxy/tsfig1.html",
+      "source_path": "faqs/paluxy/tsfig1.html",
+      "title": "Paluxy, Taylor Site Figure 1",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1352
+    },
+    {
+      "route": "/faqs/paluxy/tsite.html",
+      "source_path": "faqs/paluxy/tsite.html",
+      "title": "The Taylor Site \"Man Tracks\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 37528
+    },
+    {
+      "route": "/faqs/paluxy/whatbau.html",
+      "source_path": "faqs/paluxy/whatbau.html",
+      "title": "AIG's 'What About Carl Baugh?' Page",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9964
+    },
+    {
+      "route": "/faqs/paluxy/wilfig1.html",
+      "source_path": "faqs/paluxy/wilfig1.html",
+      "title": "Burdick Print Photo (C) 1996 Glen J. Kuban",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1181
+    },
+    {
+      "route": "/faqs/paluxy/wilker5.html",
+      "source_path": "faqs/paluxy/wilker5.html",
+      "title": "The \"Burdick Print\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 27945
+    },
+    {
+      "route": "/faqs/paluxy/wilker8-to.html",
+      "source_path": "faqs/paluxy/wilker8-to.html",
+      "title": "The \"Burdick Print\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 29852
+    },
+    {
+      "route": "/faqs/peloza.html",
+      "source_path": "faqs/peloza.html",
+      "title": "Peloza v. Capistrano Unified School District",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 34790
+    },
+    {
+      "route": "/faqs/piltdown.html",
+      "source_path": "faqs/piltdown.html",
+      "title": "Piltdown Man",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 68638
+    },
+    {
+      "route": "/faqs/piltdown/drawhorn.html",
+      "source_path": "faqs/piltdown/drawhorn.html",
+      "title": "PILTDOWN: Evidence of Smith-Woodward's Complicity",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 41674
+    },
+    {
+      "route": "/faqs/platypus.html",
+      "source_path": "faqs/platypus.html",
+      "title": "Creationism and the Platypus",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 16747
+    },
+    {
+      "route": "/faqs/po-halos.html",
+      "source_path": "faqs/po-halos.html",
+      "title": "Page moved",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 800
+    },
+    {
+      "route": "/faqs/po-halos/",
+      "source_path": "faqs/po-halos/index.html",
+      "title": "Polonium Halo FAQs",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3694
+    },
+    {
+      "route": "/faqs/po-halos/default.htm",
+      "source_path": "faqs/po-halos/default.htm",
+      "title": "Polonium Halo FAQs",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3706
+    },
+    {
+      "route": "/faqs/po-halos/gentry.html",
+      "source_path": "faqs/po-halos/gentry.html",
+      "title": "\"Polonium Haloes\" Refuted",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 44904
+    },
+    {
+      "route": "/faqs/po-halos/violences.html",
+      "source_path": "faqs/po-halos/violences.html",
+      "title": "Evolution's Tiny Violences: The Po-Halo Mystery",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 28695
+    },
+    {
+      "route": "/faqs/polystrate.html",
+      "source_path": "faqs/polystrate.html",
+      "title": "\"Polystrate\" Fossils",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1916
+    },
+    {
+      "route": "/faqs/polystrate/coal.html",
+      "source_path": "faqs/polystrate/coal.html",
+      "title": "Coal Formation",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3669
+    },
+    {
+      "route": "/faqs/polystrate/dawson_tree2.html",
+      "source_path": "faqs/polystrate/dawson_tree2.html",
+      "title": "Stratigraphy in association with upright tree stump",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1299
+    },
+    {
+      "route": "/faqs/polystrate/polystrate_trees.html",
+      "source_path": "faqs/polystrate/polystrate_trees.html",
+      "title": "More on \"Polystrate\" Fossils",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 10712
+    },
+    {
+      "route": "/faqs/polystrate/trees.html",
+      "source_path": "faqs/polystrate/trees.html",
+      "title": "\"Polystrate\" Tree Fossils",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 13927
+    },
+    {
+      "route": "/faqs/polystrate/whale.html",
+      "source_path": "faqs/polystrate/whale.html",
+      "title": "A Whale of a Tale",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 13920
+    },
+    {
+      "route": "/faqs/polystrate/yellowstone.html",
+      "source_path": "faqs/polystrate/yellowstone.html",
+      "title": "Yellowstone Fossil Forests",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-014",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4506
+    }
+  ],
+  "status_counts": {
+    "translated": 196
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

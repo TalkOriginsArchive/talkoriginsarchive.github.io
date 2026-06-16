@@ -1,0 +1,30 @@
+BriefClaim: Some modern species are apparently degenerate, not higher forms.
+Title: Evolution of degenerate forms
+Keywords: atrophy, vestigal
+
+Claim:
+
+Evolution is supposed to advance species, but some modern species, such as
+many parasites and species living in caves, appear to be degenerate forms
+of other species.
+
+Source:
+
+Response:
+
+1. Evolution adapts species to their environment.  Sometimes that means
+   becoming more complex, but not always.  If losing a feature allows a
+   species to survive better, the species likely will gradually lose the
+   feature.  Losing a feature is advantageous, for example, if the feature
+   is energetically costly to grow and maintain (which is almost always
+   the case) and if it serves no other function (which often happens when
+   a population moves to a new environment, such as a cave).
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-7-22
+

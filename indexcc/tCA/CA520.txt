@@ -1,0 +1,59 @@
+BriefClaim: The Origin of Species does not address speciation.
+Title: "Origin of Species" on speciation.
+Keywords: Darwin, speciation
+
+Claim:
+
+_The Origin of Species_ does not deliver on the promise of its title; it
+does not address speciation.
+
+Source:
+
+Menton, David N. 1997.  Species, speciation and the Genesis kind.
+ http://www.gennet.org/facts/metro16.html
+
+
+Response:
+
+1. Not much, anyway.  However, biology did not stop with Darwin.  Much has
+   been learned about the subject since.
+
+2. Darwin explained at length how a species can change its form
+   gradually but, over long periods of time, drastically.  Even if new
+   species did not branch off from such a lineage, many people would still
+   consider that process an origin of new species.
+
+3. Darwin proposed that natural selection had a fundamental role in
+   speciation, but did not elaborate much on the mechanism.  It is now
+   believed that much speciation is due not to natural selection, but to
+   geographical isolation and genetic drift (allopatric speciation).
+   However, natural selection is still seen to play a role in other
+   speciation, such as speciation due to specialization on different hosts
+   (Filchak et al. 2000), and natural selection drives incipient species
+   to greater diversity (Presgraves et al. 2003).
+
+4. Darwin wrote about speciation, including the role of geographic
+   isolation, in other works (Kottler 1978).
+
+Links:
+
+References:
+
+1. Filchak, Kenneth E., Joseph B. Roethele and Jeffrey
+   L. Feder. 2000.  Natural selection and sympatric divergence in the
+   apple maggot _Rhagoletis pomonella_.  _Nature_ 407: 739-742.
+2. Kottler, Malcolm J. 1978.  Charles Darwin's biological species concept
+   and theory of geographic speciation: the Transmutation Notebooks.
+   _Annals of Science_ 35: 275-297.
+2. Presgraves, D. C., L. Balagopalan, S. M. Abmayr and H. A. Orr. 2003.
+   Adaptive evolution drives divergence of a hybrid inviability gene
+   between two species of Drosophila.  _Nature_ 423: 715-719.  See
+   also Holding, C., 2003.  Driving Drosophila diversity.  _The
+   Scientist_, http://www.biomedcentral.com/news/20030612/02/
+
+Further Reading:
+
+Otte, D. and J. A. Endler. 1989.  _Speciation and Its Consequences_. 
+ Sunderland, MA: Sinauer Assoc.
+
+Date: 2001-2-18, 2004-9-1

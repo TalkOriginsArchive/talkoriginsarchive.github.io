@@ -1,0 +1,74 @@
+BriefClaim: The immune system is irreducibly complex.
+Title: Immune system and Irreducibly Complexity
+Keywords: irreducible complexity, immune system, design.
+
+Claim:
+
+The human immune system is irreducibly complex, indicating that
+it must have been designed.
+
+Source:
+
+DBB, pp. 117-139.
+
+
+Response:
+
+1. The complement system of the human immune system is not irreducibly
+   complex.  Urochordates have a functional complement system, yet they
+   lack a component of the cascade.
+
+2. Common mechanisms, such as gene duplication and co-option of molecules
+   with other roles, allow the immune system to evolve naturally.  Much
+   has been written on the subject. (Kasahara et al. 1997; Lindsay 1999;
+   Travis 1998)
+#   Klein and Nikolaidis (2005) give detailed evidence of its evolution,
+#   concluding that "the AIS [antibody-based immune system] is an example
+#   of an organ system that has evolved gradually through a series of small
+#   steps over an extended period."
+
+3. Behe gets some of the basic biology wrong.  Bacteria are not destroyed,
+   as Behe says (1996, 134), by water rushing in when the cell membrane is
+   punctured, but because their chemical gradients have been destroyed
+   (Ussery 1999).
+
+4. Irreducible complexity <CB200>is not an obstacle to evolution> and
+   <CI102>doesn't imply design>.
+
+Links:
+
+Bottaro, Andrea. 2005 (May 30).  The revenge of Calvin and Hobbes.
+ https://web.archive.org/web/20051218075353if_/http://www.pandasthumb.org/pt-archives/001081.html
+ See also: Bottaro, Andrea. 2005 (June 2).  Behe's meaningless complexity.
+ https://web.archive.org/web/20080918075810if_/http://www.pandasthumb.org/pt-archives/001108.html
+
+Coon, Mike, 1998.  Is the complement system irreducibly complex?
+ http://www.talkorigins.org/faqs/behe/icsic.html
+
+Inlay, M., 2002.  Evolving immunity.
+ http://www.talkdesign.org/faqs/Evolving_Immunity.html
+
+References:
+
+1. Kasahara, M. et al., 1997.  Chromosomal duplication and the emergence
+   of the adaptive immune system.  _Trends in Genetics_ 13(3): 90-92.
+#2. Klein, Jan and Nikolas Nikolaidis, 2005.
+#   The descent of the antibody-based immune system by gradual evolution.
+#   PNAS 102: 169-174.
+3. Lindsay, Don, 1999. How could the immune system evolve?
+   https://web.archive.org/web/20240625152310if_/http://www.don-lindsay-archive.org/creation/evolve_immune.html
+4. Travis, John, 1998. The accidental immune system. _Science News_ 154:
+   302-303.
+5. Ussery, D., 1999. (see below).
+
+Further Reading:
+
+#Clark, William R., 1995.  _At War Within: The Double-edged Sword of
+# Immunity_.  New York: Oxford.  (The evolution of the immune
+# system is discussed in the appendix. But not much.)
+
+Ussery, David, 1999.  A biochemist's response to "The biochemical
+ challenge to evolution".  _Bios_ 70: 40-45.
+ https://web.archive.org/web/20030624041733if_/http://www.cbs.dtu.dk/staff/dave/Behe.html
+
+Date: 2001-2-17, 2005-6-28

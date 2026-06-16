@@ -1,0 +1,56 @@
+BriefClaim: Macroevolution has never been observed.
+Title: No Macroevolution
+Keywords: evolution, macroevolution.
+
+Claim:
+
+No case of macroevolution has ever been documented.
+
+Source:
+
+Morris, Henry M., 2000 (Jan.).  Strong Delusion.  _Back to
+ Genesis_ 133: a.
+Brown, Walt, 1995. _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 6.
+
+Response:
+
+1. We would not expect to observe large changes directly.  Evolution
+   consists mainly of the accumulation of small changes over large periods
+   of time.  If we saw something like a fish turning into a frog in just a
+   couple generations, we would have good evidence against evolution.
+
+2. The evidence for evolution does not depend, even a little, on observing
+   macroevolution directly.  There is a very great deal of other evidence
+   (Theobald 2004; see also <CA202>evolution proof>).
+
+3. As biologists use the term, macroevolution means evolution at or above
+   the species level.  <CB910>Speciation> has been observed and documented.
+
+4. Microevolution has been observed and is taken for granted even by
+   creationists.  And because there is <CB902.1>no known barrier to large
+   change> and because we can expect <CB902.2>small changes to accumulate>
+   into large changes, microevolution implies macroevolution.
+   Small changes to developmental genes or their regulation can cause
+   relatively large changes in the adult organism (Shapiro et al. 2004).
+
+5. There are many <CC200>transitional forms> that show that
+   macroevolution has occurred.
+
+Links:
+
+References:
+
+1. Shapiro M. D., M. E. Marks, C. L. Peichel, B. K. Blackman, K. S.
+   Nereng, B. J&oacute;nsson, D. Schluter and D. M. Kingsley, 2004.
+   Genetic and developmental basis of evolutionary pelvic reduction in
+   threespine sticklebacks.  _Nature_ 428: 717-723.  See also:
+   Shubin, N. H. and R. D. Dahn, 2004.  Evolutionary biology: Lost and
+   found. _Nature_ 428: 703.
+2. Theobald, Douglas, 2004.  29+ Evidences for macroevolution: The
+   scientific case for common descent.
+   http://www.talkorigins.org/faqs/comdesc/
+
+Further Reading:
+
+Date: 2003-7-19, 2004-4-16

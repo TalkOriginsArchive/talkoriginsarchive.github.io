@@ -1,0 +1,74 @@
+BriefClaim: Gravitational time dilation made distant clocks run faster.
+Title: Fast old light
+Keywords: starlight, relitivity
+
+Claim:
+
+The earth is near the center of the universe, at the bottom of a deep
+gravitational well.  Relativistic effects result in billions of years
+passing in the rest of the universe while only thousands pass near the
+earth.  This explains how multibillion-year-old stars and galaxies can
+exist in a universe only a few thousand years old.
+
+Source:
+
+Humphreys, D. Russell, 1994.  _Starlight and Time_, Green Forest,
+ Arkansas: Master Books.
+Humphreys, D. Russell, 2002.  Seven years of Starlight and Time.
+ http://www.icr.org/index.php?module=articles&action=view&ID=446
+
+Response:
+
+1. Gravitational time dilation, if it existed on such a large scale,
+   should be easily observable.  On the contrary, we observe (from the
+   periods of Cepheid variable stars, from orbital rates of binary stars,
+   from supernova extinction rates, from light frequencies, etc.) that
+   such time dilation is minor.  There is some time dilation corresponding
+   with Hubble's law (i.e., further objects have greater red shifts), but
+   this is due to the well-understood expansion of the universe, and it is
+   not nearly extreme enough to fit more than ten billion years into less
+   than 10,000.
+
+2. Humphreys tried to use clocks in the earth's frame of reference.  But
+   the cosmos is much older than the earth.  Judging from the heavy
+   elements in the sun and the rest of the solar system, our sun is a
+   second-generation star at least.  Billions of years must have passed
+   for the first stars to have formed, shone, and become novas, for the
+   gasses from those novas to have gathered into new star systems, and for
+   the earth to form and cool in one such system.  The billions of years
+   before the earth are not accounted for in Humphreys's model.
+
+3. Humphreys's theory assumes that the earth is in a huge gravity well.
+   The evidence contradicts this assumption.  If the earth were in such a
+   gravity well, light from distant galaxies should be blue-shifted.
+   Instead, it is red-shifted.
+
+4. See Conner and Page (1998) and Conner and Ross (1999) for several other
+   technical objections.
+
+5. There is a great deal of other independent evidence that the earth is
+   <CH210>very old>.
+
+6. If there were any substance to Humphreys's proposal, at least some
+   competent cosmologists would build on it and share in the Nobel Prize.
+   Instead, they dismiss it as worthless.
+
+Links:
+
+Conner, Samuel R. and Hugh Ross. 1999.  The unraveling of Starlight and
+ Time.
+ https://web.archive.org/web/20210227052028if_/http://www.reasons.org/resources/apologetics/unravelling.shtml?main
+
+References:
+
+1. Conner, S. R. and D. N. Page, 1998.  Starlight and time is the Big
+   Bang.  CENTJ 12(2): 174-194.
+#   http://www.trueorigin.org/rh_connpage1.pdf
+   (See also letters in CENTJ 13(1), 1999, 49-52).
+2. Conner, S. R. and H. Ross, 1999.  (see above).
+
+Further Reading:
+
+#Acknowledgement: A. C. Gnyea for correction of early version
+
+Date: 2003-8-1, 2006-2-6

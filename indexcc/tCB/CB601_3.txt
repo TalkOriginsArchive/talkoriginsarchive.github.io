@@ -1,0 +1,50 @@
+BriefClaim: Direct mutagenesis better explains peppered moth variation.
+Title: Peppered moths affected by mutagens
+Keywords: peppered moth, Biston betularia, mutagenesis, pollution,
+industrial melanism.
+
+Claim:
+
+The differing frequencies of the different color varieties of peppered
+moths can better be explained by the direct effects of mutagenic
+pollutants, since the usual explanation of differential bird predation
+lacks support.
+
+Source:
+
+Wells, Jonathan, 1999.  Second thoughts on peppered moths. 
+ http://www.arn.org/docs/wells/jw_pepmoth.htm or
+ http://www.trueorigin.org/pepmoth1.asp
+
+
+Response:
+
+1. The explanation of differential bird predation affecting frequencies of
+   color varieties does not lack support.  On the contrary, support for
+   the basic story is overwhelming (Grant 1999; Majerus 1999).  Wells and
+   others simply ignore the bulk of the research and pick out the few
+   dissenters and the disagreements about minor details.
+
+2. An explanation in terms of the direct effect of pollutants fails.
+   The early experiments (by Helsop Harrison) that claimed to show such
+   an effect lacked appropriate controls, could not be replicated, and
+   reported mutagenesis levels that were more than enough to induce
+   complete sterility (Majerus 1999).
+
+Links:
+
+References:
+
+1. Grant, Bruce S., 1999.  Fine tuning the peppered moth paradigm. 
+   _Evolution_ 53(3): 980-984.
+   https://web.archive.org/web/20051029130614if_/http://mason.gmu.edu/~jlawrey/biol471/melanism.pdf
+2. Majerus, M. E. N. 1999.  (letter).  Quoted by Frack, Don. 1999.  Peppered
+   moths, round 2, part 2. 
+   http://www.calvin.edu/archive/evolution/199904/0103.html
+
+Further Reading:
+
+Majerus, Michael E. N., 1998.  _Melanism: Evolution in Action_, Oxford
+ University Press.
+
+Date: 2001-2-17

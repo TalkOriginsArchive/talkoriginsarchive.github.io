@@ -1,0 +1,1016 @@
+{
+  "schema": "scisiteforge.translation_batches.v1",
+  "queue_state": "active",
+  "updated_at": "2026-06-16T10:17:17.160737+00:00",
+  "batches": [
+    {
+      "id": "phase-1-front-door-batch-001",
+      "phase": "phase-1-front-door",
+      "phase_label": "Front Door and Generated Navigation",
+      "sequence": 1,
+      "status": "complete",
+      "page_count": 15,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 60
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-001",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 1,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-002",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 2,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-003",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 3,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-004",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 4,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-005",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 5,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-006",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 6,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-007",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 7,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-008",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 8,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-009",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 9,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-010",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 10,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-011",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 11,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-2-claims-index-batch-012",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "sequence": 12,
+      "status": "complete",
+      "page_count": 2,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 8
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-001",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 1,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-002",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 2,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-003",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 3,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-004",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 4,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-005",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 5,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-006",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 6,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-007",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 7,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-008",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 8,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-009",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 9,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-010",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 10,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-011",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 11,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-012",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 12,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-013",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 13,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-014",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 14,
+      "status": "complete",
+      "page_count": 49,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 196
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-015",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 15,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-3-faqs-articles-batch-016",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "sequence": 16,
+      "status": "complete",
+      "page_count": 45,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 180
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-001",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 1,
+      "status": "complete",
+      "page_count": 2,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 8
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-002",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 2,
+      "status": "complete",
+      "page_count": 1,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 4
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-003",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 3,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-004",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 4,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-005",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 5,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-006",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 6,
+      "status": "complete",
+      "page_count": 1,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 4
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-007",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 7,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-008",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 8,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-009",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 9,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-010",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 10,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-011",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 11,
+      "status": "complete",
+      "page_count": 1,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 4
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-012",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 12,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-013",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 13,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-014",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 14,
+      "status": "complete",
+      "page_count": 1,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 4
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-015",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 15,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-016",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 16,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-017",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 17,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-018",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 18,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-019",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 19,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-020",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 20,
+      "status": "empty",
+      "page_count": 0,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {}
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-021",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 21,
+      "status": "complete",
+      "page_count": 14,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 56
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-022",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 22,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-023",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 23,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-024",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 24,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-025",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 25,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-026",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 26,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-027",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 27,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-028",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 28,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-029",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 29,
+      "status": "complete",
+      "page_count": 50,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 200
+      }
+    },
+    {
+      "id": "phase-4-archive-navigation-batch-030",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "sequence": 30,
+      "status": "complete",
+      "page_count": 38,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 152
+      }
+    },
+    {
+      "id": "phase-5-specialized-legacy-batch-001",
+      "phase": "phase-5-specialized-legacy",
+      "phase_label": "Specialized Legacy Material",
+      "sequence": 1,
+      "status": "complete",
+      "page_count": 7,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 28
+      }
+    },
+    {
+      "id": "phase-4-bibliography-expanded-refresh-20260528",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "sequence": 31,
+      "status": "partial",
+      "page_count": 1030,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "update_reason": "The bibliography has been restored from the expanded CiteGeist corpus, with DOI/source verification, abstracts where available, citation graph expansion, BibTeX exports, and a modern topic index.",
+      "status_counts": {
+        "translated": 2512,
+        "ready_update": 1608
+      }
+    }
+  ]
+}

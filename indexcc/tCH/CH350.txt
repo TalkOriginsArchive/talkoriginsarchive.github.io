@@ -1,0 +1,59 @@
+BriefClaim: Organisms come in discrete kinds.
+Title: Discrete Kinds
+Keywords: kind, baramin, creation, nested hierarchy.
+
+Claim:
+
+The created kinds are distinct; evolution between them is impossible.
+"Creation of distinct kinds precludes transmutation between kinds" (Morris
+1974, 216).
+
+Source:
+
+SciCre, pp. 13, 216-218.
+
+Response:
+
+1. Creationists have been unable to specify what the created kinds are.
+   If kinds were distinct, it should be easy to distinguish between them.
+   Instead, we find a nested hierarchy of similarities, with kinds within
+   kinds within kinds.  For example, the twelve-spotted ladybug could be
+   placed in the twelve-spotted ladybug kind, the ladybug kind, the beetle
+   kind, the insect kind, or any of dozens of other kinds of kind,
+   depending on how inclusive the kind is.  No matter where one sets the
+   cutoff for how inclusive a kind is, there will be many groups just
+   bordering on that cutoff.  This pattern exactly matches the pattern
+   expected of evolution.  It does not match what creationism predicts.
+
+2. Fixity of kinds is based on the philosophy of Plato, not the Bible
+   (Dewey 1910).  Nowhere does the Bible say that kinds themselves cannot
+   change and diversify.  Reproduction "according to their kind" is
+   entirely consistent with evolution, as long as it is recognized that
+   kinds are not fixed.
+
+3. Although major changes from one kind to another do not normally
+   happen, except gradually over hundreds of thousands of generations, a
+   sudden origin of a new kind has been observed.  A strain of cancerous
+   human cells (called HeLa cells) have evolved to become a wild
+   unicellular life form (Van Valen and Maiorana 1991).
+
+4. According to Morris, fungi were not part of the original creation.
+   They were not among the categories listed in Genesis 1, and as decayers
+   they would not have their form until after the Fall.  Thus, Morris's
+   own theology requires new kinds to originate after the creation.
+
+Links:
+
+References:
+
+1. Dewey, John, 1910.  The influence of Darwinism on philosophy.  In _The
+   Influence of Darwin on Philosophy and Other Essays in Contemporary
+   Thought_, New York: Henry Holt & Co.  Reprinted in Fisch, M.H. (ed.),
+   1951, _Classic American Philosophers_, New York:
+   Appleton-Century-Crofts.
+2. Van Valen, Leigh M. and Virginia C. Maiorana, 1991.  HeLa, a new
+   microbial species.  _Evolutionary Theory_ 10: 71-74.
+
+Further Reading:
+
+Date: 2001-2-18

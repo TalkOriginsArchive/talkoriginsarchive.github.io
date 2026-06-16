@@ -1,0 +1,46 @@
+BriefClaim: Midocean magnetic anomalies are not reversals.
+Title: Midocean magnetic reversals
+Keywords: plate tectonics, magnetic reversal
+
+Claim:
+
+Plate tectonics became widely accepted when bands of reversed magnetic
+orientation were found mirrored on either side of the Mid-Atlantic Ridge.
+According to the theory, the sea floor spread gradually from the
+Mid-Atlantic Ridge, and periodic flips in the earth's magnetic field were
+preserved and recorded in the rocks as emerging magma cooled.
+But these bands of magnetism were misinterpreted; there are no magnetic
+reversals.  Although magnetic intensities fluctuate, these are slight
+deviations around a high average.  A compass needle would not change
+direction over these bands.
+
+Source:
+
+Brown, Walt, 1995.  _In the Beginning: Compelling evidence for creation
+ and the Flood_, 6th ed., p. 79.
+ https://web.archive.org/web/20240621115217if_/http://www.creationscience.com/onlinebook/HydroplateOverview3.html
+
+Response:
+
+1. The magnetic field preserved in the rocks themselves does change
+   direction.  The magnetism measured in the 1950s was measured at the
+   ocean surface, so the earth's present magnetic field was added to the
+   magnetism from the rocks below (Bishop 1981).
+
+2. The main significance of the data was that the pattern was mirrored on
+   either side of the midocean ridge.  This is just the pattern one would
+   expect from sea-floor spreading.
+
+3. There is a great deal more evidence for <CD740>plate tectonics>.
+
+Links:
+
+References:
+
+1. Bishop, A. C., 1981.  The development of the concept of continental
+   drift. In _The Evolving Earth_, ed. L. R. M. Cocks, London: British
+   Museum, pp. 155-164.
+
+Further Reading:
+
+Date: 2004-2-13

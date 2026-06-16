@@ -1,0 +1,71 @@
+BriefClaim: Evolution does not explain religion.
+Title: Evolution of religion
+Keywords: religiosity
+
+Claim:
+
+Evolution does not explain religion.
+
+Source:
+
+#Clayton, John N., 1997.  What does the Bible teach about catastrophism?
+# http://www.doesgodexist.org/JanFeb97/WhatDoesTheBibleTeachAbtCatastrophism.html
+# (claims man's soul didn't evolve)
+
+Response:
+
+1. Religion fits comfortably with evolutionary theory.  Some of its
+   important components probably even predate humanity.  For example:
+    - A fear of death has obvious survival advantages and is probably as
+      old as emotions.  When intellect evolved to the point that
+      imagination became possible, we could start thinking about
+      alternatives.
+    - Humans and other primates live in dominance hierarchies.  A social
+      structure with "higher" and "lower" beings is part of our genes.  We
+      can always point to other animals as lower beings, but sometimes a
+      higher being requires something unobvious.
+    - With the origin of symbolic thinking (which language requires), the
+      abstract higher beings could be thought of in more specific terms.
+    - With language, gods could be talked about.  From there, religion
+      developed via cultural evolution.
+    - Fear of the unknown gives further reason for believing in gods.
+      Dealings with a god, such as sacrificial offering or intercessory
+      prayer, allow one the impression of some influence over events that
+      are beyond one's control.
+
+2. Religions themselves evolve (Cullen 1998; Gottsch 2001).
+
+3. The claim is an <CA100>argument from incredulity>.  Even if no
+   explanation is known, that does not mean there is none.
+
+# Kurup, R. K. and P. A. Kurup, 2003.  Hypothalamic digoxin, hemispheric
+#chemical dominance, and spirituality.  _Int J Neurosci._ 113(3):383-93.
+#(Brain chemistry varies between spiritual and atheistic people.)
+
+Links:
+
+References:
+
+3. Cullen, B. 1998.  Parasite ecology and the evolution of religion.  In
+   Heylighten, F. (ed.), _The Evolution of Complexity_.
+   http://pespmc1.vub.ac.be/Papers/Cullen.html
+4. Gottsch, J. D. 2001.  Mutation, selection, and vertical transmission of
+   theistic memes in religious canons.  _J Memetics_ 5.
+   https://web.archive.org/web/20120907172154if_/http://jom-emit.cfpm.org/2001/vol5/gottsch_jd.html
+
+Further Reading:
+
+Boyer, Pascal. 2001.  _Religion Explained_.  New York: Basic Books.
+
+Burkert, Walter. 1996.  _Creation of the Sacred: Tracks of biology in
+ early religions_.  Cambridge, MA: Harvard University Press.  (It
+ concentrates on early cultural aspects of religion but still has some
+ relevance to religion's origin.)
+
+Dunbar, Robin. 2003.  Evolution: Five big questions: 5. What's
+ God got to do with it?  _New Scientist_ 178(2399) (14 June): 38-39.
+
+Konner, Melvin. 2002.  _The Tangled Wing: Biological constraints on the
+ human spirit_, New York: Henry Holt and Co.
+
+Date: 2003-8-22, 2003-9-4

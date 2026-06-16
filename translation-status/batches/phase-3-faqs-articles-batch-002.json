@@ -1,0 +1,920 @@
+{
+  "id": "phase-3-faqs-articles-batch-002",
+  "phase": "phase-3-faqs-articles",
+  "phase_label": "FAQs and Articles",
+  "sequence": 2,
+  "status": "complete",
+  "page_count": 50,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/faqs/ce/2/part3.html",
+      "source_path": "faqs/ce/2/part3.html",
+      "title": "Cretinism or Evilution?: Excerpts from Zindler",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 14098
+    },
+    {
+      "route": "/faqs/ce/2/part4.html",
+      "source_path": "faqs/ce/2/part4.html",
+      "title": "Cretinism or Evilution?: The Holy Heavens",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9698
+    },
+    {
+      "route": "/faqs/ce/2/part5.html",
+      "source_path": "faqs/ce/2/part5.html",
+      "title": "Cretinism or Evilution?: The Bible's Geocentrism",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7240
+    },
+    {
+      "route": "/faqs/ce/2/part6.html",
+      "source_path": "faqs/ce/2/part6.html",
+      "title": "Cretinism or Evilution?: Henry Morris Denies Geocentrism",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 15669
+    },
+    {
+      "route": "/faqs/ce/2/part7.html",
+      "source_path": "faqs/ce/2/part7.html",
+      "title": "Cretinism or Evilution?: Henry Morris on Other Planets",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2885
+    },
+    {
+      "route": "/faqs/ce/2/part8.html",
+      "source_path": "faqs/ce/2/part8.html",
+      "title": "Cretinism or Evilution?: The \"Center of God's Interest\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8438
+    },
+    {
+      "route": "/faqs/ce/2/part9.html",
+      "source_path": "faqs/ce/2/part9.html",
+      "title": "Cretinism or Evilution?: The Sinfulness of Extraterrestrials",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7512
+    },
+    {
+      "route": "/faqs/ce/3/",
+      "source_path": "faqs/ce/3/index.html",
+      "title": "Cretinism or Evilution?: Creationist Tall Tales!",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2475
+    },
+    {
+      "route": "/faqs/ce/3/default.htm",
+      "source_path": "faqs/ce/3/default.htm",
+      "title": "Cretinism or Evilution?: Creationist Tall Tales!",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2487
+    },
+    {
+      "route": "/faqs/ce/3/more-photos.html",
+      "source_path": "faqs/ce/3/more-photos.html",
+      "title": "C or E? no. 3: More Photos",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 808
+    },
+    {
+      "route": "/faqs/ce/3/part1.html",
+      "source_path": "faqs/ce/3/part1.html",
+      "title": "Cretinism or Evilution?: Creationist Folk Science",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 11384
+    },
+    {
+      "route": "/faqs/ce/3/part10.html",
+      "source_path": "faqs/ce/3/part10.html",
+      "title": "Cretinism or Evilution?: Darwin Quotations on Design",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7315
+    },
+    {
+      "route": "/faqs/ce/3/part11.html",
+      "source_path": "faqs/ce/3/part11.html",
+      "title": "Cretinism or Evilution?: Out of Context Quotatations of French Scientists",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5200
+    },
+    {
+      "route": "/faqs/ce/3/part12.html",
+      "source_path": "faqs/ce/3/part12.html",
+      "title": "Cretinism or Evilution?: More Out of Context Quotations of French Scientists",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9942
+    },
+    {
+      "route": "/faqs/ce/3/part13.html",
+      "source_path": "faqs/ce/3/part13.html",
+      "title": "Cretinism or Evilution?: The \"Death of Darwinism\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5225
+    },
+    {
+      "route": "/faqs/ce/3/part14.html",
+      "source_path": "faqs/ce/3/part14.html",
+      "title": "Cretinism or Evilution?: Social Darwinism",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2294
+    },
+    {
+      "route": "/faqs/ce/3/part2.html",
+      "source_path": "faqs/ce/3/part2.html",
+      "title": "Cretinism or Evilution?: Men Over Ten Feet Tall",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 33122
+    },
+    {
+      "route": "/faqs/ce/3/part3.html",
+      "source_path": "faqs/ce/3/part3.html",
+      "title": "Cretinism or Evilution?: Ninety Foot Tall Plum Tree",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 17076
+    },
+    {
+      "route": "/faqs/ce/3/part4.html",
+      "source_path": "faqs/ce/3/part4.html",
+      "title": "Cretinism or Evilution?: Hippos in the Tundra",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3614
+    },
+    {
+      "route": "/faqs/ce/3/part5.html",
+      "source_path": "faqs/ce/3/part5.html",
+      "title": "Cretinism or Evilution?: The Revised Quote\nBook",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3526
+    },
+    {
+      "route": "/faqs/ce/3/part6.html",
+      "source_path": "faqs/ce/3/part6.html",
+      "title": "Cretinism or Evilution?: A \"Devilish\" Quotation",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9453
+    },
+    {
+      "route": "/faqs/ce/3/part7.html",
+      "source_path": "faqs/ce/3/part7.html",
+      "title": "Cretinism or Evilution?: An Out of Context Quotation",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2889
+    },
+    {
+      "route": "/faqs/ce/3/part8.html",
+      "source_path": "faqs/ce/3/part8.html",
+      "title": "Cretinism or Evilution?: An Old, Out of Context Quotation",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 11726
+    },
+    {
+      "route": "/faqs/ce/3/part9.html",
+      "source_path": "faqs/ce/3/part9.html",
+      "title": "Cretinism or Evilution?: Darwin Quotations on Complexity",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3701
+    },
+    {
+      "route": "/faqs/ce/4/",
+      "source_path": "faqs/ce/4/index.html",
+      "title": "Cretinism or Evilution?:  Why We Believe in a Designer!",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2303
+    },
+    {
+      "route": "/faqs/ce/4/default.htm",
+      "source_path": "faqs/ce/4/default.htm",
+      "title": "Cretinism or Evilution?:  Why We Believe in a Designer!",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2315
+    },
+    {
+      "route": "/faqs/ce/4/part1.html",
+      "source_path": "faqs/ce/4/part1.html",
+      "title": "Cretinism or Evilution?: Ed Babinski's \"Cretinism or Evilution\" Speech",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 47046
+    },
+    {
+      "route": "/faqs/ce/4/part10.html",
+      "source_path": "faqs/ce/4/part10.html",
+      "title": "Cretinism or Evilution?: Uncle Ed's \"Holy Book\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 12470
+    },
+    {
+      "route": "/faqs/ce/4/part2.html",
+      "source_path": "faqs/ce/4/part2.html",
+      "title": "Cretinism or Evilution?: Why We Believe in a Designer!",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 134093
+    },
+    {
+      "route": "/faqs/ce/4/part3.html",
+      "source_path": "faqs/ce/4/part3.html",
+      "title": "Cretinism or Evilution?: Further Reading",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8415
+    },
+    {
+      "route": "/faqs/ce/4/part4.html",
+      "source_path": "faqs/ce/4/part4.html",
+      "title": "Cretinism or Evilution? The Way God \"Designed\" the Cosmos",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 50496
+    },
+    {
+      "route": "/faqs/ce/4/part5.html",
+      "source_path": "faqs/ce/4/part5.html",
+      "title": "Cretinism or Evilution?: \"The Lord of the Flies\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7593
+    },
+    {
+      "route": "/faqs/ce/4/part6.html",
+      "source_path": "faqs/ce/4/part6.html",
+      "title": "Cretinism or Evilution?: The Problem of Pain",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6605
+    },
+    {
+      "route": "/faqs/ce/4/part7.html",
+      "source_path": "faqs/ce/4/part7.html",
+      "title": "Cretinism or Evilution?: In Favor of Evolution",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 18563
+    },
+    {
+      "route": "/faqs/ce/4/part8.html",
+      "source_path": "faqs/ce/4/part8.html",
+      "title": "Cretinism or Evilution?: Berlinski or Babinski?",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5695
+    },
+    {
+      "route": "/faqs/ce/4/part9.html",
+      "source_path": "faqs/ce/4/part9.html",
+      "title": "Cretinism or Evilution?: Genesis is a Jokesis!",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 21055
+    },
+    {
+      "route": "/faqs/ce/default.htm",
+      "source_path": "faqs/ce/default.htm",
+      "title": "Cretinism or Evilution?",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1466
+    },
+    {
+      "route": "/faqs/ce/intro.html",
+      "source_path": "faqs/ce/intro.html",
+      "title": "Cretinism or Evilution?: Introduction",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4760
+    },
+    {
+      "route": "/faqs/chance.html",
+      "source_path": "faqs/chance.html",
+      "title": "Evolution and Chance",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2335
+    },
+    {
+      "route": "/faqs/chance/chance-theistic.html",
+      "source_path": "faqs/chance/chance-theistic.html",
+      "title": "Evolution and Chance: Chance from a Theistic Perspective",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 13199
+    },
+    {
+      "route": "/faqs/chance/chance.html",
+      "source_path": "faqs/chance/chance.html",
+      "title": "Evolution and Chance",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 40990
+    },
+    {
+      "route": "/faqs/chance/metaphysics.html",
+      "source_path": "faqs/chance/metaphysics.html",
+      "title": "Evolution and Metaphysics",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 33955
+    },
+    {
+      "route": "/faqs/chance/revhist.html",
+      "source_path": "faqs/chance/revhist.html",
+      "title": "faqs/chance/revhist.html",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1235
+    },
+    {
+      "route": "/faqs/coalprints.html",
+      "source_path": "faqs/coalprints.html",
+      "title": "Dinosaur Footprints in Coal",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5811
+    },
+    {
+      "route": "/faqs/cobb/citizensforscience.html",
+      "source_path": "faqs/cobb/citizensforscience.html",
+      "title": "Selman v. Cobb County School District: Amicus Curiae\nof Several Pro-Evolution Groups",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 22728
+    },
+    {
+      "route": "/faqs/cobb/selman-v-cobb.html",
+      "source_path": "faqs/cobb/selman-v-cobb.html",
+      "title": "Selman v. Cobb County School District: Court Rules Against Evolution Disclaimer",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 100164
+    },
+    {
+      "route": "/faqs/comdesc.html",
+      "source_path": "faqs/comdesc.html",
+      "title": "29+ Evidences for Macroevolution",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1056
+    },
+    {
+      "route": "/faqs/comdesc/",
+      "source_path": "faqs/comdesc/index.html",
+      "title": "29+ Evidences for Macroevolution: The Scientific Case for Common Descent",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 19776
+    },
+    {
+      "route": "/faqs/comdesc/CDgradualism.html",
+      "source_path": "faqs/comdesc/CDgradualism.html",
+      "title": "Charles Darwin on \"Gradualism\"",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 10118
+    },
+    {
+      "route": "/faqs/comdesc/CDhierarchy.html",
+      "source_path": "faqs/comdesc/CDhierarchy.html",
+      "title": "Charles Darwin on the Nested Hierarchy",
+      "content_kind": "faqs_articles",
+      "phase": "phase-3-faqs-articles",
+      "phase_label": "FAQs and Articles",
+      "batch_id": "phase-3-faqs-articles-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3146
+    }
+  ],
+  "status_counts": {
+    "translated": 200
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

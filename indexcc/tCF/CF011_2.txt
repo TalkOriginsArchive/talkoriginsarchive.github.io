@@ -1,0 +1,88 @@
+BriefClaim: NFL theorems prove that evolutionary algorithms do not beat blind search.
+Title: No Free Lunch theorems and evolutionary algorithms
+Keywords: No Free Lunch, genetic algorithm, displacement
+
+Claim:
+
+The No Free Lunch (NFL) theorems (Wolpert and Macready 1997) prove that
+evolutionary algorithms, when averaged across fitness functions, cannot
+outperform blind search.  This means that an evolutionary algorithm can
+find a specified target only if complex specified information already
+resides in the fitness function.  Evolutionary algorithms cannot account
+for the complex specified information we see in life; that information has
+to come from design.
+
+Source:
+
+Dembski, William A., 2002b.  _No Free Lunch_, Lanham, MD: Rowman &
+ Littlefield, pp. xii, 199-212.
+
+Response:
+
+1. The NFL theorems do not apply to biological evolution.  The NFL
+   theorems apply only when the fitness function is independent of the
+   algorithm, but in evolution, evolving populations affect the
+   environment and each other and therefore the fitness functions.
+
+   It should also be noted that the NFL theorems do not refer to finding a
+   target.  They can apply to problems such as finding which of several
+   algorithms performs best; such application differs from Dembski's
+   concept of a target.
+
+   Dembski himself later wrote that the NFL theorems are not important to
+   his point, which is about <CF011>displacement and conservation of
+   information> (Dembski 2002a).
+
+2. The NFL theorems consider the average of all fitness functions.
+   Finding an above-average fitness function is not complicated and is
+   often trivial.  If you want a solution that performs well according to
+   some metric, then a fitness function that measures that metric will
+   usually work better than blind search.  For example, if you are
+   interested in survival and reproduction in a certain environment, then
+   survival and reproduction in that environment is a good choice for a
+   fitness function.
+
+3. The ultimate test of a concept is whether it works.  Evolutionary
+   algorithms work.  They find solutions to many problems that are
+   intractable with other methods.  If mathematics contradicts reliable
+   observation, the math is misapplied, irrelevant, or wrong.
+
+4. Complex specified information <CI111.2>does not signify design>.
+
+5. No design theorist has ever shown that complex specified information
+   exists in life.
+
+6. That evolution uses information from the environment (via the fitness
+   function) is nothing new.  The process is called adaptation.  Darwin
+   wrote something about the general subject (Darwin 1859).  It does not
+   imply design.
+
+Links:
+
+Perakh, Mark, 2003.  The No Free Lunch theorems and their application to
+ evolutionary algorithms.  https://web.archive.org/web/20240510224644if_/http://www.talkreason.org/articles/orr.cfm
+
+References:
+
+1. Darwin, C., 1872.  _The Origin of Species_, 1st Edition.  Senate,
+   London.  http://www.talkorigins.org/faqs/origin.html
+2. Dembski, William A., 2002a (Nov. 6).  The ARN Design Forum: What
+   genetic algorithms can do.
+   http://www.arn.org/ubb/ultimatebb.php?ubb=get_topic;f=13;t=000428;p=1
+3. Wolpert, D. H. and W. G. Macready, 1997.  No Free Lunch theorems for
+   optimization.  _IEEE Transactions on Evolutionary Computation_ 1(1):
+   67-82.  https://web.archive.org/web/20040203085833if_/http://citeseer.nj.nec.com/wolpert96no.html
+
+Further Reading:
+
+Wein, Richard, 2002.  Not a free lunch but a box of chocolates:
+ A critique of William Dembski's book _No Free Lunch_.
+ http://www.talkorigins.org/design/faqs/nfl/
+
+Wolpert, David, 2002.  William Dembski's treatment of the No Free Lunch
+ theorems is written in jello.  _Mathematical Reviews_, Feb. 2003, review
+ 2003b:00012.
+ https://web.archive.org/web/20240531194356if_/http://www.talkreason.org/articles/jello.cfm or
+ https://web.archive.org/web/20041018030236if_/http://www.arn.org/boards/ubb-get_topic-f-14-t-000221.html
+
+Date: 2003-10-22, 2003-10-25

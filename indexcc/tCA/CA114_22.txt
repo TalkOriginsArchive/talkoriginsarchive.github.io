@@ -1,0 +1,39 @@
+BriefClaim: Louis Pasteur was a creationist.
+Title: Pasteur and creationism
+Keywords: Pasteur, scientist, creationist.
+
+Claim:
+
+Louis Pasteur (1822-1895) was a creationist.
+
+Source:
+
+Morris, Henry M. 1982.  Bible-believing scientists of the past.  _Impact_
+ 103 (Jan.),
+ http://www.icr.org/index.php?module=articles&action=view&ID=185
+
+Response:
+
+1. Pasteur wrote little on the subject of evolution or creation.  He was
+   apparently skeptical of the popularity of Darwin's theory, but he
+   accepted evolution.  Along with most French scientists of his time, he
+   probably did not accept natural selection as its cause.  Cuny (1965,
+   122) quotes him:
+
+    "Virulence appears in a new light which cannot but be alarming to
+     humanity; unless nature, in her evolution down the ages (an evolution
+     which, as we now know, has been going on for millions, nay, hundreds
+     of millions of years), has finally exhausted all the possibilities of
+     producing virulent or contagious diseases -- which does not seem very
+     likely.
+
+Links:
+
+References:
+
+1. Cuny, Hilaire. 1965.  _Louis Pasteur: The man and his theories_.
+   Translated by P. Evans.  London: The Scientific Book Club.
+
+Further Reading:
+
+Date: 2004-2-22

@@ -1,0 +1,53 @@
+BriefClaim: Horse fossils do not show evolution.
+Title: Horse fossil record.
+Keywords: horse, equuid, fossil.
+
+Claim:
+
+The fossil record does not show a gradual development from a small animal
+to the large modern horse.  The horse family tree is not simple and
+direct; some scientists say _Eohippus_ was not an ancestor of the modern
+horse; and the different types of fossils show stability, not gradual
+change.
+
+Source:
+
+LifeHow, pp. 66-67.
+
+Response:
+
+1. The fossil record does not show a gradual, linear progression from
+   _Hyracotherium_ (_Eohippus_) to _Equus_.  Nor is there any reason to
+   think it should.  The fossil record of equids shows that various
+   lineages split into several branches.  Evolution was not smooth and
+   gradual; traits evolved at different rates and occasionally reversed.
+   Some species arose gradually, others suddenly.  All of this is in
+   accord with the messiness we expect from evolution and from biology in
+   general.
+
+2. Some creationists consider all the species in the horse family to be
+   the same "kind."  They accept "microevolution" from _Hyracotherium_ at
+   the time of the Flood, to modern horses and donkeys first recorded less
+   than four hundred years later (Wood and Cavanaugh 2003).  This rate of
+   change is far greater than biologists accept.
+
+Links:
+
+FLMNH, n.d.  Fossil horses in hyperspace.
+ https://web.archive.org/web/20150104034829if_/http://www.flmnh.ufl.edu/natsci/vertpaleo/fhc/fhc.htm
+
+Hunt, Kathleen, 1995.  Horse evolution.
+ http://www.talkorigins.org/faqs/horses/horse_evol.html
+
+References:
+
+1. Wood, T. C. and D. P. Cavanaugh, 2003.  An evaluation of lineages and
+   trajectories as baraminological membership criteria.  _Occas. Papers of
+   the BSG_ 2: 1-6.  http://www.bryancore.org/bsg/opbsg/002.html
+
+Further Reading:
+
+Gould, Stephen J., 1991.  Life's little joke.  In: _Bully for
+ Brontosaurus_, New York: W.W. Norton, pp. 168-181.
+
+Date: 2003-7-3, 2004-5-17

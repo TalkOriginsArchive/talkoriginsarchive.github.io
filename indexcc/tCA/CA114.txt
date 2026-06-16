@@ -1,0 +1,91 @@
+BriefClaim: Many famous scientists were creationists.
+Title: Creationist scientists
+Keywords: scientist
+
+Claim:
+
+There have been many famous scientists who believed in special creation in
+the past.  In particular, the following scientists were creationists:
+
+ - Louis Agassiz (1807-1873; glacial geology)
+ - <CA114.4>Charles Babbage> (1792-1871; computer science)
+ - Francis Bacon (1561-1626; scientific method)
+ - Robert Boyle (1627-1691; gas dynamics)
+ - David Brewster (1781-1868; optical mineralogy)
+ - Georges Cuvier (1769-1832; comparative anatomy)
+ - Leonardo da Vinci (1452-1519; hydraulics)
+ - Humphrey Davy (1778-1829; thermokinetics)
+ - <CA114.10>Henri Fabre> (1823-1915; entomology of living insects)
+ - Michael Faraday (1791-1867; electromagnetics)
+ - John Ambrose Fleming (1849-1945; electronics)
+ - Joseph Henry (1797-1878; inventor)
+ - William Herschel (1738-1822; galactic astronomy)
+ - James Joule (1818-1889; reversible thermodynamics)
+ - <CA114.1>Lord Kelvin> (1824-1907; energetics)
+ - Johann Kepler (1571-1630; celestial mechanics)
+ - <CA114.2>Carolus Linnaeus> (1707-1778; systematic biology)
+ - Joseph Lister (1827-1912; antiseptic surgery)
+ - Matthew Maury (1806-1873; oceanography)
+ - James Clerk Maxwell (1831-1879; electrodynamics)
+ - Gregor Mendel (1822-1884; genetics)
+ - Samuel F. B. Morse (1791-1872; telegraph inventor)
+ - Isaac Newton (1642-1727; calculus)
+ - Blaise Pascal (1623-1662; hydrostatics)
+ - <CA114.22>Louis Pasteur> (1822-1895; bacteriology)
+ - William Ramsay (1852-1916; isotopic chemistry)
+ - John Ray (1627-1705; natural history)
+ - Lord Rayleigh (1842-1919; dimensional analysis)
+ - Bernhard Riemann (1826- 1866; non-Euclidean geometry)
+ - James Simpson (1811-1870; gynecology)
+ - <CA114.28>Nicholas Steno> (1631-1686; stratigraphy)
+ - George Stokes (1819-1903; fluid mechanics)
+ - Rudolph Virchow (1821-1902; pathology)
+ - John Woodward (1665-1728; paleontology)
+
+Agassiz, Pasteur, Lord Kelvin, Maxwell, Dawson, Virchow, Fabre, and
+Fleming were strong opponents of evolution.
+
+Source:
+
+Morris, Henry M. 1982.  Bible-believing scientists of the past.  _Impact_
+ 103 (Jan.),
+ http://www.icr.org/index.php?module=articles&action=view&ID=185
+
+Response:
+
+1. The validity of evolution rests on what the evidence says, not on what
+   people say.  There is overwhelming evidence in support of evolution
+   and no valid arguments against it.
+
+2. Many of the scientists in the above list lived before the theory of
+   evolution was even proposed.  Others knew the theory, but were not
+   familiar with all the evidence for it.  Evolution is outside the field
+   of most of those scientists.
+
+   A couple hundred years ago, before the theory of evolution was
+   developed and evidence for it was presented, virtually all scientists
+   were creationists, including scientists in relevant fields such as
+   biology and geology.  Today, virtually all relevant scientists accept
+   evolution.  Such a turnabout could only be caused by overwhelming
+   evidence.  The alternative -- that almost all scientists today are
+   thoroughly incompetent -- is preposterous.
+
+3. Even if they did not believe in evolution, all these scientists were
+   firmly committed to the scientific method, including methodological
+   naturalism.  They actually serve as counterexamples to the common
+   creationist claim that a naturalistic practice of science is atheistic.
+
+4. Evolution is entirely consistent with a <CA602>belief in God>,
+   including even "special creation."  Special creation need not refer to
+   the creation of every animal; it can refer simply to creation of the
+   universe, of the first life, or of the human soul, for example.  Many
+   of the above scientists were not creationists in the sense that Henry
+   Morris uses the term.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2000-11-4, 2005-11-25

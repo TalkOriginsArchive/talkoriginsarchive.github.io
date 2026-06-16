@@ -1,0 +1,33 @@
+BriefClaim: ERTS satellite photographed Noah's ark in 1973.
+Title: ERTS Ark photograph
+Keywords: Ark, photograph
+
+Claim:
+
+The Earth Resources Technology Satellite (ERTS) photographed Noah's ark in
+1973.
+
+Source:
+
+LaHaye, Tim and John Morris, 1976. _The Ark on Ararat_, Nashville: Thomas
+ Nelson Inc. and Creation Life Publishers, pp. 203-206.
+
+Response:
+
+1. ERTS does not have sufficient resolution to photograph the ark.  An
+   object of the expected size (appx. 450 by 75 feet) would occupy about
+   one pixel of the image.  The object in the photograph that was claimed
+   to be the ark is much too big (Bailey 1989, 91; LaHaye and Morris
+   1976).
+
+Links:
+
+References:
+
+1. Bailey, Lloyd R., 1989.  _Noah: The Person and the Story in History and
+   Tradition_, Columbia: University of South Carolina Press.
+2. LaHaye and Morris, 1976. (see above)
+
+Further Reading:
+
+Date: 2003-5-7

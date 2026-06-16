@@ -1,0 +1,21 @@
+Title: Hardy-Weinberg
+Keywords: Hardy-Weinberg, population genetics
+
+Claim:
+
+Source:
+
+_Of Pandas and People_
+
+Response:
+
+Links:
+
+References:
+
+Further Reading:
+
+Sonleitner, Frank J., 1994.  What's wrong with Pandas? -- Excursion
+ chapter 2: Genetics and evolution.
+ https://web.archive.org/web/20041205081544if_/http://www.ncseweb.org/resources/articles/460_53_sonleitner_what39s_wr_11_24_2004.asp
+

@@ -1,0 +1,211 @@
+BriefClaim: No new species have been observed.
+Title: New species
+Keywords: species, speciation
+
+Claim:
+
+No new species have been observed.
+
+Source:
+
+Morris, Henry M., 1986.  The vanishing case for evolution.  _Impact_ 156
+ (Jun.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=260
+
+Response:
+
+1. New species have arisen in historical times.  For example:
+
+   - A new species of mosquito, isolated in London's
+     Underground, has speciated from _Culex pipiens_ (Byrne and Nichols
+     1999; Nuttall 1998).
+
+   - _Helacyton gartleri_ is the HeLa cell culture, which evolved from a
+     human cervical carcinoma in 1951.  The culture grows indefinitely and
+     has become widespread (Van Valen and Maiorana 1991).
+
+     A similar event appears to have happened with dogs relatively
+     recently.  Sticker's sarcoma, or canine transmissible venereal tumor,
+     is caused by an organism genetically independent from its hosts but
+     derived from a wolf or dog tumor (Zimmer 2006; Murgia et al. 2006).
+
+   - Several new species of plants have arisen via polyploidy (when the
+     chromosome count multiplies by two or more) (de Wet 1971).  One
+     example is _Primula kewensis_ (Newton and Pellew 1929).
+
+#   - _Drosophila melanogaster_ populations evolved reproductive isolation
+#     as a result of contrasting microenvironments within a canyon. (Korol
+#     et al. 2000)
+#7. Korol, A. et al., 2000.  Nonrandom mating in _Drosophila melanogaster_
+#   laboratory populations derived from closely adjacent ecologically
+#   contrasting slopes at "Evolution Canyon." PNAS 97: 12637-12642.  See
+#   also Schneider, C. J., 2000 (Oct. 31).  Natural selection and
+#   speciation.  PNAS 97: 12398-12399.
+#
+#   - A lineage of 13-year cicadas is reproductively isolated from the
+#     17-year cicada it derived from by reproductive timing, and it is
+#     genetically distinct also from another 13-year cicada in the same
+#     region. (Simon et al. 2000)
+#3. Simon, C. et al., 2000.  Genetic evidence for assortative mating
+#   between 13-year cicadas and sympatric "17-year cicadas with 13-year
+#   life cycles" provides support for allochronic speciation.
+#   _Evolution_ 54: 1326-1336.
+
+2. Incipient speciation, where two subspecies interbreed rarely or with
+   only little success, is common.  Here are just a few examples:
+
+   - _Rhagoletis pomonella_, the apple maggot fly, is undergoing sympatric
+     speciation.  Its native host in North America is Hawthorn (_Crataegus_
+     spp.), but in the mid-1800s, a new population formed on introduced
+     domestic apples (_Malus pumila_).  The two races are kept partially
+     isolated by natural selection (Filchak et al. 2000).
+   - The mosquito _Anopheles gambiae_ shows incipient speciation between
+     its populations in northwestern and southeastern Africa (Fanello et
+     al. 2003; Lehmann et al. 2003).
+   - Silverside fish show incipient speciation between marine and
+     estuarine populations (Beheregaray and Sunnucks 2001).
+
+3. Ring species show the process of speciation in action.  In ring
+   species, the species is distributed more or less in a line, such as
+   around the base of a mountain range.  Each population is able to breed
+   with its neighboring population, but the populations at the two ends
+   are not able to interbreed.  (In a true ring species, those two end
+   populations are adjacent to each other, completing the ring.)  Examples
+   of ring species are
+
+    - the salamander _Ensatina_, with seven different subspecies on the
+      west coast of the United States.  They form a ring around
+      California's central valley.  At the south end, adjacent subspecies
+      _klauberi_ and _eschscholtzi_ do not interbreed (Brown n.d.; Wake
+      1997).
+    - greenish warblers (_Phylloscopus trochiloides_), around the
+      Himalayas.  Their behavioral and genetic characteristics change
+      gradually, starting from central Siberia, extending around the
+      Himalayas, and back again, so two forms of the songbird coexist but
+      do not interbreed in that part of their range (Irwin et al. 2001;
+      Whitehouse 2001; Irwin et al. 2005).
+    - the deer mouse (_Peromyces maniculatus_), with over fifty subspecies
+      in North America.
+    - many species of birds, including _Parus major_ and _P. minor_,
+      _Halcyon chloris_, _Zosterops_, _Lalage_, _Pernis_, the _Larus
+      argentatus_ group, and _Phylloscopus trochiloides_ (Mayr 1942,
+      182-183).
+    - the American bee _Hoplitis (Alcidamea) producta_ (Mayr 1963, 510).
+    - the subterranean mole rat, _Spalax ehrenbergi_ (Nevo 1999).
+
+4. Evidence of speciation occurs in the form of organisms that exist only
+   in environments that did not exist a few hundreds or thousands of years
+   ago.  For example:
+     - In several Canadian lakes, which originated in the last 10,000
+       years following the last ice age, stickleback fish have diversified
+       into separate species for shallow and deep water (Schilthuizen
+       2001, 146-151).
+     - Cichlids in Lake Malawi and Lake Victoria have diversified into
+       hundreds of species.  Parts of Lake Malawi which originated in the
+       nineteenth century have species indigenous to those parts
+       (Schilthuizen 2001, 166-176).
+     - A _Mimulus_ species adapted for soils high in copper exists only on
+       the tailings of a copper mine that did not exist before 1859
+       (Macnair 1989).
+
+   There is further evidence that speciation can be caused by infection
+   with a symbiont.  A _Wolbachia_ bacterium infects and causes postmating
+   reproductive isolation between the wasps _Nasonia vitripennis_ and
+   _N. giraulti_ (Bordenstein and Werren 1997).
+
+5. Some young-earth creationists claim that speciation is essential to
+   explain Noah's ark.  The ark was not roomy enough to carry and care for
+   all species, so speciation is invoked to explain how the much fewer
+   "kinds" aboard the ark became the diversity we see today.  Also, some
+   species have special needs that could not have been met during the
+   flood (e.g., fish requiring fresh water).  Creationists assume that
+   they evolved from other, more tolerant organisms since the Flood.
+   (Woodmorappe 1996)
+
+Links:
+
+Kimball, John W., 2003.  Speciation. 
+ https://web.archive.org/web/20170107033056if_/http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/S/Speciation.html
+
+Stassen, C. et al., 1997.  Some more observed speciation events.
+ http://www.talkorigins.org/faqs/speciation.html
+
+References:
+
+1. Beheregaray, L. B. and P. Sunnucks, 2001.  Fine-scale genetic
+   structure, estuarine colonization and incipient speciation in the
+   marine silverside fish _Odontesthes argentinensis_.  _Molecular
+   Ecology_ 10(12): 2849-2866.
+2. Bordenstein, Seth R. and John H. Werren. 1997.  Effection of An and B
+   Wolbachia and host genotype on interspecies cytoplasmic incompatibility
+   in Nasonia.  _Genetics_ 148: 1833-1844.
+4. Brown, Charles W., n.d.  _Ensatina eschscholtzi_ Speciation in
+   progress: A classic example of Darwinian evolution. 
+   https://web.archive.org/web/20120106215759if_/http://www.santarosa.edu/lifesciences2/ensatina2.htm
+1. Byrne, K. and R. A. Nichols, 1999.  _Culex pipiens_ in London
+   Underground tunnels: differentiation between surface and subterranean
+   populations.  _Heredity_ 82: 7-15.
+4. de Wet, J. M. J., 1971.  Polyploidy and evolution in plants.  _Taxon_
+   20: 29-35.
+5. Fanello, C. et al., 2003.  The pyrethroid knock-down
+   resistance gene in the _Anopheles gambiae_ complex in Mali and further
+   indication of incipient speciation within _An. gambiae s.s._  _Insect
+   Molecular Biology_ 12(3): 241-245.
+5. Filchak, Kenneth E., Joseph B. Roethele and Jeffrey L. Feder, 2000.
+   Natural selection and sympatric divergence in the apple maggot
+   _Rhagoletis pomonella_.  _Nature_ 407: 739-742.
+6. Irwin, Darren E., Staffan Bensch and Trevor D. Price, 2001.  Speciation
+   in a ring.  _Nature_ 409: 333-337. 
+8. Irwin, Darren E., Staffan Bensch, Jessica H. Irwin and Trevor D.
+   Price.  2005.  Speciation by distance in a ring species.  _Science_
+   307: 414-416.
+8. Lehmann, T., M. Licht, N. Elissa, et al., 2003.  Population structure
+   of _Anopheles gambiae_ in Africa.  _Journal of Heredity_ 94(2): 133-147.
+9. Macnair, M. R., 1989.  A new species of _Mimulus_ endemic to copper
+   mines in California.  _Botanical Journal of the Linnean
+   Society_ 100: 1-14.
+8. Mayr, E., 1942.  _Systematics and the Origin of Species_. New York:
+   Columbia University Press.
+9. Mayr, E., 1963.  _Animal Species and Evolution_.  Cambridge, MA:
+   Belknap.
+10. Murgia, Claudio et al. 2006.  Clonal origin and evolution of a
+    transmissible cancer.  _Cell_ 126: 477-487.
+#9. Nevo, Eviatar, 1991.  Evolutionary theory and processes of active
+#   speciation and adaptive radiation in subterranean mole rats, _Spalax
+#   ehrenbergi_ superspecies in Israel.  _Evol. Biol._ 25: 1-125.
+#9. Nevo, E. and A. Beiles, 1992.  MtDNA polymorphisms: Evolutionary
+#   significance in adaptation and specition of subterranean mole
+#   rats.  _Biol. J. Linn. Soc._ 47: 385-405.
+#9. 1995 Karyotype and genetic evolution in speciation of subterranean mole
+#   rats of the genus Spalax in Turkey. Biol. J. Linn. Soc. 54:203-229
+#   (with M.G. Filippucci, C. Redi, S. Simson, G. Heth and A. Beiles). 
+9. Nevo, Eviatar, 1999.  _Mosaic Evolution of Subterranean Mammals:
+   Regression, Progression and Global Convergence_. Oxford University
+   Press.
+8. Newton, W. C. F. and Caroline Pellew, 1929.  _Primula kewensis_ and its
+   derivatives.  _Journal of Genetics_ 20(3): 405-467.
+1. Nuttall, Nick, 1998.  Stand clear of the Tube's 100-year-old super-bug.
+   _Times_ (London), 26 Aug. 1998, 1.
+   http://www.gene.ch/gentech/1998/Jul-Sep/msg00188.html
+9. Schilthuizen, M., 2001.  (see below)
+8. Van Valen, Leigh M. and Virginia C. Maiorana, 1991.  HeLa, a new
+   microbial species.  _Evolutionary Theory_ 10: 71-74.
+9. Wake, David B., 1997.  Incipient species formation in salamanders of
+   the _Ensatina_ complex. PNAS 94: 7761-7767.
+10. Whitehouse, David, 2001.  Songbird shows how evolution works.
+    BBC News Online, 18 Jan. 2001,
+    http://news.bbc.co.uk/1/hi/sci/tech/1123973.stm
+11. Woodmorappe, John, 1996. _Noah's Ark: A Feasability Study_, El
+    Cajon, CA: ICR.
+14. Zimmer, Carl. 2006. A dead dog lives on (inside new dogs).
+    https://web.archive.org/web/20120521091105if_/http://scienceblogs.com/loom/2006/08/09/an_old_dog_lives_on_inside_new.php
+
+Further Reading:
+
+Callaghan, Catherine A., 1987.  Instances of observed speciation.  _The
+ American Biology Teacher_ 49: 34-36.
+
+Schilthuizen, Menno., 2001.  _Frogs, Flies, and Dandelions: the Making of
+ Species_, Oxford Univ. Press, esp. chap. 1.
+
+Date: 2001-3-31, 2006-9-7

@@ -1,0 +1,47 @@
+Title: Evolution's usefulness
+Keywords: theory, fact.
+
+Claim:
+
+Evolution is only a theory.  (A separate page devoted to examples of
+evolution's usefulness)
+
+Source:
+
+Response:
+
+1. For a general review, see Bull and Wichman (2001).
+
+2. Phylogenetic analysis is used to predict gene function, which is
+   foundational for drug discovery.  (Eisen and Wu 2002; Searls 2003)
+
+3. Phylogenetic techniques are used to track the origins and history of
+   pathogens, which has applications in counter-terrorism (Cummings and
+   Relman 2002) and vaccine development (Gaschen et al. 2002).
+
+4. Evolutionary theory is used to manage fisheries for greater yields
+   (Conover and Munch 2002).
+
+
+Links:
+
+References:
+
+2. Bull, J. J. and H. A. Wichman. 2001.  Applied evolution.  _Annual
+   Review of Ecology and Systematics_ 32: 183-217.
+2. Conover, D. O. and S. B. Munch. 2002.  Sustaining fisheries yields over
+   evolutionary time scales.  _Science_ 297: 94-96.  See also pp. 31-32.
+1. Cummings, C. A. and D. A. Relman. 2002.  Microbial forensics--
+   "cross-examining pathogens".  _Science_ 296: 1976-1979.
+3. Eisen, J. and M. Wu. 2002.  Phylogenetic analysis and gene functional
+   predictions: Phylogenomics in action.  _Theoretical Population Biology_
+   61: 481-487.
+4. Gaschen, B. et al.. 2002.  Diversity considerations in HIV-1 vaccine
+   selection.  _Science_ 296: 2354-2360.
+4. Searls, D. 2003.  Pharmacophylogenomics: Genes, evolution and drug
+   targets.  _Nature Reviews Drug Discovery_ 2: 613-623.
+   https://web.archive.org/web/20170101082107if_/http://www.nature.com/nature/view/030731.html
+
+Further Reading:
+
+Date: 2004-5-2

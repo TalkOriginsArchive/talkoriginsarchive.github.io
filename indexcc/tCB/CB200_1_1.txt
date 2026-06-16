@@ -1,0 +1,59 @@
+BriefClaim: The flagellum has 30 or so unique (non-homologous) proteins.
+Title: Bacterial flagellum and its homologies.
+Keywords: bacterial flagellum, homology, T3SS, irreducible complexity
+
+Claim:
+
+Evolutionists propose that irreducibly complex systems can arise by
+co-option of parts from other existing systems.  But approximately
+thirty of the proteins needed for the bacterial flagellum are unique to
+it; closely similar proteins are not found in other living systems.
+Thus, there is apparently no place they could have been co-opted from.
+
+Source:
+
+Minnich, Scott A., 2003.  _Unlocking the Mystery of Life_ (video),
+ Illusta Media.  http://www.theapologiaproject.org/video_library.htm
+Minnich, Scott A. and Stephen C. Meyer. 2004.  Genetic analysis of
+ coordinate flagellar and type III regulatory circuits in pathogenic
+ bacteria.  Second International Conference on Design and Nature,
+ http://www.discovery.org/scripts/viewDB/index.php?command=view&id=2181
+
+Response:
+
+1. The claim is simply false.  Of the twenty proteins in the archetypal
+   _Salmonella_ bacterial flagellum which appear to be required in all
+   bacterial flagella, only two have no known homologies, that is, are
+   "unique".  It is at least plausible that homologies for those will be
+   discovered later.  At least nine flagellar proteins are homologous to
+   proteins of the Type-III secretion system (T3SS), suggesting the two
+   evolved from a common ancestor.  Regardless, the existence of many
+   homologous proteins shows that the parts of the flagellum can
+   function for purposes other than motility (Pallen and Matzke 2006).
+
+2. There is no such thing as "the" bacterial flagellum.  There are
+   thousands, perhaps millions, of varieties among different bacteria,
+   not to mention other very different kinds of flagella on
+   archaebacteria and eukaryotes.  The _Salmonella_ flagellum, for
+   example, has 22 additional proteins which some other bacteria lack in
+   their flagella.  Do design proponents suggest that each was a
+   separate creation, or did they evolve? (Pallen and Matzke 2006).
+
+Links:
+
+Matzke, Nick, 2006.  Flagellum evolution in Nature Reviews Microbiology.
+ https://web.archive.org/web/20110807060518if_/http://www.pandasthumb.org/archives/2006/09/flagellum_evolu.html
+
+References:
+
+1. Pallen, Mark J. and Nicholas J. Matzke. 2006.  From _The Origin of
+   Species_ to the origin of bacterial flagella.
+   _Nature Reviews Microbiology_, Sept. 5 (epub. ahead of print).
+
+Further Reading:
+
+Matzke, N. J. 2003.  Evolution in (Brownian) space: A model for the
+ origin of the bacterial flagellum.
+ http://www.talkdesign.org/faqs/flagellum.html
+
+Date: 2006-9-9

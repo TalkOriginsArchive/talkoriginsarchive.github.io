@@ -1,0 +1,51 @@
+BriefClaim: Entire geological column does not exist.
+Title: Entire Geological Column Existence
+Keywords: geological column, strata.
+
+Claim:
+
+The geological column is a fiction, existing on paper only.  The entire
+geological column does not exist anywhere on the earth.
+
+Source:
+
+Huse, Scott, 1983.  _The Collapse of Evolution_. Grand Rapids, MI: Baker
+ Book House, p. 15.
+
+Response:
+
+1. The existence of the entire column at one spot is irrelevant.  All of
+   the parts of the geological column exist in many places, and there is
+   more than enough overlap that the full column can be reconstructed
+   from those parts.
+
+   Breaks in the geological column at any spot are entirely consistent
+   with an old earth history.  The column is deposited only in sedimentary
+   environments, where conditions favor the accumulation of sediments.
+   Climatic and geological changes over time would be expected to change
+   areas back and forth between sedimentary and erosional environments.
+
+2. There are several places around the world where strata from all
+   geological eras do exist at a single spot -- for example, the Bonaparte
+   Basin of Australia (Trendall et al. 1990, 382, 396) and the Williston
+   Basin of North Dakota (Morton 2001).
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-gc.html#G3
+
+Morton, Glenn, 2001.  The geologic column and its implications to the
+ Flood.  http://www.talkorigins.org/faqs/geocolumn/ or
+ https://web.archive.org/web/20111008175204if_/http://home.entouch.net/dmd/geo.htm
+
+References:
+
+1. Morton, Glenn, 2001.  (see above)
+2. Trendall, A. F. et al., (ed.), 1990.  _Geology and Mineral Resources of
+   Western Australia, Memoir 3_.  Geological Survey of Western Australia.
+   State Printing Division, Perth.
+
+Further Reading:
+
+Date: 2001-3-31, 2004-9-8

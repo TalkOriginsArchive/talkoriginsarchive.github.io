@@ -1,0 +1,67 @@
+BriefClaim: Evaporites could form without evaporation.
+Title: Evaporites without evaporation
+Keywords: evaporite
+
+Claim:
+
+Evaporites can precipitate from unsaturated brines; they can form without
+evaporation (H. M. Morris 1974).  A mechanism is sketched by J. D. Morris
+(2002):
+
+ "Many now think the salt was extruded in superheated, supersaturated salt
+  brines from deep in the earth along faults. Once encountering the cold
+  ocean waters, the hot brines could no longer sustain the high
+  concentrations of salt, which rapidly precipitated out of solution, free
+  of impurities and marine organisms.
+
+Source:
+
+SciCre, pp.
+ 105-106.
+Morris, John D., 2002.  Does salt come from evaporated sea water?
+ _Acts & Facts_ 31(11) (Nov.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=532
+
+Response:
+
+1. Most evaporite deposits are not associated with evidence of
+   hydrothermal activity.  The huge amount of energy needed to deposit
+   kilometers of salt in a few weeks should have left obvious evidence,
+   such as heat-altered rocks or evidence of magma.  Typical hydrothermal
+   deposits such as iron and manganese are not often found associated with
+   evaporites.  Sea-floor basalts are a common site of hydrothermal
+   activity, and other hydrothermal deposits are found there, but salt
+   deposits are never found associated with them.
+
+2. Hydrothermal systems operating today are not depositing any salt, much
+   less the thick, laterally extensive layers we find in the sedimentary
+   record.  In fact, hydrothermal solutions contain less sodium and
+   chlorine than normal sea water (Open University Team 1989, 100).
+
+3. Evaporites are observed forming today in basins with no significant
+   outflow; the water that flows in evaporates and leaves behind layers of
+   dissolved salts.  Ancient evaporites are also found in sedimentary
+   context, and they are often associated with other evidence of being
+   open to the air, such as footprints, dessication cracks and occasional
+   raindrop impressions.  None of these structures are consistent with an
+   underwater hydrothermal environment.
+
+   Evaporites are also found in sabkha environments, where crystals or
+   nodules of salt grow within fine-grained sediments as saline
+   groundwater (usually from a nearby ocean) is drawn upward by
+   evaporation.  As the water evaporates at the surface, salt nodules
+   grow, often forming a chicken-wire pattern.  Some sabkha evaporites
+   grow into gypsum rosettes, huge crystals resembling flowers.  These
+   features also are known from ancient evaporites.  They also are
+   inconsistent with hydrothermal deposition.
+
+Links:
+
+References:
+
+1. Open University Team, 1989.  _The Ocean Basins: Their Structure and
+   Evolution_.  Oxford: Pergamon.
+
+Further Reading:
+
+Date: 2003-5-31, 2004-4-3

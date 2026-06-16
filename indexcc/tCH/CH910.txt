@@ -1,0 +1,57 @@
+BriefClaim: Relativity shows geocentrism is true.
+Title: Relative geocentrism
+Keywords: geocentrism, relativity
+
+Claim:
+
+Relativity states that there is no favored frame of reference, so a
+geocentric frame is as good as a heliocentric one.
+
+ "We know that the difference between a heliocentric theory and a
+  geocentric theory is one of relative motion only, and that such a
+  difference has no physical significance (Hoyle 1975, cited in
+  Willis 2000, 2).
+
+Source:
+
+Willis, Tom, 2000.  "The Laws of Cause and Effect, and the 1st
+ and 2nd Laws of Thermodynamics have been invalidated by modern science",
+ Part 2.  _CSA News_ 17(2) (Mar/Apr): 1-2.
+
+Response:
+
+1. The fact that different frames of reference all work does not mean that
+   one frame makes as much sense as any other in any application.  For
+   navigating city streets, a geocentric frame makes sense; we would not
+   want constantly to recalculate our position relative to the sun.  For
+   considering the solar system as a whole, however, a heliocentric frame
+   makes sense.  Figuring the calculations of the rest of the universe
+   spinning and wobbling around the earth would be possible in theory, but
+   prohibitive in practice.
+
+   Another frame of reference and mathematical transformations put the
+   universe on the inside of a hollow earth.  That model is mathematically
+   equivalent to standard cosmology (S. Morris 1983).  If physical
+   significance is the only criterion, it is just as good as a
+   heliocentric frame, too.
+
+2. The claim cuts both ways.  It also says that heliocentrism is just as
+   good as geocentrism, as is the frame of reference relative to any other
+   planet around any other star.  It says that geocentrism is correct only
+   if you choose to interpret it that way.  Some people may want to
+   interpret it that way, but they cannot then claim that others are
+   wrong.  The earth still moves.
+
+Links:
+
+References:
+
+2. Hoyle, F., 1975.  _Astronomy and Cosmology - A Modern Course_.  San
+   Francisco: W.H. Freeman & Co.
+#   What Willis quotes is from p. 416 of Hoyle.
+2. Morris, Scot, 1983. The hollow earth: a maddening theory that can't be
+   disproved. _Omni_ 5(11) (Aug.): 128-129.
+
+Further Reading:
+
+Date: 2003-6-11

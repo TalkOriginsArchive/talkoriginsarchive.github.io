@@ -1,0 +1,36 @@
+BriefClaim: Fossils can form quickly.
+Title: Rapid fossilization
+Keywords: taphonomy, fossil
+
+Claim:
+
+Fossils can form rapidly, so fossils are not a problem for a young earth.
+
+Source:
+
+Response:
+
+1. Most fossils, by themselves, are not a problem for a young earth.  The
+   problems come from geological context, including the following:
+    - Independent dating of sediments via any number of techniques.
+    - Multiple layers of fossils.  Sometimes each layer preserves an
+      entire ecosystem, which would have taken decades to establish.
+    - Large number of fossils, beyond what the earth could support at
+      once, showing multiple generations were necessary.
+    - In-place marine fossils on mountains, showing that the mountain must
+      have risen since the fossil was deposited.
+    - Reworked fossils, showing that a mountain must have risen and eroded
+      since the fossil was deposited.
+
+2. Many fossils occur in amber, and the formation of amber cannot happen
+   rapidly.  First, plant resin polymerizes to produce copal, which takes
+   thousands of years.  Then the volatile oils must evaporate, which can
+   take millions of years more.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-8-22

@@ -1,0 +1,57 @@
+BriefClaim: Cybernetic simulations show that Darwinian processes do not produce order.
+Title: Cybernetic simulations show no order from Darwinism.
+Keywords: order, randomness, selection, codes, experiment.
+
+Claim:
+
+  "Darwinians and Neo-Darwinians have long maintained that randomness, plus
+   long time spans, plus natural selection would (together) do the trick in
+   making specific codes and molecules.  However, recent progress in
+   cybernetics has shown by simulation experiments that order sequences,
+   specificity and coding cannot be extracted from randomness on the basis of
+   the Darwinian postulates.
+
+Source:
+
+Wilder-Smith, A. E., 1970.  _The Creation of Life: a cybernetic approach
+to evolution_. Wheaton, IL: Harold Shaw Publishers, pg. 116.
+
+Response:
+
+1. The claim is unequivocally false.  It was made in the early days of
+   computing, apparently on the basis of one failed simulation.  Computer
+   simulations since have shown just the opposite of what Wilder-Smith
+   claimed.  In fact, genetic algorithms, which use evolutionary
+   principles of mutation, recombination, and natural selection, are used
+   routinely in industry to solve complex problems (Heitk&ouml;tter and
+   Beasley 2000; Koza et al. 2003).  Artificial life simulating evolution
+   on a computer evolves complex features (Lenski et al. 2003).
+
+
+Links:
+
+National Science Foundation, 2003.  Artificial life experiments show how
+ complex functions can evolve.
+ http://www.sciencedaily.com/releases/2003/05/030508075843.htm
+
+References:
+
+1. Heitk&#246;tter, J. and D. Beasley (eds.). 2000.  The Hitch-hiker's
+   guide to evolutionary computation (FAQ for comp.ai.genetic), Issue 8.2
+   (20 Sep.).
+   https://web.archive.org/web/20020615181039if_/http://ai.ia.ac.cn/alife.santafe.edu/~joke/encore/www/default.htm
+2. Koza, John R., Martin A. Keane and Matthew J. Streeter. 2003.  Evolving
+   inventions.  _Scientific American_ 288(2) (Feb.): 52-59.
+2. Lenski, R. E., C. Ofria, R. T. Pennock and C. Adami. 2003.  The
+   evolutionary origin of complex features _Nature_ 423: 139-144.
+   https://web.archive.org/web/20211122232656if_/http://myxo.css.msu.edu/papers/nature2003/ (See also NSF, 2003, above.)
+
+Further Reading:
+
+Elsberry, Wesley R. 1997, Enterprising science needs naturalism. 
+ http://www.utexas.edu/cola/depts/philosophy/faculty/koons/ntse/papers/Elsberry.html
+
+Holland, J. H. 1975.  _Adaptation in Natural and Artificial Systems_.
+ Ann Arbor: University of Michigan Press. (technical)
+
+Date: 2001-2-18, 2004-12-29

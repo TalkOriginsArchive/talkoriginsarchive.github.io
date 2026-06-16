@@ -1,0 +1,33 @@
+BriefClaim: Short-lived isotopes Th-230 and U-236 exist on the moon.
+Title: U-236 and Th-230 on the moon.
+Keywords: radionucleotide
+
+Claim:
+
+Th-230 and U-236 exist on the moon.  But these isotopes are so short-lived
+that we would not expect any still to be around if the moon were billions
+of years old.
+
+Source:
+
+Wysong, R. L., 1976.  _The Creation-Evolution Controversy_, Midland, MI:
+ Inquiry Press, pp. 177-178.
+
+Response:
+
+1. Both nucleotides are formed by ongoing processes.
+   <sup>230</sup>Th is an intermediate decay product of
+   <sup>238</sup>U, which has a half-life of 4.468 billion years.
+   <sup>236</sup>U is produced in trace amounts by the capture of slow
+   neutrons.
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof6
+
+References:
+
+Further Reading:
+
+Date: 2003-5-5

@@ -1,0 +1,33 @@
+# robots.txt for http://www.talkorigins.org/
+
+# This document is to tell robots
+# (sometimes called spiders) which are
+# means of automatically grabbing our files
+# what they can and cannot do.  Robots are
+# used by search engines, archivers
+# (www.archive.org for example) and by spammers
+# looking for email addresses
+
+# This file must be in the root directory and called
+# robots.txt 
+
+# This file can be validated at
+# http://www.searchengineworld.com/cgi-bin/robotcheck.cgi
+# More info can be found at
+# https://web.archive.org/web/20090105213939if_/http://www.robotstxt.org/wc/exclusion-admin.html
+# and many other places via Googling robots.txt
+
+
+# User-agent '*' means any robot. 
+
+User-agent: *       
+Allow: /*html$
+Disallow: /origins/contact.html
+#Disallow: /*
+#Disallow: /faqs/comdesc/contact.html
+#Disallow: /faqs/comdesc/DLTtools.js
+#Disallow: /faqs/comdesc/drafts/
+#Disallow: /cgi-bin/
+#Disallow: /scgi-bin/
+#Disallow: /work/
+#Disallow: /rss/test.xml

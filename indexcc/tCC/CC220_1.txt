@@ -1,0 +1,51 @@
+BriefClaim: There are no fossil ancestors of insects.
+Title: Fossil insect ancestors
+Keywords: transitional
+
+Claim:
+
+Insect fossils appear in abundance, but the record of insect origins is
+completely blank.
+
+Source:
+
+SciCre,
+ p. 86.
+Brown, Walt, 1995. _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 10.
+
+Response:
+
+1. Insect fossils before the major diversification of insects (in the
+   Carboniferous) are far from abundant.  Insects are believed, from
+   genomic data, to have originated near the beginning of the Silurian
+   (434.2-421.1 Mya; Gaunt and Miles 2002), but the first two hexapod
+   fossils are from Rhynie chert, about 396-407 Mya (Engel and Grimaldi
+   2004; Whalley and Jarzembowski 1981).  As of 2004, only two other
+   insect fossils were known from the Devonian (Labandeira et al.  1988).
+   Two of these fossils consist only of mandibles, and another is a
+   crushed head.  In short, the first eighty-five million years of the
+   history of insects is preserved in only four fossils, three of them
+   quite fragmentary.  With such a scarcity of fossils, the lack of
+   fossils showing the origins of insects is unremarkable.
+
+Links:
+
+References:
+
+1. Engel, M. S. and D. A. Grimaldi, 2004.  New light shed on the oldest
+   insect.  _Nature_ 427: 627-630.
+2. Gaunt, M. W. and M. A. Miles, 2002.  An insect molecular clock dates the
+   origin of the insects and accords with palaeontological and
+   biogeographic landmarks.  _Molecular Biology and Evolution_ 19(5):
+   748-761.
+3. Labandeira, C. C., B. S. Beall and F. M. Hueber, 1988.
+   Early insect diversification: evidence from a Lower Devonian
+   bristletail from Quebec.  _Science_ 242: 913-916.
+4. Whalley, P. and E. A. Jarzembowski, 1981.  A new assessment of
+   _Rhyniella_, the earliest known insect, from the Devonian of Rhynie,
+   Scotland.  _Nature_ 291: 317.
+
+Further Reading:
+
+Date: 2003-7-25, 2004-3-12

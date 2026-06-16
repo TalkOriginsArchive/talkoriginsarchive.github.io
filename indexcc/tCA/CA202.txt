@@ -1,0 +1,117 @@
+BriefClaim: Evolution has not been proved.
+Title: Evolution proof
+Keywords: theory, fact.
+
+Claim:
+
+Evolution has not been, and cannot be, proved.  We cannot even see
+evolution (beyond trivially small change), much less test it
+experimentally.
+
+Source:
+
+SciCre, pp. 4-6.
+
+Response:
+
+1. Nothing in the real world can be proved with absolute certainty.
+   However, high degrees of certainty can be reached.  In the case of
+   evolution, we have huge amounts of data from diverse fields.  Extensive
+   evidence exists in all of the following different forms (Theobald
+   2004).  Each new piece of evidence tests the rest.
+    - All life shows a fundamental unity in the mechanisms of replication,
+      heritability, catalysis, and metabolism.
+    - Common descent predicts a nested hierarchy pattern, or groups
+      within groups.  We see just such an arrangement in a unique,
+      consistent, well-defined hierarchy, the so-called tree of life.
+    - Different lines of evidence give the same arrangement of the tree of
+      life.  We get essentially the same results whether we look at
+      morphological, biochemical, or genetic traits.
+    - Fossil animals fit in the same tree of life.  We find several cases
+      of <CC200>transitional forms> in the fossil record.
+    - The fossils appear in a chronological order, showing change
+      consistent with common descent over hundreds of millions of years
+      and inconsistent with sudden creation.
+    - Many organisms show rudimentary, vestigial characters, such as
+      sightless eyes or wings useless for flight.
+    - Atavisms sometimes occur.  An atavism is the reappearance of a
+      character present in a distant ancestor but lost in the organism's
+      immediate ancestors.  We only see atavisms consistent with
+      organisms' evolutionary histories.
+    - Ontogeny (embryology and developmental biology) gives information
+      about the historical pathway of an organism's evolution.  For
+      example, as embryos whales and many snakes develop hind limbs that
+      are reabsorbed before birth.
+    - The distribution of species is consistent with their evolutionary
+      history.  For example, marsupials are mostly limited to Australia,
+      and the exceptions are explained by continental drift.  Remote
+      islands often have species groups that are highly diverse in habits
+      and general appearance but closely related genetically.  Squirrel
+      diversity coincides with tectonic and sea level changes (Mercer and
+      Roth 2003).  Such consistency still holds when the distribution of
+      fossil species is included.
+    - Evolution predicts that new structures are adapted from other
+      structures that already exist, and thus similarity in structures
+      should reflect evolutionary history rather than function.  We see
+      this frequently.  For example, human hands, bat wings, horse legs,
+      whale flippers, and mole forelimbs all have similar bone structure
+      despite their different functions.
+    - The same principle applies on a molecular level.  Humans share a
+      large percentage of their genes, probably more than 70 percent,
+      with a fruit fly or a nematode worm.
+    - When two organisms evolve the same function independently, different
+      structures are often recruited.  For example, wings of birds, bats,
+      pterosaurs, and insects all have different structures.
+      <CB921.2>Gliding> has been implemented in many additional ways.
+      Again, this applies on a molecular level, too.
+    - The constraints of evolutionary history sometimes lead to suboptimal
+      structures and functions.  For example, the human throat and
+      respiratory system make it impossible to breathe and swallow at the
+      same time and make us susceptible to choking.
+    - Suboptimality appears also on the molecular level.  For example,
+      much DNA is nonfunctional.
+    - Some nonfunctional DNA, such as certain transposons, pseudogenes,
+      and endogenous viruses, show a pattern of inheritance indicating
+      common ancestry.
+    - <CB910>Speciation> has been observed.
+    - The day-to-day aspects of evolution -- heritable genetic
+      change, morphological variation and change, functional change, and
+      natural selection -- are seen to occur at rates consistent with
+      common descent.
+
+   Furthermore, the different lines of evidence are consistent; they all
+   point to the same big picture.  For example, evidence from gene
+   duplications in the yeast genome shows that its ability to ferment
+   glucose evolved about eighty million years ago.  Fossil evidence shows
+   that fermentable fruits became prominent about the same time.  Genetic
+   evidence for major change around that time also is found in fruiting
+   plants and fruit flies (Benner et al. 2002).
+
+   The evidence is extensive and consistent, and it points unambiguously
+   to evolution, including common descent, change over time, and
+   adaptation influenced by natural selection.  It would be preposterous
+   to refer to these as anything other than facts.
+
+Links:
+
+Theobald, Douglas. 2004.  29+ Evidences for macroevolution: The scientific
+ case for common descent.  http://www.talkorigins.org/faqs/comdesc/
+
+Colby, Chris. 1993.  Evidence for evolution:  An eclectic survey.
+ http://www.talkorigins.org/faqs/evolution-research.html
+
+Moran, Laurence. 1993.  Evolution is a fact and a theory.
+ http://www.talkorigins.org/faqs/evolution-fact.html
+
+References:
+
+1. Benner, S. A., M. D. Caraco, J. M. Thomson and E. A. Gaucher. 2002.
+   Planetary biology--paleontological, geological, and molecular histories
+   of life.  _Science_ 296: 864-868.
+2. Mercer, John M. and V. Louise Roth. 2003.  The effects of Cenozoic
+   global change on squirrel phylogeny.  _Science_ 299: 1568-1572.
+2. Theobald, D. 2004.  (see above)
+
+Further Reading:
+
+Date: 2003-4-21, 2005-2-24

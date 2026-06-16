@@ -1,0 +1,32 @@
+BriefClaim: Similar structures for similar functions, different for different.
+Title: Form following function
+Keywords: function, design
+
+Claim:
+
+Similarity of structures in different life forms reflects the fact that
+they were created for similar purposes.  Different structures reflect
+different functions.
+
+Source:
+
+SciCre, p. 70.
+
+Response:
+
+1. Actual known designers use similar forms for similar functions and
+   different forms for different functions.  In life, we often see
+   different forms for similar functions (e.g., different designs for
+   bird, bat, and pterodactyl wings) and similar forms for different
+   functions (e.g., spider webs for trapping flying insects, reinforcing
+   tunnels, protecting eggs, transferring sperm, ballooning, marking a
+   trail, serving as a safety line after jumping to escape a threat, and
+   detecting motion).
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-5-23

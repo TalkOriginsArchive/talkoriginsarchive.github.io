@@ -1,0 +1,920 @@
+{
+  "id": "phase-4-archive-navigation-batch-027",
+  "phase": "phase-4-archive-navigation",
+  "phase_label": "Archive Navigation and Feedback",
+  "sequence": 27,
+  "status": "complete",
+  "page_count": 50,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/origins/postmonth/2010_01.html",
+      "source_path": "origins/postmonth/2010_01.html",
+      "title": "The Talk.Origins Archive Post of the Month: January 2010",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5813
+    },
+    {
+      "route": "/origins/postmonth/2010_02.html",
+      "source_path": "origins/postmonth/2010_02.html",
+      "title": "The Talk.Origins Archive Post of the Month: February 2010",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4874
+    },
+    {
+      "route": "/origins/postmonth/2010_03.html",
+      "source_path": "origins/postmonth/2010_03.html",
+      "title": "The Talk.Origins Archive Post of the Month: March 2010",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6511
+    },
+    {
+      "route": "/origins/postmonth/2010_04.html",
+      "source_path": "origins/postmonth/2010_04.html",
+      "title": "The Talk.Origins Archive Post of the Month: April 2010",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8856
+    },
+    {
+      "route": "/origins/postmonth/2010_05.html",
+      "source_path": "origins/postmonth/2010_05.html",
+      "title": "The Talk.Origins Archive Post of the Month: May 2010",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9648
+    },
+    {
+      "route": "/origins/postmonth/2010_07.html",
+      "source_path": "origins/postmonth/2010_07.html",
+      "title": "The Talk.Origins Archive Post of the Month: July 2010",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8139
+    },
+    {
+      "route": "/origins/postmonth/2010_08.html",
+      "source_path": "origins/postmonth/2010_08.html",
+      "title": "The Talk.Origins Archive Post of the Month: August 2010",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 19041
+    },
+    {
+      "route": "/origins/postmonth/2010_10.html",
+      "source_path": "origins/postmonth/2010_10.html",
+      "title": "The Talk.Origins Archive Post of the Month: October 2010",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8259
+    },
+    {
+      "route": "/origins/postmonth/2010_11.html",
+      "source_path": "origins/postmonth/2010_11.html",
+      "title": "The Talk.Origins Archive Post of the Month: November 2010",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7333
+    },
+    {
+      "route": "/origins/postmonth/2011.html",
+      "source_path": "origins/postmonth/2011.html",
+      "title": "The Talk.Origins Archive: 2011 Posts of the Month",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4270
+    },
+    {
+      "route": "/origins/postmonth/2011_01.html",
+      "source_path": "origins/postmonth/2011_01.html",
+      "title": "The Talk.Origins Archive Post of the Month: January 2011",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5944
+    },
+    {
+      "route": "/origins/postmonth/2011_02.html",
+      "source_path": "origins/postmonth/2011_02.html",
+      "title": "The Talk.Origins Archive Post of the Month: February 2011",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9581
+    },
+    {
+      "route": "/origins/postmonth/2011_03.html",
+      "source_path": "origins/postmonth/2011_03.html",
+      "title": "The Talk.Origins Archive Post of the Month: March 2011",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4439
+    },
+    {
+      "route": "/origins/postmonth/2011_04.html",
+      "source_path": "origins/postmonth/2011_04.html",
+      "title": "The Talk.Origins Archive Post of the Month: April 2011",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6236
+    },
+    {
+      "route": "/origins/postmonth/2011_05.html",
+      "source_path": "origins/postmonth/2011_05.html",
+      "title": "The Talk.Origins Archive Post of the Month: May 2011",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 12284
+    },
+    {
+      "route": "/origins/postmonth/2011_07.html",
+      "source_path": "origins/postmonth/2011_07.html",
+      "title": "The Talk.Origins Archive Post of the Month: July 2011",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6411
+    },
+    {
+      "route": "/origins/postmonth/2011_08.html",
+      "source_path": "origins/postmonth/2011_08.html",
+      "title": "The Talk.Origins Archive Post of the Month: August 2011",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5591
+    },
+    {
+      "route": "/origins/postmonth/2011_09.html",
+      "source_path": "origins/postmonth/2011_09.html",
+      "title": "The Talk.Origins Archive Post of the Month: September 2011",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7709
+    },
+    {
+      "route": "/origins/postmonth/2011_10.html",
+      "source_path": "origins/postmonth/2011_10.html",
+      "title": "The Talk.Origins Archive Post of the Month: October 2011",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 10479
+    },
+    {
+      "route": "/origins/postmonth/2012.html",
+      "source_path": "origins/postmonth/2012.html",
+      "title": "The Talk.Origins Archive: 2012 Posts of the Month",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3463
+    },
+    {
+      "route": "/origins/postmonth/2012_01.html",
+      "source_path": "origins/postmonth/2012_01.html",
+      "title": "The Talk.Origins Archive Post of the Month: January 2012",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 9602
+    },
+    {
+      "route": "/origins/postmonth/2012_02.html",
+      "source_path": "origins/postmonth/2012_02.html",
+      "title": "The Talk.Origins Archive Post of the Month: February 2012",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8976
+    },
+    {
+      "route": "/origins/postmonth/2012_03.html",
+      "source_path": "origins/postmonth/2012_03.html",
+      "title": "The Talk.Origins Archive Post of the Month: March 2012",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8468
+    },
+    {
+      "route": "/origins/postmonth/2012_05.html",
+      "source_path": "origins/postmonth/2012_05.html",
+      "title": "The Talk.Origins Archive Post of the Month: May 2012",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3700
+    },
+    {
+      "route": "/origins/postmonth/2012_07.html",
+      "source_path": "origins/postmonth/2012_07.html",
+      "title": "The Talk.Origins Archive Post of the Month: July 2012",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8496
+    },
+    {
+      "route": "/origins/postmonth/2012_08.html",
+      "source_path": "origins/postmonth/2012_08.html",
+      "title": "The Talk.Origins Archive Post of the Month: July 2012",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 16407
+    },
+    {
+      "route": "/origins/postmonth/2012_09.html",
+      "source_path": "origins/postmonth/2012_09.html",
+      "title": "The Talk.Origins Archive Post of the Month: September 2012",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3189
+    },
+    {
+      "route": "/origins/postmonth/2012_temp.html",
+      "source_path": "origins/postmonth/2012_temp.html",
+      "title": "The Talk.Origins Archive: 2012 Posts of the Month",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3475
+    },
+    {
+      "route": "/origins/postmonth/2013.html",
+      "source_path": "origins/postmonth/2013.html",
+      "title": "The Talk.Origins Archive: 2013 Posts of the Month",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5250
+    },
+    {
+      "route": "/origins/postmonth/2013_01.html",
+      "source_path": "origins/postmonth/2013_01.html",
+      "title": "The Talk.Origins Archive Post of the Month: January 2013",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8681
+    },
+    {
+      "route": "/origins/postmonth/2013_02.html",
+      "source_path": "origins/postmonth/2013_02.html",
+      "title": "The Talk.Origins Archive Post of the Month: February 2013",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7503
+    },
+    {
+      "route": "/origins/postmonth/2013_03.html",
+      "source_path": "origins/postmonth/2013_03.html",
+      "title": "The Talk.Origins Archive Post of the Month: March 2013",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 11911
+    },
+    {
+      "route": "/origins/postmonth/2013_05.html",
+      "source_path": "origins/postmonth/2013_05.html",
+      "title": "The Talk.Origins Archive Post of the Month: May 2013",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5081
+    },
+    {
+      "route": "/origins/postmonth/2013_06.html",
+      "source_path": "origins/postmonth/2013_06.html",
+      "title": "The Talk.Origins Archive Post of the Month: June 2013",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7407
+    },
+    {
+      "route": "/origins/postmonth/2013_07.html",
+      "source_path": "origins/postmonth/2013_07.html",
+      "title": "The Talk.Origins Archive Post of the Month: July 2013",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4788
+    },
+    {
+      "route": "/origins/postmonth/2013_08.html",
+      "source_path": "origins/postmonth/2013_08.html",
+      "title": "The Talk.Origins Archive Post of the Month: Month Year",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5355
+    },
+    {
+      "route": "/origins/postmonth/2013_09.html",
+      "source_path": "origins/postmonth/2013_09.html",
+      "title": "The Talk.Origins Archive Post of the Month: September 2013",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6765
+    },
+    {
+      "route": "/origins/postmonth/2013_10.html",
+      "source_path": "origins/postmonth/2013_10.html",
+      "title": "The Talk.Origins Archive Post of the Month: October 2013",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8602
+    },
+    {
+      "route": "/origins/postmonth/2013_12.html",
+      "source_path": "origins/postmonth/2013_12.html",
+      "title": "The Talk.Origins Archive Post of the Month: December 2013",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6269
+    },
+    {
+      "route": "/origins/postmonth/2014.html",
+      "source_path": "origins/postmonth/2014.html",
+      "title": "The Talk.Origins Archive: 2014 Posts of the Month",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4150
+    },
+    {
+      "route": "/origins/postmonth/2014_02.html",
+      "source_path": "origins/postmonth/2014_02.html",
+      "title": "The Talk.Origins Archive Post of the Month: February 2014",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8023
+    },
+    {
+      "route": "/origins/postmonth/2014_03.html",
+      "source_path": "origins/postmonth/2014_03.html",
+      "title": "The Talk.Origins Archive Post of the Month: March 2014",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6483
+    },
+    {
+      "route": "/origins/postmonth/2014_05.html",
+      "source_path": "origins/postmonth/2014_05.html",
+      "title": "The Talk.Origins Archive Post of the Month: May 2014",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 7457
+    },
+    {
+      "route": "/origins/postmonth/2014_07.html",
+      "source_path": "origins/postmonth/2014_07.html",
+      "title": "The Talk.Origins Archive Post of the Month: July 2014",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 31943
+    },
+    {
+      "route": "/origins/postmonth/2014_08.html",
+      "source_path": "origins/postmonth/2014_08.html",
+      "title": "The Talk.Origins Archive Post of the Month: August 2014",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8918
+    },
+    {
+      "route": "/origins/postmonth/2014_11.html",
+      "source_path": "origins/postmonth/2014_11.html",
+      "title": "The Talk.Origins Archive Post of the Month: November 2014",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5105
+    },
+    {
+      "route": "/origins/postmonth/2015.html",
+      "source_path": "origins/postmonth/2015.html",
+      "title": "The Talk.Origins Archive: 2015 Posts of the Month",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1036
+    },
+    {
+      "route": "/origins/postmonth/apr00.html",
+      "source_path": "origins/postmonth/apr00.html",
+      "title": "The Talk.Origins Archive Post of the Month: April 2000",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6439
+    },
+    {
+      "route": "/origins/postmonth/apr01.html",
+      "source_path": "origins/postmonth/apr01.html",
+      "title": "The Talk.Origins Archive Post of the Month: April 2001",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1210
+    },
+    {
+      "route": "/origins/postmonth/apr02.html",
+      "source_path": "origins/postmonth/apr02.html",
+      "title": "The Talk.Origins Archive Post of the Month: April 2002",
+      "content_kind": "archive_navigation",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Feedback",
+      "batch_id": "phase-4-archive-navigation-batch-027",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 13287
+    }
+  ],
+  "status_counts": {
+    "translated": 200
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

@@ -1,0 +1,70 @@
+BriefClaim: The cost of natural selection is prohibitive (Haldane's dilemma).
+Title: Haldane's Dilemma
+Keywords: natural selection, Haldane's dilemma, segregation load
+
+Claim:
+
+J. B. S. Haldane calculated that new genes become fixed only after 300
+generations due to the cost of natural selection (Haldane 1957).  Since
+humans and apes differ in 4.8 &times; 10^7 genes, there has not been
+enough time for difference to accumulate.  Only 1,667 nucleotide
+substitutions in genes could have occurred if their divergence was ten
+million years ago.
+
+Source:
+
+ReMine, Walter J., 1993.  _The Biotic Message_, St. Paul Science, Inc.
+
+Response:
+
+1. Haldane's "cost of natural selection" stemmed from an invalid
+   simplifying assumption in his calculations.  He divided by a fitness
+   constant in a way that invalidated his assumption of constant
+   population size, and his cost of selection is an artifact of the
+   changed population size.  He also assumed that two mutations would take
+   twice as long to reach fixation as one, but because of sexual
+   recombination, the two can be selected simultaneously and both reach
+   fixation sooner.  With corrected calculations, the cost
+   disappears (Wallace 1991; Williams n.d.).
+
+   Haldane's paper was published in 1957, and Haldane himself said, "I am
+   quite aware that my conclusions will probably need drastic revision"
+   (Haldane 1957, 523).  It is irresponsible not to consider the revision
+   that has occurred in the forty years since his paper was published.
+
+2. ReMine (1993), who promotes the claim, makes several invalid
+   assumptions.  His model is contradicted by the following:
+   - The vast majority of differences would probably be due to genetic
+     drift, not selection.
+   - Many genes would have been linked with genes that are selected and
+     thus would have hitchhiked with them to fixation.
+   - Many mutations, such as those due to unequal crossing over, affect
+     more than one codon.
+   - Human and ape genes both would be diverging from the common ancestor,
+     doubling the difference.
+   - ReMine's computer simulation supposedly showing the negative
+     influence of Haldane's dilemma assumed a population size of only six
+     (Musgrave 1999).
+
+Links:
+
+Williams, Robert, n.d.  Haldane's dilemma.
+ https://web.archive.org/web/20010609223518if_/http://www.gate.net/~rwms/haldane1.html
+
+References:
+
+1. Haldane, J. B. S., 1957.  The cost of natural selection.  _Journal of
+   Genetics_ 55: 511-524.
+2. Musgrave, Ian, 1999.  Weasels, ReMine, and Haldane's dilemma.
+   http://www.talkorigins.org/origins/postmonth/sep99.html
+3. ReMine, Walter J., 1993.  _The Biotic Message_, St. Paul Science, Inc.
+4. Wallace, Bruce, 1991.  _Fifty Years of Genetic Load - An Odyssey_.
+   Cornell University Press.  See particularly Chapters 5, 6, 8, and 9.
+5. Williams.  (See above)
+
+Further Reading:
+
+#Williams, George C., 1992.  _Natural Selection: Domains, Levels, and
+# Challenges_. Oxford University Press, chapter 10.
+
+Date: 2001-2-17, 2006-6-8

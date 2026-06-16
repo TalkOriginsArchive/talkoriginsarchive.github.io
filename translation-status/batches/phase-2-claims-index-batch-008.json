@@ -1,0 +1,920 @@
+{
+  "id": "phase-2-claims-index-batch-008",
+  "phase": "phase-2-claims-index",
+  "phase_label": "Index to Creationist Claims",
+  "sequence": 8,
+  "status": "complete",
+  "page_count": 50,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/indexcc/CD/CD741.html",
+      "source_path": "indexcc/CD/CD741.html",
+      "title": "CD741:  Midocean magnetic reversals",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2687
+    },
+    {
+      "route": "/indexcc/CD/CD750.html",
+      "source_path": "indexcc/CD/CD750.html",
+      "title": "CD750:  Catastrophic plate tectonics",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4229
+    },
+    {
+      "route": "/indexcc/CD/CD821.html",
+      "source_path": "indexcc/CD/CD821.html",
+      "title": "CD821:  Sahara expansion",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2008
+    },
+    {
+      "route": "/indexcc/CE/CE001.html",
+      "source_path": "indexcc/CE/CE001.html",
+      "title": "CE001:  Not Enough Helium?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2298
+    },
+    {
+      "route": "/indexcc/CE/CE010.html",
+      "source_path": "indexcc/CE/CE010.html",
+      "title": "CE010:  Missing day",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2004
+    },
+    {
+      "route": "/indexcc/CE/CE011.html",
+      "source_path": "indexcc/CE/CE011.html",
+      "title": "CE011:  Earth's rotation slowing",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2678
+    },
+    {
+      "route": "/indexcc/CE/CE011_1.html",
+      "source_path": "indexcc/CE/CE011_1.html",
+      "title": "CE011.1:  Leap seconds and earth's slowing",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3063
+    },
+    {
+      "route": "/indexcc/CE/CE020.html",
+      "source_path": "indexcc/CE/CE020.html",
+      "title": "CE020:  Meteoric Dust on Earth",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2540
+    },
+    {
+      "route": "/indexcc/CE/CE101.html",
+      "source_path": "indexcc/CE/CE101.html",
+      "title": "CE101:  Moon Dust",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2496
+    },
+    {
+      "route": "/indexcc/CE/CE110.html",
+      "source_path": "indexcc/CE/CE110.html",
+      "title": "CE110:  Moon Receding",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5527
+    },
+    {
+      "route": "/indexcc/CE/CE130.html",
+      "source_path": "indexcc/CE/CE130.html",
+      "title": "CE130:  Active moon",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1878
+    },
+    {
+      "route": "/indexcc/CE/CE210.html",
+      "source_path": "indexcc/CE/CE210.html",
+      "title": "CE210:  Erosion on Venus",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2262
+    },
+    {
+      "route": "/indexcc/CE/CE230.html",
+      "source_path": "indexcc/CE/CE230.html",
+      "title": "CE230:  Io's volcanism",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1953
+    },
+    {
+      "route": "/indexcc/CE/CE231.html",
+      "source_path": "indexcc/CE/CE231.html",
+      "title": "CE231:  Jupiter and Saturn cooling",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1902
+    },
+    {
+      "route": "/indexcc/CE/CE240.html",
+      "source_path": "indexcc/CE/CE240.html",
+      "title": "CE240:  Stability of Saturn's rings",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3343
+    },
+    {
+      "route": "/indexcc/CE/CE260.html",
+      "source_path": "indexcc/CE/CE260.html",
+      "title": "CE260:  Retrograde planets and moons",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3990
+    },
+    {
+      "route": "/indexcc/CE/CE260_1.html",
+      "source_path": "indexcc/CE/CE260_1.html",
+      "title": "CE260.1:  Retrograde planets and the big bang",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2801
+    },
+    {
+      "route": "/indexcc/CE/CE261.html",
+      "source_path": "indexcc/CE/CE261.html",
+      "title": "CE261:  Old Comets",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2044
+    },
+    {
+      "route": "/indexcc/CE/CE261_1.html",
+      "source_path": "indexcc/CE/CE261_1.html",
+      "title": "CE261.1:  Reality of Kuiper Belt and Oort Cloud",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2654
+    },
+    {
+      "route": "/indexcc/CE/CE280.html",
+      "source_path": "indexcc/CE/CE280.html",
+      "title": "CE280:  Solar wind cleaning microparticles",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1714
+    },
+    {
+      "route": "/indexcc/CE/CE281.html",
+      "source_path": "indexcc/CE/CE281.html",
+      "title": "CE281:  Poynting-Roberston Effect Removing Space Dust",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2866
+    },
+    {
+      "route": "/indexcc/CE/CE301.html",
+      "source_path": "indexcc/CE/CE301.html",
+      "title": "CE301:  Missing solar neutrinos",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2225
+    },
+    {
+      "route": "/indexcc/CE/CE302.html",
+      "source_path": "indexcc/CE/CE302.html",
+      "title": "CE302:  Sun's small angular momentum",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2046
+    },
+    {
+      "route": "/indexcc/CE/CE310.html",
+      "source_path": "indexcc/CE/CE310.html",
+      "title": "CE310:  The incredible shrinking sun",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2716
+    },
+    {
+      "route": "/indexcc/CE/CE310_1.html",
+      "source_path": "indexcc/CE/CE310_1.html",
+      "title": "CE310.1:  Helmholtz's solar contraction theory",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2036
+    },
+    {
+      "route": "/indexcc/CE/CE311.html",
+      "source_path": "indexcc/CE/CE311.html",
+      "title": "CE311:  Faint young sun",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2516
+    },
+    {
+      "route": "/indexcc/CE/CE351.html",
+      "source_path": "indexcc/CE/CE351.html",
+      "title": "CE351:  Evolution of Sirius",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2891
+    },
+    {
+      "route": "/indexcc/CE/CE380.html",
+      "source_path": "indexcc/CE/CE380.html",
+      "title": "CE380:  Spiral galaxies staying spiral.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2674
+    },
+    {
+      "route": "/indexcc/CE/CE401.html",
+      "source_path": "indexcc/CE/CE401.html",
+      "title": "CE401:  Supernova Remnants",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3622
+    },
+    {
+      "route": "/indexcc/CE/CE410.html",
+      "source_path": "indexcc/CE/CE410.html",
+      "title": "CE410:  Are constants constant?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4662
+    },
+    {
+      "route": "/indexcc/CE/CE411.html",
+      "source_path": "indexcc/CE/CE411.html",
+      "title": "CE411:  Speed of Light Slowing?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3204
+    },
+    {
+      "route": "/indexcc/CE/CE411_1.html",
+      "source_path": "indexcc/CE/CE411_1.html",
+      "title": "CE411.1:  Physicists Say Light was Faster",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2255
+    },
+    {
+      "route": "/indexcc/CE/CE412.html",
+      "source_path": "indexcc/CE/CE412.html",
+      "title": "CE412:  Fast old light",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3797
+    },
+    {
+      "route": "/indexcc/CE/CE420.html",
+      "source_path": "indexcc/CE/CE420.html",
+      "title": "CE420:  Big Bang",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4395
+    },
+    {
+      "route": "/indexcc/CE/CE421.html",
+      "source_path": "indexcc/CE/CE421.html",
+      "title": "CE421:  Cosmos axis",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2596
+    },
+    {
+      "route": "/indexcc/CE/CE425.html",
+      "source_path": "indexcc/CE/CE425.html",
+      "title": "CE425:  Tired light",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3009
+    },
+    {
+      "route": "/indexcc/CE/CE440.html",
+      "source_path": "indexcc/CE/CE440.html",
+      "title": "CE440:  The origin of it all",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3789
+    },
+    {
+      "route": "/indexcc/CE/CE441.html",
+      "source_path": "indexcc/CE/CE441.html",
+      "title": "CE441:  big bang, explosions, and information",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2395
+    },
+    {
+      "route": "/indexcc/CF/CF001.html",
+      "source_path": "indexcc/CF/CF001.html",
+      "title": "CF001:  Second Law of Thermodynamics",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5858
+    },
+    {
+      "route": "/indexcc/CF/CF001_1.html",
+      "source_path": "indexcc/CF/CF001_1.html",
+      "title": "CF001.1:  Disorder by neglect",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3321
+    },
+    {
+      "route": "/indexcc/CF/CF001_2.html",
+      "source_path": "indexcc/CF/CF001_2.html",
+      "title": "CF001.2:  Thermodynamics universal",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2675
+    },
+    {
+      "route": "/indexcc/CF/CF001_3.html",
+      "source_path": "indexcc/CF/CF001_3.html",
+      "title": "CF001.3:  Exceptions to the law of disorder",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3307
+    },
+    {
+      "route": "/indexcc/CF/CF001_4.html",
+      "source_path": "indexcc/CF/CF001_4.html",
+      "title": "CF001.4:  Organized complexity and entropy",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2337
+    },
+    {
+      "route": "/indexcc/CF/CF001_5.html",
+      "source_path": "indexcc/CF/CF001_5.html",
+      "title": "CF001.5:  Energy conversion and the 2nd law",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2355
+    },
+    {
+      "route": "/indexcc/CF/CF002.html",
+      "source_path": "indexcc/CF/CF002.html",
+      "title": "CF002:  Complexity from simplicity",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3931
+    },
+    {
+      "route": "/indexcc/CF/CF002_1.html",
+      "source_path": "indexcc/CF/CF002_1.html",
+      "title": "CF002.1:  Tornadoes in a Junkyard",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2282
+    },
+    {
+      "route": "/indexcc/CF/CF003.html",
+      "source_path": "indexcc/CF/CF003.html",
+      "title": "CF003:  Information assembling itself",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3354
+    },
+    {
+      "route": "/indexcc/CF/CF005.html",
+      "source_path": "indexcc/CF/CF005.html",
+      "title": "CF005:  2nd law of thermodynamics and information theory",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3973
+    },
+    {
+      "route": "/indexcc/CF/CF010.html",
+      "source_path": "indexcc/CF/CF010.html",
+      "title": "CF010:  Cybernetic simulations show no order from Darwinism.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3835
+    },
+    {
+      "route": "/indexcc/CF/CF011.html",
+      "source_path": "indexcc/CF/CF011.html",
+      "title": "CF011:  Design in evolutionary algorithms",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-008",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5192
+    }
+  ],
+  "status_counts": {
+    "translated": 200
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

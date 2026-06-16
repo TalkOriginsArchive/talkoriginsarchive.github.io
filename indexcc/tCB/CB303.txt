@@ -1,0 +1,39 @@
+BriefClaim: The brain is too complex to have evolved.
+Title: Brain evolution
+Keywords: brain
+
+Claim:
+
+The brain is too complex to have evolved.
+
+Source:
+
+LifeHow,
+ 168-178.
+Brown, Walt, 1995. _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 7.
+
+Response:
+
+1. This is an <CA100>argument from incredulity>.  Complexity only
+   indicates that something is difficult to understand, not that it is
+   difficult to evolve.  Evolution, unlike design, is not constrained by
+   requirements for simplicity.
+
+2. Brains come in many different sizes.  The sea slug (_Aplysia_), for
+   example, has only about 20,000 neurons in its entire nervous system.
+   Coelenterates have an even simpler nervous system consisting of a nerve
+   net and nothing even close to a brain.  There are innumerable
+   intermediate forms of brains between humans and brainless animals;
+   gradual evolution of the brain presents no challenge.
+
+Links:
+
+Comparative Mammalian Brain Collections, n.d.  Brain evolution, 
+ http://brainmuseum.org/Evolution/ (under construction)
+
+References:
+
+Further Reading:
+
+Date: 2003-7-25

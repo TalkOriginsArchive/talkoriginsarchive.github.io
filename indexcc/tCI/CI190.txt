@@ -1,0 +1,48 @@
+BriefClaim: SETI researchers expect that they can detect design.
+Title:  SETI Design Detection
+Keywords:  SETI, intelligent design, information
+
+Claim:
+
+SETI researchers expect that they can recognize artificial signals,
+proving that there is an objective criterion for recognizing intelligent
+design.
+
+Source:
+
+Dembski, William A., 1998.  Science and Design.  _First Things_ 86 (Oct.):
+ 21-27.  https://web.archive.org/web/20080517011440if_/http://www.firstthings.com/ftissues/ft9810/dembski.html
+
+Response:
+
+1. SETI researchers do not expect to find recognizably designed messages
+   in the signals they are looking for; in fact, they expect that the
+   signal modulation would be smeared out and lost.  They are looking for
+   narrow-band signals, which are what people build and are not found in
+   known natural radio signals (SETI Instutute n.d., Shostak 2005).  The
+   objective criterion for recognizing intelligent design is to look for
+   things that look like what people build.
+
+2. The SETI Institute itself recognizes "Intelligent Design" as
+   creationism with no scientific value (DeVore 2005).
+
+Links:
+
+Shostak, Seth. 2005.  SETI and Intelligent Design.
+ http://www.space.com/searchforlife/seti_intelligentdesign_051201.html
+
+Petrich, Loren. 2003.  Animal and extraterrestrial artifacts:
+ Intelligently designed?  http://www.secweb.org/asset.asp?AssetID=283
+
+References:
+
+1. DeVore, Edna. 2005.  Intelligent Design and evolution at the White
+   House.
+   https://web.archive.org/web/20070703092143if_/http://www.seti.org/site/apps/nl/content2.asp?c=ktJ2J9MMIsE&b=194993&ct=1324903
+2. SETI Institute. n.d.  Frequently asked questions.
+   https://web.archive.org/web/20070716023139if_/http://www.seti.org/site/pp.asp?c=ktJ2J9MMIsE&b=178905#anchor318103
+3. Shostak, Seth. 2005.  (see above)
+
+Further Reading:
+
+Date: 2001-2-18, 2005-12-1

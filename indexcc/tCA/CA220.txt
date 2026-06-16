@@ -1,0 +1,34 @@
+BriefClaim: Evolution can not be replicated.
+Title: Evolution replicable
+Keywords: replication, experiment.
+
+Claim:
+
+Science requires experiments that can be replicated.  Evolution can not be
+replicated, so it is not science.
+
+Source:
+
+SciCre, p. 4.
+
+Response:
+
+1. Science requires that observations can be replicated.  The observations
+   on which evolution is based, including comparative anatomy, genetics,
+   and fossils, are replicable.  In many cases, you can repeat the
+   observations yourself.
+
+2. Repeatable experiments, including experiments about mutations and
+   natural selection in the laboratory and in the field, also support
+   evolution.
+
+Links:
+
+References:
+
+Further Reading:
+
+Weiner, Jonathan. 1994.  _The Beak of the Finch: A story of evolution in
+  our time_.  New York: Knopf.
+
+Date: 2003-4-21

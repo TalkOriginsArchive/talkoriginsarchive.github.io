@@ -1,0 +1,106 @@
+BriefClaim: All hominid fossils are fully human or fully ape.
+Title: Hominid transition
+Keywords: human, ape, hominid, transitional
+
+Claim:
+
+All hominid fossils are fully human or fully ape.
+
+Source:
+
+Response:
+
+1. There is a fine transition between modern humans and australopithecines
+   and other hominids.  The transition is gradual enough that it is not
+   clear where to draw the line between human and not.
+
+   Intermediate fossils include
+
+    - _Australopithecus afarensis_, from 3.9 to 3.0 million years ago (Mya).
+      Its skull is similar to a chimpanzee's, but with more humanlike
+      teeth.  Most (possibly all) creationists would call this an ape, but
+      it was bipedal.
+    - _Australopithecus africanus_ (3 to 2 Mya); its brain size, 420-500
+      cc, was slightly larger than _A. afarensis_, and its teeth yet more
+      humanlike.
+    - _Homo habilis_ (2.4 to 1.5 Mya), which is similar to
+      australopithecines, but which used tools and had a larger brain
+      (650-cc average) and less projecting face.
+    - _Homo erectus_ (1.8 to 0.3 Mya); brain size averaged about 900 cc in
+      early _H. erectus_ and 1,100 cc in later ones.  (Modern human brains
+      average 1,350 cc.)
+    - A Pleistocene _Homo sapiens_ which was "morphologically and
+      chronologically intermediate between archaic African fossils and
+      later anatomically modern Late Pleistocene humans" (White et
+      al. 2003, 742).
+    - A hominid combining features of, and possibly ancestral to,
+      Neanderthals and modern humans (Bermudez de Castro et al. 1997).
+
+   And there are fossils intermediate between these (Foley 1996-2004).
+
+2. Creationists themselves disagree about which intermediate hominids are
+   human and which are ape (Foley 2002).
+
+3. There is abundant genetic evidence for the relatedness between humans
+   and other apes:
+    - Humans have twenty-three chromosome pairs; apes have twenty-four.
+      Twenty-two of the pairs are similar between humans and apes.  The
+      remaining two ape chromosomes appear to have joined; they are
+      similar to each half of the remaining human chromosome (chromosome
+      2; Yunis and Prakash 1982).
+    - The ends of chromosomes have repetitious telomeric sequences and a
+      distinctive pretelomeric region.  Such sequences are found in the
+      middle of human chromosome 2, just as one would expect if two
+      chromosomes joined (IJdo et al. 1991).
+    - A centromere-like region of human chromosome 2 corresponds with the
+      centromere of the ape chromosome (Avarello et al. 1992).
+    - Humans and chimpanzees have innumerable sequence similarities,
+      including shared pseudogenes such as genetic material from ERVs
+      (endogenous retroviruses; Taylor 2003; Max 2003).
+
+Links:
+
+Foley, Jim. 1996-2004.  Fossil hominids: The evidence for human evolution.
+ http://www.talkorigins.org/faqs/homs/
+
+Drews, Carl, 2002.  Transitional fossils of hominid skulls.
+ http://www.theistic-evolution.com/transitional.html
+
+References:
+
+1. Avarello, R., A. Pedicini, A. Caiulo, O. Zuffardi, M. Fraccaro, 1992.
+   Evidence for an ancestral alphoid domain on the long arm of human
+   chromosome 2.  _Hum Genet_ 89(2): 247-249.
+2. Bermudez de Castro, J. M. et al., 1997.  A hominid from the Lower
+   Pleistocene of Atapuerca, Spain: Possible ancestor to Neandertals and
+   modern humans.  _Science_ 276: 1392-1395.
+3. Foley, Jim, 1996-2003. (see above)
+4. Foley, Jim, 2002.  Comparison of all skulls,
+   http://www.talkorigins.org/faqs/homs/compare.html
+5. IJdo, J. W., A. Baldini, D. C. Ward, S. T. Reeders and R. A. Wells,
+   1991.  Origin of human chromosome 2: an ancestral telomere-telomere
+   fusion.  PNAS 88(20): 9051-9055.
+   https://web.archive.org/web/20080626191824if_/http://www.pnas.org/cgi/reprint/88/20/9051.pdf
+7. Max, Edward E., 2003.  Plagiarized errors and molecular genetics.
+   http://www.talkorigins.org/faqs/molgen/
+6. Taylor, D. M. 2003.  Alignment of Chimp_rp43-42n4 against human
+   chromosome 15.  https://web.archive.org/web/20031127174518if_/http://www-personal.umich.edu/~lilyth/erv/ See also
+   Taylor, D. M. 2003 (Jun 3).  Re: Evolutionary Misconceptions on
+   Evolution.
+   http://www.google.com/groups?as_umsgid=75200cbc.0306031846.50b2bda5%40posting.google.com
+7. White, Tim D. et al., 2003.  Pleistocene _Homo sapiens_ from Middle
+   Awash, Ethiopia.  _Nature_ 423: 742-747.
+8. Yunis, J. J. and O. Prakash, 1982.  The origin of man: a chromosomal
+   pictorial legacy.  _Science_ 215: 1525-1530.
+
+Further Reading:
+
+Johanson, D. C., and B. Edgar, 1996.  _From Lucy to Language_.  New York:
+ Simon and Schuster.
+
+Leakey, M. and A. Walker, 1997.  Early hominid fossils from
+ Africa.  SciAm 276(6) (June): 74-79.
+
+Tattersall, Ian, 1995.  _The Fossil Trail_.  New York: Oxford.
+
+Date: 2003-6-4, 2004-9-30

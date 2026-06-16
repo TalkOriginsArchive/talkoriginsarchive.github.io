@@ -1,0 +1,52 @@
+BriefClaim: Darwin's finches show only microevolution.
+Title: Microevolution of Darwin's finches
+Keywords: microevolution, speciation, variation, finch, Galapagos
+
+Claim:
+
+Darwin's finches show only microevolution.  In a long-term study, the
+changes were small and oscillated back and forth.  They show no evidence
+for macroevolution.
+
+Source:
+
+Yahya, Harun, 2003. _Darwinism Refuted_, The true origin of species.
+ https://web.archive.org/web/20210822230320if_/http://www.darwinismrefuted.com/origin_of_species_02.html
+
+Response:
+
+1. The extensive work on Darwin's finches done by the Grants shows in some
+   detail how microevolution works, including details of transmutation
+   and the power of natural selection (Weiner 1994).  In the years that
+   the Grants have been studying the finches, we would not expect to see
+   macroevolution.
+
+2. Darwin's finches show a pattern of morphological differences that
+   indicate that they all derived from a common ancestor.  The difference
+   between the woodpecker finch and the large ground finch are about as
+   great as those within the whole finch family.  Darwin's finches do not
+   show macroevolution occurring, but they are evidence that it has
+   occurred.
+
+Links:
+
+References:
+
+1. Weiner, J., 1994.  (See below.)
+
+Further Reading:
+
+Weiner, Jonathan, 1994.  _The Beak of the Finch: A story of evolution in
+ our time_.  New York: Knopf.
+
+Grant, B. Rosemary and Peter R. Grant, 2003.  What Darwin's finches can
+ teach us about the evolutionary origin and regulation of biodiversity.
+ _BioScience_ 53(10): 965-975.
+
+Grant, Peter R., 2002.  Selected abstracts.
+ https://web.archive.org/web/20060212171826if_/http://www.eeb.princeton.edu/FACULTY/Grant_P/PRG_Abstracts.pdf
+
+Kimball, John W., 2003.  Speciation. 
+ https://web.archive.org/web/20170107033056if_/http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/S/Speciation.html
+
+Date: 2003-8-27, 2004-9-15

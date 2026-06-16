@@ -1,0 +1,51 @@
+BriefClaim: Folded rocks must have been soft when folded.
+Title: Folded rocks
+Keywords: deformation
+
+Claim:
+
+Rocks do not fold without breaking.  Therefore, folded rocks (found in
+many places) must have been soft when folded.  This is easily explained by
+mountain building taking place soon after the sedimentary layers were
+deposited by a global flood.
+
+Source:
+
+Humphreys, D. Russell, 1999.  Evidence for a young world.
+ http://www.answersingenesis.org/docs/4005.asp or
+ https://web.archive.org/web/20181212220528if_/http://www.rae.org/yworld.html
+
+Response:
+
+1. Rocks do fold without breaking when bent very slowly under pressure.
+   Laboratory experiments demonstrate as much (e.g., Friedman et al.
+   1980).  Increased temperature can also increase the flow rate.
+
+   Some rocks ("weak" ones) flow more easily than others ("competent"
+   ones).  Layers of different rocks will sometimes have broken rocks in
+   some layers and not others.
+
+2. Deformation is not limited to sedimentary layers.  There are deformed
+   quartzite pebbles near Death Valley.
+
+
+Links:
+
+References:
+
+1. Friedman, M., R. H. H. Hugman III and J. Handin, 1980.  Experimental
+   folding of rocks under confining pressure, part VIII -- forced folding
+   of unconsolidated sand and of lubricated layers of limestone and
+   sandstone.  _Geological Society of America Bulletin_ 91: 307-312.
+#   See also: Johnson, Kaj M. and Arvid M. Johnson, 2002.  Mechanical
+#   analysis of the geometry of forced folds.
+#   _Journal of Structural Geology_ 24(3): 401-410.
+#   https://web.archive.org/web/20030329154929if_/http://www.eas.purdue.edu/physproc/pdf%20Files/AnalysisOfForcedFolds.pdf
+#   or https://web.archive.org/web/20030624035040if_/http://www.elsevier.com/gej-ng/10/39/35/57/32/27/abstract.html
+
+Further Reading:
+
+#Cole, John, n.d.  Rock deformation and geological structures.
+# https://web.archive.org/web/20051104024644if_/http://www.ukescc.co.uk/products/deform.html
+
+Date: 2003-6-29, 2004-5-28

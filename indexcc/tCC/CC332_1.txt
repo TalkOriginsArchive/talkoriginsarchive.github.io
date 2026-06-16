@@ -1,0 +1,66 @@
+BriefClaim: Specimen Creek fossil trees grew at the same time.
+Title: Specimen Creek Fossil Forest
+Keywords: polystrate, Yellowstone Petrified Forest, tree ring, flood,
+  catastrophism, transport.
+
+Claim:
+
+The fossil trees at Specimen Creek in the Yellowstone Petrified Forest
+show common tree ring signatures, indicating that they all lived at the
+same time.  This rules out the conventional interpretation that the trees
+in successive layers all grew in place and were covered by successive
+volcanic eruptions.
+
+Source:
+
+Arct, Michael J., 1991 (Dec.). _Dendrochronology in the Fossil Forests of
+ the Specimen Creek Area Yellowstone National Park_.  Ph.D. dissertation,
+ Loma Linda University.
+Morris, John D., 1995.  The Yellowstone petrified
+ forests.  _Impact_ 268 (Oct.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=397
+
+Response:
+
+1. The signature series of tree rings which Arct used to establish
+   commonality between trees is too short, spanning only five years.  The
+   actual tree ring widths given in his data show too little correlation
+   between samples to support his conclusion (Arct 1991, 5,18,20).
+
+2. Arct attributed non-standard causes to his signatures: "[I]t
+   appears that the Yellowstone signature is a result of a pronounced
+   sensitivity to the intra-annual availability of water as recorded in
+   young trees" (Arct 1991, 56).  Instead of being signatures which
+   occur over several rings growth, his are within one year's growth.
+   This is not as good a signature set.
+
+3. Arct's data indicate that the trees did not all die in the same year
+   (Arct 1991, 38), thus ruling out the possibility that they were
+   uprooted and later deposited by a common event.
+
+4. There is other evidence, such as paleosols and in-place roots, that the
+   trees fossilized in place (Fritz 1980; 1984; Yuretich 1984a; 1984b).
+
+
+Links:
+
+MacRae, Andrew, 1994.  Yellowstone National Park (U.S.) fossil forests.
+ http://www.talkorigins.org/faqs/polystrate/yellowstone.html
+
+References:
+
+1. Arct, Michael J., 1991 (Dec.)  _Dendrochronology in the Fossil Forests
+   of the Specimen Creek Area Yellowstone National Park_.
+   Ph.D. dissertation, Loma Linda University.
+2. Fritz, W. J., 1980. Reinterpretation of the depositional environment of
+   the Yellowstone "fossil forests". _Geology_ 8: 309-313.
+3. Fritz, W. J., 1984. Comment and reply on "Yellowstone fossil forests:
+   New evidence for burial in place." _Geology_ 12, 638-639.
+4. Yuretich, R. F., 1984a. Yellowstone fossil forests: New evidence for
+   burial in place. _Geology_ 12: 159-162.
+5. Yuretich, R. F., 1984b. Comment and reply on "Yellowstone fossil forests:
+   New evidence for burial in place." _Geology_ 12: 639.
+
+Further Reading:
+
+Date: 2001-2-18

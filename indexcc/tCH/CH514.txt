@@ -1,0 +1,64 @@
+BriefClaim: The crew could feed and care for the animals.
+Title: Noah's manpower
+Keywords: Noah's Ark
+
+Claim:
+
+The eight-person crew aboard Noah's ark was sufficient to feed and care
+for all the animals.
+
+Source:
+
+Woodmorappe, John, 1996.  _Noah's Ark: A Feasibility Study_, Santee,
+ CA: ICR, pp. 71-81.
+
+Response:
+
+1. Three hundred and twenty full-time employees are needed to care for
+   fewer than 3000 animals at the Washington National Zoo (Grimaldi and
+   Barker 2003).  Granted, many of these would be working on
+   administration and visitor concerns that would not have existed on the
+   ark.  Still, assuming that only a quarter of them cared for animals,
+   that is still eighty people to care for 3000 animals.  On the ark,
+   there were eight people to tend more than 15,000 animals (assuming
+   Noah's crew were not needed to do maintenance and bail water).  They
+   would have had to work more than fifty times harder than professional
+   zookeepers.  Double shifts are not enough to make up the difference.
+
+   Accepting Woodmorappe's number of 15,754 animals aboard the ark, and
+   assuming the crew attended to them sixteen hours per day (a very
+   generous assumption), each animal would receive an average of about
+   thirty seconds of attention per day for all its needs.
+
+2. Labor-saving mechanisms proposed by Woodmorappe are unrealistic.  For
+   example:
+    - Watering many animals at once via troughs would not work on a ship.
+      Most of the water would slosh out as the ark rolled with the waves.
+    - Automatic feeders would allow pests to infest the food.  Animals
+      with automatic feeders would probably eat more and waste more food,
+      too, increasing the amount of food that must be stored.  Woodmorappe
+      did not account for the extra space required.
+    - At least one third, and probably two thirds, of the manure could not
+      be disposed of by simply pushing it overboard, since it would be
+      below the water line.  The manure would have to be carried up a deck
+      or two.
+
+3. Woodmorappe did not consider some time-consuming tasks:
+    - The ark itself must be maintained.  It would be a miracle if bailing
+      alone were less than a full-time job.
+    - All of the hoofed animals would need to have their hooves trimmed
+      several times during the year (Batten 1976, 39-42).
+
+Links:
+
+References:
+
+1. Batten, R. Peter, 1976.  _Living trophies_. New York: Thomas Y. Crowell
+   Co. 
+2. Grimaldi, James V. and Karlyn Barker, 2003.  Spelman's style polarizing
+   zoo employees.  _Washington Post_, April 28, 2003; Page A01.
+   http://www.washingtonpost.com/wp-dyn/articles/A46238-2003Apr27.html
+
+Further Reading:
+
+Date: 2003-5-7, 2003-7-12

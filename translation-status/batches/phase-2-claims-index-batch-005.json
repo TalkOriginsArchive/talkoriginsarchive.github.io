@@ -1,0 +1,920 @@
+{
+  "id": "phase-2-claims-index-batch-005",
+  "phase": "phase-2-claims-index",
+  "phase_label": "Index to Creationist Claims",
+  "sequence": 5,
+  "status": "complete",
+  "page_count": 50,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/indexcc/CB/CB910_2.html",
+      "source_path": "indexcc/CB/CB910_2.html",
+      "title": "CB910.2:  Peppered moths species",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2065
+    },
+    {
+      "route": "/indexcc/CB/CB920.html",
+      "source_path": "indexcc/CB/CB920.html",
+      "title": "CB920:  New body parts",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2705
+    },
+    {
+      "route": "/indexcc/CB/CB921.html",
+      "source_path": "indexcc/CB/CB921.html",
+      "title": "CB921:  Half an organ?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2161
+    },
+    {
+      "route": "/indexcc/CB/CB921_1.html",
+      "source_path": "indexcc/CB/CB921_1.html",
+      "title": "CB921.1:  Half an eye",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5494
+    },
+    {
+      "route": "/indexcc/CB/CB921_2.html",
+      "source_path": "indexcc/CB/CB921_2.html",
+      "title": "CB921.2:  Half a wing",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4876
+    },
+    {
+      "route": "/indexcc/CB/CB922.html",
+      "source_path": "indexcc/CB/CB922.html",
+      "title": "CB922:  Intermediate two-celled life",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3952
+    },
+    {
+      "route": "/indexcc/CB/CB925.html",
+      "source_path": "indexcc/CB/CB925.html",
+      "title": "CB925:  Incomplete creatures",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2682
+    },
+    {
+      "route": "/indexcc/CB/CB926.html",
+      "source_path": "indexcc/CB/CB926.html",
+      "title": "CB926:  Preadaptation",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3347
+    },
+    {
+      "route": "/indexcc/CB/CB928.html",
+      "source_path": "indexcc/CB/CB928.html",
+      "title": "CB928:  Beneficial traits not ubiquitous.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2312
+    },
+    {
+      "route": "/indexcc/CB/CB928_1.html",
+      "source_path": "indexcc/CB/CB928_1.html",
+      "title": "CB928.1:  Rarity of intelligence.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1459
+    },
+    {
+      "route": "/indexcc/CB/CB928_2.html",
+      "source_path": "indexcc/CB/CB928_2.html",
+      "title": "CB928.2:  Humans still evolving",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4398
+    },
+    {
+      "route": "/indexcc/CB/CB929.html",
+      "source_path": "indexcc/CB/CB929.html",
+      "title": "CB929:  One tenth of the brain",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1816
+    },
+    {
+      "route": "/indexcc/CB/CB930.html",
+      "source_path": "indexcc/CB/CB930.html",
+      "title": "CB930:  Living fossils",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2460
+    },
+    {
+      "route": "/indexcc/CB/CB930_1.html",
+      "source_path": "indexcc/CB/CB930_1.html",
+      "title": "CB930.1:  Coelacanth: A living fossil",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2926
+    },
+    {
+      "route": "/indexcc/CB/CB930_2.html",
+      "source_path": "indexcc/CB/CB930_2.html",
+      "title": "CB930.2:  Plesiosaur discovered by Japanese trawler",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2408
+    },
+    {
+      "route": "/indexcc/CB/CB930_3.html",
+      "source_path": "indexcc/CB/CB930_3.html",
+      "title": "CB930.3:   Dinosaurs alive in the Congo",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2872
+    },
+    {
+      "route": "/indexcc/CB/CB930_4.html",
+      "source_path": "indexcc/CB/CB930_4.html",
+      "title": "CB930.4:  Pterodactyl in stone",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3639
+    },
+    {
+      "route": "/indexcc/CB/CB932.html",
+      "source_path": "indexcc/CB/CB932.html",
+      "title": "CB932:  Evolution of degenerate forms",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1861
+    },
+    {
+      "route": "/indexcc/CB/CB940.html",
+      "source_path": "indexcc/CB/CB940.html",
+      "title": "CB940:  Complex structures by chance",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4300
+    },
+    {
+      "route": "/indexcc/CB/CB940_1.html",
+      "source_path": "indexcc/CB/CB940_1.html",
+      "title": "CB940.1:  The Mathematical Probability of Evolution",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2615
+    },
+    {
+      "route": "/indexcc/CB/CB941.html",
+      "source_path": "indexcc/CB/CB941.html",
+      "title": "CB941:  Intelligent evolution?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2777
+    },
+    {
+      "route": "/indexcc/CB/CB950.html",
+      "source_path": "indexcc/CB/CB950.html",
+      "title": "CB950:  Overspecialization",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2290
+    },
+    {
+      "route": "/indexcc/CB/CB951.html",
+      "source_path": "indexcc/CB/CB951.html",
+      "title": "CB951:  Orthogenesis unsupported",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2165
+    },
+    {
+      "route": "/indexcc/CB/CB952.html",
+      "source_path": "indexcc/CB/CB952.html",
+      "title": "CB952:  Overspecialized diets and evolution",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2644
+    },
+    {
+      "route": "/indexcc/CB/CB990.html",
+      "source_path": "indexcc/CB/CB990.html",
+      "title": "CB990:  Just-so stories",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2823
+    },
+    {
+      "route": "/indexcc/CC/CC001.html",
+      "source_path": "indexcc/CC/CC001.html",
+      "title": "CC001:  Piltdown Man",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3602
+    },
+    {
+      "route": "/indexcc/CC/CC001_1.html",
+      "source_path": "indexcc/CC/CC001_1.html",
+      "title": "CC001.1:  Dissertations on Piltdown",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1969
+    },
+    {
+      "route": "/indexcc/CC/CC002.html",
+      "source_path": "indexcc/CC/CC002.html",
+      "title": "CC002:  Nebraska Man",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3015
+    },
+    {
+      "route": "/indexcc/CC/CC003.html",
+      "source_path": "indexcc/CC/CC003.html",
+      "title": "CC003:  Lucy's knee not found with rest of skeleton.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2755
+    },
+    {
+      "route": "/indexcc/CC/CC004.html",
+      "source_path": "indexcc/CC/CC004.html",
+      "title": "CC004:  Lost Peking Man Skeletons",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3314
+    },
+    {
+      "route": "/indexcc/CC/CC021.html",
+      "source_path": "indexcc/CC/CC021.html",
+      "title": "CC021:  Orce Man",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2216
+    },
+    {
+      "route": "/indexcc/CC/CC030.html",
+      "source_path": "indexcc/CC/CC030.html",
+      "title": "CC030:  Human fossils on a table",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2749
+    },
+    {
+      "route": "/indexcc/CC/CC040.html",
+      "source_path": "indexcc/CC/CC040.html",
+      "title": "CC040:  What anthropologists say",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3588
+    },
+    {
+      "route": "/indexcc/CC/CC041.html",
+      "source_path": "indexcc/CC/CC041.html",
+      "title": "CC041:  Validity of Homo habilis",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1961
+    },
+    {
+      "route": "/indexcc/CC/CC050.html",
+      "source_path": "indexcc/CC/CC050.html",
+      "title": "CC050:  Hominid transition",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6151
+    },
+    {
+      "route": "/indexcc/CC/CC051.html",
+      "source_path": "indexcc/CC/CC051.html",
+      "title": "CC051:  Neanderthal reconstruction",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2313
+    },
+    {
+      "route": "/indexcc/CC/CC051_1.html",
+      "source_path": "indexcc/CC/CC051_1.html",
+      "title": "CC051.1:  Neanderthal rickets",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2655
+    },
+    {
+      "route": "/indexcc/CC/CC052.html",
+      "source_path": "indexcc/CC/CC052.html",
+      "title": "CC052:  Laetoli Footprints",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2306
+    },
+    {
+      "route": "/indexcc/CC/CC054.html",
+      "source_path": "indexcc/CC/CC054.html",
+      "title": "CC054:  KP 271 (a fossil humerus) was human.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2457
+    },
+    {
+      "route": "/indexcc/CC/CC061.html",
+      "source_path": "indexcc/CC/CC061.html",
+      "title": "CC061:  Boule's monkey quote",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3164
+    },
+    {
+      "route": "/indexcc/CC/CC080.html",
+      "source_path": "indexcc/CC/CC080.html",
+      "title": "CC080:  Australopithecus an ape?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2662
+    },
+    {
+      "route": "/indexcc/CC/CC101.html",
+      "source_path": "indexcc/CC/CC101.html",
+      "title": "CC101:  Paluxy River footprints",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5978
+    },
+    {
+      "route": "/indexcc/CC/CC102.html",
+      "source_path": "indexcc/CC/CC102.html",
+      "title": "CC102:  Sandal footprint found with trilobites",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3534
+    },
+    {
+      "route": "/indexcc/CC/CC110.html",
+      "source_path": "indexcc/CC/CC110.html",
+      "title": "CC110:  Moab Man",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2098
+    },
+    {
+      "route": "/indexcc/CC/CC111.html",
+      "source_path": "indexcc/CC/CC111.html",
+      "title": "CC111:  Malachite Man",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2362
+    },
+    {
+      "route": "/indexcc/CC/CC112.html",
+      "source_path": "indexcc/CC/CC112.html",
+      "title": "CC112:  Castenedolo, Olmo, and Calaveras skulls",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2384
+    },
+    {
+      "route": "/indexcc/CC/CC120.html",
+      "source_path": "indexcc/CC/CC120.html",
+      "title": "CC120:   Baugh's Cretaceous fossil finger",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2512
+    },
+    {
+      "route": "/indexcc/CC/CC130.html",
+      "source_path": "indexcc/CC/CC130.html",
+      "title": "CC130:  Petrified hammer?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2278
+    },
+    {
+      "route": "/indexcc/CC/CC131.html",
+      "source_path": "indexcc/CC/CC131.html",
+      "title": "CC131:  Iron pot in coal",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2861
+    },
+    {
+      "route": "/indexcc/CC/CC150.html",
+      "source_path": "indexcc/CC/CC150.html",
+      "title": "CC150:  Why are there still apes around?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-005",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2582
+    }
+  ],
+  "status_counts": {
+    "translated": 200
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

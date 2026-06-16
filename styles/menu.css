@@ -1,0 +1,53 @@
+body {  background: #111111; 
+             color: #CCCCCC; 
+			 margin-left:3%; 
+			margin-right:3%}
+			
+table {margin-left: 0.5cm; 
+       margin-right:0.5cm}
+			  
+a:link    {color:yellow; 
+           background: transparent /* Inherit from parent i.e. no change */ }
+a:visited {color:#c0c000; /* Dark Yellow */ 
+           background: transparent} 
+a:active  {color:#c0c000; 
+           background: transparent}
+a:hover   {color:#808000; /* Darker Yellow */ 
+           background:transparent}
+					 
+small,table,td,ul,th,
+big, li, div                 { color:      inherit; 
+                          background: transparent }
+												 
+.logowidth { width:560px}
+
+.nobullets { list-style:  none outside; /* This class is for home page */
+             margin-left: 0%;
+						 padding:     0% }
+
+.center     { text-align:   center;
+              margin-left:  auto;
+							margin-right: auto }
+.left       { text-align:   left }
+.right      { text-align:   right }
+.floatright { float:        right }
+
+.noborder  { border:      none }
+.nowrap    { white-space: nowrap }
+.nomargin  { margin:      0 }
+.nopadding { padding:     0 }
+
+.small   { font-size: small }
+.large   { font-size: large }
+.x-small { font-size: x-small }
+.medium  { font-size: medium }
+
+q { quotes:"" "" "" "" }
+
+.graybox { background: #e6e6e6; 
+          color:      black }
+.blackbox { background: #111111;
+            color: white;
+						border: 1px solid #aaaaaa; }
+.blackbox dt,
+.blackbox li { text-indent:-1em; margin-left:1em}

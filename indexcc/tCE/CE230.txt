@@ -1,0 +1,33 @@
+BriefClaim: Io's great volcanic activity indicates a young age.
+Title: Io's volcanism
+Keywords: volcano, tidal heating, Jupiter
+
+Claim:
+
+Jupiter's moon Io is volcanic.  It is too small for its volcanism to be
+explained by residual heat of formation or radioactive decay, unless the
+moon is not millions of years old.
+
+Source:
+
+Pathlights, n.d.  The age of the earth - 1.
+ https://web.archive.org/web/20210415082133if_/http://www.pathlights.com/ce_encyclopedia/05agee2.htm
+
+Response:
+
+1. The volcanoes on Io are powered by tidal heating.  Io is close to
+   Jupiter, so it is strongly affected by Jupiter's gravity.  The other
+   moons of Jupiter exert their own gravitational forces.  The resulting
+   tides raise and lower Io's surface by about 100 m, generating
+   frictional heat that drives the volcanoes.
+
+Links:
+
+Wood, Janet Stuhr. 2003.  Io: Jupiter's volcanic moon: Tidal heating.
+ https://web.archive.org/web/20140904213842if_/http://www.planetaryexploration.net/jupiter/io/tidal_heating.html
+
+References:
+
+Further Reading:
+
+Date: 2003-6-5, 2004-4-4

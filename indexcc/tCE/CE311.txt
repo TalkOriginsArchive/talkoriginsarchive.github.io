@@ -1,0 +1,45 @@
+BriefClaim: The faint young sun paradox contradicts an old earth.
+Title: Faint young sun
+Keywords: young earth
+
+Claim:
+
+According to standard models of the sun, the sun's luminosity has
+increased by 40 percent since the origin of the earth (the "faint young sun
+paradox").  This would mean that the early earth could not have supported
+life.  Thus an old earth is impossible; the earth must be young.
+
+Source:
+
+Faulkner, Danny, 1998.  The young faint sun paradox and the age of the
+ solar system. _Impact_ 300 (June).
+ http://www.icr.org/index.php?module=articles&action=view&ID=429
+
+Response:
+
+1. The change in luminosity is not as drastic as it sounds.  Much of the
+   change would have occurred before the origin of life; the luminosity
+   increase since the origin of life is about 25 percent.  And this
+   translates to a 7 percent increase in temperature when the earth's heat
+   outflow is taken into account.
+
+2. The 7 percent change described above assumes no feedback system, but
+   the earth's climate feedback systems are complex.  In particular, the
+   greenhouse effect and albedo could moderate the temperature further.
+   On the early earth, it is likely that greenhouse gases such as carbon
+   dioxide and methane were commoner than they are today.
+
+3. Life has survived fairly large changes in climate over its history,
+   from a near-global glaciation in the late Precambrian, to a global
+   temperature warmer than today's in the Carboniferous.
+
+Links:
+
+Johansson, Sverker, 1998.  The solar FAQ.
+ http://www.talkorigins.org/faqs/faq-solar.html
+
+References:
+
+Further Reading:
+
+Date: 2003-5-17

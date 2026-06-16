@@ -1,0 +1,920 @@
+{
+  "id": "phase-2-claims-index-batch-002",
+  "phase": "phase-2-claims-index",
+  "phase_label": "Index to Creationist Claims",
+  "sequence": 2,
+  "status": "complete",
+  "page_count": 50,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/indexcc/CA/CA230.html",
+      "source_path": "indexcc/CA/CA230.html",
+      "title": "CA230:  Interpretation and observation",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3445
+    },
+    {
+      "route": "/indexcc/CA/CA230_1.html",
+      "source_path": "indexcc/CA/CA230_1.html",
+      "title": "CA230.1:  Preconceptions affecting conclusions.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3851
+    },
+    {
+      "route": "/indexcc/CA/CA240.html",
+      "source_path": "indexcc/CA/CA240.html",
+      "title": "CA240:  Ockham's Razor",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2007
+    },
+    {
+      "route": "/indexcc/CA/CA250.html",
+      "source_path": "indexcc/CA/CA250.html",
+      "title": "CA250:  Scientific findings always changing",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2315
+    },
+    {
+      "route": "/indexcc/CA/CA301.html",
+      "source_path": "indexcc/CA/CA301.html",
+      "title": "CA301:  Science and naturalism",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3986
+    },
+    {
+      "route": "/indexcc/CA/CA301_1.html",
+      "source_path": "indexcc/CA/CA301_1.html",
+      "title": "CA301.1:  Naturalistic investigation and the supernatural",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4283
+    },
+    {
+      "route": "/indexcc/CA/CA310.html",
+      "source_path": "indexcc/CA/CA310.html",
+      "title": "CA310:  Scientists' expectations",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2522
+    },
+    {
+      "route": "/indexcc/CA/CA320.html",
+      "source_path": "indexcc/CA/CA320.html",
+      "title": "CA320:  Scientists challenging established dogma",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2727
+    },
+    {
+      "route": "/indexcc/CA/CA320_1.html",
+      "source_path": "indexcc/CA/CA320_1.html",
+      "title": "CA320.1:  Mims",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3326
+    },
+    {
+      "route": "/indexcc/CA/CA320_2.html",
+      "source_path": "indexcc/CA/CA320_2.html",
+      "title": "CA320.2:  Damadian and the Nobel Prize for MRI",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4982
+    },
+    {
+      "route": "/indexcc/CA/CA320_3.html",
+      "source_path": "indexcc/CA/CA320_3.html",
+      "title": "CA320.3:  Dembski at Baylor",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6338
+    },
+    {
+      "route": "/indexcc/CA/CA321.html",
+      "source_path": "indexcc/CA/CA321.html",
+      "title": "CA321:  Scientists' motivation re naturalism",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4334
+    },
+    {
+      "route": "/indexcc/CA/CA321_1.html",
+      "source_path": "indexcc/CA/CA321_1.html",
+      "title": "CA321.1:  Scientists' pay.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1688
+    },
+    {
+      "route": "/indexcc/CA/CA325.html",
+      "source_path": "indexcc/CA/CA325.html",
+      "title": "CA325:  Creationists publishing",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5518
+    },
+    {
+      "route": "/indexcc/CA/CA340.html",
+      "source_path": "indexcc/CA/CA340.html",
+      "title": "CA340:  Debate challenges.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2524
+    },
+    {
+      "route": "/indexcc/CA/CA341.html",
+      "source_path": "indexcc/CA/CA341.html",
+      "title": "CA341:  Hovind's challenge",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5945
+    },
+    {
+      "route": "/indexcc/CA/CA342.html",
+      "source_path": "indexcc/CA/CA342.html",
+      "title": "CA342:  Walt Brown's debate challenge",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2790
+    },
+    {
+      "route": "/indexcc/CA/CA343.html",
+      "source_path": "indexcc/CA/CA343.html",
+      "title": "CA343:  Mastropaolo's \"Life Science Prize\"",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4022
+    },
+    {
+      "route": "/indexcc/CA/CA350.html",
+      "source_path": "indexcc/CA/CA350.html",
+      "title": "CA350:  Literature on evolution of biochemical systems",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4071
+    },
+    {
+      "route": "/indexcc/CA/CA500.html",
+      "source_path": "indexcc/CA/CA500.html",
+      "title": "CA500:  \"Survival of the Fittest\"",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5207
+    },
+    {
+      "route": "/indexcc/CA/CA510.html",
+      "source_path": "indexcc/CA/CA510.html",
+      "title": "CA510:  Two models.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2737
+    },
+    {
+      "route": "/indexcc/CA/CA510_1.html",
+      "source_path": "indexcc/CA/CA510_1.html",
+      "title": "CA510.1:  Problems with evolution as evidence for creation.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1994
+    },
+    {
+      "route": "/indexcc/CA/CA520.html",
+      "source_path": "indexcc/CA/CA520.html",
+      "title": "CA520:  \"Origin of Species\" on speciation.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3714
+    },
+    {
+      "route": "/indexcc/CA/CA601.html",
+      "source_path": "indexcc/CA/CA601.html",
+      "title": "CA601:  Evolution and naturalism",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4286
+    },
+    {
+      "route": "/indexcc/CA/CA601_1.html",
+      "source_path": "indexcc/CA/CA601_1.html",
+      "title": "CA601.1:  Evolution and a role for God",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3419
+    },
+    {
+      "route": "/indexcc/CA/CA602.html",
+      "source_path": "indexcc/CA/CA602.html",
+      "title": "CA602:  Evolution and atheism",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4920
+    },
+    {
+      "route": "/indexcc/CA/CA602_1.html",
+      "source_path": "indexcc/CA/CA602_1.html",
+      "title": "CA602.1:  An intellectually fulfilled atheist",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3494
+    },
+    {
+      "route": "/indexcc/CA/CA602_2.html",
+      "source_path": "indexcc/CA/CA602_2.html",
+      "title": "CA602.2:  To make God unnecessary",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2512
+    },
+    {
+      "route": "/indexcc/CA/CA603.html",
+      "source_path": "indexcc/CA/CA603.html",
+      "title": "CA603:  Evolution vs. Deism",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3164
+    },
+    {
+      "route": "/indexcc/CA/CA610.html",
+      "source_path": "indexcc/CA/CA610.html",
+      "title": "CA610:  Evolution religious",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5411
+    },
+    {
+      "route": "/indexcc/CA/CA611.html",
+      "source_path": "indexcc/CA/CA611.html",
+      "title": "CA611:  Evolution sacrosanct?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 6124
+    },
+    {
+      "route": "/indexcc/CA/CA612.html",
+      "source_path": "indexcc/CA/CA612.html",
+      "title": "CA612:  Evolution requiring faith",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2677
+    },
+    {
+      "route": "/indexcc/CA/CA620.html",
+      "source_path": "indexcc/CA/CA620.html",
+      "title": "CA620:  Randomness and life's meaning",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2311
+    },
+    {
+      "route": "/indexcc/CA/CA622.html",
+      "source_path": "indexcc/CA/CA622.html",
+      "title": "CA622:  Without a literal Fall",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2298
+    },
+    {
+      "route": "/indexcc/CA/CA630.html",
+      "source_path": "indexcc/CA/CA630.html",
+      "title": "CA630:  Morals, esthetics, idealism of animals",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2050
+    },
+    {
+      "route": "/indexcc/CA/CA640.html",
+      "source_path": "indexcc/CA/CA640.html",
+      "title": "CA640:  Monkey's relative",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2081
+    },
+    {
+      "route": "/indexcc/CA/CA650.html",
+      "source_path": "indexcc/CA/CA650.html",
+      "title": "CA650:  Death and suffering before humanity",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2728
+    },
+    {
+      "route": "/indexcc/CA/CA651.html",
+      "source_path": "indexcc/CA/CA651.html",
+      "title": "CA651:  Death and suffering \"very good\"?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4090
+    },
+    {
+      "route": "/indexcc/CA/CA652.html",
+      "source_path": "indexcc/CA/CA652.html",
+      "title": "CA652:  Christ's death if physical death was not the penalty for sin.",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2108
+    },
+    {
+      "route": "/indexcc/CA/CA660.html",
+      "source_path": "indexcc/CA/CA660.html",
+      "title": "CA660:  Pope's statement about evolution",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3458
+    },
+    {
+      "route": "/indexcc/CA/CA662.html",
+      "source_path": "indexcc/CA/CA662.html",
+      "title": "CA662:  Church teaching a flat earth",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2989
+    },
+    {
+      "route": "/indexcc/CB/CB000.html",
+      "source_path": "indexcc/CB/CB000.html",
+      "title": "CB000:  Law of Biogenesis",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1620
+    },
+    {
+      "route": "/indexcc/CB/CB010.html",
+      "source_path": "indexcc/CB/CB010.html",
+      "title": "CB010:  Probability of Abiogenesis",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 3250
+    },
+    {
+      "route": "/indexcc/CB/CB010_1.html",
+      "source_path": "indexcc/CB/CB010_1.html",
+      "title": "CB010.1:  Complex \"simple\" life",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2601
+    },
+    {
+      "route": "/indexcc/CB/CB010_2.html",
+      "source_path": "indexcc/CB/CB010_2.html",
+      "title": "CB010.2:  Origin of the first cells",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 10026
+    },
+    {
+      "route": "/indexcc/CB/CB015.html",
+      "source_path": "indexcc/CB/CB015.html",
+      "title": "CB015:  DNA or protein: Which came first?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2802
+    },
+    {
+      "route": "/indexcc/CB/CB020.html",
+      "source_path": "indexcc/CB/CB020.html",
+      "title": "CB020:  Why no abiogenesis today?",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 1875
+    },
+    {
+      "route": "/indexcc/CB/CB025.html",
+      "source_path": "indexcc/CB/CB025.html",
+      "title": "CB025:  Abiogenetic amino acid generation",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2451
+    },
+    {
+      "route": "/indexcc/CB/CB026.html",
+      "source_path": "indexcc/CB/CB026.html",
+      "title": "CB026:  Toxic chemicals from abiogenesis experiments",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 2865
+    },
+    {
+      "route": "/indexcc/CB/CB030.html",
+      "source_path": "indexcc/CB/CB030.html",
+      "title": "CB030:  Decay of prebiotic molecules",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-002",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 4710
+    }
+  ],
+  "status_counts": {
+    "translated": 200
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

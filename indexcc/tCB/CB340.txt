@@ -1,0 +1,60 @@
+BriefClaim: Organs and organ systems would have been useless until all parts were in place.
+Title: Evolution of complex organs
+Keywords: innovation, coordination, coevolution, complexity.
+
+Claim:
+
+Organs and organ systems would have been useless until all the parts were
+in place.  The coordinated innovation that they require is too improbable
+for evolution to create in one step.
+
+Source:
+
+Plantinga, Alvin, 1991.  When faith and reason clash: Evolution and the
+ Bible. In: _Intelligent Design Creationism and Its Critics_,
+ ed. R. T. Pennock, Cambridge, MA: MIT Press, 2002, pp. 113-145.
+ Orig. pub. in _Christian Scholar's Review_ 21(1): 8-32.
+
+Response:
+
+1. This claim is an instance of the <CA100>argument from incredulity>.  In
+   all specific instances of this claim, there are ways for the organs and
+   organ systems to evolve gradually.  The idea that they could not evolve
+   usually involves one or more of the following errors in thinking:
+
+    a. that organ parts appear suddenly.  This seems to be an artifact of
+       creationist thinking.  Evolution, however, is not creationism;
+       parts change gradually.
+    b. that organs less developed than what exists now must be completely
+       useless.  This is nonsense.  A light-sensitive patch on the skin
+       may not be as useful as the eyes we have now, but it is better than
+       nothing.  And just a little bit better is all that is required for
+       the trait to evolve.
+    c. that parts must evolve separately.  Coordinated innovation between
+       parts of an organ or organ system is possible.  Indeed, if the
+       parts evolve gradually, it is inconceivable that parts that
+       interact would not coevolve in such a way that changes are
+       coordinated via natural selection.
+    d. that parts do not change function.  Many organs do not start from
+       nothing.  Rather, they start as a part that serves a different
+       function and gradually gets co-opted for a new function.  For
+       example, tetrapod legs evolved from fins.
+
+   The invalidity of specific examples of this claim are seen in the
+   the <CB310>bombardier beetle>,
+   the <CB325>giraffe neck>,
+   the <CB326>woodpecker tongue>,
+   and the <CB341>fangs of venomous snakes>.
+
+2. Sometimes multiple coordinated changes can occur when there is a
+   mutation in a regulatory gene.
+
+Links:
+
+References:
+
+Further Reading:
+
+Dawkins, Richard, 1995.  <#River out of Eden#>.  New York: Basic Books.
+
+Date: 2003-4-9

@@ -1,0 +1,165 @@
+BriefClaim: In several areas dark moths were more common than expected.
+Title: Dark peppered moths unexpectedly common in areas
+Keywords: peppered moth, Biston betularia, natural selection, visual predation
+
+Claim:
+
+In rural East Anglia, where there were lichen-covered trees, and typical
+light moths seemed better camouflaged than melanics, the latter reached a
+frequency of 80%.  In rural areas of northern Wales the proportion of
+melanic moths was higher than expected, and in southern Wales, where
+melanics were better camouflaged, they comprised only 20% of the
+population.  This is inconsistent with Ford and Kettlewell's explanation
+for the spread of the dark moths in terms of selective visual predation.
+
+Source:
+
+Wells, Jonathan, 1999.  Second thoughts about peppered moths.  
+ http://www.arn.org/docs/wells/jw_pepmoth.htm or
+ https://web.archive.org/web/20010805140533if_/http://www.trueorigin.org/pepmoth1.htm
+Wells, Jonathan, 2000. _Icons of Evolution_, Regnery Publishing Inc.,
+ Washington DC, pp.144-149.
+
+Response:
+
+1. The relative proportions of light and dark moths in East Anglia and
+   northern Wales have been very well accounted for by a combination of
+   visual selective predation, non-visual selection, and gene flow.  This
+   explanation merely fleshes out some of the details of Ford and
+   Kettlewell's, and is perfectly consistent with it.
+
+   Indeed, both visual selective predation _and_ non-visual selection
+   formed part of Ford and Kettlewell's original explanation for the
+   spread of the dark peppered moth.  Ford (1937, 487) was aware that
+   the melanic forms of many species of moth and butterfly seemed to be
+   more hardy than the non-melanic ones.  Creed et al. (1980) found strong
+   evidence that this was true for the peppered moth.  Thus, the
+   occurrence of non-visual selection in favour of the dark peppered moth
+   is not merely a just-so story invented to account for problems with
+   observed data.  There is in fact strong experimental evidence for it.
+
+   While the effects of gene flow did not feature prominently in Ford and
+   Kettlewell's explanation for the spread of the dark peppered moth, it
+   is evident from their accounts that they were nevertheless well aware
+   of its influence.
+
+   In the tracts of land between unpolluted areas of Britain, such as East
+   Anglia and central Wales, and the highly polluted industrial centres
+   around the midlands and north-west of England, light moths from the
+   unpolluted areas and dark ones from the polluted areas, will clearly
+   intermingle as they migrate from one area to another.  Such areas,
+   where the proportions of two or more different forms of the same
+   species change from place to place are called _clines_.  As one moves
+   along such a cline, away from the polluted industrial centres of
+   England towards the less polluted countryside, say, the proportion of
+   dark moths in the population will obviously decrease to some value
+   intermediate between those which it assumes at the extreme ends of the
+   cline.
+
+   There is no reason at all, however, to expect that the places in these
+   clines where the light and dark moths are equally well camouflaged will
+   coincide precisely with those where their proportions are equal.  It is
+   therefore to be expected that there will be areas within the clines
+   where the worse camouflaged form will be more numerous than the better
+   camouflaged.  Indeed, since there is good evidence that non-visual
+   selection favours the melanic form, it is natural to expect that this
+   form will be more numerous in many areas of these clines where it is
+   not as well camouflaged as the non-melanic form.  This is exacly what
+   has been observed in North Wales and East Anglia.
+
+   The exact proportions of the two forms of moth at any location within a
+   cline will depend on the strength of the selection favouring one form
+   over the other at the given location, the current proportions of the
+   two forms there and at nearby locations, and the rates of migration of
+   the moths from one location to another.  Using experimentally
+   determined values for migration rates and the strengths of visually
+   selective predation, and various assumptions about the strength of
+   non-visual selection, Mani (1982, 1990) developed mathematical models
+   for predicting the proportions of the three varieties of peppered moth
+   throughout England and Wales.  When he used field data to estimate the
+   strength of non-visual selection (assumed constant for each of the
+   several forms of moth), the predictions of his model fitted the
+   observed moth frequencies along the various clines in England and Wales
+   very well.
+
+   It is true that Mani's estimate of the non-visual selection in favour
+   of the dark peppered moth was significantly less than that of Creed
+   et. al. (op. cit.).  However, the results obtained by the latter
+   investigators were for *specimens bred in the laboratory*, and there is
+   every reason to believe that non-visual selection on moths in the wild
+   would differ substantially from that on ones bred in a laboratory.
+
+   Thus, when all the factors affecting the relative frequencies of the
+   various forms of peppered moth in northern Wales and East Anglia are
+   given their proper weight, the predictions which follow from Kettlewell
+   and Ford's account are found to be in excellent agreement with the
+   observed data.
+
+2. The assertion by Wells (2000, 146) that "melanics in south Wales
+   seemed better camouflaged than typicals, yet they comprised only about
+   20% of the population" is false.  Wells appears to have misread a
+   statement in one of the articles he cited in support of this assertion
+   in his earlier essay of 1999.  In the referenced article, Steward
+   (1977a, 232) wrote
+
+    ". . . experiments in 1973 and 1974 at Tongwynlais in south Wales
+     (Steward 1977b) showed that _carbonaria_ was at an advantage to
+     typical in this locality, and yet was only present at a low frequency
+     (c.20%).
+
+   Wells seems to have taken the words "this locality" in this sentence as
+   referring to *south Wales* instead of to the rather more obvious and
+   more limited vicinity of Tongwynlais.  However, it is clear from the
+   table appearing just two pages further on in Steward's article that the
+   conditions he reported for Tongwylnais did *not* generalise to the
+   whole of south Wales.
+
+   Even more destructive of Wells's argument is the fact (which he
+   conveniently fails to mention) that it is the intermediate, less
+   intensely melanic form of peppered moth, _insularia_, rather than
+   _carbonaria_ which was both the *best* camouflaged *and* the most
+   numerous of the three forms of moth in the vicinity of Tongwynlais.
+   Indeed, this form constituted 44%, and the two melanic varieties
+   together, 62%, of the population there.  Given the selective advantage
+   of _insularia_ over both _carbonaria_ and _typica_, there is nothing at
+   all surprising about the frequency of _carbonaria_'s being "only about
+   20%".
+
+   What is mildly surprising at first sight is that the frequency of
+   _typica_ was about twice that of _carbonaria_.  However, the relatively
+   high frequency of _typica_ can be easily explained as resulting from
+   the migration of that form into the area from the surrounding
+   countryside.  In fact, the best of Mani's mathematical models (Mani
+   1982), which takes the effects of such migration into account, predicts
+   the relative proportions of the three varieties of peppered moth over
+   southern Wales quite well.  So Wells's insinuation that these
+   proportions are inconsistent with the classical explanations for the
+   distribution of the varieties of peppered moth in southern Wales simply
+   does not stand up to scrutiny.
+
+Links:
+
+References:
+
+1. Creed, E. R., D. R. Lees and M. G. Bulmer, 1980.  Pre-adult viability
+   differences of melanic _Biston betularia_ (L.) (Lepidoptera),
+   _Biol. J. Linn. Soc._ 13: 251-262.
+2. Ford, E. B., 1937.  Problems of heredity in the Lepidoptera,
+   _Biol. Rev._ 12: 461-503.
+3. Mani, G. S., 1982.  A theoretical analysis of the morph frequency
+   variation in the peppered moth over England and Wales,
+   _Biol. J. Linn. Soc._ 17: 259-267.
+4. Mani, G. S., 1990.  Theoretical models of melanism in _Biston betularia_
+   -- a review.  _Biol. J. Linn. Soc._ 39: 355-371.
+5. Steward, R. C., 1977a.  Industrial and non-industrial melanism in the
+   peppered moth, _Biston betularia_ (L.).  _Ecological Entomology_ 2:
+   231-243.
+6. Steward, R. C., 1977b.  Melanism and selective predation in three
+   species of moths.  _J. Anim. Ecol._, 46, 483-496
+
+Further Reading:
+
+Grant, Bruce S., 1999.  Fine tuning the peppered moth paradigm.  _Evolution_
+ 53(3): 980-984.  https://web.archive.org/web/20011109061143if_/http://www.wm.edu/biology/melanism.pdf
+
+Date: 2003-9-1, 2003-9-10

@@ -1,0 +1,62 @@
+BriefClaim: Darwin on evolution of the eye.
+Title: Evolution of the eye.
+Keywords: quote, Darwin, eye, complexity, out-of-context, natural
+selection.
+
+Claim:
+
+Charles Darwin acknowledged the inadequacy of evolution when he wrote,
+   "To suppose that the eye, with all its inimitable contrivances for
+    adjusting the focus to different distances, for admitting different
+    amounts of light, and for the correction of spherical and chromatic
+    aberration, could have been formed by natural selection, seems, I
+    freely confess, absurd in the highest possible degree. (Darwin 1872)
+
+Source:
+
+Huse, Scott. 1996.  _The Collapse of Evolution_.  Grand Rapids: Baker Book
+ House, p. 73.
+
+Response:
+
+1. The quote is taken out of context.  Darwin answered the seeming problem
+   he introduced.  The paragraph continues,
+
+     "Yet reason tells me, that if numerous gradations from a
+      perfect and complex eye to one very imperfect and simple, each grade
+      being useful to its possessor, can be shown to exist; if further,
+      the eye does vary ever so slightly, and the variations be inherited,
+      which is certainly the case; and if any variation or modification in
+      the organ be ever useful to an animal under changing conditions of
+      life, then the difficulty of believing that a perfect and complex
+      eye could be formed by natural selection, though insuperable by our
+      imagination, can hardly be considered real. How a nerve comes to be
+      sensitive to light, hardly concerns us more than how life itself
+      first originated; but I may remark that several facts make me
+      suspect that any sensitive nerve may be rendered sensitive to light,
+      and likewise to those coarser vibrations of the air which produce
+      sound. (Darwin 1872, 143-144)
+
+   Darwin continues with three more pages describing a sequence of
+   plausible intermediate stages between eyelessness and human eyes,
+   giving examples from existing organisms to show that the intermediates
+   are viable.
+
+Links:
+
+Babinski, E. T. n.d.  An old, out of context quotation.
+ http://www.talkorigins.org/faqs/ce/3/part8.html
+
+CARM. n.d.  Charles Darwin comments on the human eye. 
+ https://web.archive.org/web/20090205233428if_/http://www.carm.org/evo_questions/darwineye.htm
+
+References:
+
+1. Darwin, C. 1872.  _The Origin of Species_, 6th ed.  London: Senate,
+   chpt. 6,
+   http://www.talkorigins.org/faqs/origin/chapter6.html or
+   https://web.archive.org/web/20211207085310if_/http://www.literature.org/authors/darwin-charles/the-origin-of-species/chapter-06.html
+
+Further Reading:
+
+Date: 2001-2-18, 2004-9-14

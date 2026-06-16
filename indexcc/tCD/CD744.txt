@@ -1,0 +1,43 @@
+Title: Movement of tectonic plates
+Keywords: plate tectonics, GPS
+
+Claim:
+
+There are inconsistencies in the measurements of continental plate
+movement, calling the theory of plate tectonics into question.  In
+particular, South America is not moving west as fast as North America, as
+we would expect if the Mid-Atlantic ridge were spreading evenly.  Some
+maps show it moving north or even east.
+
+Source:
+
+CreationWiki. 2005 (27 June).  Continental drift.
+ https://web.archive.org/web/20060301153445if_/http://www.nwcreation.net/wiki/index.php?title=Continental_drift
+
+Berg, Randy. 2004.  Is the Mid-Atlantic Ridge still spreading?
+ https://web.archive.org/web/20250416235208if_/http://www.earthage.org/continentaldrft/Drift%20Data.htm
+
+Response:
+
+1. The inconsistencies are in expectations of what to expect from theory
+   of plate tectonics.  The plates are not inflexible.  Often they deform,
+   producing, for example, terrain such as the Basin and Range area of the
+   western United States.  The western edge of South America is being
+   deformed to the east by collision with the Nazca Plate.
+
+   Furthermore, there is nothing that says the spread of the Mid-Atlantic
+   Ridge should be even along the whole of its length.  The plates move
+   across the surface of a sphere, not on a plane as the maps depict.
+   This means the spreading cannot be uniform along the length of a rift
+   (without deforming the plates).  Plates can (and do) spin a bit as well
+   as slide to the side.
+
+Links:
+
+Johansson, Sverker, n.d.  [GPS Motions].
+ http://home.hj.se/~lsj/S_gps_motions.jpg
+
+Johansson, Sverker, n.d.  Selected VLBI velocities.
+ http://home.hj.se/~lsj/VLBI_World_Wide_Totals.jpg
+
+References:

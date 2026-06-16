@@ -1,0 +1,45 @@
+BriefClaim: Archaeopteryx was probably not an ancestor of modern birds.
+Title: Archaeopteryx as a Transitional Bird
+Keywords: Archaeopteryx, bird, transitional, ancestral, missing link.
+
+Claim:
+
+Modern birds were probably not descended from _Archaeopteryx_, so it is
+wrong to claim _Archaeopteryx_ as a missing link between dinosaurs and
+birds.
+
+Source:
+
+Wells, Jonathan, 2000.  _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 115-116.
+
+
+Response:
+
+1. "Transitional" does not mean "ancestral."  It means that the
+   transitional fossil shows a mosaic of features from organisms before
+   and after.  It is wrong to say that _Archaeopteryx_ was ancestral to
+   modern birds.  But it is also wrong to say that it is not
+   transitional.  It is indisputable that _Archaeopteryx_ is intermediate
+   between dinosaurs and modern birds.  That makes it transitional and
+   gives evidence of the relatedness between dinosaurs and birds.
+
+2. Several other recently discovered dinosaur, bird, and
+   <CC214>intermediate> dinosaur-bird fossils are starting to fill in the
+   gaps and are providing further evidence that the interpretation of
+   _Archaeopteryx_ is correct.
+
+Links:
+
+References:
+
+#1. Hou, L., L. D. Martin, Z. Zhou and M. Feduccia, 1996. Early adaptive
+#   radiation of birds: Evidence from fossils from Northeastern China.
+#   _Science_ 274: 1164-1167.
+
+Further Reading:
+
+Nedin, Chris. 1999.  All about Archaeopteryx.
+ http://www.talkorigins.org/faqs/archaeopteryx/info.html
+
+Date: 2001-1-27

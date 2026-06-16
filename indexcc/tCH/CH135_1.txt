@@ -1,0 +1,66 @@
+BriefClaim: The Bible specifies the best time for circumcision.
+Title: Bible on circumcision time
+Keywords: Biblical accuracy
+
+Claim:
+
+The Bible, remarkably for its time, notes that the eighth day after birth
+is the safest time to perform circumcisions (Gen. 17:12; Lev. 12:2-3).
+When a baby is born, they have no bacteria in their intestines for the
+first few days.  By the seventh day, the bacteria multiply and produce
+vitamin K.  Without vitamin K and prothrombin protein (which is produced
+by the liver using vitamin K), the blood will not clot properly and the
+possibility of severe bleeding as well as infection would make
+circumcision dangerous in a primitive medical situation.
+
+Source:
+
+LifeHow, p. 205-206.
+
+Response:
+
+1. Although the danger of severe bleeding is worst in the first week, it
+   can occur any time in the first month (Zipursky 1999).  According to
+   most medical experts, the best time for circumcision is never (Ritter
+   and Denniston 1996).  The procedure is medically unnecessary at best.
+   The procedure is painful, and there is some evidence that pain in early
+   infancy makes one more sensitive to pain throughout life (Ruda et al.
+   2000).
+
+2. Attributing a requirement of some special knowledge for this insight
+   assumes the ancient Hebrews were stupid.  Classic hemorrhagic disease
+   of the newborn is usually seen on days two through five (Zipursky
+   1999); it would not take a lot of observation and thought to conclude
+   that it would be best to wait until the worst danger is over.
+
+   The Susus near Timbuctoo and the Guemos of South America are also said
+   to perform the rite on the eighth day (Hirsch et al. n.d.).
+
+3. Accuracy on one point does not show overall accuracy.
+
+Links:
+
+References:
+
+1. Hirsch, Emil G. et al. n.d.  Circumcision.  JewishEncyclopedia.com
+   http://www.jewishencyclopedia.com/view.jsp?artid=514&letter=C&search=circumcision
+3. Ritter, T. J. and G. C. Denniston. 1996.  (see below)
+4. Ruda, M. A., Q-D. Ling, A. G. Hohmann, Y. B. Peng and T. Tachibana. 2000.
+   Altered nociceptive neuronal circuits after neonatal peripheral
+   inflammation.  _Science_ 289: 628-630.  See also: Helmuth, L., 2000.
+   Early insult rewires pain circuits.  _Science_ 289: 521-522.
+5. Zipursky, Alvin. 1999.  Prevention of vitamin K deficiency bleeding in
+   newborns.  _British Journal of Haematology_ 104: 430-437.
+#3. Puckett, R. M. and M. Offringa, 2000.  Prophylactic vitamin K for
+#   vitamin K deficiency bleeding in neonates.  _Cochrane Database of
+#   Systematic Reviews_ 2000;(4):CD002776.
+
+Further Reading:
+
+Ritter, Thomas J. and George C. Denniston. 1996.  _Say No to
+ circumcision!_, 2nd ed.  Aptos, CA: Hourglass Book Publishing.
+
+#Boyd, Billy Ray, 1998.  _Circumcision Exposed: Rethinking a medical and
+# cultural tradition_.  Crossing Press, Inc.
+
+Date: 2003-7-11, 2004-8-27

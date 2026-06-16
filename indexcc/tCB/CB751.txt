@@ -1,0 +1,44 @@
+BriefClaim: Bilateral symmetry is improbable under evolution.
+Title: Bilateral symmetry and evolution
+Keywords: bilateral symmetry, development, mutation, eye
+
+Claim:
+
+If one eye mutates into existence, then the animal would have just one
+eye, not two.  The same goes for arms, feet, ears, wings, and so forth.
+Evolution says these body parts should arise one at a time, yet most
+animals have bilateral symmetry.  We do not find one-flippered dolphins or
+one-eared ape-men.
+
+Source:
+
+Pinkoski, Jim.  1993.  _A Creationist's View of Dinosaurs and the
+ Theory of Evolution_.  Amazing Facts, Inc., Roseville, CA.
+
+Response:
+
+1. Eyes, legs, and all the rest are not evolved anew in each animal.
+   Bilateral symmetry evolved more than five hundred million years ago.
+   Animals since then have inherited that symmetry.
+
+2. Bilateral symmetry is implemented by signalling molecules that give
+   identical domains on left and right.  A person's left eye (normally) is
+   exposed to the same development signals as their right eye, so the two
+   eyes grow alike.  A single mutation that varies how an eye develops
+   would still affect both eyes equally.  For asymmetrical eyes, an
+   additional mechanism must evolve to supercede the symmetry and give
+   different development signals to each side.
+
+Links:
+
+Myers, P. Z. 2005 (12 June).  Pinkoski again: How stupid can creationism
+ get?  http://pharyngula.org/index/weblog/comments/pinkoski_again/
+
+References:
+
+Further Reading:
+
+Carroll, Sean B. 2005.  _Endless Forms Most Beautiful_.  New York: W. W.
+ Norton.
+
+Date: 2005-6-18

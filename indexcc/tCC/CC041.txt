@@ -1,0 +1,34 @@
+BriefClaim: Homo habilis is an invalid taxon.
+Title: Validity of _Homo habilis_
+Keywords: Homo habilis, Australopithecus, taxon
+
+Claim:
+
+_Homo habilis_ is an invalid taxon.  It is a taxonomic waste bin
+in which several different types have been placed.
+
+Source:
+
+Lubenow, Marvin, 1992. _Bones of Contention: A creationist assessment of
+ the human fossils_. Grand Rapids, MI: Baker Books, pp. 157-166.
+
+Response:
+
+1. At least two different species have been assigned to _Homo habilis_,
+   but that does not make the taxon invalid.  OH7, its type specimen
+   (which defines the taxon), clearly differs from other named species.
+   As more fossils are found, we will get a better idea of the ranges of
+   variation and thus of what constitutes different species.
+
+References:
+
+Links:
+
+Foley, Jim, 2003. Homo habilis: is it an invalid taxon?
+ http://www.talkorigins.org/faqs/homs/invalidtaxon.html
+
+References:
+
+Further Reading:
+
+Date: 2003-9-24

@@ -1,0 +1,39 @@
+BriefClaim: The first known languages are highly complex.
+Title: Complex early language
+Keywords: language
+
+Claim:
+
+The first known human languages were already very complex.  Languages do
+not show the evolutionary progression we would expect if humans evolved
+gradually.
+
+Source:
+
+Skjaerlund, David, n.d.  Creationism explains human diversity.
+ http://www.forerunner.com/forerunner/X0722_Creationism_explains.html
+
+
+Response:
+
+1. The first known languages were written languages (else they would not
+   be known).  Since most cultures in the world have had no written
+   language, and most people have been illiterate even where written
+   language existed, written language is a poor metric to use to measure
+   language in general.  Language had been developing for an unknown
+   period of time before written language evolved.
+
+2. The earliest known writing is simpler than written languages today.
+   There are very simple, nonlinguistic precursors (no grammar) to
+   cuneiform writing (Coulmas 1989).
+
+Links:
+
+References:
+
+1. Coulmas, F., 1989.  _The Writing Systems of the World_.  Malden, MA: B.
+   Blackwell.
+
+Further Reading:
+
+Date: 2003-5-31

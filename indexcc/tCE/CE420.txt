@@ -1,0 +1,89 @@
+BriefClaim: The big bang theory is wrong.
+Title: Big Bang
+Keywords: big bang
+
+Claim:
+
+The theory of a big bang has been shaken with unresolvable
+inconsistencies, such as an unexpectedly uneven distribution of matter in
+the universe and a need for dark matter.  Several astronomers think it is
+no longer a valid theory.
+
+Source:
+
+Gitt, Werner. 1998.  What about the big bang?  _Creation_ 20(3): 42-44.
+ http://www.answersingenesis.org/creation/v20/i3/big_bang.asp
+
+Response:
+
+1. The big bang is supported by a great deal of evidence:
+
+    - Einstein's general theory of relativity implies that the universe
+      cannot be static; it must be either expanding or contracting.
+
+    - The more distant a galaxy is, the faster it is receding from us (the
+      Hubble law).  This indicates that the universe is expanding.  An
+      expanding universe implies that the universe was small and compact
+      in the distant past.
+
+    - The big bang model predicts that cosmic microwave background (CMB)
+      radiation should appear in all directions, with a blackbody spectrum
+      and temperature about 3 degrees K.  We observe an exact blackbody
+      spectrum with a temperature of 2.73 degrees K.
+
+    - The CMB is even to about one part in 100,000.  There should be a
+      slight unevenness to account for the uneven distribution of matter
+      in the universe today.  Such unevenness is observed, and at a
+      predicted amount.
+
+    - The big bang predicts the observed abundances of primordial
+      hydrogen, deuterium, helium, and lithium.  No other models have been
+      able to do so.
+
+    - The big bang predicts that the universe changes through time.
+      Because the speed of light is finite, looking at large distances
+      allows us to look into the past.  We see, among other changes, that
+      quasars were more common and stars were bluer when the universe was
+      younger.
+
+   Note that most of these points are not simply observations that fit
+   with the theory; the big bang theory predicted them.
+
+2. Inconsistencies are not necessarily unresolvable.  The clumpiness of
+   the universe, for example, was resolved by finding unevenness in the
+   CMB.  Dark matter has been observed in the effects it has on star and
+   galaxy motions; we simply do not know what it is yet.
+
+   There are still unresolved observations.  For example, we do not
+   understand why the expansion of the universe seems to be speeding up.
+   However, the big bang has enough supporting evidence behind it that it
+   is likely that new discoveries will add to it, not overthrow it.
+   For example, inflationary universe theory proposes that the size of the
+   universe increased exponentially when the universe was a fraction of a
+   second old (Guth 1997).  It was proposed to explain why the big bang
+   did not create large numbers of magnetic monopoles.  It also
+   accounts for the observed flatness of space, and it predicted
+   quantitatively the pattern of unevenness of the CMB.  Inflationary
+   theory is a significant addition to big bang theory, but it is an
+   extension of big bang theory, not a replacement.
+
+Links:
+
+Feuerbacher, Bj&ouml;rn and Ryan Scranton. 2006.  Evidence for the Big
+ Bang.  http://www.talkorigins.org/faqs/astronomy/bigbang.html
+
+References:
+
+1. Guth, Alan H., 1997.  (see below).
+
+Further Reading:
+
+Ferris, Timothy. 1997.  _The Whole Shebang_.  New York: Simon & Schuster.
+
+Guth, Alan H. 1997.  _The Inflationary Universe_.  Reading, MA:
+ Addison-Wesley.
+
+Harrison, E. R. 2000.  _Cosmology: The science of the
+ universe_.  Cambridge University Press.
+
+Date: 2004-4-21, 2006-1-26

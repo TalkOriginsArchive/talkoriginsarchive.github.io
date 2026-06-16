@@ -1,0 +1,84 @@
+BriefClaim: Evolution predicts a continuum of organisms, not discrete kinds.
+Title: Kinds: Continuous or discrete
+Keywords: phylogeny
+
+Claim:
+
+Since evolution says organisms came from a common ancestor and since they
+lived in a continuity of environments, we should see a continuum of
+organisms.  There should be a continuous series of animals between cats
+and dogs, so that one could not tell where cats left off and dogs began.
+
+Source:
+
+SciCre, pp. 70-71.
+
+Response:
+
+1. The claim might be true if there were no such thing as extinction. But
+   since species do become extinct, intermediates that once existed do not
+   exist today. Since extinction is a one-way street, species can only
+   become less connected over time. This is clear if we look at the fossil
+   record, in which early members of separate groups are much harder to
+   tell apart.
+
+2. Environments (and ecological niches) are not really as continuous as the
+   claim pretends. Dogs bring down their prey through long chases, and
+   cats ambush their prey; dogs are made for long-distance running, and
+   cats are made for short sprints with high acceleration from a standing
+   start. These requirements are quite different, and it is hard to achieve
+   both in a single body. Compromises between the two have disadvantages
+   in competition with specialists for either type, and thus natural
+   selection culls them.  Intermediates are competitive only so long as
+   specialists are absent; so when specialists evolve, the intermediates
+   are likely to become extinct.
+
+3. In part, distinctness is an illusion caused by our choice of which
+   groups to give names to. Groups with unclear boundaries tend not to get
+   separate names, or groups in which intermediate forms exist are chopped
+   in half arbitrarily (especially obvious if fossil forms are considered;
+   e.g., the line between <CC214>dinosaurs and birds> is arbitrary,
+   increasingly so as new fossils are discovered).
+
+4. There are indeed several cases of continua in nature.  In many groups,
+   such as some grasses and leafhoppers, different species are very hard
+   to tell apart.  At least ten percent of bird species are similar enough
+   to another species to produce fertile hybrids (Weiner 1994, 198-199).
+   The most obvious continua are called ring species, because in the
+   classic case (the herring gull complex) they form a ring around the
+   North Pole. If we start in Western Europe and move west, similar
+   populations, capable of interbreeding, succeed each other
+   geographically. When we have traveled all the way around the world and
+   reach Western Europe again, the final population is different enough
+   that we call it a separate species, and it is incapable of
+   interbreeding with herring gulls, even though they are connected by a
+   continuous chain of interbreeding populations. This is a big problem
+   for creationists. We expect kinds to be easily determined if they were
+   created separately, but there are no such obvious divisions:
+
+    "They are mistaken, who repeat that the greater part of our species
+     are clearly limited, and that the doubtful species are in a feeble
+     minority. This seemed to be true, so long as a genus was imperfectly
+     known, and its species were founded upon a few specimens, that is to
+     say, were provisional. Just as we come to know them better,
+     intermediate forms flow in, and doubts as to specific limits
+     augment. (de Condolle, quoted in Darwin, 1872, chap. 2)
+
+Links:
+
+References:
+
+1. Darwin, C., 1872.  _The Origin of Species_, 1st Edition.  Senate,
+   London.  http://www.talkorigins.org/faqs/origin.html
+2. Weiner, Jonathan, 1994.  _The Beak of the Finch: a story of evolution
+   in our time_.  New York: Knopf.
+
+Further Reading:
+
+Hazard, Evan B.  1998.  Teaching about "intermediate forms."  _The
+ American Biology Teacher_ 60(5): 359-361.
+
+Darwin, C., 1859.  _The Origin of Species_, 1st Edition.  Senate, London.
+ http://www.talkorigins.org/faqs/origin/chapter4.html
+
+Date: 2003-4-26, 2006-4-23

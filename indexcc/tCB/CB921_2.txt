@@ -1,0 +1,90 @@
+BriefClaim: What use is half a wing?
+Title: Half a wing
+Keywords: intermediate, organ, wing, flight.
+
+Claim:
+
+What use is half a wing?  A leg evolving into a wing would be a bad leg
+long before it was a good wing.
+
+Source:
+
+Brown, Walt, 1995.  _In the beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 7.
+ http://www.creationscience.com/
+
+Response:
+
+1. Half a wing can have any of several uses:
+   - In insects, half a wing is useful for skimming rapidly across the
+     surface of water (Marden and Kramer 1995; Kramer and Marden 1997;
+     Thomas et al. 2000).
+   - In larger animals, half a wing is useful for gliding.  Airfoils for
+     gliding appear in several different forms in many different animals,
+     including
+      - skin between legs on flying squirrels (Petauristinae),
+        scaly-tailed squirrels (Anomaluridae), flying phalangers, and
+        flying lemurs
+      - flattened body of the flying snake (_Chrysopelea_)
+      - large webbed feet on gliding tree frogs (_Rhacophorus_ and
+        _Polypedates_)
+      - fins on flying fish (Exocoetidae) and flying squid
+        (_Onychoteuthis_)
+      - expanded lateral membranes supported by elongated flexible ribs
+        on gliding lizards (e.g., _Draco_)
+      - expanded lateral membranes supported by elongated jointed ribs
+        on the Kuehneosauridae from the late Triassic
+      - lateral membrane supported by bones separate from the rest of the
+        skeleton on _Coelurosauravus jaekeli_, an Upper Permian flying
+        reptile (Frey et al. 1997)
+      - even an ant (_Cephalotes atratus_), when it falls, uses its hind
+        legs to direct its aerial descent back to its home tree's trunk
+        (Yanoviak et al. 2005).
+   - In immature chickens, wing-flapping enhances hindlimb traction,
+     allowing the chickens to ascend steeper inclines.  This function
+     could be an intermediate to the original flight of birds.  (Dial
+     2003)
+   - In some flightless birds (e.g., penguins), wings are used for
+     swimming.
+   - In some flightless birds, wings are probably used for startling
+     potential predators.
+   - Black herons use their wings to shade the water in which they fish.
+   - Some owls use their wings to hold their prey against the ground.
+   - Nighthawks, woodcocks, riflebirds, and several species of manakins
+     make noises with their wings as part of sexual displays.
+   - Partial wings may have other useful functions that nobody has
+     thought of yet.
+
+Links:
+
+Marden, J. H., n.d.  Evolution of insect flight: a stepwise model based on
+ weight-supported locomotion on the surface of water.
+ https://web.archive.org/web/20051125140128if_/http://www.bio.psu.edu/People/Faculty/Marden/project2.html
+
+References:
+
+1. Dial, K. P. 2003.  Wing-assisted incline running and the evolution of
+   flight.  _Science_ 299: 402-404.  See also: Pennisi, E., 2003.  Uphill
+   dash may have led to flight.  _Science_ 299: 329.
+2. Frey, Eberhard, H-D. Sues, and W. Munk. 1997.  Gliding mechanism in the
+   Late Permian reptile _Coelurosauravus_.  _Science_ 275: 1450-1452.
+3. Kramer, M. G. and J. H. Marden. 1997.  Almost airborne.  _Nature_ 385:
+   403-404.
+4. Marden, J. H. and M. G. Kramer. 1995.  Locomotor performance of insects
+   with rudimentary wings.  _Nature_ 377: 332-334.
+5. Thomas, M. A., K. A. Walsh, M. R. Wolf, B. A. McPheron and J. H.
+   Marden.  2000.  Molecular phylogenetic analysis of evolutionary trends
+   in stonefly wing structure and locomotor behavior.  PNAS 97:
+   13178-13183.
+6. Yanoviak, Stephen P., Robert Dudley, and Michael Kaspari. 2005.
+   Directed aerial descent in canopy ants.  _Nature_ 433: 624-626.
+
+Further Reading:
+
+Brodsky, A. K., 1994.  _The Evolution of Insect Flight_.  Oxford University
+ Press.
+
+#Sloan, Christopher P., 1999 (Nov.).  Feathers for T. Rex?  _National
+# Geographic_, 98-107.
+
+Date: 2001-3-31, 2005-11-17

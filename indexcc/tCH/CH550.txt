@@ -1,0 +1,78 @@
+BriefClaim: The geologic column was deposited by the Flood.
+Title: Flood Deposited Geologic Column
+Keywords: flood, geologic column.
+
+Claim:
+
+The Flood deposited the geologic column.
+
+Source:
+
+
+Response:
+
+1. Varves within the geologic column show seasonal layers over many, many
+   years.  In many cases, such as the Green River formation, these layers
+   are too fine to have settled out in less than several weeks per layer.
+   Varves in New England show evidence of climate change 17,500 to 13,500
+   years ago, which matches climate patterns in other parts of the world
+   (Rittenour et al. 2000).  These layers prove that the geological record
+   was not produced in just one event.
+
+2. There are many different kinds of surface features
+   preserved in the middle of the geological column.  These features
+   include soils, mud cracks, evaporite deposits, footprints, raindrop
+   impressions, meteor craters, worm burrows, wind-blown sediments, stream
+   channels, and many others.  For example:
+
+    - The Loess Plateau in China has a layer of loess more than 300
+      m thick.  Loess is wind-blown sediment that would not occur during a
+      global flood.  The Loess Plateau occurs around the downwind edges of
+      the Ordos Desert, its source of sediments, and the grain size of the
+      loess decreases the further one gets from the desert (Vandenberghe et
+      al. 1997).
+
+    - The Loess Plateau includes paleosols within it.  These are buried
+      fossil soils, some of which would require tens of thousands of years to
+      form (Kukla and An 1989; Liu et al. 1985).
+
+Links:
+
+Isaak, Mark, 1998.  Problems with a global flood, 2nd ed.
+ http://www.talkorigins.org/faqs/faq-noahs-ark.html
+
+References:
+
+1. Kukla, G. and Z. An, 1989. Loess stratigraphy in Central
+   China.  _Palaeogeography, Palaeoclimatology, Palaeoecology_
+   72(1): 203-225.
+2. Liu, T., Z. An, B. Yaun and J. Han, 1985.  Loess-paleosol sequence in
+   China and climatic history.  _Episodes_ 8: 21-28.
+3. Rittenour, T. M., J. Brigham-Grette and M. E. Mann, 2000.  El
+   Nino-like climate teleconnections in New England during the late
+   Pleistocene.  _Science_ 288: 1039-1042.  See also Kerr, R.A., 2000.
+   Viable but variable ancient El Nino spied.  _Science_ 288: 945.
+4. Vandenberghe, J., A. Zhisheng, G. Nugteren et al., 1997.  New
+   absolute time scale for the Quaternary climate in the Chinese loess
+   region by grain-size analysis.  _Geology_ 25(1): 35-38.
+
+
+Further Reading:
+
+Harding, Ken, 1999.  What would we expect to find if the world had flooded?
+ http://www.creationism.ws/what_if_flood.htm [or Harding, Ken, 1999
+ https://web.archive.org/web/20021213050629if_/http://www.geocities.com/Tokyo/Temple/9917/flood.html via
+ http://www.archive.org .  The text is white so you may have to reset your
+ browswer's colors.]
+
+Miller, Hugh, 1857.  _The Testimony of the Rocks.  Or, Geology in Its
+ Bearings on the Two Theologies, Natural and Revealed_. 
+ Edinburgh: Shepherd & Elliot.
+ See also MacRae, Andrew, n.d.  Hugh Miller -- 19th-century
+ creationist geologist.
+ https://web.archive.org/web/20060516100302if_/http://home.tiac.net/~cri/1998/miller.html
+
+Strahler, Arthur N., 1987.  _Science and Earth History_, Buffalo, NY:
+ Prometheus Books.
+
+Date: 2003-5-21, 2003-9-6

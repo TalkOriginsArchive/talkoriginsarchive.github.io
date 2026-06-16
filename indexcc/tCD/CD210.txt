@@ -1,0 +1,52 @@
+BriefClaim: The mouth of the Colorado River does not have enough sediment for the Grand Canyon.
+Title: Colorado River's delta
+Keywords: delta, erosion, deposition
+
+Claim:
+
+There is nowhere near enough sediment deposited at the mouth of the
+Colorado River to account for ten million years worth of erosion.
+
+Source:
+
+Response:
+
+1. The Colorado River delta itself is quite extensive.  It covers 3,325
+   square miles (Sykes 1937) and is up to 3.5 miles deep (Jennings and
+   Thompson 1986), containing over 10,000 cubic miles of the Colorado
+   River's sediments from the last two to three million years.  The
+   sediments that were deposited by the river more than two to three
+   million years ago have been shifted northwestward by movement along the
+   San Andreas and related faults (Winker and Kidwell 1986).  Sediments
+   have also accumulated elsewhere.  Some were deposited in flood plains
+   between the delta and the Grand Canyon.
+
+2. Wind is a major erosional force in parts of the Colorado River basin.
+   Some sediments from Colorado and Wyoming were blown as far as the
+   Atlantic Ocean.
+
+3. Much of the strata exposed in the Grand Canyon are limestone and
+   dolomite.  These rocks eventually simply would have dissolved.
+
+Links:
+
+Littleton, Keith, 1998 (11 May).  Re: Colorado Delta Missing?
+ Message ID <6j865m$5q0$1@ralph.vnet.net>,
+ http://www.google.com/groups?as_umsgid=6j865m%245q0%241%40ralph.vnet.net
+
+References:
+
+1. Jennings, S. and G. R. Thompson, 1986.  Diagensis of Plio-Pleistocene
+   sediments of the Colorado River Delta, southern California.  _Journal
+   of Sedimentary Petrology_ 56(1): 89-98.
+2. Sykes, G., 1937.  The Colorado River Delta.  _American Geographical
+   Society Special Publication_ 19, New York: American Geographical
+   Society.
+3. Winker, C. D. and S. M. Kidwell, 1986.  Paleocurrent evidence for
+   lateral displacement of the Pliocene Colorado River Delta by the San
+   Andreas fault system, southeastern California.  _Geology_ 14(9):
+   788-791.
+
+Further Reading:
+
+Date: 2003-6-1, 2004-4-16

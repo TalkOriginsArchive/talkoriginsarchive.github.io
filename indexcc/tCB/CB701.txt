@@ -1,0 +1,66 @@
+BriefClaim: Haeckel falsified his embryo pictures.
+Title: Haeckel's embryo pictures.
+Keywords: Haeckel, embryo, phylogeny.
+
+Claim:
+
+Haeckel faked his pictures of embryos to make them look more alike than
+they are.
+
+Source:
+
+Wells, Jonathan, 2000. _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 81-109.
+Behe, Michael, "Firing Line with William Buckley", PBS, 13 Dec. 1997.
+
+Response:
+
+1. Haeckel's pictures are irrelevant to the question of whether the
+   embryos are similar.  What matters are the embryos themselves.  Within
+   a group, early embryos do show many similarities.  For example, all
+   vertebrates develop a notochord, body segments, pharyngeal gill
+   pouches, and a post-anal tail.  These fundamental similarities indicate
+   a common evolutionary history.  Other embryological similarities are
+   found in other lineages, such as mollusks, arthropods, and annelids.
+   These similarities have been long known.  Professor Agassiz in 1849,
+   for example, said, "We find, too, that the young bat, or bird, or the
+   young serpent, in certain periods of their growth, resemble one another
+   so much that he would defy any one to tell one from the other--or
+   distinguish between a bat and a snake." (Scientific American 1849)
+
+2. The embryos also show some differences, which Haeckel glossed over.
+   However, differences should also be expected, since the animals are not
+   all equally related.  It is the pattern of both similarities and
+   differences that displays patterns of descent.  Organisms that are
+   less closely related are expected to look less similar.
+
+3. When Haeckel's inaccuracies were exposed, authors started using
+   corrected versions.  Science tends to be self-correcting.
+
+
+Links:
+
+Myers, P. Z., 2003.  Wells and Haeckel's embryos: A review of chapter 5 of
+ Icons of Evolution.  http://www.talkorigins.org/faqs/wells/haeckel.html
+
+References:
+
+1. Scientific American, 1849.  Young Mamalia.  _Scientific American_ 4(51)
+   (8 Sep.): 403.  Reprinted in _Scientific American_ 281(3)
+   (Sep. 1999): 10.
+
+Further Reading:
+
+Pickett, Kurt M., John W. Wenzel and Steven W. Rising.  2005.  Iconoclasts
+ of evolution: Haeckel, Behe, Wells and the ontogeny of a fraud.  _The
+ American Biology Teacher_ 67(5): 275-282.
+ https://web.archive.org/web/20080227193350if_/http://darwin.bc.asu.edu/pub/pickett.pdf
+
+Richardson, M. K., J. Hanken, L. Selwood, G. M. Wright, R. J. Richards
+ and C. Pieae, 1998. Haeckel, embryos, and evolution. _Science_ 280:
+ 983-986.
+
+Richardson, M. K. and G. Keuck, 2002.  Haeckel's ABC of evolution and
+ development.  _Biol. Rev._ 77: 495-528. (technical)
+
+Date: 2001-2-17, 2005-6-5

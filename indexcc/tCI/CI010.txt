@@ -1,0 +1,51 @@
+BriefClaim: There is a law of conservation of information.
+Title: Law of conservation of information
+Keywords: law, science, information, intelligent design
+
+Claim:
+
+Information cannot be created by either natural processes or chance, so
+there is a law of conservation of information.
+
+Source:
+
+Dembski, William A., 1999.  _Intelligent Design: The bridge between
+ science and theology_.  Downers Grove, Ill.: InterVarsity Press.
+
+Response:
+
+1. Dembski defines his information as Shannon uncertainty, which is
+   equivalent to entropy.  We know that entropy can and does increase.
+   Dembski's law of conservation of information is simply wrong.
+
+2. No recognized theory of information (i.e., the statistical theory of
+   Shannon et al, and the algorithmic theory of Kolmogorov, Chaitin, and
+   Solomonoff) has a law of conservation of information.  William Dembski
+   and Werner Gitt have each invented their own nonstandard information
+   theories, but neither of these theories is used in science or
+   engineering, and their claims are not supported by the vast body of
+   research into information theory.
+
+3. Even if there were a law of conservation of information, it would not
+   necessarily invalidate evolution.  Information is transferred from the
+   environment to organisms by natural selection and other processes.
+
+4. Normally, physical laws get to be considered laws after they are tested
+   and verified by independent sources under very many various
+   conditions.  For Dembski to claim a new physical law without any
+   testing whatsoever is hubris of the highest magnitude.
+
+Links:
+
+Elsberry, Wesley, and Jeffrey Shallit, 2003.  Information theory,
+ evolutionary computation, and Dembski's "complex specified information".
+ https://web.archive.org/web/20170324125223if_/http://www.talkreason.org/articles/eandsdembski.pdf
+
+Stenger, Victor J., 2000 (Dec.).  The emperor's new designer clothes.
+ _Skeptical Briefs_, https://web.archive.org/web/20080924175929if_/http://www.csicop.org/sb/2000-12/reality-check.html
+
+References:
+
+Further Reading:
+
+Date: 2003-6-4, 2003-11-8

@@ -1,0 +1,65 @@
+BriefClaim: Preadaptation implies that organs evolved before they were needed.
+Title: Preadaptation
+Keywords: predadptation, exaption
+
+Claim:
+
+Evolutionists invoke preadaptation as an explanation for how some features
+arose. Preadaptation says that organs and other features evolved before
+they were needed. But an unneeded feature would never be selected, so the
+whole concept contradicts the theory of evolution.
+
+Source:
+
+Response:
+
+1. Preadaptation implies that features evolved before they were needed
+   for the function they eventually served, but not before they were
+   needed at all.  Many organs and features originally evolved for use in
+   one manner, which incidentally predisposed them for use in another
+   manner.  Once an organ or feature used for one purpose also becomes
+   usable in a new and more advantageous manner, natural selection will
+   adapt it for the new use.  The following are some potential examples:
+
+    - Hard dermal scales in shark skin originally selected for abrasion
+      resistance being predisposed to become teeth
+    - Feathers on dinosaur/reptile skin originally selected for thermal
+      protection and/or sexual displays being predisposed to become flight
+      feathers
+    - Lobe fins on fish originally selected for the ability to "walk"
+      through dense underwater vegetation being predisposed to become
+      legs
+
+   In each case the organs and features evolved for use in ways that were
+   different from how they eventually ended up being used.  At no point
+   did they evolve prior to being useful in some manner, only prior to
+   being useful in the manner they would eventually be used.
+
+   Some scientists prefer to use the term "exaption" to explain this
+   phenomenon, specifically to avoid the common misinterpretation of the
+   term "preadaptation" that leads to the above claim.
+
+2. Some preadaptation comes from adapting to niches that are similar to an
+   ultimate niche.  For example, living within talus preadapts ground
+   beetles and other organisms for living in caves.
+
+Links:
+
+References:
+
+Further Reading:
+
+Gould, Stephen J., 1977.  The problem of perfection, or How can a clam
+ mount a fish on its rear end?  In: _Ever Since Darwin_, New York:
+ W.W. Norton & Co., pp. 103-110.  Excerpted at
+ http://www.indiana.edu/~ensiweb/lessons/contriv.pdf
+
+#Corliss, William, 1999. Preadaptive Evolution.
+# http://www.science-frontiers.com/sf124/sf124p06.htm
+#Ellstrand, N.C. and K.A. Schierenbeck, 2000.  Hybridization as a stimulus
+# for the evolution of invasiveness in plants?  In: National Academy of
+# Sciences, Variation and Evolution in Plants and Microorganisms: Towards a
+# New Synthesis: 50 Years after Stebbins
+# https://web.archive.org/web/20050826115031if_/http://www.nap.edu/books/0309070791/html/103.html
+
+Date: 2003-6-13

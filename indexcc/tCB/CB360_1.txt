@@ -1,0 +1,52 @@
+BriefClaim: The human appendix is functional, not vestigial.
+Title: Appendix
+Keywords: vestigial organ
+
+Claim:
+
+The human appendix is not really vestigial.  It has an immunological
+function as part of the lymphatic system.  Its lymphoid follicles produce
+antibodies.
+
+Source:
+
+Ham, Ken, and Carl Wieland, 1997.  Your appendix: It's there for a reason.
+ _Creation Ex Nihilo_ 20(1):41-43.
+ http://www.answersingenesis.org/docs/357.asp
+
+Response:
+
+1. <CB360>Vestigial does not mean functionless>.  The appendix appears as
+   part of the tissues of the digestive system; it is homologous to the
+   end of the mammalian caecum.  Since it does not
+   function as part of the digestive system, it is a vestigial part of
+   that system, no matter what other functions it may have.
+
+2. The human appendix may not be functional.  Its absence causes no known
+   harmful effects (other than surgical complications from removing it).
+   When it is present, there is a 7 percent lifetime risk of acute
+   appendicitis, which is usually fatal without modern surgical techniques
+   (Hardin 1999).
+
+3. Co-opting a part for an entirely different function, such as turning
+   part of the intestines into part of the lymphatic system, is entirely
+   compatible with, and even expected from, evolution.  However, it argues
+   against design because
+    a. it rarely occurs with known (human) designs, and
+    b. it invalidates design arguments, such as <CB200>irreducible
+       complexity>.
+
+Links:
+
+Theobald, Douglas, 2003.  The vestigiality of the human vermiform appendix
+ A modern reappraisal.
+ http://www.talkorigins.org/faqs/vestiges/appendix.html
+
+References:
+
+1. Hardin, D. M. Jr., 1999.  Acute appendicitis: review and update.
+   _American Family Physician_ 60(7): 2027-2034.
+
+Further Reading:
+
+Date: 2003-8-2, 2003-12-22

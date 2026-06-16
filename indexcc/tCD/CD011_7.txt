@@ -1,0 +1,40 @@
+Title: C14 in diamonds
+Keywords: carbon-14, radiometric dating
+
+Claim:
+
+Diamonds contain significant amounts of carbon-14.  Essentially all of the
+C14 would have decayed if the diamonds were older than 100,000 years old,
+but the diamonds are considered much older than that.
+
+ID		Locality	Country		14C/C (pmc)*
+Orapa-A		Orapa mine	Botswana	0.138 +/- 0.026
+Orapa-F		Orapa mine	Botswana	0.105 +/- 0.031
+Letlk-1		Letlhakane mine	Botswana	0.120 +/- 0.032
+Letlk-3		Letlhakane mine	Botswana	0.146 +/- 0.024
+Kmbrl-1		Kimberley	South Africa	0.096 +/- 0.026
+* No standard background was subtracted.
+
+Source:
+
+https://web.archive.org/web/20081015140351if_/http://www.icr.org/research/AGUC-14_Poster_Baumgardner.pdf
+
+Response:
+
+1. Three other sources for the C14 measurements must be considered.
+    - The inherent imprecision of the measurement.
+    - Contamination from outside sources, such as as from people handling
+      the diamonds.
+    - Sources of C14 other than from atmospheric N14.  Diamonds contain
+      trace amounts of nitrogen which may be converted to C14 by
+      background radiation within the earth (see <CD011.6>CD011.6>
+      regarding C14 in coal).
+
+2. What happened to Orapa-B through Orapa-E and Letlk-2?
+
+
+Links:
+
+References:
+
+Further Reading:

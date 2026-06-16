@@ -1,0 +1,101 @@
+BriefClaim: The moon is receding at a rate too fast for an old universe.
+Title: Moon Receding
+Keywords: moon, recession, young earth, tides, coral clock
+
+Claim:
+
+Because of tidal friction, the moon is receding, and the earth's rotation
+is slowing down, at rates too fast for the earth to be billions of years
+old.
+
+Source:
+
+Barnes, Thomas G. 1982.  Young age for the moon and earth.
+ _Impact_ 110 (Aug.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=204
+
+Response:
+
+1. The moon is receding at about 3.8 cm per year.  Since the moon is 3.85
+   &times; 10^10 cm from the earth, this is already consistent, within an
+   order of magnitude, with an earth-moon system billions of years old.
+
+2. The magnitude of tidal friction depends on the arrangement of the
+   continents.  In the past, the continents were arranged such that tidal
+   friction, and thus the rates of earth's slowing and the moon's
+   recession, would have been less.  The earth's rotation has slowed at a
+   rate of two seconds every 100,000 years (Eicher 1976).
+
+3. The rate of earth's rotation in the distant past can be measured.
+   Corals produce skeletons with both daily layers and yearly patterns, so
+   we can count the number of days per year when the coral grew.
+   Measurements of fossil corals from 180 to 400 million years ago show
+   year lengths from 381 to 410 days, with older corals showing more days
+   per year (Eicher 1976; Scrutton 1970; Wells 1963; 1970).  Similarly,
+   days per year can also be computed from growth patterns in mollusks
+   (Pannella 1976; Scrutton 1978) and stromatolites (Mohr 1975; Pannella
+   et al.  1968) and from sediment deposition patterns (Williams 1997).
+   All such measurements are consistent with a gradual rate of earth's
+   slowing for the last 650 million years.
+
+4. The clocks based on the slowing of earth's rotation described above
+   provide an independent method of dating geological layers over most of
+   the fossil record.  The data is inconsistent with a young earth.
+
+
+Links:
+
+Thompson, Tim, 2000.  The recession of the Moon and the age of the
+ Earth-Moon system.  http://www.talkorigins.org/faqs/moonrec.html
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof5
+
+References:
+
+1. Eicher, D. L., 1976.  _Geologic Time_. Englewood Cliffs, New Jersey:
+   Prentice-Hall.
+#2. Jones, C. B., 1981.  Periodicities in stromatolite lamination from
+#   Early Proterozoic Hearne Formation, Great Slave Lake, Canada.
+#   _Palaeontology_ 24: 231-250.
+3. Mohr, R. E., 1975.  Measured periodicities of the Biwabik
+   (Precambrian) stromatolites and their geophysical significance.  In:
+   Rosenberg and Runcorn, pp. 43-56.
+4. Pannella, G., 1976.  Tidal growth patterns in Recent and fossil
+   mollusc bivalve shells: A tool for the reconstruction of paleotides.
+   _Naturwissenschaften_ 63: 539-543.
+5. Pannella, G., C. MacClintock and M. Thompson, 1968.  Paleontological
+   evidence of variation in length of synodic month since Late Cambrian.
+   _Science_ 162: 792-796.
+6. Rosenberg, G. D. and S. K. Runcorn (eds.), 1975.  _Growth Rhythms and
+   the History of the Earth's Rotation_.  New York: Wiley.
+7. Scrutton, C. T., 1970.  Evidence for a monthly periodicity in the
+   growth of some corals.  In: _Palaeogeophysics_, S. K. Runcorn, ed.,
+   London: Academic Press, pp. 11-16.
+8. Scrutton, C. T., 1978.  Periodic growth features in fossil organisms
+   and the length of the day and month.  In: _Tidal Friction and the
+   Earth's Rotation_. P. Brosche and J. Sundermann, eds., Berlin:
+   Springer-Verlag, pp. 154-196.
+9. Wells, J. W., 1963.  Coral growth and geochronometry.  _Nature_ 197:
+   948-950.
+10. Wells, J. W., 1970.  Problems of annual and daily growth-rings in
+    corals.  In: _Palaeogeophysics_, S. K. Runcorn, ed., London: Academic
+    Press, pp. 3-9.
+11. Williams, G. E., 1997.  Precambrian length of day and the validity of
+   tidal rhythmite paleotidal values.  _Geophysical Research Letters_
+   24(4): 421-424.
+
+Further Reading:
+
+Pannella, G., 1972.  Paleontological evidence on the Earth's rotational
+ history since the early Precambrian.  _Astrophysics and Space Science_
+ 16: 212-237. (technical)
+
+Rosenberg, G. D. and S. K. Runcorn (eds.), 1975.  _Growth Rhythms and
+ the History of the Earth's Rotation_.  New York: Wiley. (technical)
+
+Schopf, J. William (ed.), 1983.  _Earth's Earliest Biosphere. Its Origin
+ and Evolution_.  Princeton, New Jersey: Princeton University Press.
+ (technical)
+
+Date: 2001-2-18, 2004-9-7

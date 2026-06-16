@@ -1,0 +1,72 @@
+BriefClaim: Variable C-14/C-12 ratio invalidates C-14 dating.
+Title: Carbon-14 Variability
+Keywords: c14, carbon dating, radiometric dating, uniformitarianism.
+
+Claim:
+
+Carbon dating is based on the atmospheric C-14/C-12 ratio, but that ratio
+varies.  Thus the carbon dating method is not valid.
+
+Source:
+
+SciCre, pp. 162-166.
+
+Response:
+
+1. The variability of the C-14/C-12 ratio, and the need for calibration, has
+   been recognized since 1969 (Dickin 1995, 364-366).  Calibration is
+   possible by analyzing the C-14 content of items dated by independent
+   methods.  Dendrochronology (age dating by counting tree rings) has been
+   used to calibrate C-14/C-12 ratios back more than 11,000 years before
+   the present (Becker and Kromer 1993; Becker et al. 1991).  C-14 dating
+   has been calibrated back more than 30,000 years by using
+   uranium-thorium dating of corals (Bard et al. 1990; Edwards
+   et al. 1993), to 45,000 yeas ago by using U-Th dates of glacial
+   lake varve sediments (Kitagawa and van der Plicht 1998), and to 50,000
+   years ago using ocean cores from the Cariaco Basin which have been
+   calibrated to the annual layers of the Greenland Ice Sheet (Hughen et
+   al. 2004).
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-c14.html#R1
+
+References:
+
+1. Bard, E., B. Hamelin, R. G. Fairbanks and A. Zindler. 1990.
+   Calibration of the <sup>14</sup>C timescale over the past 30,000 years
+   using mass spectrometric U-Th ages from Barbados corals.
+   _Nature_ 345: 405-410.
+2. Becker, B. and B. Kromer. 1993. The continental tree-ring record --
+   absolute chronology, <sup>14</sup>C calibration and climate change at
+   11 ka.  _Palaeogeography, Palaeoclimatology, Palaeoecology_ 103: 67-71.
+2. Becker, B., B. Kromer and P. Trimborn. 1991. A stable-isotope tree-ring
+   timescale of the Late Glacial/Holocene boundary.  _Nature_ 353:
+   647-649.
+3. Dickin, A. P. 1995. _Radiogenic Isotope Geology_, Cambridge
+   University Press.
+4. Edwards, R. L. et al. 1993.  A large drop in atmospheric
+   <sup>14</sup>C/<sup>12</sup>C and reduced melting in the Younger Dryas,
+   documented with <sup>230</sup>Th ages of corals.  _Science_ 260:
+   962-968.
+5. Hughen, K. et al. 2004.  <sup>14</sup>C activity and global carbon
+   cycle changes over the past 50,000 years.  _Science_ 303: 202-207.
+   See also Bard, E., F. Rostek and G. M&eacute;not-Combes. 2004.  A
+   better radiocarbon clock.  _Science_ 303: 178-179.
+6. Kitagawa, H. and J. van der Plicht. 1998.  Atmospheric radiocarbon
+   calibration to 45,000 yr B.P.: Late glacial fluctuations and cosmogenic
+   isotope production.  _Science_ 279: 1187-1190.  See also Kitagawa,
+   H. and J. van der Plicht, 2000.  PE-04. A 45.000 year varve chronology
+   from Japan.  https://web.archive.org/web/20010730121412if_/http://www.cio.phys.rug.nl/HTML-docs/Verslag/97/PE-04.htm
+
+Further Reading:
+
+Dalrymple, G. Brent, 1991.  _The Age of the Earth_. Stanford University
+ Press.
+
+Lowe, J. John, ed., 1991.  Radiocarbon dating: Recent applications and
+ future potential.  _Quaternary Proceedings_ Number 1, 1991,  Published
+ for the Quaternary Research Association, Wiley.
+
+Date: 2001-2-18, 2006-1-3

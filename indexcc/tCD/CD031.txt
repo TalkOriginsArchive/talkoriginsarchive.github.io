@@ -1,0 +1,198 @@
+BriefClaim: KBS Tuff shows the flaws of radiometric dating.
+Title: KBS Tuff dating
+Keywords: KBS tuff, radiometric dating, Koobi Fora
+
+Claim:
+
+The KBS Tuff is an ash layer in the Koobi Fora Formation east of Lake
+Turkana in northern Kenya.  It is significant because hominid fossils and
+artifacts were found in and under it, so its age gives a minimum age of
+the fossils.  Various attempts to date it have yielded a wide range of
+different results, from 0.52 to 220 million years.  The dating of the KBS
+Tuff exposes the fallacies of radiometric dating.  "Good" dates are chosen
+to accord with accepted dates of fossils, while anomalous dates may not be
+reported at all.  And in practice, it is impossible to be sure one has
+selected uncontaminated samples.
+
+Source:
+
+Lubenow, Marvin L.  1995.  The pigs took it all.  _Creation_ 17(3) (June):
+ 36-38.  http://www.answersingenesis.org/creation/v17/i3/pigs.asp
+
+
+Response:
+
+1. The KBS Tuff controversy illustrates many of the problems with
+   radiometric dating, but it equally illustrates that the problems are
+   not insurmountable.
+
+   The KBS Tuff (for "Kay Behrensmeyer Site," after the geologist who
+   first described it) is a layer of redeposited volcanic ash, so it
+   contains a mixture of older sediments, too.  It is still possible to
+   date the layer, but care must be taken to choose only the youngest
+   rocks, else one would be dating the age of older sediments washed into
+   the layer, not the age of the layer itself.  This is what happened with
+   the first ages reported from the tuff.  In a study to test the
+   feasibility of dating samples from the tuff, the samples were
+   contaminated with non-juvenile components which could not be separated
+   out, giving ages over 200 million years.  It was recommended that new
+   samples be collected from which suitable individual crystals could be
+   separated (Fitch and Miller 1970).  These new samples were dated at
+   2.61 +/- 0.26 million years, based on the
+   <sup>40</sup>Ar/<sup>39</sup>Ar dating method (Fitch and Miller 1970).
+
+   Discrepancies with this date soon turned up, though.  Work with animal
+   fossils, particularly of pigs, showed that the strata in question
+   matched younger strata in the nearby Omo Valley.  In its early stages,
+   this fossil work was imprecise enough that the 2.61 Myr date could
+   still be justified (Maglio 1972).  However, the fossils continued to
+   point to a younger date as the quality of the work on them improved
+   (White and Harris 1977).  And in 1975, another lab, using K-Ar dating,
+   reported dates of 1.82 and 1.60 Myr (Curtis et al. 1975).
+
+   Fitch and Miller turned to an independent method to resolve the
+   discrepancy, fission-track dating.  Initial results gave an age of 2.44
+   +/- 0.08 Myr (Hurford et al. 1976).  This fit well with the age of 2.42
+   Myr, which Fitch et al. (1976) recalculated from their original
+   results.  Subsequent <sup>40</sup>Ar/<sup>39</sup>Ar measurements they
+   took gave a scattering of ages from 0.52 +/- 0.33 to 2.6 +/- 0.3 Myr.
+   They attributed the spread to reheating of the crystals after
+   deposition.  Paleomagnetic studies gave ambiguous results (Brock and
+   Isaac 1974; Hillhouse et al. 1977).
+
+   The weight of evidence soon began to converge on an age near 1.9 Myr,
+   though.  A study of trace elements in the minerals showed that the KBS
+   Tuff correlates with the H2 tuff in the Shungura Formation,
+   uncontroversially dated about 1.8 Myr (Cerling et al. 1979).  The 1.60
+   Myr age reported by Curtis et al. (1975) was found to be an error due
+   to a faulty balance (Drake et al. 1980).  A later fission-track study
+   which took pains to eliminate possible errors gave an age of 1.87 +/-
+   0.04 Myr (Gleadow 1980).  Because the controversy had become quite
+   heated, another expert, Ian McDougall, was called in to do independent
+   dating.  He came up with an age of 1.89 +/- 0.01 using K-Ar dating and
+   1.88 +/- 0.02 using <sup>40</sup>Ar/<sup>39</sup>Ar dating (McDougall
+   et al. 1980; McDougall 1981, 1985).  Geological evidence and the
+   consistency of dates derived from various sources indicates that
+   reheating after deposition is unlikely.
+
+   The lessons to be learned from the KBS Tuff dating controversy are not
+   that radiometric dating does not work, but that it works with some
+   caveats.
+    - Some formations are easier to date than others.  The KBS Tuff was
+      particularly difficult to date because it included volcanic
+      sediments of several different ages.  Furthermore, it looked the
+      same as other tuffs, so care was needed to make sure the same layer
+      was being referred to in different areas.  All of this requires
+      careful work from knowledgeable geologists.  Were it not for its
+      importance to determining the ages of important hominid fossils,
+      geologists probably would not have bothered with dating it at all.
+    - Some dating techniques are simply inappropriate in some
+      circumstances.  As noted above, paleomagnetic study is not
+      particularly useful at this site.
+    - Discrepant dates are not dismissed out of hand.  In addition to
+      trying to resolve the issue with further dating, the discrepancies
+      caused people to look for the sources of error.  The original
+      erroneous date by Fitch and Miller could be an accurate date of a
+      roughly 2.5 Myr ash layer, present in neighboring areas but
+      apparently eroded from the Koobi Fora Formation.  Apparently, some
+      pumice from that volcanic event had been incorporated into the KBS
+      Tuff.  Samples sent to an independent lab for "blind" dating
+      confirmed its older age (Fitch et al. 1996).  Alternatively, this
+      and other discrepant ages may be due to contamination with older
+      material.  Such contamination caused ages in the 2.0 - 6.2 Myr range
+      in the analysis of Curtis et al. (1975) until they revised their
+      sample purification procedures.  A high atmospheric argon
+      contamination in their samples and analytical errors may have
+      contributed, too (McDougall et al. 1980).
+
+      The fission-track study which gave the 2.44 Myr age was the first
+      such study to date zircons so young.  The reanalysis by Gleadow
+      (1980) noted problems with the standard methods and contributed new
+      methodology for dealing with zircons with low track densities.
+    - People's preconceptions and personalities can get in the way of
+      evaluating the data objectively.  In the KBS Tuff controversy,
+      personality conflicts may have contributed to delay in the
+      resolution and certainly contributed to the drama.  But in the end,
+      the objective evidence is a constraint that every scientist must
+      meet.  Replication, free access to information, and awareness of
+      conflicts of interest help assure that personal foibles do not
+      determine outcomes.  Because such mechanisms were in place, all of
+      the scientists who initially supported the older 2.6 Myr date for
+      the KBS Tuff later came to accept the 1.88 Myr age (Lewin 1987).
+
+   Note that different methods give the same results when known sources of
+   error are removed.  K-Ar, <sup>40</sup>Ar/<sup>39</sup>Ar, and
+   fission-track methods ultimately all gave the same results.  These
+   results were correlated with strata of the same age at other locations
+   on the basis of fossil and trace element analysis.
+
+2. The different ages which were seriously debated for the KBS Tuff, from
+   1.6 to 2.6 million years, were never close to ages required by
+   young-earth creationism.
+
+Links:
+
+MacRae, Andrew. 1998.  Radiometric dating and the geological time scale:
+ Circular reasoning or reliable tools?
+ http://www.talkorigins.org/faqs/dating.html
+
+References:
+
+1. Brock, A. and G. Ll. Isaac. 1974.  Paleomagnetic stratigraphy and
+   chronology of hominid-bearing sediments east of Lake Rudolf, Kenya.
+   _Nature_ 247: 344-348.
+2. Cerling, T. E., F. H. Brown, B. W. Cerling, G. H. Curtis and
+   R. E. Drake, 1979.  Preliminary correlations between the Koobi Fora and
+   Shungura Formations, East Africa.  _Nature_ 279: 118-121.
+3. Curtis et al. 1975.  Age of KBS Tuff in Koobi Fora Formation, East
+   Rudolph, Kenya.  _Nature_ 258: 395-398.
+4. Drake, R. E., G. H. Curtis, T. E. Cerling, B. W. Cerling and J. Hampel,
+   1980. KBS Tuff dating and geochronology of tuffaceous sediments in the
+   Koobi Fora and Shungura Formations, East Africa.  _Nature_ 283:
+   368-372.
+5. Fitch, F. J. and J. A. Miller. 1970.  Radioisotopic age determinations
+   of Lake Rudolf artefact site.  _Nature_ 226: 226-228.
+6. Fitch, F. J., P. J. Hooker and J. A. Miller. 1976.
+   <sup>40</sup>Ar/<sup>39</sup>Ar dating of the KBS Tuff in Koobi Fora
+   Formation, East Rudolf, Kenya.  _Nature_ 263: 740-744.
+7. Fitch, F. J., J. A. Miller and J. G. Mitchell. 1996.  Dating of the KBS
+   Tuff and _Homo rudolfensis_.  _Journal of Human Evolution_ 30:
+   277-286.
+8. Gleadow, A. J. W. 1980.  Fission track age of the KBS Tuff and
+   associated hominid remains in northern Kenya.  _Nature_ 284: 225-230.
+8. Hillhouse, J. W., J. W. M. Ndombi, A. Cox and A. Brock. 1977.
+   Additional results on paleomagnetic stratigraphy of the Koobi Fora
+   Formation, east of Lake Turkana (Lake Rudolf), Kenya.  _Nature_ 265:
+   411-415.
+9. Hurford, A. J., A. J. W. Gleadow and C. W. Naeser. 1976. Fission-track
+   dating of pumice from the KBS Tuff, East Rudolf, Kenya.  _Nature_ 263:
+   738-740.
+1. Lewin, Roger. 1987.  _Bones of Contention_.  New York: Simon and
+   Schuster.
+1. Maglio, Vincent J. 1972.  Vertebrate faunas and chronology of
+   hominid-bearing sediments east of Lake Rudolf, Kenya.  _Nature_ 239:
+   379-385.
+2. McDougall, Ian, Robyn Maier, P. Sutherland-Hawkes and A. J. W. Gleadow.
+   1980.  K-Ar age estimate for the KBS Tuff, East Turkana, Kenya.
+   _Nature_ 284: 230-234.
+3. McDougall, Ian. 1981.  <sup>40</sup>Ar/<sup>39</sup>Ar age spectra from
+   the KBS Tuff, Koobi Fora Formation.  _Nature_ 294: 120-124.
+4. McDouball, Ian. 1985.  K-Ar and <sup>40</sup>Ar/<sup>39</sup>Ar dating
+   of the hominid-bearing Pliocene-Pleistocene sequence at Koobi Fora,
+   Lake Turkana, northern Kenya.  _Geological Society of America Bulletin_
+   96: 159-175.
+5. White, T. D. and J. M. Harris. 1977.  Suid evolution and correlations
+   of African hominid localities.  _Science_ 198: 13-21.
+
+Further Reading:
+
+Hay, R. L. 1980.  The KBS tuff controversy may be ended.  _Nature_ 284:
+ 401.
+
+Johanson, Donald and James Shreeve. 1989.  _Lucy's Child_, New York: Avon,
+ pp. 91-101.
+
+Lewin, Roger. 1987.  _Bones of Contention_.  New York: Simon and Schuster,
+ chaps. 9-10.
+
+Date: 2005-6-28

@@ -1,0 +1,189 @@
+BriefClaim: Dark moths increased in s. Britain after pollution control began.
+Title: Peppered moths affected by mutagens
+Keywords: peppered moth, Biston betularia, mutagenesis, pollution,industrial melanism
+
+Claim:
+                                                 
+South of latitude 52 degrees north, melanism in the peppered moth showed no
+correlation with sulphur dioxide concentration, and the proportion of dark
+moths *increased* there after pollution control was introduced.
+These observations are inconsistent with Kettlewell's explanation
+that the spread of the dark moths was caused by natural selection resulting
+from  selective predation.
+                       
+Source:
+
+Wells, Jonathan, 1999.  Second thoughts about peppered moths.
+ http://www.arn.org/docs/wells/jw_pepmoth.htm ,
+ http://www.trueorigin.org/pepmoth1.asp
+Wells, Jonathan, 2000. _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 144-146.
+                                   
+Response:
+
+1. Wells (2000, 146) wrote:
+    "R.C. Steward found a correlation between melanism and the
+     concentration of sulfur dioxide (an airborne pollutant) north -- but
+     not south -- of latitude 52 degrees north.
+
+   The assertion that Steward found no correlation between melanism and
+   the concentration of sulphur dioxide south of latitude 52 degrees north
+   is simply false.  The correlation which Steward (1977) found between
+   the proportion of dark moths and the concentration of sulphur dioxide
+   (or, more accurately, its square-root) was highly significant both over
+   England and Wales as a whole, and south of latitude 52 degrees north.
+
+   What Steward in fact observed was that for 165 sites scattered over the
+   *whole* of England and Wales, the square-root of the concentration of
+   sulphur dioxide was the *most significantly* correlated with the
+   proportion of dark moths out of the thirteen variables he tested.
+   South of latitude 52 degrees north, however, the most significantly
+   correlated variable was east-west location, rather than the square-root
+   of sulphur dioxide concentration.
+
+   It was nevertheless true that the correlations of *both* east-west
+   location *and* square-root of sulphur dioxide concentration with
+   the proportion of dark moths were highly significant *both* when
+   *all* sites were included in his analysis *as well as* when
+   only those south of the given latitude were included.
+
+   According to Steward these observations supported an inference he had
+   drawn from other results that
+    "in the south of Britain non-industrial factors may be of greater
+     importance in determining _carbonaria_ frequency than in the
+     rest of Britain (1977, 239).
+
+   But his reasoning here is hard to follow.  In the midlands and north of
+   England, most of the major industrial centres are located towards the
+   west, whereas in the south they are located in the east, near London.
+   In the south-west, the counties of Somerset, Dorset, Cornwall and Devon
+   are among the *least* polluted in the whole of England and Wales.
+   Moreover, in the north and midlands the prevailing south-westerly winds
+   carry airborne pollution long distances towards the east.  It is
+   therefore hardly surprising, if Kettlewell's explanation is valid, that
+   the proportion of dark moths correlates more strongly with east-west
+   location and less strongly with sulphur dioxide concentration in the
+   south than it does in the north.
+
+   Not content with merely taking Steward's shaky argument at face value,
+   however, Wells (2000, 146) badly misquotes him when he writes:
+     
+    "Steward concluded that "in the south of Britain non-industrial
+     factors may be of greater importance" than camouflage and bird
+     predation.
+
+   This clearly misrepresents the quoted statment of Steward's as
+   referring to a comparison of non-industrial factors with camouflage and
+   bird predation, whereas his actual comparison was between
+   non-industrial factors in the south and those *same factors* in the
+   north.
+
+   Had Wells omitted the quotation marks, the resulting indirect quotation
+   could perhaps have been justified as a paraphrase of something which
+   Steward did say earlier in his article (1977, 238):
+
+      "The results suggest that, although selective predation may have an
+       important secondary effect on _carbonaria_ frequency, it is not the
+       major factor determining frequencies at these sites.
+
+   "These sites" here refers to 52 sites, of which 48 were located south
+   of latitude 52 degrees north, where Steward had studied the effects of
+   camouflage on rates of predation.  Also, "the results" being referred
+   to are those from this study of the effects of camouflage, not those
+   from the study of correlation between melanism and other variables.
+
+   Nevertheless, even this tentative suggestion of Steward's seems to have
+   been unwarranted.  Mani (1990) showed that the observed relative
+   proportions of the three varieties of peppered moth could be well
+   accounted for using no more than experimentally determined rates of
+   visual predation and migration, and strengths of non-visual selection
+   estimated from field data (see the <CB601_2_2>response
+   to claim CB601.2.2>).
+
+2. The increase in the proportion of dark moths mentioned in the claim
+   appears to be a phenomenon for which no explanation has yet been
+   presented in the scientific literature.  Bishop and Cook (1980, 398)
+   merely say "The reason is not obvious".  Nevertheless, there is a quite
+   plausible (but as yet speculative) explanation in terms of cline
+   dynamics, which is outlined below.
+
+   The increase in question was first pointed out by Lees and Creed (1975,
+   71, 78). They noted that at a large number of locations south-west of a
+   line running north-west from roughly just south of London to north-east
+   Wales, the proportion of dark moths increased over the period from the
+   mid 1950s to about 1970, while at most locations north-east of this
+   line it decreased.  Note that the line separating these regions of
+   increase and decrease was not, as claimed by Wells (2000, 145), the
+   same line of latitude 50 degrees north that was associated with the
+   phenomenon discussed above in relation to the first part of the
+   claim. Most of the increases and decreases were quite small---Lees and
+   Creed noted that they were not statistically significant at most of the
+   individual locations considered in isolation.  However, when the
+   figures from individual locations were combined to form a total net
+   increase south-west of the line, and a total net decrease north-east of
+   it, the results were highly significant.
+
+   As noted in the response to claim <CB601_2_2>CB601.2.2>, peppered moths
+   over most of England and Wales form a series of *clines* -- namely,
+   populations over extended areas whose compositions varied from place to
+   place.  It is very possible that the cline extending from south-west
+   England and Wales to north-east England and East Anglia was not in
+   equilibrium when pollution controls were introduced there starting from
+   the late 1950s.  If this were the case, the proportion of dark peppered
+   moths would have then been increasing over large portions of the cline.
+   The first crucial point here is that while this disequilibrium towards
+   increasing dark moth proportions would *start* to decrease not long
+   after the introduction of pollution controls, it would not have
+   *disappeared* immediately.  Thus, the proportion of dark moths would
+   have continued to increase for a short time until the disequilibrium
+   was reduced to zero.  The population would then pass through a
+   transient equilibrium into a disequilibrium in the opposite direction.
+   The proportion of dark moths in the population would only then start to
+   decrease.
+
+   The second crucial point is that there is no reason why the various
+   parts of the population should have all passed through the stage of
+   transient equilibrium at the same time.  Lees and Creed's observation
+   (op. cit.) would seem to indicate that the population to the north-east
+   of their dividing line had already passed through this equilibrium by
+   the end of the period covered by their data, while that to the
+   south-west of it had not.
+
+   While this explanation remains as yet speculative, it is by no means
+   contrived, and is, at least partially, testable.  The mathematical
+   models of Mani (1982, 1990), referred to in the responses to
+   <CB601_2>CB601.2>, <CB601_2_1>CB601.2.1>, and <CB601_2_2>CB601.2.2>,
+   are not sensitive enough in their current form to reproduce the
+   frequency variations seen in the phenomenon noted by Lees and Creed.
+   However, if the explanation proposed above is correct, it should be
+   possible to make plausible minor modifications to one of Mani's models
+   which would cause it to do so.  Thus, if it were to be found that no
+   such modified version of any of Mani's models could be made to do this,
+   then the proposed explanation would be disconfirmed. Conversely, if the
+   observed frequency variations *could* be reproduced by such a modified
+   model, then that would provide some (admittedly fairly weak) support
+   for the explanation.
+
+Links:
+
+References:
+
+1. Lees, D. R. and E. R. Creed, 1975.  Industrial melanism in _Biston
+   betularia_: the role of selective predation.  _J. Anim. Ecol._ 44:
+   67-83.
+2. Mani, G. S., 1982.  A theoretical analysis of the morph frequency
+   variation in the peppered moth over England and Wales.
+   _Biol. J. Linn. Soc._ 17: 259-267.
+3. Mani, G. S., 1990.  Theoretical models of melanism in _Biston betularia_
+   -- a review.  _Biol. J. Linn. Soc._ 39: 355-371.
+4. Steward, R. C., 1977.  Industrial and non-industrial melanism in the
+   peppered moth, _Biston betularia_ (L.), _Ecological Entomology_ 2:
+   231-243.
+
+Further Reading:
+
+Grant, Bruce S., 1999.  Fine tuning the peppered moth paradigm.
+ _Evolution_ 53(3): 980-984.
+  https://web.archive.org/web/20011109061143if_/http://www.wm.edu/biology/melanism.pdf
+
+Date: 2003-9-10

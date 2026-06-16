@@ -1,0 +1,62 @@
+BriefClaim: Chromosome counts differ greatly and unsystematically between species.
+Title: Differing chromosome numbers
+Keywords: chromosome, C-value paradox, genome, DNA
+
+Claim:
+
+DNA and chromosome counts differ widely between different organisms.  This
+dissimilarity contradicts the similarity we expect from common descent.
+Chromosome counts should be either the same because the different forms of
+life descended from a common ancestor (Pathlights n.d.), or more complex
+as organisms get more complex (Thompson and Butt 2001).  Neither is the
+case.  For example, humans have 46 chromosomes, some ferns have 512, and
+some gulls have 12.
+
+Source:
+
+Thompson, Bert and Kyle Butt, 2001.  Creation vs. evolution--[Part II],
+ Lesson 6.  Apologetics Press, Montgomery, AL.
+ https://web.archive.org/web/20050531154330if_/http://www.apologeticspress.org/rr/reprints/hsc0106.pdf
+Pathlights, n.d.  Chromosome comparisons.
+ https://web.archive.org/web/20210421105509if_/http://www.pathlights.com/ce_encyclopedia/15sim03.htm
+Williams, Alexander, 2003.  Copying confusion.  _Creation_ 25(4)
+ (Sept.): 15.
+ http://www.answersingenesis.org/creation/v25/i4/DNAduplication.asp 
+
+Response:
+
+1. Chromosome counts are poor indications of similarity; they can vary
+   widely within a single genus or even a single species.  The plant genus
+   _Clarkia_, for example, has species with chromosome counts of n = 5, 6,
+   7, 8, 9, 12, 14, 17, 18, and 26 (Lewis 1993).  Chromosome counts in
+   the house mouse species (_Mus domesticus_) range from 2n = 22 to 40
+   (Nachman et al. 1994).
+
+   Chromosomes can split or join with little effect on the genes
+   themselves.  One human chromosome, for example, is very similar to two
+   chimpanzee chromosomes laid end to end; it likely formed from the
+   joining of two chromosomes (Yunis and Prakash 1982).  Because the
+   genes can still align, a change in chromosome number does not prevent
+   reproduction.  Chromosome counts can also change through polyploidy,
+   where the entire genome is duplicated.  Polyploidy, in fact, is a
+   common mechanism of speciation in plants.
+
+Links:
+
+References:
+
+1. Lewis, Harlan, 1993.  "Clarkia", In: _The Jepson Manual: Higher Plants
+   of California_, J. C. Hickman, ed., Berkeley: University of
+   California Press, pp. 786-793.
+2. Nachman, M. W., S. N. Boyer, J. B. Searle and C. F. Aquadro, 1994.
+   Mitochondrial DNA variation and the evolution of Robertsonian
+   chromosomal races of house mice, _Mus domesticus_.  _Genetics_ 136(3):
+   1105-1120.
+3. Yunis, Jorge, and Om Prakash, 1982.  The origin of man: A chromosomal
+   pictorial legacy.  _Science_ 215: 1525-1530.  See
+   http://www.indiana.edu/~ensiweb/lessons/chr.bk1.html for Fig. 2a: Human
+   and chimpanzee chromosomes 1-4.
+
+Further Reading:
+
+Date: 2004-1-13

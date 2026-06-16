@@ -1,0 +1,69 @@
+BriefClaim: Consistency of radiometric dating comes from selective reporting.
+Title: Selective reporting of dating results
+Keywords: radiometric dating, bias
+
+Claim:
+
+The use of radiometric dating in geology involves a very selective
+acceptance of data.  Most discrepant dates are not published.  This
+selective reporting may account for consistencies in the data; internal
+consistencies, mineral-pair concordances, and agreement between differing
+dating methods may be illusory.
+
+Source:
+
+Woodmorappe, John, 1979.  Radiometric geochronology reappraised. CRSQ
+ 16(2): 102-129.
+Woodmorappe, John. 1999.  _The Mythology of Modern Dating Methods_.
+ El Cajon, CA: ICR.
+
+Response:
+
+1. Geologists cannot be selective about choosing results because
+   measurements typically cost hundreds of dollars per sample.  To date
+   multiple samples and choose a concordant set from among them would
+   require throwing out about $100,000 worth of data if dating methods
+   gave chance results (Henke n.d.).
+
+2. As creationists are fond of pointing out, radiometric dating is
+   complicated by geological processes such as metamorphism and
+   weathering, which can interfere with the assumptions that the dating
+   methods use.  As creationists do not point out, though, geologists know
+   this.  They examine the geological context of where their samples came
+   from to determine whether a technique is likely to be valid, and they
+   experiment with different techniques on different minerals subjected
+   to different conditions to determine which combinations of techniques,
+   minerals, and conditions are valid and which are not.  Many so-called
+   discordant dates are results from such experiments dishonestly
+   portrayed as ordinary field measurements.
+
+   All measurement techniques, from rulers to neutrino detectors, are
+   invalid in some contexts.  That does not make them invalid in all
+   contexts.  Woodmorappe and others who cite discordant radiometric dates
+   are claiming that the method is entirely useless because it does not
+   apply to some contexts.
+
+3. The factors that one must consider when doing radiometric dating were
+   ignored by Woodmorappe.  He ignored geological context and well-known
+   limitations of dating methods.  His analysis is further flawed because
+    - he uses obsolete data, such as data from years when the technique
+      was still being developed.
+    - his treatment of individual cases is extremely superficial.
+    - his paper is written as propaganda, not as a technical analysis.  If
+      he believes what he writes, he should publish it in journals for
+      professional geologists, not for creationists.
+
+Links:
+
+Schimmrich, Steven H., 1998.  Geochronology _kata_ John Woodmorappe.
+ http://www.talkorigins.org/faqs/woodmorappe-geochronology.html
+
+References:
+
+1. Henke, Kevin R., n.d.  How can Woodmorappe sell us a bill of goods if he
+   doesn't know the costs?
+   http://noanswersingenesis.org.au/woodmorappe_bill_of_goods_henke.htm
+
+Further Reading:
+
+Date: 2003-8-2, 2004-9-8

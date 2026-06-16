@@ -1,0 +1,43 @@
+BriefClaim: Instincts are too complex to have evolved.
+Title: Inconceivable instinct
+Keywords: instinct, evolution, complexity, incredulity.
+
+Claim:
+
+Instincts are too complex to have evolved.  Scientists have no way of
+explaining complex instincts, such as migrations and nest building.
+
+Source:
+
+LifeHow, pp. 160-167.
+
+
+Response:
+
+1. This claim is an example of the <CA100>argument from
+   incredulity>.  One's inability to envision circumstances that lead to
+   complex instincts does not preclude such circumstances.
+
+2. Not all instincts are complex.  Some phobias, for example, are no more
+   than a basic emotional response to a simple stimulus, such as loud
+   sudden noise.  And there is nothing to prevent the complex instincts
+   from arising gradually.  For example, some bees only communicate
+   information about flower species to others in the hive (Dornhaus and
+   Chittka 1999).  Complex instincts could arise via small steps such as
+   this.
+
+Links:
+
+References:
+
+1. Dornhaus, A. and L. Chittka, 1999.  Evolutionary origins of bee
+   dances.  _Nature_ 401: 38.
+
+Further Reading:
+
+Gould, James L. and Carol G. Gould, 1995. _The Honey Bee_.  New York:
+ Scientific American Library.
+Weiner, Jonathan, 1999.  _Time, Love, Memory: A great biologist and his
+ quest for the origins of behavior_.  New York: Knopf.
+
+Date: 2001-2-17, 2003-9-17

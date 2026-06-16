@@ -1,0 +1,86 @@
+BriefClaim: Parasites are degenerations of free-living species.
+Title: Origin of parasites
+Keywords: parasitism, mutualism
+
+Claim:
+
+Parasites are degenerate forms of free-living or mutualistic organisms.
+They became parasites when something went wrong as a result of the Fall.
+For example, the parasite came to invade the wrong host or the wrong organ
+within the host, or it changed to harm the host where it did not before.
+
+Source:
+
+Mace, Stephanie R., B. A. Sims, and T. C. Wood, 2003.  Fellowship,
+ creation, and schistosomes.  _Impact_ 357 (Mar.).
+ http://www.icr.org/index.php?module=articles&action=view&ID=127
+
+Response:
+
+1. Parasites are far from degenerate.  They have lost features that are
+   familiar to us as nonparasites, but they also have acquired many other
+   highly sophisticated features and abilities, allowing them to find
+   their hosts, to survive their hosts' immune systems (often multiple hosts
+   for one parasite), and to survive some otherwise hostile environments
+   within their hosts.  Creationists themselves tout the complexity of the
+   <CB200.4>immune system>; does not circumventing an immune system
+   deserve at least as much credit?  Fast-evolving viruses like the common
+   cold show that such adaptations are evolving all the time.
+
+   Here are just a few features that parasites have.  Similar adaptations
+   are common (Hajek and St. Leger 1994; Zimmer 2000):
+
+    - _Sacculina_, a parasitic barnacle, infests crabs.  It prevents the
+      crab from molting and reproducing and induces the crab to care for
+      the parasite's brood as if it were the crab's.  Even male crabs are
+      feminized to groom as if they had a female's brood pouch (Zimmer
+      2000, 79-82).
+    - The larva of the _Hymenoepimecis_ wasp parasitizes an orb-weaving
+      spider.  When the larva is ready to pupate, it modifies the spider's
+      behavior to make it spin a cocoon for the wasp (Eberhard 2000).
+    - The fungus _Entomophthora muscae_ infects and kills house flies, but
+      before it kills them, it manipulates the fly's behavior to make it
+      crawl to a high place and adopt a sexually receptive pose, behaviors
+      that increase the likelihood of the fungus spreading to other flies
+      (Moller 1993).
+
+2. Evolution often goes the other way; parasites that initially are very
+   harmful become more benign to their host over time.  The virulence of a
+   pathogen is generally predictable on the basis of evolutionary
+   principles.  For example, parasites are less virulent at low host
+   population densities where the parasites risk destroying available
+   hosts and themselves with them (Nesse and Williams 1994, 57-61; Zimmer
+   2000, 151-155).
+
+3. Why do organisms have defenses against pathogens in the first place?
+   They would not have been needed in a pre-Fall world without pathogens,
+   and their complexity and effectiveness show that features such as
+   immune systems are not degenerate forms themselves.
+
+Links:
+
+References:
+
+1. Eberhard, William G., 2000.  Spider manipulation by a wasp larva.
+   _Nature_ 406: 255-256.
+2. Hajek, A. E. and R. J. St. Leger, 1994.  Interactions between fungal
+   pathogens and insect hosts.  _Annual Review of Entomology_ 39:
+   293-322.
+3. Moller, Anders Pape, 1993.  A fungus infecting domestic flies
+   manipulates sexual behaviour of its host.  _Behavioral Ecology and
+   Sociobiology_ 33: 403-407.
+4. Nesse, R. M. and C. G. Williams, 1994. (see below)
+5. Zimmer, Carl, 2000.  _Parasite Rex_.  (see below)
+
+Further Reading:
+
+Nesse, Randolph M. and George C. Williams, 1994.  _Why We Get Sick_, New
+ York: Times Books.
+
+Sapolsky, Robert, 2003.  Bugs in the brain.  _Scientific American_ 288(3)
+ (Mar.): 94-97.
+
+Zimmer, Carl, 2000.  _Parasite Rex: inside the bizarre world of nature's
+ most dangerous creatures_.  New York: The Free Press.
+
+Date: 2003-7-23, 2005-1-14

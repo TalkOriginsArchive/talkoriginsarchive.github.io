@@ -1,0 +1,79 @@
+BriefClaim: A freshly killed seal was C-14 dated at 1,300 years old.
+Title: C-14 age of a seal
+Keywords: radiometric dating
+
+Claim:
+
+A freshly killed seal was carbon-14 dated at 1300 years old.
+
+Source:
+
+Hovind, Kent, n.d.  Doesn't carbon dating or potassium argon dating prove
+ the Earth is millions of years old? 
+ https://web.archive.org/web/20210609153702if_/http://www.drdino.com/QandA/index.jsp?varFolder=CreationEvolution&varPage=CarbonPotassiumargondating.jsp
+
+Response:
+
+1. This claim derives from Wakefield (1971):
+
+    "Radiocarbon analysis of specimens obtained from mummified seals in
+     southern Victoria Land has yielded ages ranging from 615 to 4,600
+     years. However, Antarctica sea water has significantly lower
+     carbon-14 activity than that accepted as the world
+     standard. Therefore, radiocarbon dating of marine organisms yields
+     apparent ages that are older than true ages, but by an unknown and
+     possibly variable amount. Therefore, the several radiocarbon ages
+     determined for the mummified seal carcasses cannot be accepted as
+     correct. For example, the apparent radiocarbon age of the Lake Bonney
+     seal known to have been dead no more than a few weeks was determined
+     to be 615 +/- 100 years. A seal freshly killed at McMurdo had an
+     apparent age of 1,300 years.
+ 
+   This is the well-known reservoir effect that occurs also with
+   <CD011_4>mollusks> and other animals that live in the water.  It
+   happens when "old" carbon is introduced into the water.  In the above
+   case of the seal, old carbon dioxide is present within deep ocean
+   bottom water that has been circulating through the ocean for thousands
+   of years before upwelling along the Antarctic coast.
+
+   The seals feed off of animals that live in a nutrient-rich upwelling
+   zone.  The water that is upwelling has been traveling along the bottom
+   for a few thousand years before surfacing.  The carbon dioxide in it
+   came from the atmosphere before the water sank.  Thus, the carbon in
+   the sea water is a couple of thousand years "old" from when it was in
+   the atmosphere, and its radiocarbon content reflects this time.  Plants
+   incorporate this "old" carbon in them as they grow.  Animals eat the
+   plants; seals eat the animals, and the "old" carbon from the bottom
+   waters is passed through the food chain.  As a result, the radiocarbon
+   content reflects a mixture of old radiocarbon, which is thousands of
+   years old, and contemporaneous radiocarbon from the atmosphere.  The
+   result is an apparent age that differs from the true age of the seal.
+
+   The reservoir effect is well known by scientists, who work hard to
+   understand the limitations of their tools.  It is explained, for
+   example, in Faure (1986) and Higham (n.d.).  Contrary to creationist
+   propaganda, limitations of a tool do not invalidate the tool.
+
+Links:
+
+References:
+
+1. Faure, G., 1986.  _Principles of Isotope Geology_, 2nd ed.  New York:
+   Wiley.
+2. Higham, Thomas, n.d.  Corrections to radiocarbon dates.
+   https://web.archive.org/web/20230526132839if_/http://www.c14dating.com/corr.html
+3. Wakefield, Dort, Jr., 1971.  Mummified seals of southern
+   Victoria Land.  _Antarctic Journal_ 6(5): 210-211.
+
+Further Reading:
+
+Aitken, M. J., 1990.  _Science-based Dating in Archaeology_.
+ Longman, England.
+
+Bowman, Sheridan, 1990.  _Radiocarbon Dating_.  Berkeley: University of
+ California Press.
+
+Taylor, R. E., 1987.  _Radiocarbon Dating. An archaeological
+ perspective_.  Orlando, USA: Academic Press.
+
+Date: 2003-6-1, 2004-7-8

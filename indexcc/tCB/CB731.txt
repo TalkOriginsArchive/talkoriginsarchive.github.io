@@ -1,0 +1,49 @@
+BriefClaim: Finger development disproves birds descended from dinosaurs.
+Title: Finger development
+Keywords: finger, thumb, bird, dinosaur
+
+Claim:
+
+Most scientists believe that birds descended from theropod dinosaurs.  But
+theropod dinosaurs have lost digits IV and V from a primitively
+five-fingered hand, leaving them with digits I, II, and III.  Birds, on
+the other hand, have digits II, III, and IV, having lost digits I and V
+(Feduccia and Nowicki 2002).  It is almost impossible for the two groups
+to be closely related with such a significant anatomical difference.
+
+Source:
+
+Sarfati, Jonathan, 2002.  Ostrich eggs break dino-to-bird theory.
+ _Creation_ 25(1): 34-35.
+ http://www.answersingenesis.org/docs2002/0822_ostrich_dino.asp
+
+Response:
+
+1. Anatomists initially thought bird digits were I, II, II based on their
+   anatomy.  This was revised on the basis of bird embryology; the digits
+   are seen to derive from condensations II, III, IV.  It is plausible
+   that dinosaur digits also developed from condensations II, III, IV, and
+   a frame shift in the development of digit identity causes those three
+   condensations to developed into digits I, II, III.  Such a frameshift
+   occurs in kiwis, in which digits II, III take the form of I, II with
+   the loss of the condensation for digit I (Wagner and Gauthier 1999).
+
+Links:
+
+Myers, P. Z. 2004.  Digit numbering and limb development.
+  http://pharyngula.org/index/weblog/comments/digit_numbering_and_limb_development/
+
+References:
+
+1. Feduccia, A. and J. Nowicki. 2002.  The hand of birds revealed by early
+   ostrich embryos.  _Naturwissenschaften_ 89: 391-393.
+2. Wagner, G. P. and J. A. Gauthier. 1999.  1,2,3=2,3,4: A solution to the
+   problem of the homology of the digits in the avian hand.  PNAS 96:
+   5111-5116.
+
+Further Reading:
+
+Pennisi, Elizabeth. 2005.  Bird wings really are like dinosaurs' hands.
+ _Science_ 307: 194-195.
+
+Date: 2004-9-17, 2006-9-7

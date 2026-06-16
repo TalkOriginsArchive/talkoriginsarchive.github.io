@@ -1,0 +1,43 @@
+BriefClaim: The evolution of specialized diets would not be adaptive.
+Title: Overspecialized diets and evolution
+Keywords: adaptation, specialization
+
+Claim:
+
+An important element in an animal's struggle for existence is adaptability
+to a varied diet.  If, say, a bird depended for its existence on a diet of
+one particular gnat, and that gnat disappeared, then the species of bird
+would die of starvation.  But evolution proposes that an ancestral wasp
+with a varied diet evolved into species with very particular diets.  Such
+evolution would not be advantageous.
+
+Source:
+
+Fabre, J. Henri. 1921.  A dig at evolutionists.  In: Alexander Teixeira de
+ Mattos (transl.), _More Hunting Wasps_, New York: Dodd, Mead and Company,
+ pp. 203-213.
+
+Response:
+
+1. Evolution does not operate for the long-term benefit of the species.
+   Rather, it favors individuals which leave more surviving offspring,
+   regardless of the implications for the species as a whole.  Individuals
+   which specialize on a particular diet often do better due to greater
+   efficiency in their area of specialization.  For example, a wasp which
+   specializes on hunting only lycosid spiders might succeed in capturing
+   them 20 percent of the time, versus a 10 percent capture rate for the
+   generalist.  That edge will make specialization an advantage as long as
+   there are plenty of spiders to eat.  If the diet goes away, the species
+   which feeds only on it will go extinct, but evolution does not have the
+   foresight to consider that.  This would be one case in which evolution
+   is not the same as <CA500>survival of the fittest>.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2005-5-24
+
+

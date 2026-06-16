@@ -1,0 +1,146 @@
+{
+  "id": "phase-5-specialized-legacy-batch-001",
+  "phase": "phase-5-specialized-legacy",
+  "phase_label": "Specialized Legacy Material",
+  "sequence": 1,
+  "status": "complete",
+  "page_count": 7,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/design/faqs/nfl/",
+      "source_path": "design/faqs/nfl/index.html",
+      "title": "Not a Free Lunch",
+      "content_kind": "design",
+      "phase": "phase-5-specialized-legacy",
+      "phase_label": "Specialized Legacy Material",
+      "batch_id": "phase-5-specialized-legacy-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 235217
+    },
+    {
+      "route": "/design/faqs/nfl/default.htm",
+      "source_path": "design/faqs/nfl/default.htm",
+      "title": "Not a Free Lunch",
+      "content_kind": "design",
+      "phase": "phase-5-specialized-legacy",
+      "phase_label": "Specialized Legacy Material",
+      "batch_id": "phase-5-specialized-legacy-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 235230
+    },
+    {
+      "route": "/design/faqs/nfl/replynfl.html",
+      "source_path": "design/faqs/nfl/replynfl.html",
+      "title": "Response? What Response?",
+      "content_kind": "design",
+      "phase": "phase-5-specialized-legacy",
+      "phase_label": "Specialized Legacy Material",
+      "batch_id": "phase-5-specialized-legacy-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 53989
+    },
+    {
+      "route": "/examples/rate-critique.html",
+      "source_path": "examples/rate-critique.html",
+      "title": "RATE’s Radiocarbon: Intrinsic or Contamination?",
+      "content_kind": "examples",
+      "phase": "phase-5-specialized-legacy",
+      "phase_label": "Specialized Legacy Material",
+      "batch_id": "phase-5-specialized-legacy-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 32085
+    },
+    {
+      "route": "/pictures/bt.html",
+      "source_path": "pictures/bt.html",
+      "title": "pictures/bt.html",
+      "content_kind": "assets",
+      "phase": "phase-5-specialized-legacy",
+      "phase_label": "Specialized Legacy Material",
+      "batch_id": "phase-5-specialized-legacy-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 730
+    },
+    {
+      "route": "/work/books/testentrypage.html",
+      "source_path": "work/books/testentrypage.html",
+      "title": "Page name",
+      "content_kind": "workbench_legacy",
+      "phase": "phase-5-specialized-legacy",
+      "phase_label": "Specialized Legacy Material",
+      "batch_id": "phase-5-specialized-legacy-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 812
+    },
+    {
+      "route": "/work/respond/guidelines.html",
+      "source_path": "work/respond/guidelines.html",
+      "title": "The Talk.Origins Archive: Guidelines for responding to feedback",
+      "content_kind": "workbench_legacy",
+      "phase": "phase-5-specialized-legacy",
+      "phase_label": "Specialized Legacy Material",
+      "batch_id": "phase-5-specialized-legacy-batch-001",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5062
+    }
+  ],
+  "status_counts": {
+    "translated": 28
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

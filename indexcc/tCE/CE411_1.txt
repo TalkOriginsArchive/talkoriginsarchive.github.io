@@ -1,0 +1,40 @@
+BriefClaim: Physicists found that the speed of light was once faster.
+Title: Physicists Say Light was Faster
+Keywords: speed of light, uniformity.
+
+Claim:
+
+Physicists Joao Magueijo at London's Imperial College and Andreas Albrecht
+at U. C. Davis say the speed of light immediately after the beginning of
+the universe was many times faster than it is now, and it has been slowing
+ever since.
+
+Source:
+
+Dolphin, Lambert, 1999.  On the constancy of the speed of light.
+ http://www.ldolphin.org/constc.shtml
+
+Response:
+
+1. Albrecht and Magueijo [1999] have hypothesized that the speed of light
+   may have been much faster (up to 10^69 times faster) in the very early
+   universe.  This is a theoretical model proposed as an alternative to
+   the inflation theory of the early universe to explain why the universe
+   is so uniform.  The increased speed applies only to the inflationary
+   stage of Big Bang models, which means only the first 10^-43 second or
+   so.  Their theory has not been verified by observation.
+
+2. Other evidence shows that the <CE411>speed of light has been
+   constant> for a long time.
+
+Links:
+
+References:
+
+1. Albrecht, A. and J. Magueijo, 1999.  Time varying speed of light as a
+   solution to cosmological puzzles.  _Physical Review D_ 59: 043516,
+   http://arxiv.org/abs/astro-ph/9811018
+
+Further Reading:
+
+Date: 2001-2-18, 2004-4-6

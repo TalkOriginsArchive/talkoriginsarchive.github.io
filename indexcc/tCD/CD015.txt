@@ -1,0 +1,137 @@
+BriefClaim: Zircons retain too much helium for an old earth.
+Title: Helium diffusion from zircons
+Keywords: helium, uranium, zircon, diffusion, radiometric decay, RATE group.
+
+Claim:
+
+Uranium and thorium in zircons produce helium as a by-product of their
+radioactive decay.  This helium seeps out of the the zircons quickly over
+a wide range of temperatures.  If the zircons really are about 1.5 billion
+years old (the age that conventional dating gives assuming a constant
+decay rate), almost all of the helium should have dissipated from the
+zircons long ago.  But there is a significant amount of helium still
+inside the zircons, showing their ages to be 6,000 +/- 2,000 years.
+Accelerated decay must have produced a billion years worth of helium in
+that short amount of time.
+
+Source:
+
+Humphreys, D. Russell, Steven A. Austin, John R. Baumgardner, and Andrew
+ A. Snelling, 2003.  Helium diffusion rates support accelerated nuclear
+ decay.
+ https://web.archive.org/web/20051224074107if_/http://www.icr.org/pdf/research/Helium_ICC_7-22-03.pdf
+Humphreys, D. Russell, Steven A. Austin, John R. Baumgardner and A. A.
+ Snelling, 2004.  Helium diffusion age of 6,000 years supports accelerated
+ nuclear decay.  _Creation Research Society Quarterly_ 41(1): 1-16.
+ https://web.archive.org/web/20160202213942if_/http://www.creationresearch.org/crsq/articles/41/41_1/Helium.htm
+#Wieland, Carl, 2003.  RATE group reveals exciting breakthroughs!
+# http://www.answersingenesis.org/docs2003/0821rate.asp
+
+Response:
+
+1. Subsurface pressure and temperature conditions affect how quickly the
+   helium diffuses out of zircons.  D. R. Humphreys et al. selected a rock
+   core sample from the Fenton Hill site, which Los Alamos National
+   Laboratory evaluated in the 1970s for geothermal energy production.
+   The area is within a few kilometers of the Valles Caldera, which has
+   gone through several periods of faulting and volcanism.  The rocks of
+   the Fenton Hill core have been fractured, brecciated, and intruded by
+   hydrothermal veins.  Excess helium is present in the rocks of the
+   Valles Caldera (Goff and Gardner 1994).  The helium may have
+   contaminated the gneiss that Humphreys et al. studied.  In short, the
+   entire region has had a very complex thermal history.  Based on oil
+   industry experience, it is essentially impossible to make accurate
+   statements about the helium-diffusion history of such a system.
+
+2. Scientific studies, especially those with radical implications, do not
+   mean much until the results have been replicated by others.  Many
+   scientific claims have disappeared entirely when others could not get
+   the same results.  Confidence in this particular paper is reduced by
+   certain points:
+    - Most measurement errors and variabilities are not reported.
+      Therefore, we do not know how accurate the results are.
+    - Humphreys et al. claimed that they studied zircons and biotites from
+      depths of 750 and 1,490 meters in the Jemez Granodiorite.  However,
+      Sasada (1989) showed that at those depths, the samples came from a
+      gneiss, an entirely different rock type.
+    - Because of math errors, the Q/Q<sub>0</sub> values (fraction of
+      helium retained), used by Humphreys et al. to derive their dates,
+      are too high.
+    - Humphreys et al. (2003) failed properly to total their data in
+      Appendix C, which means that they grossly underestimated the total
+      amount of helium released by their 750-meter-deep zircons.  The
+      amount of helium in the zircons greatly exceeds the amount that
+      would be expected from the radioactive decay of uranium over 1.5
+      billion years.  The high helium concentration may be due to samples
+      that were abnormally high in uranium and/or to the presence of
+      excess helium.
+    - Much is made of the fact that samples five and six retained the same
+      amount of helium, even though the amounts are probably at the limit
+      of what could be measured.  The possibility of measurement error
+      accounting for the results is never mentioned.
+    - If one discounts sample five, which is likely at the limit of
+      measurable precision, the conclusions of Humphreys et al. (2004)
+      rest on just three samples.  Such a small data set may be the basis
+      for further research, but not for drawing firm conclusions.
+    - Humphreys et al. (2003, note 9) referred to correcting "apparent
+      typographical errors" in the raw data, casting suspicion on
+      the validity of all the data.
+
+   The helium results could easily be due to an aberrant sample.  They
+   could be an artifact of the experimental or collecting method (e.g.,
+   defects in the zircons caused by rapid cooling) or from just plain
+   sloppiness.  We cannot know for sure until others have looked at the
+   issue, too.
+
+3. Producing a billion years of radioactive decay in a "Creation week" or
+   year-long flood would have produced a billion years worth of heat from
+   radioactive decay as well.  This would pretty much vaporize the earth.
+   Since the earth apparently has not been vaporized recently, we can be
+   confident that the accelerated decay did not occur.  (Humphreys
+   recognizes this "heat problem" but is currently unable to provide a
+   solution.)
+
+4. If helium concentrations stay high around the rocks, it is possible for
+   helium to diffuse into voids and fractures in the zircons, or at least
+   high helium pressures could reduce the rate at which helium diffuses
+   out.  Either of these scenarios would invalidate the helium diffusion
+   calculations in Humphreys et al. (2003, 2004).  Helium concentrations
+   within the earth become high enough for commercial mining.  The sample
+   measured by Humphreys et al. came from an area that is probably helium
+   enriched.  Helium deposits are common in New Mexico, and excess helium
+   has been found just a few miles from where the sample was taken (Goff
+   and Gardner 1994).  To test for the presence of excess helium in their
+   zircons, Humphreys et al. should look for <sup>3</sup>He.
+
+5. Uranium does not decay directly to lead; rather, it proceeds through
+   a series of multiple intermediate radioactive elements (Faure 1986,
+   284-287).  It takes about ten half-lives of the longest lived
+   intermediate to achieve secular equilibrium (i.e., each intermediate
+   having the same activity).  The uranium decay series contains elements
+   with half-lives well over 10,000 years.  If the decay rates changed
+   suddenly, we would not expect the various elements to be in a secular
+   equilibrium.  Humphreys et al. should test for this in their zircons.
+   Other uranium ores are at secular equilibrium, indicating a constant
+   decay rate for at least the last two million years.
+
+Links:
+
+Henke, Kevin R. 2005.  Young-earth creationist helium diffusion "dates":
+ Fallacies based on bad assumptions and questionable data.
+ http://www.talkorigins.org/faqs/helium/zircons.html
+
+References:
+
+1. Faure, G., 1986.  _Principles of Isotope Geology_, 2nd ed.  New York:
+   Wiley.
+2. Goff, F. and J. N. Gardner, 1994.  Evolution of a mineralized
+   geothermal system, Valles Caldera, New Mexico.  _Economic Geology_ 89:
+   1803-1832.
+3. Sasada, M., 1989.  Fluid inclusion evidence for recent temperature
+   increases at Fenton Hill Hot Dry Rock Test Site west of the Valles
+   Caldera, New Mexico, U.S.A.  _Journal of Volcanology and Geothermal
+   Research_ 36: 257-266.
+
+Further Reading:
+
+Date: 2003-8-23, 2005-3-18

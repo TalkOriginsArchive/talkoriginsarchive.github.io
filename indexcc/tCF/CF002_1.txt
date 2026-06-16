@@ -1,0 +1,38 @@
+BriefClaim: Tornadoes in junkyards do not build things.
+Title: Tornadoes in a Junkyard
+Keywords: order, complexity, tornado, junkyard, creation, abiogenesis.
+
+Claim:
+
+Order does not spontaneously form from disorder.  A tornado passing
+through a junkyard would never assemble a 747.
+
+Source:
+
+Hoyle, Fred, 1983.  _The Intelligent Universe_.  New York: Holt, Rinehart
+ and Winston, pp. 18-19.
+
+Response:
+
+1. This claim is irrelevant to the theory of evolution itself, since
+   evolution does not occur via assembly from individual parts, but rather
+   via selective gradual modifications to existing structures.  Order can
+   and does result from such evolutionary processes.
+
+2. Hoyle applied his analogy to abiogenesis, where it is more applicable.
+   However, the general principle behind it is wrong.  Order arises
+   spontaneously from disorder all the time.  The tornado itself is an
+   example of order arising spontaneously.  Something as complicated as
+   people would not arise spontaneously from raw chemicals, but there is
+   no reason to believe that something as simple as a self-replicating
+   molecule could not form thus.  From there, evolution can produce more
+   and more complexity.
+
+Links:
+
+References:
+
+Further Reading:
+
+
+Date: 2001-2-18

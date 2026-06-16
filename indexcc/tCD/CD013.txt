@@ -1,0 +1,173 @@
+BriefClaim: K-Ar dating gives inaccurate results for modern volcanic rocks.
+Title: K-Ar dating of modern rocks.
+Keywords: radiometric dating
+
+Claim:
+
+Potassium-argon dating of rocks from lava flows known to be modern
+gave ages millions to billions of years older.
+
+Source:
+
+SciCre, pp. 146-147.
+
+Response:
+
+1. Argon may be incorporated with potassium at time of formation.  This is
+   a real problem, but it is easily overcome either by careful selection
+   of the material being dated or by using <sup>40</sup>Ar/<sup>39</sup>Ar
+   dating instead of K-Ar dating.
+
+   In the case of the claim about recent lava yielding dates that are
+   millions to billions of years old, H. M. Morris (1974) misstated the
+   facts concerning these "anomalous" dates as published in Funkhouser and
+   Naughton (1968).  The main misstatements of fact by Morris are as
+   follows:
+
+    - It was not the lava that was dated, but inclusions of olivine,
+      called "xenoliths", present within the lava.  These gave anomalously
+      old age because they contained excess argon that the enclosing lava
+      did not.
+
+    - Morris failed to mention that the lava matrix without the
+      xenoliths was dated and found to be too young to date using
+      potassium-argon.  (Funkhouser and Naughton [1968, 4603], stated that
+      the matrix rock "can be said to contain no measurable radiogenic
+      argon within experimental error.")  This is consistent with the
+      recent age of lavas and the state of the art of K-Ar dating at that
+      time.  The presence of excess argon was only a problem for the
+      xenoliths but not for the lava containing them.
+
+   Morris cited other examples of anomalous dates produced by excess argon
+   and falsely claimed that it is a universal problem for K-Ar dating.  The
+   problem is not universal, as the majority of minerals and rocks dated
+   by K-Ar do not contain the excess argon.  Where excess argon is a
+   problem, accurate, reliable dates typically can be obtained using
+   <sup>40</sup>Ar/<sup>39</sup>Ar dating, as demonstrated by Dalrymple
+   (1969) and Renne et al. (1997) and discussed by Dalyrmple (2000).
+
+2. Morris's complaints are dated in that, for the most part, geologists no
+   longer use the K-Ar dating technique as was practiced in 1974.
+   Instead, K-Ar dating has been largely replaced by the related
+   <sup>40</sup>Ar/<sup>39</sup>Ar dating technique.  This change also
+   solved other problems that Morris complained about in his discussion of
+   the K-Ar dating technique.  These complaints were as follows:
+
+    a. Claim: K-Ar dating techniques must be calibrated by uranium-lead
+       (U-Pb) dating.
+
+       Response: Some calibrations between U-Pb and K-Ar were done in the
+       1940s and early 1950s, but the decay rates of all the different
+       radioisotopes involved are now known to within 1 percent, making
+       the different dating techniques independent.
+
+       With <sup>40</sup>Ar/<sup>39</sup>Ar dating, it is possible to
+       calibrate this dating method by using volcanic deposits created in
+       historic volcanic eruptions -- for example, the eruption of Mount
+       Vesuvius on August 24, 79 C.E. (Renne et al. 1997).  In addition,
+       <sup>40</sup>Ar/<sup>39</sup>Ar dating can be compared not only
+       with U-Pb dating techniques but also with other absolute dating
+       techniques -- for example, K-Ar, Rb-Sr, and Sm-Nd dating techniques
+       -- which all provide dates consistent with each other and with
+       associated <sup>40</sup>Ar/<sup>39</sup>Ar dates.  This has been
+       demonstrated by the dating of chondrite meteorites (Dalrymple 1991)
+       and tektites and other ejecta and deposits created by the giant
+       meteorite impact at Chicxulub in the Yucatan Peninsula (Dalrymple
+       et al. 1993).
+
+    b. Claim: The potassium-argon is an <CD001>open system>.
+
+       Response: The papers cited by Morris fail to probe this point.  The
+       first paper simply demonstrates that rock altered by weathering
+       cannot be dated.  This is a common-sense conclusion understood by
+       geologists literate in the basics of their profession; it is
+       irrelevant to the unaltered minerals that are typically
+       dated using K-Ar, <sup>40</sup>Ar/<sup>39</sup>Ar, and other
+       techniques.  The final paper claims potassium is quite mobile
+       because potassium can be extracted from iron meteorites by using
+       distilled water.  However, K-Ar dating commonly uses potassium
+       silicate minerals, which are very insoluble in water and resist
+       weathering.  Potassium cannot be significantly leached from the
+       minerals used in K-Ar dating, or, conversely, the minerals from
+       which significant potassium can be leached are not the minerals
+       used in K-Ar dating.
+
+    c. Claim: The decay rate of potassium is <CF210>subject to change>.
+
+       Response: This is simply not true.
+
+    d. Claim: Argon maybe incorporated with potassium at time of
+       formation.  
+
+       Response: See first point (a) above.
+
+    e. Claim: K-Ar ages are extremely variable.
+
+       Response: As previously noted, K-Ar and
+       <sup>40</sup>Ar/<sup>39</sup>Ar dating both provide extremely
+       consistent dates when the methods are used properly (Dalrymple
+       1991; 2000).  The single paper (Engels 1971) cited by Morris
+       clearly stated that variability resulted from presence of unwanted
+       impurities in the specific mineral being dated.  If the sample
+       dated consisted of an absolutely pure mineral, there would not be
+       any variability in the K-Ar dates obtained from them.
+
+Links:
+
+harlequin2, 2001. Ar-Ar dating assumes there is no excess argon?
+ https://web.archive.org/web/20031009042831if_/http://members.cox.net/ardipithecus/evol/lies/lie024.html
+
+harlequin2, 2001. 200 year old lava dated 2.96 billion years old?
+ https://web.archive.org/web/20031009041628if_/http://members.cox.net/ardipithecus/evol/lies/lie023.html
+
+Lindsay, Don, 2000.  Fresh lava dated as 22 million years old.
+ https://web.archive.org/web/20240607153731if_/http://www.don-lindsay-archive.org/creation/hawaii.html
+
+Stassen, Chris, 1999 (Jan.).  Feedback response.
+ http://www.talkorigins.org/origins/feedback/jan99.html (4th response
+ down)
+
+References:
+
+1. Dalrymple, G. Brent, 1969.  <sup>40</sup>Ar/<sup>36</sup>Ar analyses of
+   historic lava flows.  _Earth and Planetary Science Letters_ 6: 47-55.
+2. Dalrymple, G. Brent, 1991.  _The Age of the Earth_. Stanford, CA: 
+   Stanford University Press.
+3. Dalrymple, G. Brent, 2000 (May/Jun).  Radiometric dating does work!
+   Some examples and a critique of a failed creationist strategy.  RNCSE
+   20(3): 14-17.
+   https://web.archive.org/web/20040808141102if_/http://www.ncseweb.org/resources/rncse_content/vol20/6061_radiometeric_dating_does_work_12_30_1899.asp
+4. Dalrymple, G. B., G. A. Izett, L. W. Snee and J. D. Obradovich, 1993.
+   <sup>40</sup>Ar/<sup>39</sup>Ar age spectra and total-fusion ages of
+   tektites from Cretaceous-Tertiary boundary sedimentary rocks in the
+   Beloc formation, Haiti.  _United States Geological Survey Bulletin_
+   no. 2065.
+5. Engels, J. C., 1971.  Effects of sample purity on discordant mineral
+   ages found in K-Ar dating.  _Journal of Geology_ 79: 609-616.
+6. Funkhouser, J. G. and J. J. Naughton, 1968.  Radiogenic helium and
+   argon in ultramafic inclusions from Hawaii.  _Journal of Geophysical
+   Research_ 73(14): 4601-4607.
+7. Morris, 1974. (see above.)
+8. Renne, P. R., W. D. Sharp, A. L. Deino, G. Orsi and L. Civetta, 1997.
+   <sup>40</sup>Ar/<sup>39</sup>Ar dating into the historical realm:
+   Calibration against Pliny the Younger.  _Science_ 277: 1279-1280.
+
+Further Reading:
+
+Attendorn, H.-G. and R. N. C. Bowen, 1997.  _Radioactive 
+ and Stable Isotope Geology_.  London: Chapman & Hall.
+
+Faure, G., 1986. _Principles of Isotope Geology_, 2nd ed.  New York:
+ Wiley.
+
+McDougall, I. and T. M. Harrison, 1988.  _Geochronology and
+ Thermochronology by the 40Ar/39Ar Method_. Oxford Monographs on Geology
+ and Geophysics no.9. New York: Oxford. (technical)
+
+Thompson, Timothy, 2003. A radiometric dating resource list.
+ http://www.tim-thompson.com/radiometric.html
+
+Wiens, Roger C., 1994, 2002.  Radiometric dating: A Christian perspective.
+ http://www.asa3.org/ASA/resources/Wiens.html
+
+Date: 2003-6-9, 2004-9-21

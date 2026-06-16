@@ -1,0 +1,40 @@
+BriefClaim: Oil seepage would have drained offshore reservoirs in 20,000 years.
+Title: Offshore oil seepage
+Keywords: oil
+
+Claim:
+
+It is estimated that there are about 100 billion tons of offshore oil, and
+that about 5 million tons of oil seeps into the ocean each year.  At this
+rate, it would take about 20,000 years to deplete that quantity.  If oil
+is 50 million years old, a quantity 2500 times the present reservoirs
+would have been lost to seepage.
+
+Source:
+
+#Epperson, A. Ralph, 1985.  _The Unseen Hand_. Publius Press.
+Morris, H. M. and G. E. Parker, 1982.  _What is Creation Science?_
+
+Response:
+
+1. The estimate of 100 billion tons probably refers to *recoverable* oil,
+   which is a tiny fraction of the total.  Most of the seepage probably
+   does not come from recoverable oil deposits, which are generally capped
+   by impermeable layers.  Oil is formed spread out in the deep sediments.
+   It then rises towards the surface -- some of it encounters an
+   impermeable layer along the way, and is captured there, stable over
+   geological time -- and some of it does not have anything impermeable on
+   top, and seeps out.  The former is the 100 Gt total, the latter is the
+   5 Mt per year.
+
+Links:
+
+References:
+
+Further Reading:
+
+Dalrymple, G. B., 1984.  How old is the earth? a reply to "scientific"
+ creationism.  In: _Evolutionists Confront Creationists_, F. Awbrey and
+ W. M. Thwaites, eds., San Francisco: Pacific Division, AAAS, pp. 66-131.
+
+Date: 2003-8-13, 2004-9-21

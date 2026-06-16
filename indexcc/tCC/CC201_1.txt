@@ -1,0 +1,44 @@
+BriefClaim: Punctuated equilibrium was ad hoc to justify gaps.
+Title: Punctuated equilibrium for the gaps
+Keywords: phyletic gradualism, punctuated equilibrium, fossil, gap
+
+Claim:
+
+The theory of punctuated equilibrium was proposed ad hoc to explain away
+the embarrassing gaps in the fossil record.
+
+Source:
+
+Yahya, Harun, 2003.  _Darwinism Refuted_, The invalidity of punctuated
+ equilibrium. 
+ https://web.archive.org/web/20200629032912if_/http://www.darwinismrefuted.com/equilibrium.html
+
+Response:
+
+1. The theory of punctuated equilibrium is based on positive evidence,
+   including extensive studies of living and extinct species groups
+   (Eldredge and Gould 1972).
+
+2. The idea of phyletic gradualism, which is invoked to justify a lack of
+   gaps, <CC201>fails to fit the evidence> of population biology.
+
+3. There is nothing wrong with proposing theories to fit the data.
+
+Links:
+
+Elsberry, Wesley, 1996.  Punctuated equilibria.
+ http://www.talkorigins.org/faqs/punc-eq.html
+
+References:
+
+1. Eldredge, N. and S. J. Gould, 1972.  Punctuated equilibria: An
+   alternative to phyletic gradualism. In: _Models In Paleobiology_ (T.
+   J. M. Schopf, ed.), San Francisco: Freeman, Cooper & Co., 82-115.
+
+Further Reading:
+
+Gould, Stephen J. 1983.  Evolution as fact and theory.  In _Hen's Teeth
+ and Horse's Toes_, New York: W. W. Norton & Company, pp. 253-262.
+ http://www.stephenjaygould.org/library/gould_fact-and-theory.html
+
+Date: 2003-5-24, 2003-6-22

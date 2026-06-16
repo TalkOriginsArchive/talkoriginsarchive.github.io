@@ -1,0 +1,85 @@
+BriefClaim: The eye is too complex to have evolved.
+Title: Eye complexity
+Keywords: eye, complexity, incredulity.
+
+Claim:
+
+The eye is too complex to have evolved.
+
+Source:
+
+Brown, Walt, 1995. _In the Beginning: Compelling evidence for creation
+ and the Flood_.  Phoenix, AZ: Center for Scientific Creation, p. 7.
+Hitching, Francis, 1982. _The Neck of the Giraffe_, New York: Meridian,
+ pp. 66-68.
+
+Response:
+
+1. This is the quintessential example of the <CA100>argument from
+   incredulity>.  The source making the claim usually <CA113_1>quotes
+   Darwin> saying that the evolution of the eye seems "absurd in the
+   highest degree".  However, Darwin follows that statement with a
+   three-and-a-half-page proposal of intermediate stages through which
+   eyes might have evolved via gradual steps (Darwin 1872).
+
+   - photosensitive cell
+   - aggregates of pigment cells without a nerve
+   - an optic nerve surrounded by pigment cells and covered by translucent
+     skin
+   - pigment cells forming a small depression
+   - pigment cells forming a deeper depression
+   - the skin over the depression taking a lens shape
+   - muscles allowing the lens to adjust
+
+   All of these steps are known to be viable because all exist in animals
+   living today.  The increments between these steps are slight and may be
+   broken down into even smaller increments.  Natural selection should,
+   under many circumstances, favor the increments.  Since eyes do not
+   fossilize well, we do not know that the development of the eye followed
+   exactly that path, but we certainly cannot claim that no path exists.
+
+   Evidence for one step in the evolution of the vertebrate eye comes from
+   comparative anatomy and genetics.  The vertebrate
+   &beta;&gamma;-crystallin genes, which code for several proteins crucial
+   for the lens, are very similar to the _Ciona_ &beta;&gamma;-crystallin
+   gene.  _Ciona_ is an urochordate, a distant relative of vertebrates.
+   _Ciona_'s single &beta;&gamma;-crystallin gene is expressed in its
+   otolith, a pigmented sister cell of the light-sensing ocellus.  The
+   origin of the lens appears to be based on co-optation of previously
+   existing elements in a lensless system. 
+
+   Nilsson and Pelger (1994) calculated that if each step were a 1 percent
+   change, the evolution of the eye would take 1,829 steps, which could
+   happen in 364,000 generations.
+
+
+Links:
+
+Lindsay, Don, 1998. How long would the fish eye take to evolve? 
+ https://web.archive.org/web/20230310010145if_/http://www.don-lindsay-archive.org/creation/eye_time.html
+
+References:
+
+1. Darwin, C., 1872.  _The Origin of Species_, 1st Edition.  Senate,
+   London, chpt. 6,
+   http://www.talkorigins.org/faqs/origin/chapter6.html
+2. Nilsson, D.-E. and S. Pelger, 1994. A pessimistic estimate of the time
+   required for an eye to evolve.  _Proceedings of the Royal Society of
+   London, Biological Sciences_, 256: 53-58.
+
+3. Shimeld, Sebastian M. et al. 2005.  Urochordate
+   &beta;&gamma;-crystallin and the evolutionary origin of the vertebrate
+   eye lens.  _Current Biology_ 15: 1684-1689.
+
+Further Reading:
+
+Dawkins, Richard, 1996.  _Climbing Mount Improbable_, New York:
+ W.W. Norton, chpt. 5.
+
+Land, M. F. and D.-E. Nilsson, 2002.  _Animal Eyes_.  Oxford University
+ Press.
+
+Fernald, Russell D. 2006.  Casting a genetic light on the evolution of
+ eyes.  _Science_ 313: 1914-1918.
+
+Date: 2001-2-17, 2007-11-10

@@ -1,0 +1,88 @@
+BriefClaim: There are no fossil ancestors of plants.
+Title: Plant fossil record
+Keywords: paleobotany, fossil
+
+Claim:
+
+The fossil record does not show the origin of any group of
+modern plants from its beginning.
+
+Source:
+
+SciCre, pp. 86-87.
+
+Response:
+
+1. The fossil record shows the origins of several groups of modern plants.
+   The groups listed here are some of the most prominent:
+
+    a. Land plants.  Several fossils exist showing their origin (Bateman
+       et al. 1998; Kenrick and Crane 1997).  Molecular data combined with
+       the fossil evidence shows that the first land plants were
+       liverworts (Qiu et al. 1998).  A fossil Ordovician fungus (about
+       460 million years ago) has the same form as modern arbuscular
+       mycorrhizal fungi, indicating that the earliest land plants had
+       this kind of symbiotic relationship with fungi (Redecker et
+       al. 2000).
+
+    b. Seed plants.  The first trees were also among the first
+       free-sporing plants sharing characteristics with seed plants
+       (Meyer-Berthaud et al. 1999).
+
+    c. Angiosperms.  Jurassic fossils of _Archaefructus_ show some of the
+       earliest and most primitive angiosperms (Sun et al. 2002).  Ren
+       (1998) described some Jurassic flies adapted for pollination,
+       suggesting that angiosperms may have originated by then.  Dilcher
+       (2000) briefly reviews angiosperm paleobotany.  Major events in
+       their evolution were the appearance of closed carpels, bilaterally
+       symmetrical flowers, and large fruits.
+
+    d. Monocotyledons.  The early fossils of this group are meager, but
+       some fossils exist (Gandolfo et al. 1998).
+
+Links:
+
+McCourt, R. M., R. L. Chapman, M. A. Buchheim and B. D. Mishler, 1996.
+ Green Plants.
+ https://web.archive.org/web/20250501085119if_/http://tolweb.org/tree?group=Green_plants&contgroup=Eukaryotes (Part of
+ the Tree of Life Web Project.  This and the pages it links to have
+ abundant additional references.)
+
+References:
+
+1. Bateman, R. M. et al., 1998.  Early evolution of land plants: Phylogeny,
+   physiology, and ecology of the primary terrestrial radiation.  _Annual
+   Review of Ecology and Systematics_ 29: 263-292.
+2. Dilcher, David, 2000.  Toward a new synthesis: major evolutionary
+   trends in the angiosperm fossil record.  PNAS 97: 7030-7036.
+   https://web.archive.org/web/20081122152832if_/http://www.pnas.org/cgi/content/abstract/97/13/7030
+3. Gandolfo, M. A., K. C. Nixon, W. L. Crepet, D. W. Stevenson and E. M.
+   Friis, 1998.  Oldest known fossils of monocotyledons.  _Nature_ 394:
+   532-533.
+4. Kenrick, P. and P. R. Crane, 1997.  The origin and early evolution of
+   plants on land.  _Nature_ 389: 33-39.
+5. Meyer-Berthaud, B., S. E. Scheckler and J. Wendt, 1999.
+   _Archaeopteris_ is the earliest known modern tree.  _Nature_ 398:
+   700-701.
+6. Qiu, Y.-L., Y. Cho, J. C. Cox and J. D. Palmer, 1998.  The gain 
+   of three mitochondrial introns identifies liverworts as the earliest 
+   land plants.  _Nature_ 394: 671-674.
+7. Redecker, D., R. Kodner and L. E. Graham, 2000.  Glomalean fungi from
+   the Ordovician.  _Science_ 289: 1920-1921.  See also: Blackwell,
+   M., 2000.  Terrestrial life -- fungal from the start?  _Science_
+   289: 1884-1885.
+8. Ren, Dong, 1998.  Flower-associated Brachycera flies as fossil
+   evidence for Jurassic angiosperm origins.  _Science_ 280: 85-88.  See
+   also: Labandeira, C. C., 1998.  How old is the flower and the fly?
+   _Science_ 280: 57-59.
+9. Sun, Ge, et al., 2002.  _Archefructaceae_, a new basal angiosperm
+   family.  _Science_ 296: 899-904.  See also: Stokstad, Erik, 2002.
+   Fossil plants hints how first flowers bloomed.  _Science_ 296: 821.
+
+Further Reading:
+
+Bateman, R. M. et al, 1998.  Early evolution of land plants: Phylogeny,
+ physiology, and ecology of the primary terrestrial radiation.  _Annual
+ Review of Ecology and Systematics_ 29: 263-292. (technical)
+
+Date: 2003-8-8

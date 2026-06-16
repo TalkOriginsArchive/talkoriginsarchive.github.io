@@ -1,0 +1,86 @@
+BriefClaim: Out-of-order strata occur at the Lewis Overthrust.
+Title: Lewis Overthrust
+Keywords: strata, out-of-order, fault.
+
+Claim:
+
+At the Lewis Overthrust in Alberta and Montana, Precambrian limestone
+rests on top of Cretaceous shales, which conventionally are dated much
+later.  The evidence, and common sense, does not support the explanation
+that the discontinuity is caused by a thrust fault.
+
+Source:
+
+Price, George McCready, 1913. _The Fundamentals of Geology_. Mountain
+ View, CA: Pacific Press Publishing Assoc., pp. 7-8, 86-101.
+GenesisFlood, pp. 185-195.
+
+Response:
+
+1. Contrary to the claim, geologists do find convincing evidence of a
+   thrust fault between the strata (Strahler 1987, chap. 40).  This is
+   true even of young-earth creationists with geology training.  For
+   example, Kurt Wise (1986, 136) said that "[a] close examination of the
+   contact between the Cretaceous and Precambrian rocks leaves no doubt
+   that the contact is a fault contact."
+
+2. The strata on either side of the discontinuity are well ordered and
+   have the order one would expect from a thrust fault.
+
+3. The photo in Whitcomb and Morris's (1961) book _The Genesis Flood_
+   showing the "Lewis Overthrust contact line" (Figure 17, p. 190) is not
+   really a photo of the contact line, but of rocks 200 feet above it.
+   The photographs that Whitcomb and Morris used were taken by Walter
+   Lammerts, a botanist and geneticist, on his vacation (Numbers 1992,
+   216-219).
+
+4. Whitcomb and Morris (1961, 187) quoted a description of the Lewis
+   Overthrust out of context to give the impression that rocks along the
+   fault are undisturbed.  They quoted Ross and Rezak (1959),
+
+    "Most visitors, especially those who stay on the roads, get the
+     impression that the Belt strata are undisturbed and lie almost as flat
+     today as they did when deposited in the sea which vanished so many
+     [million] years ago.
+
+   Whitcomb and Morris silently omit the word "million," and the original
+   paper (Ross and Rezak 1959, 420) continues:
+
+    "Actually, they are folded, and in certain zones they are intensely
+     so.  From points on and near the trails in the park it is possible to
+     observe places where the beds of the Belt series, as revealed in
+     outcrops on ridges, cliffs, and canyon walls, are folded and crumpled
+     almost as intricately as the soft younger strata in the mountains
+     south of the park and in the Great Plains adjoining the park to the
+     east.
+
+Links:
+
+Hanes, Joel. n.d.  Geology in error? The Lewis Thrust.
+ http://www.talkorigins.org/faqs/lewis-overthrust.html
+
+Solum, John G. 2001.  Thrust faults.
+ http://www.talkorigins.org/faqs/lewis/
+
+References:
+
+1. Numbers, Ronald L., 1992.  _The Creationists_. New York: Knopf.
+2. Ross, C. P. and Richard Rezak, 1959.  The rocks and fossils of Glacier
+   National Park: The story of their origin and history.  _U. S.
+   Geological Survey Professional Paper 294-K_.
+3. Strahler, Arthur N., 1987.  _Science and Earth History: The
+   Evolution/Creation Controversy_.  Buffalo, NY: Prometheus Books.
+3. Weber, C. G., 1980.  Common creationist attacks on
+   geology.  _Creation/Evolution_ 2: 10-25.
+4. GenesisFlood.
+5. Wise, K. P., 1986. The way geologists date! In: _Proceedings of the
+   First International Conference on Creationism_, R. E. Walsh,
+   C. L. Brooks and R. S. Crowell (eds.), Pittsburgh, PA: Creation
+   Science Fellowship, 1: 135-138.
+
+Further Reading:
+
+Weber, Christopher Gregory, 1980.  Common creationist attacks on
+ geology.  _Creation/Evolution_ 2: 10-25.
+
+Date: 2001-2-18, 2005-10-3

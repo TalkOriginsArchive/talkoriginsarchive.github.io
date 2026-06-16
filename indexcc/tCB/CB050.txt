@@ -1,0 +1,84 @@
+BriefClaim: Abiogenesis is speculative without evidence.
+Title: Abiogenesis is speculation?
+Keywords: abiogenesis, science, evidence, observation.
+
+Claim:
+
+Abiogenesis is speculative without evidence.  Since it has not been
+observed in the laboratory, it is not science.
+
+Source:
+
+LifeHow, pp. 50-52.
+
+Response:
+
+1. There is a great deal about abiogenesis that is unknown, but
+   investigating the unknown is what science is for.  Speculation is part
+   of the process.  As long as the speculations can be tested, they are
+   scientific.  Much scientific work has been done in testing different
+   hypotheses relating to abiogenesis, including the following:
+
+   - research into the formation of long proteins (Ferris et al. 1996;
+     Orgel 1998; Rode et al. 1999);
+   - synthesis of complex molecules in space (Kuzicheva and Gontareva
+     1999; Schueller 1998; see also:
+     <CB030>"UV would have destroyed early molecules">.);
+   - <CB035>research into molecule formation in different
+     atmospheres>; and
+   - synthesis of constituents in the iron-sulfur world around
+     hydrothermal vents (Cody et al. 2000; Russell and Hall 1997).
+
+2. See also the references and suggested readings with
+   <CB010_2>Primitive cells are too complex>,
+   <CB035>Abiogenesis experiments assume a reducing atmosphere>,
+   <CB015>DNA needs proteins to form, proteins need DNA>,
+   <CB040>Amino acids are left-handed>,
+
+Links:
+
+References:
+
+1. Cody, G. D. et al. 2000.  Primordial carbonylated iron-sulfur
+   compounds and the synthesis of pyruvate.  _Science_ 289: 1337-1340.
+   See also W&auml;chtersh&auml;user, 2000 (below).
+2. Ferris, J. P., A. R. Hill Jr., R. Liu and L. E. Orgel. 1996. Synthesis
+   of long prebiotic oligomers on mineral surfaces.  _Nature_ 381: 59-61.
+3. Kuzicheva, E. A. and N. B. Gontareva. 1999.  The possibility of
+   nucleotide abiogenetic synthesis in conditions of 'KOSMOS-2044'
+   satellite space flight.  _Advances in Space Research_ 23(2): 393-396.
+4. Orgel, L. E. 1998.  Polymerization on the rocks: theoretical
+   introduction.  _Origins of Life and Evolution of the Biosphere_ 28:
+   227-34.
+5. Rode, B. M., H. L. Son and Y. Suwannachot. 1999.  The combination of
+   salt induced peptide formation reaction and clay catalysis: a way to
+   higher peptides under primitive earth conditions.  _Origins of Life and
+   Evolution of the Biosphere_ 29: 273-86.
+6. Russell, M. J. and A. J. Hall. 1997.  The emergence of life from iron
+   monosulphide bubbles at a submarine hydrothermal redox and pH front.
+   _Journal of the Geological Society of London_ 154: 377-402.
+   https://web.archive.org/web/20051117064716if_/http://www.gla.ac.uk/Project/originoflife/html/2001/pdf_articles.htm
+8. Schueller, Gretel. 1998.  Stuff of life.  _New Scientist_ 159(2151) (12
+   Sep.): 31-35,
+   https://web.archive.org/web/20041213165608if_/http://www.newscientist.com/hottopics/astrobiology/stuffof.jsp
+
+Further Reading:
+
+RESA. n.d.  Origins of life.  https://web.archive.org/web/20010413014348if_/http://www.resa.net/nasa/origins_life.htm
+
+W&auml;chtersh&auml;user, G&uuml;nter. 2000.  Life as we don't know it.
+ _Science_ 289: 1307-1308.
+
+#The proceedings of the 1997 Gordon Conference on "The Origin of Life".
+# http://www2.astrobiology.com/astro/conference/1997.gordon.origin.html
+#[broken link]
+
+#Philipp Baaske et al. 2007.  Extreme accumulation of nucleotides in
+#simulated hydrothermal pore systems PNAS (May 29) 104(22): 9346-9351.
+
+Deamer, D. W. and J. Ferris. 1999.  The origins and early evolution of
+ life.  [the table of contents of the journal _Origins of Life and
+ Evolution of the Biosphere_ and related information]
+ https://web.archive.org/web/20010124055100if_/http://www.chemistry.ucsc.edu/~deamer/home.html
+
+Date: 2001-2-17

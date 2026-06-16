@@ -1,0 +1,36 @@
+BriefClaim: Lunar moonquakes, lava flows, and gas emissions indicates the moon's youth.
+Title: Active moon
+Keywords: moonquake
+
+Claim:
+
+Lunar activity such as moonquakes, lava flows, and gas emissions indicates
+the moon's youth.
+
+Source:
+
+Pathlights, n.d.  The age of the earth - 1.
+ https://web.archive.org/web/20210415082133if_/http://www.pathlights.com/ce_encyclopedia/05agee2.htm 
+
+Response:
+
+1. Moonquakes can be explained by tidal stresses and by lunar contraction
+   (due to the highlands gradually sinking).  Moonquakes, in fact, provide
+   evidence that the moon has a solid core, consistent with its old age.
+
+2. There is no evidence for recent lava flows not associated with meteor
+   impacts.
+
+3. Outgassing is consistent with an old moon.  It can take a long time for
+   gasses to work their way to the surface.
+
+Links:
+
+References:
+
+Further Reading:
+
+LANL. n.d.  The Los Alamos built spectrometers.
+ https://web.archive.org/web/20060709220119if_/http://lunar.lanl.gov/pages/spectros.html
+
+Date: 2003-5-2

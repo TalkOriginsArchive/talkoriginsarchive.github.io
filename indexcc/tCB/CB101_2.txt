@@ -1,0 +1,118 @@
+BriefClaim: Mutations do not produce new features.
+Title: Mutations and new features.
+Keywords: mutation, novelty.
+
+Claim:
+
+Mutations only vary traits that are already there.  They do not produce
+anything new.
+
+Source:
+
+LifeHow,
+ p. 103.
+SciCre, 51.
+
+Response:
+
+1. Variation of traits is production of novelty, especially where there
+   was no variation before.  The accumulation of slight modifications is
+   a basis of evolution.
+
+2. Documentation of mutations producing new features includes the
+   following:
+    - the ability of a bacterium to digest nylon (Negoro et al. 1994;
+      Thomas n.d.; Thwaites 1985);
+    - adaptation in yeast to a low-phosphate environment (Francis and
+      Hansche 1972; 1973; Hansche 1975);
+    - the ability of _E. coli_ to hydrolyze galactosylarabinose (Hall
+      1981; Hall and Zuzel 1980);
+    - evolution of multicellularity in a unicellular green alga (Boraas
+      1983; Boraas et al. 1998);
+    - modification of _E. coli_'s fucose pathway to metabolize propanediol
+      (Lin and Wu 1984);
+    - evolution in _Klebsiella_ bacteria of a new metabolic pathway for
+      metabolizing 5-carbon sugars (Hartley 1984);
+
+   There is evidence for mutations producing other novel proteins:
+    - Proteins in the histidine biosynthesis pathway consist of beta/alpha
+      barrels with a twofold repeat pattern.  These apparently evolved
+      from the duplication and fusion of genes from a half-barrel
+      ancestor (Lang et al. 2000).
+
+   Laboratory experiments with directed evolution indicate that the
+   evolution of a new function often begins with mutations that have little
+   effect on a gene's original function but a large effect on a second
+   function.  Gene duplication and divergence can then allow the new
+   function to be refined.  (Aharoni et al. 2004)
+
+3. For evolution to operate, the source of variation does not matter; all
+   that matters is that heritable variation occurs.  Such variation is
+   shown by the fact that selective breeding has produced novel features
+   in many species, including cats, dogs, pigeons, goldfish, cabbage, and
+   geraniums.  Some of the features may have been <CB110>preexisting> in
+   the population originally, but not all of them were, especially
+   considering the creationists' view that the animals originated from a
+   single pair.
+
+Links:
+
+Max, Edward E. 1999.  The evolution of improved fitness by random
+ mutation plus selection.   http://www.talkorigins.org/faqs/fitness/
+
+Musgrave, Ian, Steven Pirie-Shepherd, and Douglas Theobald. 2003.
+ Apolipoprotein AI mutations and information.
+ http://www.talkorigins.org/faqs/information/apolipoprotein.html
+
+Thomas, Dave. n.d.  Evolution and information: The nylon bug.
+ http://www.nmsr.org/nylon.htm
+
+References:
+
+1. Aharoni, A., L. Gaidukov, O. Khersonsky, S. McQ. Gould, C. Roodveldt
+   and D. S. Tawfik. 2004.  The 'evolvability' of promiscuous protein
+   functions.  _Nature Genetics_ [Epub Nov. 28 ahead of print]
+1. Boraas, M. E. 1983.  Predator induced evolution in chemostat
+   culture.  _EOS_ 64: 1102.
+2. Boraas, M. E., D. B. Seale, and J. E. Boxhorn. 1998.  Phagotrophy by a
+   flagellate selects for colonial prey: A possible origin of
+   multicellularity.  _Evolutionary Ecology_ 12: 153-164.
+2. Francis, J. E. and P. E. Hansche. 1972.  Directed evolution of
+   metabolic pathways in microbial populations. I. Modification of the
+   acid phosphatase pH optimum in _S. cerevisiae_.  _Genetics_ 70: 59-73.
+3. Francis, J. E. and P. E. Hansche. 1973.  Directed evolution of metabolic
+   pathways in microbial populations. II. A repeatable adaptation in
+   _Saccharomyces cerevisiae_.  _Genetics_ 74: 259-265.
+4. Hall, B. G. 1981.  Changes in the substrate specificities of an enzyme
+   during directed evolution of new functions.  _Biochemistry_ 20:
+   4042-4049.
+5. Hall, B. G. and T. Zuzel. 1980.  Evolution of a new enzymatic function
+   by recombination within a gene.  PNAS 77(6): 3529-33.
+6. Hansche, P. E. 1975. Gene duplication as a mechanism of genetic
+   adaptation in _Saccharomyces cerevisiae_.  _Genetics_ 79: 661-674.
+7. Hartley, B. S. 1984.  Experimental evolution of ribitol dehydrogenase.
+   In: _Microorganisms as Model Systems for Studying Evolution_, R. P.
+   Mortlock, ed., New York: Plenum, pp. 23-54.
+8. Lang, D. et al. 2000.  Structural evidence for evolution of the
+   beta/alpha barrel scaffold by gene duplication and fusion.  _Science_
+   289: 1546-1550.  See also: Miles, E. W. and D. R. Davies, 2000.  On the
+   ancestry of barrels.  _Science_ 289: 1490.
+9. Lin, E. C. C. and T. T. Wu. 1984.  Functional divergence of the
+   L-Fucose system in mutants of _Escherichia coli_. In: Microorganisms as
+   Model Systems for Studying Evolution, R. P. Mortlock, ed., New York:
+   Plenum, pp. 135-164.
+9. Negoro, S., K. Kato, K. Fujiyama and H. Okada. 1994. The nylon oligomer
+   biodegradation system of _Flavobacterium_ and _Pseudomonas_.
+   _Biodegradation_ 5: 185-194.
+10. Thomas. n.d. (see above).
+11. Thwaites, W. M. 1985.  New proteins without God's help.
+   _Creation/Evolution_ 5(2): 1-3.
+   https://web.archive.org/web/20080521043712if_/http://www.ncseweb.org/resources/articles/4661_issue_16_volume_5_number_2__4_10_2003.asp
+
+#Zhang, Jianming, Antony M. Dean, Fr&eacute;d&eacute;ric Brunet and Manyuan
+#Long. 2004.  Evolving protein functional diversity in new genes of
+#_Drosophila_.  PNAS 101: 16246-16250.
+
+Further Reading:
+
+Date: 2003-7-3, 2004-12-17

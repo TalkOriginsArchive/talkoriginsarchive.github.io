@@ -1,0 +1,45 @@
+BriefClaim: An old earth would be covered by 182 feet of meteoric dust.
+Title: Meteoric Dust on Earth
+Keywords: meteoric dust, cosmic dust.
+
+Claim:
+
+The observed rate of cosmic dust influx should have produced a layer 182
+feet thick over the entire surface of the earth if the earth were 5
+billion years old.  The distinctive nickel and iron content of the dust
+should make it easy to detect.
+
+Source:
+
+SciCre, pp. 151-152.
+
+Response:
+
+1. The observed rates used in Morris's calculation are based on dust
+   collected in the atmosphere; this measurement was contaminated by dust
+   from the earth.  More recent measurements of cosmic dust influx
+   measured from satellites give an influx rate about 1 percent as large,
+   corresponding to a layer 66 cm thick at most over 4.5 billion years
+   (Kyte and Wasson 1986).  An even more recent study of iridium and
+   platinum in a Greenland ice core yields an estimate of only about 14
+   kilotons per year of meteoric dust during the Holocene, compared with
+   the figure of 14 million tons per year that Morris used (Gabrielli
+   et al. 2004).
+
+Links:
+
+Thompson, Tim, 1996.  Meteorite dust and the age of the earth. 
+ http://www.talkorigins.org/faqs/moon-dust.html
+
+References:
+
+1. Gabrielli, P. et al. 2004.  Meteoric smoke fallout over the Holocene
+   epoch revealed by iridium and platinum in Greenland ice.  _Nature_ 432:
+   1011-1014.
+2. Kyte, F. T. and J. T. Wasson. 1986. Accretion rate of extraterrestrial
+   matter: Iridium deposited 33 to 67 million years ago.  _Science_ 232:
+   1225-1229.
+
+Further Reading:
+
+Date: 2001-2-18, 2005-2-12

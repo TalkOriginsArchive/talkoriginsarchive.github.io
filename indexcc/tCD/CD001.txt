@@ -1,0 +1,73 @@
+BriefClaim: Radiometric dating falsely assumes rocks are closed systems.
+Title: Geochronometry and closed systems
+Keywords: radiometric dating
+
+Claim:
+
+Radiometric dating falsely assumes that the rocks being dated are closed
+systems.  It inappropriately assumes that no parent or daughter isotopes
+were added or removed via other processes through the history of the
+sample.
+
+Source:
+
+SciCre, p. 139.
+
+Response:
+
+1. Absolutely closed systems do not exist even under ideal laboratory
+   conditions.  Nevertheless, many rocks approximate closed systems so
+   closely that multiple radiometric dating methods produce consistent
+   results, within 1 percent of each other.
+
+2. Some rocks may be open to outside contamination, but not all of them
+   are.  Most ages are determined from multiple mineral and rock samples,
+   which give a consistent date within 1 and 3 percent.  It is extremely
+   unlikely that contamination would affect all samples by the same
+   amount.
+
+3. Isochron methods can detect contamination and, to some extent, correct
+   for it.  Isochrons are determined from multiple samples, and
+   contamination would have to affect all of the samples the same way in
+   order to create an isochron that appeared okay but was wrong (see
+   <CD002>CD002>).
+
+   With uranium-lead dating, closure of the system may be tested with a
+   concordia diagram.  This takes advantage of the fact that there are two
+   isotopes of uranium (<sup>238</sup>U and <sup>235</sup>U) that decay
+   to different isotopes of lead (<sup>206</sup>Pb and <sup>207</sup>Pb,
+   respectively).  If the system has remained closed, then a plot of
+   <sup>206</sup>Pb / <sup>238</sup>U versus <sup>207</sup>Pb /
+   <sup>235</sup>U will fall on a known line called the concordia.  Even
+   if samples are discordant, reliable dates can often be derived (Faure
+   1998, 287-290).
+
+4. Geochronologists are well aware of the dangers of contamination, and
+   they take pains to minimize it.  For example, they do not use weathered
+   samples.
+
+Links:
+
+Jessey, David, n.d.  Isotope geochemistry.
+ https://web.archive.org/web/20040204204432if_/http://geology.csupomona.edu/drjessey/class/gsc300/isotope1.pdf
+
+Stassen, Chris, 1998.  Isochron dating.
+ http://www.talkorigins.org/faqs/isochron-dating.html
+
+References:
+
+1. Faure, Gunter, 1998.  _Principles and Applications of Geochemistry_,
+   2nd ed.  Upper Saddle River, NJ: Prentice Hall.
+
+Further Reading:
+
+Dalrymple, G. Brent, 1991.  _The Age of the Earth_, Stanford University
+ Press.  (Contains an understandable explanation of isochron methods.)
+
+Dickin, Alan P., 1995.  _Radiogenic Isotope Geology_, 
+ Cambridge University Press.
+
+Faure, Gunter, 1986.  _Principles of Isotope Geology, 2nd Edition_, 
+ New York: John Wiley & Sons.  (This and Dickin 1995 are standard texts.)
+
+Date: 2003-5-2, 2004-9-2

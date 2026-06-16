@@ -1,0 +1,60 @@
+BriefClaim: Phylogenetic analyses are inconsistent.
+Title: Phylogenetic consistency
+Keywords: phylogeny
+
+Claim:
+
+Modern versions of the phylogenetic "tree of life" are based on DNA and
+other molecular analyses.  Inconsistent and bizarre results based on
+different molecular analyses "have now plunged molecular phylogeny into a
+crisis" (Wells 2000, 51).
+
+Source:
+
+Wells, Jonathan, 2000. _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 49-54.
+
+Response:
+
+1. A few inconsistencies are to be expected, because biology is messy.
+   Genes need not always evolve at the same rate in different lineages.
+   Some molecules may converge as a result of selection or chance.
+   Horizontal gene transfer occasionally occurs.  Such exceptions will be
+   rare, but there will be a few of them among the vast body of consistent
+   results.  Most inconsistencies can be resolved by basing an analysis on
+   multiple genes (Rokas et al. 2003).
+
+   Other inconsistencies will occur as a result of methodological and
+   interpretive mistakes (Sanderson and Shaffer 2002).  Phylogenetic
+   analysis is a very complex subject; people who do not understand it
+   well cannot be expected to get it right all the time.  Publishing one's
+   methods and results allows others to catch mistakes.
+   Creationists looking for inconsistencies can dishonestly pick out the
+   few there are while disregarding the vast body of consistent results
+   and the reasons for the inconsistencies.
+
+2. Some claimed inconsistencies are really consistent.  Wells, for
+   example, cited a study which "placed sea urchins among the chordates"
+   (Wells 2000, 51), but sea urchins (and echinoderms in general) do group
+   with chordates as a sister group.  Wells (2000, 51) also cited another
+   study that "put cows closer to whales than to horses," which is also
+   entirely consistent with genetic, morphological, and fossil evidence.
+
+Links:
+
+Tamzek, Nic, 2002.  Icon of obfuscation.
+ http://www.talkorigins.org/faqs/wells/iconob.html#Treeoflife
+
+References:
+
+1. Rokas, A., B. L. Williams, N. King and S. B. Carroll, 2003.  Genome-scale
+   approaches to resolving incongruence in molecular phylogenies.
+   _Nature_ 425: 798-804.
+2. Sanderson, Michael J. and H. Bradley Shaffer, 2002.  Troubleshooting
+   molecular phylogenetic analyses.  _Annual Review of Ecology and
+   Systematics_ 33: 49-72.
+2. Wells, 2000.  (see above)
+
+Further Reading:
+
+Date: 2003-8-7, 2003-10-22

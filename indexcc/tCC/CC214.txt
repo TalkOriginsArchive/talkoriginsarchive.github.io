@@ -1,0 +1,276 @@
+BriefClaim: There are gaps between reptiles and birds.
+Title: Transitional Birds
+Keywords: transitional, bird, Archaeopteryx, dinosaur.
+
+Claim:
+
+There are no transitional fossils between reptiles and birds.
+
+Source:
+
+LifeHow, 75.
+
+Response:
+
+1. Many new bird fossils have been discovered in the last couple of
+   decades, revealing several intermediates between theropod dinosaurs
+   (such as _Allosaurus_) and modern birds:
+
+   - _Sinosauropteryx prima_.  A dinosaur covered with primitive feathers,
+     but structurally similar to unfeathered dinosaurs _Ornitholestes_ and
+     _Compsognathus_ (Chen et al. 1998; Currie and Chen 2001).
+
+   - Ornithomimosaurs, therizinosaurs, and oviraptorosaurs.  The
+     oviraptorosaur _Caudipteryx_ had a body covering of tufted feathers
+     and had feathers with a central rachis on its wings and tail (Ji et
+     al. 1998).
+#     (Padian et al. 2001; Zhou and Wang 2000; Zhou et al. 2000).
+     Feathers are also known from the therizinosaur _Beipiaosaurus_ (Xu et
+     al. 1999a).
+#     (Xu et al. 2003b)
+     Several other birdlike characters appear in these dinosaurs,
+     including unserrated teeth, highly pneumatized skulls and vertebrae,
+     and elongated wings.  Oviraptorids also had birdlike eggs and
+     brooding habits (Clark et al. 1999).
+
+   - Deinonychosaurs (troodontids and dromaeosaurs).  These are the
+     closest known dinosaurs to birds.  _Sinovenator_, the most primitive
+     troodontid, is especially similar to _Archaeopteryx_ (Xu et al.
+     2002).  _Byronosaurus_, another troodontid, had teeth nearly
+     identical to primitive birds (Makovicky et al. 2003).  _Microraptor_,
+     the most primitive dromaeosaur, is also the most birdlike; specimens
+     have been found with undisputed feathers on their wings, legs, and
+     tail (Hwang et al. 2002; Xu et al. 2003).
+#     (Czerkas et al. 2002)
+     _Sinornithosaurus_ also was covered with a variety of feathers and
+     had a skull more birdlike than later dromaeosaurs (Xu, Wang, and Wu
+     1999; Xu and Wu 2001; Xu et al. 2001).
+#     (Ji et al. 2001).
+#     Other dinosaurs in this group have numerous points of birdlike
+#     anatomy, too (e.g., Norell and Makovicky 1997, 1999; Gishlick 2001).
+
+   - _Protarchaeopteryx_, alvarezsaurids, _Yixianosaurus_ and _Avimimus_.
+     These are birdlike dinosaurs of uncertain placement, each potentially
+     closer to birds than deinonychosaurs are.  _Protarchaeopteryx_ has
+     tail feathers, uncompressed teeth, and an elongated manus (hand/wing)
+     (Ji et al. 1998).
+#     (Padian et al. 2001)
+#     _Scansoriopteryx_ is found with downy feathers.
+     _Yixianosaurus_ has an indistinctly preserved feathery covering and
+     hand/wing proportions close to birds (Xu and Wang 2003).
+     Alvarezsaurids (Chiappe et al. 2002)
+#     (Schweitzer et al. 1999)
+     and _Avimimus_ (Vickers-Rich et al. 2002) have other birdlike
+     features.
+
+   - <CC214.1.1>_Archaeopteryx_>.  This famous fossil is defined to be a
+     bird, but it is actually less birdlike in some ways than some genera
+     mentioned above (Paul 2002; Maryanska et al. 2002).
+#     (Lu et al. 2002).
+
+   - _Shenzhouraptor_ (Zhou and Zhang 2002),
+#     (Ji et al. 2003)
+     _Rahonavis_ (Forster et al. 1998), _Yandangornis_ and
+     _Jixiangornis_.
+#     (Ji et al. 2002).
+     All of these birds were slightly more advanced than _Archaeopteryx_,
+     especially in characters of the vertebrae, sternum, and wing bones.
+
+   - _Sapeornis_ (Zhou and Zhang 2003), _Omnivoropteryx_, and
+     confuciusornithids (e.g., _Confuciusornis_ and _Changchengornis_;
+     Chiappe et al. 1999).  These were the first birds to possess large
+     pygostyles (bone formed from fused tail vertebrae).  Other new
+     birdlike characters include seven sacral vertebrae, a sternum with a
+     keel (some species), and a reversed hallux (hind toe).
+
+   - Enantiornithines, including at least nineteen species of primitive
+     birds, such as _Sinornis_ (Sereno and Rao 1992; Sereno et al. 2002),
+     _Gobipteryx_ (Chiappe et al. 2001), and _Protopteryx_ (Zhang and Zhou
+     2000).  Several birdlike features appeared in enantiornithines,
+     including twelve or fewer dorsal vertebrae, a narrow V-shaped furcula
+     (wishbone), and reduction in wing digit bones.
+
+   - _Patagopteryx_, _Apsaravis_, and yanornithids (Chiappe 2002; Clarke
+     and Norell 2002).
+#     (Zhou and Zhang 2001).
+     More birdlike features appeared in this group, including changes to
+     vertebrae and development of the sternal keel.
+
+   - _Hesperornis_, _Ichthyornis_, _Gansus_, and _Limenavis_.  These
+     birds are almost as advanced as modern species.  New features
+     included the loss of most teeth and changes to leg bones.
+
+   - Modern birds. 
+
+Links:
+
+References:
+
+1. Chen, P., Z. Dong and S. Zhen, 1998. An exceptionally
+   well-preserved theropod dinosaur from the Yixian Formation of China.
+   _Nature_ 391: 147-152.
+1. Chiappe, L. M., 2002. Osteology of the flightless _Patagopteryx
+   deferrariisi_ from the Late Cretaceous of Patagonia (Argentina). In
+   Chiappe and Witmer, pp. 281-316.
+1. Chiappe, L. M. and L. M. Witmer (eds.), _Mesozoic Birds: Above the
+   Heads of Dinosaurs_.  Berkeley: Univ. of California Press.
+1. Chiappe, L. M., M. A. Norell and J. M. Clark, 2001. A new skull of
+   _Gobipteryx minuta_ (Aves: Enantiornithes) from the Cretaceous of the
+   Gobi Desert.  _American Museum Novitates_ 3346: 1-15.
+   https://web.archive.org/web/20051220230242if_/http://diglib1.amnh.org/novitates/i0003-0082-346-01-0001.pdf
+1. Chiappe, L. M., M. A. Norell and J. M. Clark, 2002. The Cretaceous,
+   short-armed Alvarezsauridae. In: Chiappe and Witmer, pp. 87-120.
+1. Chiappe, L. M., S. Ji, Q. Ji and M. A. Norell, 1999. Anatomy and
+   systematics of the Confuciusornithidae (Theropoda: Aves) from the Late
+   Mesozoic of northeastern China.  _Bulletin of the American Museum of
+   Natural History_ 242: 1-89.
+   https://www.amnh.org/research/research-library/virtual-resources/congo
+3. Clark, J. M., M. A. Norell and L. M. Chiappe, 1999.  An oviraptorid
+   skeleton from the Late Cretaceous of Ukhaa Tolgod, Mongolia, preserved
+   in an avianlike brooding position over an oviraptorid nest.  _American
+   Museum Novitates_ 3265: 1-36.
+1. Clarke, J. A. and M. A. Norell, 2002.  The morphology and phylogenetic
+   position of _Apsaravis ukhaana_ from the late Cretaceous of Mongolia.
+   _American Museum Novitates_ 3387: 1-46.
+   https://web.archive.org/web/20050429124335if_/http://diglib1.amnh.org/novitates/i0003-0082-3387-01-0001.pdf
+1. Currie, P. J. and P. Chen, 2001.  Anatomy of _Sinosauropteryx prima_
+   from Liaoning, northeastern China.  _Canadian Journal of Earth
+   Sciences_ 38: 1705-1727.
+#3. Czerkas, Zhang, Li and Li, 2002.  Flying Dromaeasaurs. In Czerkas
+#   (ed.), _Feathered Dinosaurs and the Origin of Flight_. The Dinosaur
+#   Museum Journal Vol. 1, The Dinosaur Museum of Blanding, Utah.
+#   See https://web.archive.org/web/20031115135551if_/http://www.cmnh.org/dinoarch/2002Sep/msg00774.html
+1. Forster, C. A., S. D. Sampson, L. M. Chiappe and D. W. Krause, 1998.
+   The theropod ancestry of birds: New evidence from the Late Cretaceous
+   of Madagascar.  _Science_ 279: 1915-1919.
+#3. Gishlick, A. D., 2001. The function of the manus and forelimb of
+#   _Deinonychus antirrhopus_ and its importance for the origin of avian
+#   flight. in Gauthier and Gall (eds.), _New Perspectives on the Origin
+#   and Early Evolution of Birds_, pp. 301-318.
+1. Hwang, S. H., M. A. Norell, Ji Q. and Gao K., 2002.  New specimens of
+   _Microraptor zhaoianus_ (Theropoda: Dromaeosauridae) from northeastern
+   China.  _American Museum Novitates_ 3381: 1-44.
+   https://web.archive.org/web/20040309150843if_/http://research.amnh.org/users/sunny/hwang.et.al.2002.pdf
+2. Ji, Q., P. Currie, M. A. Norell and S-A. Ji, 1998.  Two feathered
+   dinosaurs from northeastern China.  _Nature_ 393: 753-761.
+#1. Ji, Q., M. A. Norell, K. Gao, S. Ji and D. Ren, 2001.  The distribution
+#   of integumentary structures in a feathered dinosaur.  _Nature_ 410:
+#   1084-1088.
+#   See https://web.archive.org/web/20030715080310if_/http://www.cmnh.org/dinoarch/2001Apr/msg00683.html
+#3. Ji, Ji, Zhang, You, Zhang, Wang, Yuan and Ji, 2002.  A new avialan
+#   bird--_Jixiangornis orientalis_ gen. et sp. nov.--from the Lower
+#   Cretaceous of Western Liaoning, NE China.  _Journal of Nanjing
+#   University (Natural Sciences)_ 38(6): 723-736.
+#3. Ji, Q., S. Ji, H. You, J. Zhang, H. Zhang, N. Zhang, C. Yuan and X.
+#   Ji, 2003.  An early Cretaceous avialan bird, _Shenzhouraptor sinensis_
+#   from Western Liaoning, China.  _Acta Geologica Sinica_ 77(1): 21-26
+#3. Lu, Dong, Azuma, Barsbold and Tomida, 2002. Oviraptorosaurs compared to
+#   birds. in Zhou and Zhang eds., _Proceedings of the 5th Symposium of the
+#   Society of Avian Paleontology and Evolution_. Beijing Science Press,
+#   pp. 175-189.
+1. Makovicky, P. J., M. A. Norell, J. M. Clark and T. Rowe, 2003.
+   Osteology and relationships of _Byronosaurus jaffei_ (Theropoda:
+   Troodontidae).  _American Museum Novitates_ 3402, 1-32.
+   https://web.archive.org/web/20051220231937if_/http://diglib1.amnh.org/novitates/i0003-0082-3402-01-0001.pdf
+1. Maryanska, T., H. Osm&oacute;lska and M. Wolsan, 2002.  Avialan status
+   for oviraptorosauria.  _Acta Palaeontologica Polonica_ 47(1): 97-116.
+   https://web.archive.org/web/20041214192629if_/http://app.pan.pl/acta47/app47-097.pdf
+#3. Norell, M. A. and P. Makovicky, 1997.  Important features of the
+#   dromaeosaur skeleton: information from a new specimen.  _American
+#   Museum Novitates_ 3215: 1-28.
+#3. Norell, M. A. and P. Makovicky, 1999.  Important features of the
+#   dromaeosaurid skeleton II: information from newly collected specimens
+#   of _Velociraptor mongoliensis_. _American Museum Novitates_ 3282: 1-45.
+#3. Padian, K., Ji Q. and Ji S., 2001.  Feathered dinosaurs and the origin
+#   of flight. In: Tanke and Carpenter (eds.), _Mesozoic Vertebrate Life_,
+#   Indianapolis: Indiana University Press, pp. 117-135.
+1. Paul, Gregory S., 2002.  _Dinosaurs of the Air_.  Baltimore: Johns
+   Hopkins University Press.
+#3. Schweitzer, M. H., J. A. Watt et al., 1999.  Beta-keratin specific
+#   immunological reactivity in feather-like structures of the Cretaceous
+#   alvarezsaurid, _Shuvuuia deserti_.  _Journal of Experimental Zoology_
+#   285: 146-157.
+1. Sereno, P. C. and C. Rao, 1992.  Early evolution of avian flight and
+   perching: New evidence from the Lower Creates of China.  _Science_
+   255: 845-848.
+1. Sereno, P. C., C. Rao and J. Li, 2002. _Sinornis santensis_ (Aves:
+   Enantiornithes) from the Early Cretaceous of Northeastern China. In:
+   Chiappe and Witmer, pp. 184-208.
+1. Vickers-Rich, P., L. M. Chiappe and S. Kurzanov, 2002.  The enigmatic
+   birdlike dinosaur _Avimimus portentosus_. In: Chiappe and Witmer,
+   pp. 65-86.
+3. Xu, X. and X. Wang, 2003. A new maniraptorian dinosaur from the Early
+   Cretaceous Yixian Formation of Western Liaoning.  _Vertebrate
+   Palasiatica_ 41(3): 195-202.
+1. Xu, X. and X-C. Wu, 2001.  Cranial morphology of _Sinornithosaurus
+   millenii_ Xu et al. 1999 (Dinosauria: Theropoda: Dromaeosauridae) from
+   the Yixian Formation of Liaoning, China.  _Canadian Journal of Earth
+   Sciences_ 38: 1739-1752.
+1. Xu, X., Z. Tang and X. Wang, 1999a.  A therizinosaurid dinosaur with
+   integumentary structures from China.  _Nature_ 399: 350-354.
+1. Xu, X., X-L. Wang and X-C. Wu, 1999b.  A dromaeosaur dinosaur with a
+   filamentous integument from the Yixian Formation of China.  _Nature_
+   401: 262-266.
+1. Xu, X., Z. Zhou and R. O. Prum, 2001.  Branched integumental structures
+   in _Sinornithosaurus_ and the origin of feathers.  _Nature_ 410:
+   200-204.
+1. Xu, X., M. A. Norell, X. Wang, P. J. Makovicky and X. Wu, 2002.  A
+   basal troodontid from the Early Cretaceous of China.  _Nature_ 415:
+   780-784.
+#9. Xu, Cheng, Wang and Chang, 2003b.  Pygostyle-like structure from
+#   _Beipiaosaurus_ (Theropoda, Therizinosauroidea) from the Lower
+#   Cretaceous Yixian Formation of Liaoning, China.  _Acta Geologica
+#   Sinica_ 77(3): 294-298.
+1. Xu, X., Z. Zhou, X. Wang, X. Kuang, F. Zhang and X. Du, 2003.
+   Four-winged dinosaurs from China.  _Nature_ 421: 335-340.
+   https://web.archive.org/web/20030412214037if_/http://www.cals.ncsu.edu/course/zo501/4WingedDino.pdf
+1. Zhang, F. and Z. Zhou, 2000. A primitive enantiornithine bird and the
+   origin of feathers.  _Science_ 290: 1955-1959.
+#   https://web.archive.org/web/20080508054058if_/http://www.cmnh.org/dinoarch/2000Dec/msg00350.html
+#3. Zhou, Z. H. and X. L. Wang, 2000.  A new species of _Caudipteryx_ from
+#   the Yixian Formation of Liaoning, northeast China.
+#   _Vert. Palaeontol. Asiat._ 38: 111-127.
+#3. Zhou and Zhang, 2001. Two new ornithurine birds from the
+#   Early Cretaceous of western Liaoning, China.  _Chinese Science
+#   Bulletin_ 46(1): 1-7.
+1. Zhou, Z. and F. Zhang, 2002.  A long-tailed, seed-eating bird from
+   the Early Cretaceous of China.  _Nature_ 418: 405-409.
+1. Zhou, Z. and F. Zhang, 2003.  Anatomy of the primitive bird _Sapeornis
+   chaoyangensis_ from the Early Cretaceous of Liaoning, China.  _Canadian
+   Journal of Earth Sciences_ 40: 731-747.
+#3. Zhou, Z. H., X. L. Wang, Z. Zhang and X. Xu, 2000. Important features
+#   of _Caudipteryx_: Evidence from two nearly complete new specimens.
+#   _Vert. Palaeontol. Asiat._ 38(4):241-254.  See
+#   https://web.archive.org/web/20080503020123if_/http://www.cmnh.org/dinoarch/2001Feb/msg00333.html
+
+Further Reading:
+
+Chiappe, L. M. and G. J. Dyke, 2002.  The Mesozoic radiation of birds.
+ _Annual Review of Ecology and Systematics_ 33: 91-124. (technical)
+
+Dingus, L. and T. Rowe, 1997.  _The mistaken extinction: dinosaur evolution
+ and the origin of birds_.  New York: Freeman and Company.
+
+#Novas, F. E. and P. F. Puerta, 1997.  New evidence concerning avian
+# origins from the Late Cretaceous of Patagonia.  _Nature_ 387: 390-392. 
+# See also Witmer, L. M., 1997. A new missing link.  _Nature_ 387:
+# 349-350.
+
+Padian, K. and L. M. Chiappe, 1998.  The origin of birds and their flight.
+ SciAm 278(2) (Feb.): 38-47.
+
+Paul, Gregory S., 2002.  _Dinosaurs of the Air_.  Baltimore: Johns
+ Hopkins University Press.
+
+Pojeta, John Jr. and Springer, Dale A., 2001.  _Evolution and the Fossil
+ Record_, American Geological Institute, Alexandria, VA. 
+ https://web.archive.org/web/20250523075732if_/http://www.agiweb.org/news/spot_06apr01_evolutionbk.htm ,
+ https://web.archive.org/web/20030315041121if_/http://www.agiweb.org/news/evolution.pdf .
+
+Prum, Richard O. and Alan H. Brush, 2003.  Which came first, the feather
+ or the bird?  _Scientific American_ 288(3) (Mar.): 84-93.
+
+Wang, Justin, 1998.  Scientists flock to explore China's 'site of the
+ century'.  _Science_ 279: 1626-1627.
+
+Date: 2001-4-29, 2005-1-14

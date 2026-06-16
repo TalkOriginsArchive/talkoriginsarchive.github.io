@@ -1,0 +1,58 @@
+BriefClaim: Homologous structures are not produced by homologous genes.
+Title: Homologous structures and genes
+Keywords: homology, common descent, genotype, phenotype
+
+Claim:
+
+Evolutionist Gavin de Beer (1971) has shown that homologous structures
+arise from different, nonhomologous genes, which means that they cannot be
+derived from common ancestors.
+
+Source:
+
+Kofahl, Robert E., 2003.  Handy dandy evolution refuter, chpt. 10.
+ <http://www.parentcompany.com/handy_dandy/hder10.htm>
+
+Response:
+
+1. It was 1971 when de Beer made his argument.  That was before technology
+   for manipulating DNA made it possible to examine genes directly, so de
+   Beer's conclusions (and those of Hardy 1965, making essentially the
+   same argument) were based on indirect evidence.  Since then, many
+   similar genes have been found to participate in the development of
+   homologous structures (see, e.g., Carroll 2005).
+
+   Granted, some of the examples raised by de Beer have not yet been
+   explained in detail.  For example, some organs considered homologous
+   arise from different layers of embryological tissues.  But although
+   such cases are not explained, that does not mean they are
+   unexplainable.  We now know that organs can be stimulated to grow in
+   many parts of the body (such as eyes growing on a fly's wings) simply
+   by ensuring that the proper signalling chemicals are present.  Thus
+   homologous organs arising from different areas may result simply from
+   mutations in where signalling proteins are expressed.
+
+   The difference in <CB731>finger development> between birds and theropod
+   dinosaurs shows an example of how a small difference in development can
+   lead to a nonobvious difference in adult form.
+
+Links:
+
+References:
+
+1. Carroll, Sean B. 2005.  _Endless Forms Most Beautiful_.  New York:
+   W. W. Norton.
+2. de Beer, Gavin. 1971.  Homology, an unsolved problem.  _Oxford Biology
+   Readers_, J.J. Head and O.E. Lowenstein, eds., Oxford University Press.
+   Reprinted (abridged) in Ridley, Mark, 1997.  _Evolution_.  Oxford
+   University Press, 211-221.
+3. Hardy, Alister. 1965.  _The Living Stream_, New York: Harper & Row,
+   pp. 209-219.
+
+
+Further Reading:
+
+Carroll, Sean B. 2005.  _Endless Forms Most Beautiful_.  New York:
+ W. W. Norton.
+
+Date: 2005-5-23

@@ -1,0 +1,38 @@
+BriefClaim: Odds of many successive beneficial mutations are minuscule.
+Title: The Mathematical Probability of Evolution
+Keywords: mutation, selection, chance
+
+Claim:
+
+Successful production of a 200-component functioning organism requires at
+least 200 beneficial mutations.  The odds of getting that many successive
+beneficial mutations is r<sup>200</sup>, where r is the rate of beneficial
+mutations.  Even if r is 0.5 (and it is really much smaller), that makes
+the odds worse than 1 in 10^60, which is impossibly small.
+
+Source:
+
+Morris, Henry M., 1972.  The mathematical impossibility of evolution.
+ _Acts & Facts_ 2.
+Morris, Henry M., 2003.  The mathematical impossibility of evolution.
+ _Back to Genesis_ 179, pp. b-c.
+ http://www.icr.org/index.php?module=articles&action=view&ID=493
+
+Response:
+
+1. Morris's calculation assumes that all the beneficial mutations must
+   occur consecutively with no other mutations occurring in the
+   meantime.  When one allows harmful mutations that get selected out
+   along the way, 200 beneficial mutations would accumulate fairly
+   quickly -- in 200/r generations using the assumptions of Morris's
+   model.  (The real world is quite a bit more complicated yet.  In
+   particular, large populations and genetic recombination via sex can
+   allow beneficial mutations to accumulate at a greater rate.)
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-11-2

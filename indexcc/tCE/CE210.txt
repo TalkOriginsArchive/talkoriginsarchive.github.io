@@ -1,0 +1,40 @@
+BriefClaim: Venus's high temperature and atmosphere should have eroded its surface features.
+Title: Erosion on Venus
+Keywords: Venus
+
+Claim:
+
+High surface temperatures on Venus (900 degrees F, 482 degrees C),
+combined with its dense atmosphere, should long ago have eroded its
+surface features if the planet were four billion years old.  Venus's
+features support a young age.
+
+Source:
+
+Pathlights, n.d.  The age of the earth.
+ https://web.archive.org/web/20210415082133if_/http://www.pathlights.com/ce_encyclopedia/05agee2.htm
+
+Response:
+
+1. A paucity of surface features usually indicates a young surface, not an
+   old one, because there would be less time for cratering to occur.
+   However, a young surface does not imply a young planet.
+
+2. In fact, there are few craters and surface features on Venus.  This is
+   taken as evidence that the surface is young.  Venus shows evidence of
+   volcanoes and rift valleys, suggesting some tectonic activity, which
+   would help to renew its surface.  Venus's thick atmosphere also reduces
+   the impact of meteors and, as the claim notes, erodes features.  The
+   features on Venus are probably all less than a few hundred million
+   years old.
+
+Links:
+
+Thompson, Tim, 1994.  Is the planet Venus young?
+ http://www.talkorigins.org/faqs/venus-young.html
+
+References:
+
+Further Reading:
+
+Date: 2003-7-1, 2003-7-16

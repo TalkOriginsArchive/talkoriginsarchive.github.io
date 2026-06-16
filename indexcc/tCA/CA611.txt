@@ -1,0 +1,98 @@
+BriefClaim: Evolutionary theory has become sacrosanct.
+Title: Evolution sacrosanct?
+Keywords: evolution, religion, dogma
+
+Claim:
+
+Evolutionary theory, for a variety of nonscientific reasons, has obtained
+the status of sacred revelation.  To express doubts by bringing up the
+counterevidence to the theory is to brand oneself an
+intellectual infidel.
+
+Source:
+
+Wiker, Benjamin D. 2003.  Does Science Point to God?  Part II: The
+ Christian Critics. 
+ https://web.archive.org/web/20070812071904if_/http://www.crisismagazine.com/julaug2003/feature1.htm
+# https://web.archive.org/web/20070811214256if_/http://www.crisismagazine.com/april2003/feature1.htm for part 1
+
+Response:
+
+1. Evolution is far from sacrosanct.  Since Darwin's formulation of it,
+   there have been several significant revisions of important aspects of
+   it:
+
+    - Mendelian heredity:  Darwin thought genes were both blending
+      (not particulate) and influenced by the environment of the
+      organism, a kind of Lamarckian inheritance he called
+      "pangenesis."
+    - Speciation:  For a long while Darwin's own view on what caused
+      new species to rise (natural selection) was rejected by most
+      biologists in favor of geographical isolation.  Only recently has
+      Darwin's view come back into favor as one cause among many.
+    - Jumping genes:  Barbara McClintock won the Nobel Prize for
+      showing that genes can move from one place to another within the
+      genome.
+    - Symbiotic origins of organelles:  Lynn Margulis proposed that the
+      ancestors of eukaryotic cells arose from prokaryote cells joined
+      together in "symbiotic consortiums" (Margulis 1981).
+    - Genetic drift:  This idea from Sewall Wright says that much
+      genetic change in populations is due to random drift rather than
+      natural selection.
+    - Neutral theory, proposing that most generic variation is neutral,
+      not subject to selection (or nearly neutral, in Ohta's extension of
+      the theory; Kimura 1983; Ohta 1992).
+    - Prions:  The discovery of an entirely new kind of "life" form that
+      replicates without genetic material via a catalytic change of
+      molecular configuration.  This also yielded a Nobel Prize for
+      Stanley B. Prusiner.
+    - Lateral gene transfer:  Some genetic material is not inherited from
+      an immediate ancestor but from distantly related organisms (e.g.,
+      Woese 2000).
+
+   Challenges to parts of evolutionary theory continue today.  However,
+   they are the sort of thing one rarely encounters below the graduate
+   level.
+
+   Evolution has undergone a tremendous amount of testing, some of which
+   has shown that correction is necessary.  Correcting a scientific theory
+   makes the (corrected) theory stronger.  The testing and correction
+   account for evolution's strong reputation today.  If evolution were
+   sacrosanct, it would not undergo testing and revision, and it would
+   lose its reputation among scientists.
+
+2. Critics of evolution are treated as intellectual outcasts not because
+   they criticize evolution but because they do not know what they are
+   talking about.  Answers in Genesis (AIG) recognizes the problem of
+   poorly educated creationists doing more harm than good to the
+   reputation of creationists, so they devote a page to arguments
+   creationists should not use (AIG n.d.).  Still, it is extremely common
+   to hear creationists speak with ignorance about the <CF001>second law
+   of thermodynamics>, <CC200>no transitional fossils>, <CB200>irreducible
+   complexity>, and other subjects, and AIG's list of bad arguments barely
+   scratches the surface.  The real infidels of evolution, such as Barbara
+   McClintock and Stanley Prusiner, win acclaim.
+
+3. Creationist works almost invariably cite mainstream science in their
+   attempts to discredit evolution.  If evolution is sacrosanct, how can
+   creationists so readily find science articles to use against it?
+
+Links:
+
+References:
+
+1. AIG. n.d.  Arguments we think creationists should NOT use.
+   http://www.answersingenesis.org/home/area/faq/dont_use.asp
+2. Kimura, M. 1983.  _The Neutral Theory of Molecular Evolution_,
+   Cambridge: Cambridge University Press.
+3. Margulis, Lynn. 1981.  _Symbiosis in Cell Evolution_,
+   San Francisco: W. H. Freeman & Co.
+3. Ohta, Tomoko. 1992.  The nearly neutral theory of molecular evolution.
+   _Annual Review of Ecology and Systematics_ 23: 263-286.
+4. Woese, Carl R. 2000.  Interpreting the universal phylogenetic tree.
+   PNAS 97(15): 8392-8396
+   https://web.archive.org/web/20080511180947if_/http://www.pnas.org/cgi/content/abstract/97/15/8392
+
+Further Reading:
+
+Date: 2003-8-7, 2004-2-15

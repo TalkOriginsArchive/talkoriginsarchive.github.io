@@ -1,0 +1,63 @@
+BriefClaim: Complex organs couldn't have evolved.
+Title: Evolution of complex organs
+Keywords: complexity, evolution
+
+Claim:
+
+Complex organs and biological functions could not have evolved.
+
+Source:
+
+Kofahl, Robert E., 1977.  _Handy Dandy Evolution Refuter_.  Beta Books,
+ chpt. 5.
+ http://www.parentcompany.com/handy_dandy/hder5.htm
+
+Response:
+
+1. This is an example of the <CA100>argument from incredulity>.  In fact,
+   several complex organs, which have previously been claimed unevolvable,
+   have plausible means of evolving, including the <CB301>eye>, the
+   <CB310>bombardier beetle defense mechanism>, the <CB326>woodpecker
+   tongue>, and more.
+
+2. Evolutionary mechanisms do account for the evolution of complexity,
+   since non-lethal mutations tend to add more components to simple
+   systems than they remove (Soyer and Bonhoeffer 2006).
+   The abstract of Lenski et al. (2003, 139) is worth quoting in full:
+
+     "A long-standing challenge to evolutionary theory has been whether it
+      can explain the origin of complex organismal features. We examined
+      this issue using digital organisms -- computer programs that
+      self-replicate, mutate, compete and evolve. Populations of digital
+      organisms often evolved the ability to perform complex logic
+      functions requiring the coordinated execution of many genomic
+      instructions. Complex functions evolved by building on simpler
+      functions that had evolved earlier, provided that these were also
+      selectively favoured. However, no particular intermediate stage was
+      essential for evolving complex functions. The first genotypes able
+      to perform complex functions differed from their non-performing
+      parents by only one or two mutations, but differed from the ancestor
+      by many mutations that were also crucial to the new functions. In
+      some cases, mutations that were deleterious when they appeared
+      served as stepping-stones in the evolution of complex
+      features. These findings show how complex functions can originate by
+      random mutation and natural selection.
+
+Links:
+
+National Science Foundation, 2003.  Artificial life experiments show how
+ complex functions can evolve.
+ http://www.sciencedaily.com/releases/2003/05/030508075843.htm
+
+References:
+
+1. Lenski, Richard E., Charles Ofria, Robert T. Pennock and Christoph
+   Adami. 2003.  The evolutionary origin of complex features _Nature_ 423:
+   139-144.  https://web.archive.org/web/20211122232656if_/http://myxo.css.msu.edu/papers/nature2003/ (See also NSF,
+   2003, above.)
+2. Soyer, Orkun S. and Sebastian Bonhoeffer. 2006.  Evolution of
+   complexity in signaling pathways.  PNAS 103: 16337-16342.
+
+Further Reading:
+
+Date: 2003-5-8, 2006-11-2

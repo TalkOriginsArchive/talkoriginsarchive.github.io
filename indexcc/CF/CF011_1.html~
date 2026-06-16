@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ <meta http-equiv="pics-label"   content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline v2.0" l gen true for "http://www.talkorigins.org/" r (nz 1 vz 1 lz 1 oz 1 cz 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://www.talkorigins.org/" r (n 0 s 0 v 0 l 0))' />
+
+ <meta http-equiv="Content-Style-Type" content="text/css" />
+ <link rel="stylesheet" href="../indexcc.css" type="text/css" /> 
+ <!--  <meta http-equiv="Content-Style-Type" content="text/css" />  -->
+ <meta name="author" content="Mark Isaak" />
+<title>CF011.1:  Dawkins's WEASEL simulation.</title>
+<meta name="Keywords" content=" model" />
+ <link rel="stylesheet" href="../indexcc.css" type="text/css" />
+ <link rel="shortcut icon" href="/pictures/to.ico" />
+ <link rel="index"    href="/origins/faqs-index.html" title="Index" />
+ <link rel="contents" href="/origins/faqs.html" title="Browse" />
+ <link rel="glossary" href="/origins/jargon/jargon.html" title="Jargon" />
+ <link rel="search"   href="/origins/search.html" title="Search" />
+ <link rel="home" href="/" title="Home" />
+ <meta name="classification" content="Science Education" />
+ <meta name="robots" content="index, follow" />
+ <meta name="rating" content="Safe for Kids" />
+ <meta name="copyright" content="Article &copy; 2004 by Mark Isaak, site and HTML coding &copy; 1998-2004 by The Talk.Origins Archive" />
+ <script type="text/javascript" src="/scripts/TOtools.js"></script>
+</head>
+<body>
+<!-- begin header -->
+<div class="header">
+ <map name="headermap" id="headermap">
+  <area shape="rect" coords="159,63,254,99" href="/origins/faqs.html" alt="Browse" />
+  <area shape="rect" coords="255,63,353,99" href="/origins/search.html" alt="Search" />
+  <area shape="rect" coords="354,63,451,99" href="/origins/feedback/" alt="Feedback" />
+  <area shape="rect" coords="452,63,548,99" href="/origins/other-links.html" alt="Other Links" />
+  <area shape="rect" coords="0,0,158,99"    href="/" alt="Home" />
+  <area shape="rect" coords="159,0,559,62"  href="/" alt="Home" />
+ </map>
+
+ <img src="/pictures/header.gif" usemap="#headermap" width="560" height="100"
+  alt="The Talk.Origins Archive: Exploring the Creation/Evolution Controversy"
+  ismap="ismap" /> 
+ <br /><br />
+<div align="center"><b class="t">Index to Creationist Claims</b>,
+&nbsp;<small>edited by Mark Isaak, &nbsp;&nbsp; Copyright &copy; 2004</small></div>
+<div align="center">
+<a href="../CF/CF011.html">Previous Claim: CF011</a> &nbsp; | &nbsp;
+<a href="../list.html">List of Claims</a> &nbsp; | &nbsp;
+<a href="../CF/CF011_2.html">Next Claim: CF011.2</a></div>
+<hr size="0" />
+</div>
+<h2 class="c">Claim CF011.1:</h2>
+Dawkins (1996) demonstrated a program that starts with a random string of
+letters and, via random copying errors, evolves it into the phrase
+"Methinks it is like a weasel" in just a few generations, demonstrating
+the power of natural selection unaided by intelligence.  But
+intelligence is involved in predetermining the target sentence.
+
+<h3>Source:</h3>
+<div class="s">Gitt, Werner, and Carl Wieland, 1998.  Weasel words.  <i>Creation Ex
+ Nihilo</i>
+ 20(4) (Sep/Nov): 20-21.  <a
+ href="http://www.answersingenesis.org/docs/3746.asp">http://www.answersingenesis.org/docs/3746.asp</a>
+</div>
+<h2>Response:</h2>
+<ol>
+<li> Dawkins's simulation was plainly stated in his book to demonstrate
+   selection, not evolution.  It was intended to show the difference
+   between cumulative selection and single-step selection.  Attempts to
+   apply Dawkins's simulation to evolution as a whole are a misreading of
+   his book.
+<br /><br /></li><li> Other evolution simulations do demonstrate all the salient features of
+   evolution (Lenski et al. 2003).  They do include a <a
+ href="../CF/CF011.html">fitness
+   function</a>, but simulating fitness is part of simulating evolution.
+</li></ol>
+<h2>References:</h2><div class="ref">
+<ol>
+<li> Dawkins, Richard, 1986.  <i>The Blind Watchmaker</i>. New York: Norton.
+</li><li> Lenski, R. E., C. Ofria, R. T. Pennock and C. Adami, 2003.  The
+   evolutionary origin of complex features.  <i>Nature</i> 423: 139-144.
+   <a
+ href="http://myxo.css.msu.edu/papers/nature2003/">http://myxo.css.msu.edu/papers/nature2003/</a>
+ See also: National Science
+   Foundation, 2003.  Artificial Life Experiments Show How Complex
+   Functions Can Evolve.
+   <a
+ href="http://www.sciencedaily.com/releases/2003/05/030508075843.htm">http://www.sciencedaily.com/releases/2003/05/030508075843.htm</a>
+</li></ol>
+</div>
+<hr size="0" /><div align="center">
+<a href="../CF/CF011.html">Previous Claim: CF011</a> &nbsp; | &nbsp;
+<a href="../list.html">List of Claims</a> &nbsp; | &nbsp;
+<a href="../CF/CF011_2.html">Next Claim: CF011.2</a></div>
+<hr size="0" />
+<div class="d">created  2003-7-6</div>
+</body></html>

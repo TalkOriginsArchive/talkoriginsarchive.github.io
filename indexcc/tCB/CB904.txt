@@ -1,0 +1,72 @@
+BriefClaim: No entirely new features have evolved.
+Title: New biological functions
+Keywords: macroevolution, novelty
+
+Claim:
+
+No entirely new features or biological functions have evolved.
+
+Source:
+
+Response:
+
+1. Most, if not all, "entirely new features" are modifications of
+   previously existing features.  Bird wings, for example, are modified
+   tetrapod forelimbs, which are modified sarcopterygian pectoral fins.
+   A complex, entirely new feature, appearing out of nowhere, would
+   be evidence for creationism.
+
+2. New features have evolved from older different features.  There are
+   several examples of microorganisms evolving the ability to degrade
+   or metabolize novel manmade compounds:
+    - arsenobetaine degradation (Jenkins et al. 2003)
+    - naphthalene and related compound degradation (Annweiler et al. 2002)
+    - chlorocatechol degradation (Moiseeva et al. 2002)
+    - 2,4-dinitrotolule degradation (Johnson et al. 2002)
+   Also, a unicellular organism has been evolved to form mulicellular
+   colonies (Boraas et al. 1998); see also <CB101.2>mutations producing
+   new features>.
+
+3. An arbitrary genetic sequence can evolve to acquire functionality
+   (Hayashi et al. 2003).
+
+Links:
+
+Harris, Adam Noel, 2000 (July).  An observed example of morphological
+ evolution.  http://www.talkorigins.org/origins/postmonth/jul00.html
+
+Thomas, Dave, n.d.  Evolution and information: The nylon bug.
+ http://www.nmsr.org/nylon.htm
+
+References:
+
+1. Annweiler, E., W. Michaelis, and R. U. Meckenstock, 2002.  Identical ring
+   cleavage products during anaerobic degradation of naphthalene,
+   2-methylnaphthalene, and tetralin indicate a new metabolic pathway.
+   _Applied and Environmental Microbiology_ 68(2): 852-858.
+2. Boraas, M. E., D. B. Seale, and J. E. Boxhorn, 1998.  Phagotrophy by a
+   flagellate selects for colonial prey: A possible origin of
+   multicellularity.  _Evolutionary Ecology_ 12:153-164.  (See also
+   Harris, 2000, above.)
+3. Hayashi, Y., H. Sakata, Y. Makino, I. Urabe, and T. Yomo, 2003. Can an
+   arbitrary sequence evolve towards acquiring a biological function?
+   _Journal of Molecular Evolution_ 56: 162-168.
+3. Jenkins, R. O. et al., 2003. Bacterial degradation of arsenobetaine via
+   dimethylarsinoylacetate.  _Archives of Microbiology_ 180(2):142-150.
+4. Johnson, G. R., R. K. Jain, and J. C. Spain, 2002.  Origins of the
+   2,4-dinitrotoluene pathway.  _Journal of Bacteriology_ 184(15):
+   4219-4232.  (Erratum in _Journal of Bacteriology_ 184(21): 6084.)
+6. Moiseeva, O. V., I. P. Solyanikova, S. R. Kaschabek, J. Groning, M.
+   Thiel, L. A.  Golovleva, and M. Schlomann, 2002.  A new modified ortho
+   cleavage pathway of 3-chlorocatechol degradation by Rhodococcus opacus
+   1CP: genetic and biochemical evidence.  _Journal of Bacteriology_
+   184(19): 5282-5292.
+
+#2. Matsumura I, Ellington AD., 2001 (Jan. 12).  In vitro evolution of
+#   beta-glucuronidase into a beta-galactosidase proceeds through
+#   non-specific intermediates.  _J Mol Biol._ 305(2): 331-339.
+
+
+Further Reading:
+
+Date: 2003-7-4, 2003-8-6

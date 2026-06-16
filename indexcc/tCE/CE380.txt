@@ -1,0 +1,47 @@
+BriefClaim: Galaxies should lose their spiral shape over millions of years.
+Title: Spiral galaxies staying spiral.
+Keywords: winding dilemma, spiral galaxy, star formation
+
+Claim:
+
+Stars closer to the center of a spiral galaxy orbit the galaxy faster than
+stars farther away.  Over many millions of years, the difference in
+orbital rates should wind the spiral tighter and tighter.  We do not see
+any evidence for this in galaxies of different ages.
+
+Source:
+
+Corliss, William R., 1988.  Why do spiral galaxies stay that
+ way? or do they?  _Science Frontiers Online_ 55 (Jan-Feb).
+ http://www.science-frontiers.com/sf055/sf055p07.htm
+
+Response:
+
+1. Spiral arms are density waves, which, like sound in air, travel through
+   the galaxy's disk, causing a piling-up of stars and gas at the crests of
+   the waves.  In some galaxies, the central bulge reflects the wave,
+   giving rise to a giant standing spiral wave with a uniform rotation
+   rate and a lifetime of about one or two billion years.
+
+   The causes of the density waves are still not known, but there are many
+   possibilities.  Tidal effects from a neighboring galaxy probably cause
+   some of them.
+
+   The spiral pattern is energetically favorable.  Spiral configurations
+   develop spontaneously in computer simulations based on gravitational
+   dynamics (Carlberg et al. 1999).
+
+Links:
+
+Carlberg, Ray, Debra M. Elmegreen, Bruce G. Elmegreen, Jerry Sellwood and
+ William Lee Bell. 1999.  Ask the experts: Astronomy: What process creates
+ and maintains the beautiful spiral arms around spiral galaxies?
+ https://web.archive.org/web/20060328212546if_/http://www.sciam.com/askexpert_question.cfm?articleID=0008A68A-8C7F-1C72-9EB7809EC588F2D7
+
+References:
+
+1. Carlberg et al. 1999. (see above).
+
+Further Reading:
+
+Date: 2003-6-26

@@ -1,0 +1,87 @@
+BriefClaim: Agriculture is too recent.
+Title: Recent agriculture.
+Keywords: agriculture, young earth.
+
+Claim:
+
+Standard science says that humans lived as hunter-gatherers for 185,000
+years before discovering agriculture less than 10,000 years ago.  It is
+improbable that the Stone Age men, who were as intelligent as we are, did
+not discover how to plant food plants for so long.
+
+Source:
+
+Humphreys, D. Russell.  2005.  Evidence for a young world.  _Impact_ 384
+ (June): v-vi.
+
+Response:
+
+1. Why is it implausible that humans lived for a long time without
+   agriculture?  Agriculture allows higher population densities, but it
+   leads to an overall decrease in the quality of life over that of
+   hunter-gatherers (Diamond 1987).  In particular, agriculture requires
+   much more work for a lower quality, less dependable diet, and it
+   increases disease.  There was no pressing reason to adopt agriculture
+   in the first place.
+
+2. The end of the last ice age about 10,000 years ago may have facilitated
+   the origin of agriculture at that time.  The changed climate may have
+   made agriculture possible in more areas, and/or it may have led to a
+   human population increase which required agriculture to sustain.
+
+3. It is possible that agriculture *has* been discovered several different
+   times over the last 180,000 years.  Climate change, even over
+   relatively short periods of a few decades, has caused the collapse of
+   agricultural societies in historical times, and the climate has changed
+   dramatically over the last 180,000 years.  Agriculture in the distant
+   past may have been lost repeatedly.
+
+4. The assumption that humans have not changed in intelligence over the
+   past 185,000 years is unsupportable and many not be true.  A team
+   of geneticists has found evidence that human brains have evolved
+   adaptively recently (and may still be evolving).  Two genes associated
+   with brain size have genetic variants whose high frequencies indicate
+   that they spread under strong positive selection.  A haplotype (genetic
+   variant) of the _Microcephalin_ gene arose about 37,000 years ago (95
+   percent confidence interval of 14,000 to 60,000 years) (Evans et
+   al. 2005).  An _ASPM_ haplotype arose only about 5800 years ago (95
+   percent confidence interval of 500 to 14,000 years) (Mekel-Bobrov et
+   al. 2005).  It should be emphasized that the effects of these
+   haplotypes is currently unknown; the evidence for strong selection
+   indicates only that their effects are important, that humans have
+   evolved recently in some way.  It may be significant that they occurred
+   around the same times as the introduction of modern humans to Europe
+   and the origins of art (about 40,000 years ago) and the rise of
+   agriculture and writing (about 10,000 to 6,000 years ago).  It is also
+   possible that these genes are not relevant to the origins of
+   agriculture but others are.  The larger point is that there is evidence
+   that humans continue to evolve in subtle ways.
+
+5. Regardless of whether we know why more technological progress was not
+   made earlier, humans do have a long record, stretching back much, much
+   farther than 6000 years, and we do have good indications of levels of
+   technology during this history.  "I do not know why this happened" does
+   not lead logically to "this did not happen."
+
+Links:
+
+References:
+
+1. Diamond, Jared.  1987.  The worst mistake in the history of the human
+   race.  _Discover_, May: 64-66.
+   https://web.archive.org/web/20060118145458if_/http://anthropology.lbcc.edu/handoutsdocs/mistake.pdf
+2. Evans, Patrick D. et al. 2005.  _Microcephalin_, a gene regulating
+   brain size, continues to evolve adaptively in humans.  _Science_ 309:
+   1717-1720.
+3. Mekel-Bobrov, Nitzan et al. 2005.  Ongoing adaptive evolution of
+   _ASPM_, a brain size determinant in _Homo sapiens_.  _Science_ 309:
+   1720-1722.
+
+Further Reading:
+
+Diamond, Jared. 1997.  _Guns, Germs, and Steel: The Fates of Human
+ Societies_.  New York: Norton.
+
+#Acknowledgements: John Harshman for most of point 5.
+Date: 2005-9-23
+

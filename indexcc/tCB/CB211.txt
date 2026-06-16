@@ -1,0 +1,43 @@
+BriefClaim: An antigen receptor protein structure is same in camels and sharks.
+Title: Camelid nurse shark antigen receptor
+Keywords: convergent evolution, systematics
+
+Claim:
+
+An unusual antigen receptor protein structure is shared by camels and
+nurse sharks (Roux et al. 1998).  This, and many other similarities, can't
+be explained by having a common ancestor.
+
+Source:
+
+Sarfati, Jonathan, 2002.  _Refuting Evolution 2_.  Green Forest, AR:
+ Master Books, p. 113.
+
+Response:
+
+1. Convergent evolution has long been known to occur in large structures,
+   such as the wings of bats and birds.  It has long been expected in the
+   structure of molecules, too.  Roux et al. (1998) say, "Evolutionary
+   convergence at the molecular level is presumed to be widespread, but is
+   poorly documented."  The protein they describe is one example.
+
+   Similarities can be explained under evolution as due to inheritance,
+   convergence, or chance.  In the case of convergence, we expect similar
+   selective pressures on the organisms with the similarities, and we
+   expect dissimilarity in smaller details of the structure.  This is what
+   we observe here.  The DNA sequences that code for the proteins are
+   different between sharks and camels (Roux et al. 1998).
+
+Links:
+
+References:
+
+1. Roux, Kenneth H. et al. 1998.  Structural analysis of the nurse shark
+   (new) antigen receptor (NAR): Molecular convergence of NAR and unusual
+   mammalian immunoglobulins.  PNAS 95(20): 11804-11809.
+   https://web.archive.org/web/20080224130703if_/http://www.pnas.org/cgi/content/full/95/20/11804
+
+Further Reading:
+
+Date: 2004-4-5
+

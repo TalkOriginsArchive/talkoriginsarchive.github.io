@@ -1,0 +1,215 @@
+BriefClaim: The Cambrian explosion shows all kinds of life appearing suddenly.
+Title: Cambrian Explosion
+Keywords: Cambrian, Cambrian explosion, phylum, Proterozoic
+
+Claim:
+
+Complex life forms appear suddenly in the Cambrian explosion, with no
+ancestral fossils.
+
+Source:
+
+SciCre, pp.
+ 80-81.
+LifeHow, pp. 60-62.
+
+
+Response:
+
+1. The Cambrian explosion was the seemingly sudden appearance of a
+   variety of complex animals about 540 million years ago (Mya), but it
+   was not the origin of complex life.  Evidence of multicellular life
+   from about 590 and 560 Mya appears in the Doushantuo Formation in
+   China (Chen et al. 2000, 2004), and diverse fossil forms occurred
+   before 555 Mya (Martin et al. 2000).  (The Cambrian began 543 Mya.,
+   and the Cambrian explosion is considered by many to start with the
+   first trilobites, about 530 Mya.)  Testate amoebae are known from
+   about 750 Mya (Porter and Knoll 2000).  There are tracelike fossils
+   more than 1,200 Mya in the Stirling Range Formation of Australia
+   (Rasmussen et al. 2002).  Eukaryotes (which have relatively complex
+   cells) may have arisen 2,700 Mya, according to fossil chemical
+   evidence (Brocks et al. 1999).  Stromatolites show evidence of
+   microbial life 3,430 Mya (Allwood et al. 2006).  Fossil
+   microorganisms may have been found from 3,465 Mya (Schopf 1993).  There
+   is isotopic evidence of sulfur-reducing bacteria from 3,470 Mya (Shen
+   et al. 2001) and possible evidence of microbial etching of volcanic
+   glass from 3,480 Mya (Furnes et al. 2004).
+
+2. There are transitional fossils within the Cambrian explosion fossils.
+   For example, there are lobopods (basically worms with legs) which are
+   intermediate between arthropods and worms (Conway Morris 1998).
+
+3. Only some phyla appear in the Cambrian explosion.  In particular, all
+   plants postdate the Cambrian, and flowering plants, by far the
+   dominant form of land life today, only appeared about 140 Mya (Brown
+   1999).
+
+   Even among animals, not all types appear in the Cambrian.  Cnidarians,
+   sponges, and probably other phyla appeared before the Cambrian.
+   Molecular evidence shows that at least six animal phyla are Precambrian
+   (Wang et al. 1999).  Bryozoans appear first in the Ordovician.  Many
+   other soft-bodied phyla do not appear in the fossil record until much
+   later.  Although many new animal forms appeared during the Cambrian,
+   not all did.  According to one reference (Collins 1994), eleven of
+   thirty-two metazoan phyla appear during the Cambrian, one appears
+   Precambrian, eight after the Cambrian, and twelve have no fossil
+   record.
+
+   And that just considers phyla.  Almost none of the animal groups that
+   people think of as groups, such as mammals, reptiles, birds, insects,
+   and spiders, appeared in the Cambrian.  The fish that appeared in the
+   Cambrian was unlike any fish alive today.
+
+4. The length of the Cambrian explosion is ambiguous and uncertain, but
+   five to ten million years is a reasonable estimate; some say the
+   explosion spans forty million years or more, starting about 553 million
+   years ago.  Even the shortest estimate of five million years is hardly
+   sudden.
+
+5. There are some plausible explanations for why diversification may have
+   been relatively sudden:
+
+   - The evolution of active predators in the late Precambrian likely
+     spurred the coevolution of hard parts on other animals.  These hard
+     parts fossilize much more easily than the previous soft-bodied
+     animals, leading to many more fossils but not necessarily more
+     animals.
+
+   - Early complex animals may have been nearly microscopic.  Apparent
+     fossil animals smaller than 0.2 mm have been found in the Doushantuo
+     Formation, China, forty to fifty-five million years before the
+     Cambrian (Chen et al. 2004).  Much of the early evolution could have
+     simply been too small to see.
+
+   - The earth was just coming out of a global ice age at the beginning of
+     the Cambrian (Hoffman 1998; Kerr 2000).  A "snowball earth" before
+     the Cambrian explosion may have hindered development of complexity or
+     kept populations down so that fossils would be too rare to expect to
+     find today.  The more favorable environment after the snowball earth
+     would have opened new niches for life to evolve into.
+
+   - Hox genes, which control much of an animal's basic body plan, were
+     likely first evolving around that time.  Development of these genes
+     might have just then allowed the raw materials for body plans to
+     diversify (Carroll 1997).
+
+   - Atmospheric oxygen may have increased at the start of the Cambrian
+     (Canfield and Teske 1996; Logan et al. 1995; Thomas 1997).
+
+   - Planktonic grazers began producing fecal pellets that fell to the
+     bottom of the ocean rapidly, profoundly changing the ocean state,
+     especially its oxygenation (Logan et al. 1995).
+
+   - Unusual amounts of phosphate were deposited in shallow seas at the
+     start of the Cambrian (Cook and Shergold 1986; Lipps and Signor
+     1992).
+
+6. Cambrian life was still unlike almost everything alive today.
+   Although several phyla appear to have diverged in the Early Cambrian
+   or before, most of the phylum-level body plans appear in the fossil
+   record much later (Budd and Jensen 2000).  Using number of cell types
+   as a measure of complexity, we see that complexity has been
+   increasing more or less constantly since the beginning of the
+   Cambrian (Valentine et al. 1994).
+
+7. Major radiations of life forms have occurred at other times, too.  One
+   of the most extensive diversifications of life occurred in the
+   Ordovician, for example (Miller 1997).
+
+Links:
+
+References:
+
+1. Allwood, A. C. et al. 2006.  Stromatolite reef from the Early
+   Archaean era of Australia.  _Nature_ 441: 714-718.  See also Awramik,
+   Stanley M. 2006.  Respect for stromatolites.  _Nature_ 441: 700-701.
+1. Brocks, J. J., G. A. Logan, R. Buick and R. E. Summons, 1999.  Archean
+   molecular fossils and the early rise of eukaryotes.  _Science_ 285:
+   1033-1036.  See also Knoll, A. H., 1999.  A new molecular window on
+   early life.  _Science_ 285: 1025-1026.
+   https://web.archive.org/web/20100430015840if_/http://www.sciencemag.org/cgi/content/full/285/5430/1025
+2. Brown, Kathryn S., 1999.  Deep Green rewrites evolutionary history of
+   plants.  _Science_ 285: 990-991.
+3. Budd, Graham E. and S&ouml;ren Jensen. 2000.  A critical reappraisal
+   of the fossil record of the bilaterian phyla.  _Biological Reviews_
+   75: 253-295.
+3. Canfield, D. E. and A. Teske, 1996.  Late Proterozoic rise in
+   atmospheric oxygen concentration inferred from phylogenetic and
+   sulphur-isotope studies. _Nature_ 382: 127-132.  See also: Knoll, A.
+   H., 1996.  Breathing room for early animals.  _Nature_ 382: 111-112.
+4. Carroll, Robert L., 1997.  _Patterns and Processes of Vertebrate
+   Evolution_.  Cambridge University Press.
+5. Chen, J.-Y. et al., 2000.  Precambrian animal diversity: Putative
+   phosphatized embryos from the Doushantuo Formation of China.  PNAS
+   97(9): 4457-4462.  https://web.archive.org/web/20080529140555if_/http://www.pnas.org/cgi/content/full/97/9/4457
+1. Chen, J.-Y. et al., 2004.  Small bilaterian fossils from 40 to 55
+   million years before the Cambrian.  _Science_ 305: 218-222,
+   https://web.archive.org/web/20100228220805if_/http://www.sciencemag.org/cgi/content/abstract/1099213 .  See also
+   Stokstad, E., 2004.  Controversial fossil could shed light on early
+   animals' blueprint.  _Science_ 304: 1425.
+1. Collins, Allen G., 1994.  Metazoa: Fossil record.
+   http://www.ucmp.berkeley.edu/phyla/metazoafr.html
+6. Conway Morris, Simon, 1998.  _The Crucible of Creation_, Oxford.
+7. Cook, P. J. and J. H. Shergold (eds.), 1986.  _Phosphate Deposits of
+   the World, Volume 1. Proterozoic and Cambrian Phosphorites_.  Cambridge
+   University Press.
+8. Furnes, H., N. R. Banerjee, K. Muehlenbachs, H. Staudigel and M. de
+   Wit, 2004.  Early life recorded in Archean pillow lavas.  _Science_
+   304: 578-581.
+8. Hoffman, Paul F. et al., 1998.  A Neoproterozoic snowball earth.
+   _Science_ 281: 1342-1346.  See also: Kerr, Richard A., 1998.  Did an
+   ancient deep freeze nearly doom life?  _Science_ 281: 1259,1261.
+9. Kerr, Richard A., 2000.  An appealing snowball earth that's still hard
+   to swallow.  _Science_ 287: 1734-1736.
+9. Logan, G. A., J. M. Hayes, G. B. Hieshima and R. E. Summons, 1995.
+   Terminal Proterozoic reorganization of biogeochemical cycles.  _Nature_
+   376: 53-56.  See also Walter, M., 1995.  Faecal pellets in world
+   events.  _Nature_ 376: 16-17.
+1. Lipps, J. H. and P. W. Signor (eds.), 1992.  _Origin and Early
+   Evolution of the Metazoa_.  New York: Plenum Press.
+2. Martin, M. W. et al., 2000.  Age of Neoproterozoic bilatarian body and
+   trace fossils, White Sea, Russia: Implications for metazoan evolution.
+   _Science_ 288: 841-845.  See also Kerr, Richard A., 2000.  Stretching
+   the reign of early animals.  _Science_ 288: 789.
+3. Miller, Arnold I., 1997.  Dissecting global diversity patterns:
+   Examples from the Ordovician radiation.  _Annual Review of Ecology and
+   Systematics_ 28: 85-104.
+4. Porter, Susannah M. and Andrew H. Knoll, 2000.  Testate amoebae in the
+   Neoproterozoic Era: evidence from vase-shaped microfossils in the Chuar
+   Group, Grand Canyon.  _Paleobiology_ 26(3): 360-385.
+8. Rasmussen, B., S. Bengtson, I. R. Fletcher and N. J. McNaughton, 2002.
+   Discoidal impressions and trace-like fossils more than 1200 million
+   years old.  _Science_ 296: 1112-1115.
+5. Schopf, J. W., 1993.  Microfossils of the Early Archean Apex Chert: New
+   evidence of the antiquity of life.  _Science_ 260: 640-646.
+1. Shen, Y., R. Buick and D. E. Canfield, 2001.  Isotopic evidence for
+   microbial sulphate reduction in the early Archaean era.  _Nature_ 410:
+   77-81.
+6. Thomas, A. L. R., 1997.  The breath of life -- did increased oxygen
+   levels trigger the Cambrian Explosion?  _Trends in Ecology and
+   Evolution_ 12: 44-45.
+8. Valentine, James W., Allen G. Collins and C. Porter Meyer, 1994.
+   Morphological complexity increase in metazoans.  _Paleobiology_
+   20(2): 131-142.
+9. Wang, D. Y.-C., S. Kumar and S. B. Hedges, 1999. Divergence time
+   estimates for the early history of animal phyla and the origin of
+   plants, animals and fungi.  _Proceedings of the Royal Society of
+   London, Series B, Biological Sciences_ 266: 163-71.
+#   146 out of 182 possible pairs of basic skeleton characters appeared
+#   during the Cambrian (Thomas et al. 2000).
+#7. Thomas, R. D. K., R. M. Shearman and G. W. Stewart, 2000.  Evolutionary
+#   exploitation of design options by the first animals with hard
+#   skeletons.  _Science_ 288: 1239-1242.
+
+Further Reading:
+
+Conway Morris, Simon. 1998.  _The Crucible of Creation_.  Oxford.
+
+Conway Morris, Simon. 2000.  The Cambrian "explosion": Slow-fuse or
+ megatonnage?  PNAS 97(9): 4426-4429. (technical)
+
+Schopf, J. William. 2000.  Solution to Darwin's dilemma: Discovery of the
+ missing Precambrian record of life.  PNAS 97(13): 6947-6953.
+ https://web.archive.org/web/20080516230458if_/http://www.pnas.org/cgi/content/full/97/13/6947
+
+Date: 2001-3-31, 2006-12-5

@@ -1,0 +1,36 @@
+BriefClaim: Some fossil species are still living.
+Title: Living fossils
+Keywords: fossil
+
+Claim:
+
+Some species, such as the tuatara, horseshoe crab, cockroach, ginkgo, and
+<CB930.1>coelacanth>, are "fossil species."  They have not evolved for
+millions of years.
+
+Source:
+
+Whitcomb, John C. Jr. and Henry M. Morris, 1961.  _The Genesis Flood_.
+ Philadephia, PA: Presbyterian and Reformed Publishing Co., pp. 176-180.
+
+Response:
+
+1. The theory of evolution does not say that organisms must evolve
+   morphologically.  In fact, in an unchanging environment, stabilizing
+   selection would tend to keep an organism largely unchanged.  Many
+   environments around today are not greatly different from environments
+   of millions of years ago.
+
+2. Some so-called fossil species have evolved significantly.
+   Cockroaches, for example, include over 4,000 species of various shapes
+   and sizes.  Species may also evolve in ways that are not obvious.  For
+   example, the immune system of horseshoe crabs today is probably quite
+   different from that of horseshoe crabs of millions of years ago.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-6-13

@@ -1,0 +1,83 @@
+From: Kenneth Fair <kenfair@earthling.net>
+Date: April 22, 2005 8:21:33 AM CDT
+To: Wesley Elsberry <welsberr@austringer.net>, John Wilkins <wilkins@wehi.edu.au>
+Subject: Treasurer's Report
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+THE TALKORIGINS FOUNDATION, INC.
+A Texas Nonprofit Corporation
+
+
+TREASURER'S REPORT
+April 22, 2005
+
+
+This report outlines the Foundation's financial situation and
+dealings since its organization on April 26, 2004.  As the directors
+are aware, the Foundation was dormant for much of this period while
+awaiting a ruling from the Internal Revenue Service on the
+Foundation's tax-exempt status.  That notice was finally received in
+March 2005.
+
+On April 2, 2005, the Foundation was opened to donations from the
+public.  As authorized in the organizing resolution, the Treasurer
+established a checking account with Hibernia Bank.  Hibernia was
+selected because (1) it has a branch near the Treasurer, (2) it
+offered a no-fee checking account for small businesses, and (3) it
+allows for online banking.  The Treasurer also established an account
+with Paypal.  Paypal was selected because (1) it is the most popular
+online financial service, and can receive donations directly from
+other Paypal account holders, (2) it can process credit card
+donations from those who do not hold Paypal accounts, and (3) it
+offers a money market return on funds deposited.
+
+The Paypal money market return is currently 2.41% annually.
+Donations via Paypal are subject to a 2.9% + $0.30 USD fee.  A small
+additional fee is charged for international donations.
+
+As of this writing, the Foundation has $2099.40.  Of this amount,
+$670.00 is from donations sent by check to the Treasurer, while the
+remainder is from donations to the Paypal account, less transaction
+fees.  Over the three-week period since the Foundation started
+receiving donations, the Foundation has received two donations for
+$500, four donations of $100, and eighteen donations of under $100.
+The pattern of donations is a bit difficult to assess, given the
+short period of time since their receipt, but there seems to have
+been two spikes correlating with the initial announcement of the
+Foundation's accepting donations and the announcement to NCSE
+members.
+
+The Foundation has incurred one expense during this period: $23.46
+for the checkbook for the Hibernia account.  This expense remains
+outstanding and will be paid shortly.  Thus the Foundation's net
+worth is currently $2075.94.  The Treasurer will post a complete
+accounting report on the web site
+(http://www.talkorigins.org/foundation) shortly.
+
+In summary, the fiscal health of the Foundation appears to be strong
+and sufficient to cover the basic expenses for hosting the
+Talk.Origins Archive.  If the Foundation so desires, the funds should
+also be available to help defray hosting costs for the Archive's
+associated sites (TalkDesign and Panda's Thumb) for this year.
+
+The Treasurer recommends reexamining the Foundation's fiscal status
+at the end of May to get a better sense of the level of donations
+over a longer time period, once any initial excitement may have
+waned.
+
+
+  /s/ Kenneth J. Fair
+        Treasurer, TalkOrigins Foundation
+
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP 8.0.2 - not licensed for commercial use: www.pgp.com
+
+iQA/AwUBQmjsLjz5KF0EZhfWEQLeAwCgidNdqhpZZ9I8BoxDxq19Zis6qSUAoLb2
+W5sC+GkiLXhK1kqW062/UsSW
+=5Yiz
+-----END PGP SIGNATURE-----
+

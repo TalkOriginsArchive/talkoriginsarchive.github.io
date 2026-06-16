@@ -1,0 +1,72 @@
+BriefClaim: Humans have stopped evolving.
+Title: Humans still evolving
+Keywords: human evolution
+
+Claim:
+
+Modern man is said to have evolved until about 100,000 years ago and then
+to have stopped evolving.  Evolution since that time, it is claimed, has
+been "cultural and social evolution."  Biological evolution is unknown
+among humans in historical times.
+
+Source:
+
+Ferrell, Vance, 2001.  _Evolution Cruncher_, chap. 13: Ancient man.
+ Altamont, TN: Evolution Facts, Inc.
+ https://web.archive.org/web/20110726043252if_/http://evolution-facts.org/Ev-Crunch/c13a.htm
+
+Response:
+
+1. There is evidence that humans have evolved in the last several thousand
+   years and continue to evolve.
+
+    - Analysis of variation in the human genome indicates that genes
+      associated with brain size have evolved over approximately the last
+      37,000 years and 5800 years (Evans et al. 2005; Mekel-Bobrov et
+      al. 2005).
+    - Sickle-cell resistance has evolved to be more prevalent in areas
+      where malaria is more common.
+    - Lactose tolerance has evolved in conjunction with cultural changes
+      in dairy consumption (Durham 1992).
+    - Some humans have recently acquired mutations which confer resistance
+      to AIDS (Dean et al. 1996; Sullivan et al. 2001) and to heart
+      disease (Long 1994; Weisgraber et al. 1983).
+
+   Genome-wide sequencing shows evidence of much more positive selection
+   as well (Sabeti et al. 2006).  There is some evidence that human
+   evolution has accellerated recently, since humans dispersed from
+   Africa and developed agriculture (Hawks et al. 2007).
+
+Links:
+
+References:
+
+1. Dean, M. et al. 1996.  Genetic restriction of HIV-1
+   infection and progression to AIDS by a deletion allele of the CKR5
+   structural gene.  _Science_ 273: 1856-1862.
+2. Durham, William H.  1992.  _Coevolution: Genes, Culture, and Human
+   Diversity_.  Stanford, CA: Stanford University Press.
+3. Evans, Patrick D. et al. 2005.  _Microcephalin_, a gene regulating
+   brain size, continues to evolve adaptively in humans.  _Science_ 309:
+   1717-1720.
+4. Hawks, John et al. 2007.  Recent acceleration of human adaptive
+   evolution.  PNAS 104: 20753-20758.
+4. Long, Patricia. 1994. A town with a golden gene. _Health_ 8(1)
+   (Jan/Feb.): 60-66.
+5. Mekel-Bobrov, Nitzan et al. 2005.  Ongoing adaptive evolution of
+   _ASPM_, a brain size determinant in _Homo sapiens_.  _Science_ 309:
+   1720-1722.
+6. Sabeti, P. C. et al. 2006.  Positive natural selection in the human
+   lineage.  _Science_ 312: 1614-1620.
+6. Sullivan, Amy D., Janis Wigginton and Denise Kirschner. 2001.  The
+   coreceptor mutation CCR5-delta-32 influences the dynamics of HIV
+   epidemics and is selected for by HIV.  PNAS 98: 10214-10219.
+7. Weisgraber K. H., S. C. Rall Jr., T. P. Bersot, R. W. Mahley, G.
+   Franceschini, and C. R. Sirtori. 1983.  Apolipoprotein A-I
+   Milano. Detection of normal A-I in affected subjects and evidence for
+   a cysteine for arginine substitution in the variant A-I.  _Journal of
+   Biological Chemistry_ 258: 2508-2513.
+
+Further Reading:
+
+Date: 2005-10-3, 2007-12-16

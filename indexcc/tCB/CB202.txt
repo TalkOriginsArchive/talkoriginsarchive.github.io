@@ -1,0 +1,64 @@
+BriefClaim: No gradual biochemical evolution models have been published.
+Title: Articles on gradual biochemical evolution 
+Keywords: gradual evolution, publish, article, biochemistry, model
+
+Claim:
+
+Professional literature is silent on the subject of the evolution of
+biochemical systems.
+
+Source:
+
+DBB, 68, 72, 97, 114, 115-116, 138, 185-186.
+
+Response:
+
+1. The claim is simply false.  Dozens of articles exist on the subjects
+   for which Behe claims the literature is missing.  David Ussery, for
+   example, found 107 articles on cilia evolution, 125 on flagella
+   evolution, 27 on the evolution of the entire coagulation system, 130 on
+   the evolution of vesicle transport, 84 on "molecular evolution of the
+   immune system." (Ussery 1998)
+
+2. Behe tries to make his claim appear more dramatic by overstating our
+   understanding of the molecular workings of the cell.  For example, he
+   says (p. 232), "Over the past four decades modern biochemistry has
+   uncovered the secrets of the cell."  But our understanding has only
+   just begun.  In the years since Behe wrote his book, journals have been
+   filled with thousands of research articles uncovering new information,
+   and much remains to be uncovered.  When the complete _Escherichia coli_
+   genome was sequenced in 1998, the functions of a third of its genes
+   were still completely unknown, and _E. coli_ is much simpler than human
+   cells.
+
+3. Behe's work on intelligent design theory has produced no publications
+   in scientific literature.  In fact, there have been no scientific
+   publications on intelligent design by any of its proponents (Gilchrist
+   1997).
+
+Links:
+
+References:
+
+1. Ussery, David, 1998.  A biochemist's response to "The biochemical
+   challenge to evolution.  _Bios_ (July 1999??).
+   https://web.archive.org/web/20010818111015if_/http://www.cbs.dtu.dk/dave/Behe.html
+2. Gilchrist, George W., 1997.  The elusive scientific basis of
+   intelligent design theory.  RNCSE 17(3) (May/Jun): 14-15.
+   https://web.archive.org/web/20020414173225if_/http://www.natcenscied.org/id17-3.htm
+
+Further Reading:
+
+Li, Wen-Hsiung, 1997. _Molecular Evolution_.  Sinauer Associates, Inc.,
+ Sunderland, MA.
+
+Catalano, John (ed.), 1998.  Publish or perish: Some published works on
+ biochemical evolution.  http://www.talkorigins.org/faqs/behe/publish.html
+
+See for Yourself:
+
+You can do a search of biological and medical research yourself at PubMed
+( http://www.ncbi.nlm.nih.gov/PubMed ).  Try keywords such as "flagella" and
+"evolution".
+
+Date: 2003-4-1

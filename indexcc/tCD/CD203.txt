@@ -1,0 +1,63 @@
+BriefClaim: Limestone and dolomite layers are too extensive for normal deposition.
+Title: Extensive limestone and dolomite
+Keywords: sediment, deposition.
+
+Claim:
+
+The occurrence of limestone deposits that are so great and so uniform
+defies explanation except by massive precipitation from chemical-rich
+waters, consistent with catastrophism, not uniformitarianism.  Dolomite
+sediments are not being formed at all today; they also require an
+exceptional explanation.
+
+Source:
+
+SciCre, p. 104.
+
+Response:
+
+1. Uniformitarian processes explain limestone formations far better than
+   catastrophism does:
+    - Limestones form continuously today over wide areas (such as the
+      Caribbean) as calcium carbonate is precipitated from water directly
+      and through the actions of organisms.  Limestone formation easily
+      fits within conventional geology.
+    - Limestones appear in strata interleaved between strata of sandstones
+      and other rocks.  A single event could not explain all the layers.
+    - Limestones often include fragile fossils that could not survive
+      catastrophic transport.
+
+   Dolomites require no exceptional explanation.  They form via diagenesis
+   (a sort of chemical rearrangement in the deep subsurface) from calcite,
+   the main ingredient of limestone.  Creationism does not explain the
+   origin of dolomite.
+
+2. Limestone could not have formed quickly from massive precipitation,
+   because the formation of calcite releases heat.  If only 10 percent of
+   the world's limestone were formed during the Flood, the 5.6 x 10^26
+   joules of heat released would be enough to boil the flood waters (Isaak
+   1998).
+
+#3. If the world's limestones are only a few thousand years old, where is
+#   the aragonite?  Aragonite, a carbonate mineral with the same formula as
+#   calcite (CaCO<sub>3</sub>), is commonly found in sea shells and other
+#   biological remains in modern carbonate sediments.  However, argonite is
+#   unstable at low pressures over geologic time.  It has been found in
+#   Paleozoic rocks from only four locations, the oldest of which is a
+#   shale with a Mississippian age (Blatt et al. 1980, 491-492).
+#   Nevertheless, there is textural evidence that aragonite was more common
+#   in Paleozoic sedimentary rocks at one time.  If "Flood geology" is
+#   true, aragonite should be common in all limestones, especially
+#   Paleozoic limestones that have been deeply buried and under higher
+#   pressure.
+
+Links:
+
+References:
+
+1. Isaak, Mark, 1998.  Problems with a global flood, 2nd ed.
+   http://www.talkorigins.org/faqs/faq-noahs-ark.html#georecord
+
+Further Reading:
+
+Date: 2003-8-18

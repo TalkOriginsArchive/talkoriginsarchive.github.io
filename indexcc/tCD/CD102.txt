@@ -1,0 +1,51 @@
+BriefClaim: The geological column is sometimes out of order.
+Title: Geological column order
+Keywords: strata
+
+Claim:
+
+Strata in the geological column are sometimes out of order.  The
+mechanisms geophysicists use to account for them are problematic.  Thrust
+faulting would have produced great amounts of debris, which geologists do
+not see; folding would require great forces for which geophysicists have
+trouble accounting.
+
+Source:
+
+Whitcomb, J. C. and H. M. Morris, 1961. _The Genesis Flood_. Philadelphia:
+ Presbyterian and Reformed Publishing Co., pp. 180-211.
+SciCre, p. 120.
+
+Response:
+
+1. Folds account for out-of-order strata with sequences such as A-B-C-B-A.
+   Faults create sequences such as B-C-A-B-C.  The evidence is so
+   overwhelming that these conclusions should be obvious.  In many cases,
+   the folds and faults can easily be seen in cross-sections of the
+   strata.  In other cases, further geological mapping verifies the
+   presence of the fold or fault.  Features such as ripple marks and mud
+   cracks show that the strata were originally horizontal.
+
+2. Great forces are not a problem in geophysics.  First, great forces
+   exist.  Earthquakes can move many miles of crust by several feet at a
+   time.  Second, the forces act over a long period of time.  Rocks which
+   would fracture if bent suddenly will deform gradually under hundreds of
+   millions of years of heat and constant pressure.
+
+   Faults do, in fact, produce a layer of debris along the fault line.
+   Sometimes this layer is fairly thin.  There is no reason to expect
+   great amounts of debris along all faults.
+
+3. The geologic column is never out of order in areas that have not been
+   greatly disturbed.
+
+Links:
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-gc.html#G4c
+
+References:
+
+Further Reading:
+
+Date: 2003-4-12, 2003-4-30

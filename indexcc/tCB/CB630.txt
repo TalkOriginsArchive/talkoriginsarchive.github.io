@@ -1,0 +1,54 @@
+BriefClaim: Mutually dependent species could not have evolved.
+Title: Evolution of obligate mutualism
+Keywords: obligate mutualism, symbiosis
+
+Claim:
+
+Many pairs of species are mutually and completely dependent upon each
+other.  For example, fig trees require fig gall wasps to pollinate them,
+and the wasps require the figs to live.  Another such example, among many,
+is the yucca and _Pronuba_ yucca moth.  If one species evolved first, it
+could not have survived on its own; the mutualistic species must have come
+into existence at essentially the same time.
+
+Source:
+
+#Rapture Ready, n.d.  The Myth of Evolution.
+# http://www.raptureready.us/evolution.htm (broken link)
+
+Response:
+
+1. Obligate mutualism can evolve gradually from nonobligate associations.
+   For example, a yucca can be pollinated by many insects and gradually
+   specialize to attract just one moth, and a moth may live off many
+   species of yucca and gradually specialize on just one.  In fact, some
+   yucca species are still pollinated by more than one moth, and the yucca
+   moth _Tegeticula yuccasella_ pollinates several species of yucca
+   (Powell 1992).
+
+Links:
+
+References:
+
+1. Powell, Jerry A.  1992.  Interrelationships of yuccas and yucca moths.
+   _Trends in Ecology and Evolution_ 7(1): 10-15.
+
+Further Reading:
+
+Dawkins, Richard, 1996.  _Climbing Mount Improbable_.  New York:
+ W.W. Norton, chpts. 8 and 10.
+Pellmyr, O., J. N. Thompson, J. M. Brown and R. G. Harrison, 1996.
+ Evolution of pollination and mutualism in the yucca moth lineage.  _The
+ American Naturalist_ 148(5): 827-847. (technical)
+
+#Pellmyr, O., and Thompson, J.N.  1992.  Multiple occurrences of mutualism
+#in the yucca moth lineage.  PNAS 89: 2927-2929.
+#
+#Pellmyr, Olle, and Huth, Chad J.  1994.  Evolutionary stability of
+#mutualism between yuccas and yucca moths.  Nature 372: 257-260.
+#
+#Pellmyr, O., and Leebens-Mack, J.  1999.  Forty million years of
+#mutualism: Evidence for Eocene origin of the yucca-yucca moth association.
+#PNAS 96: 9178-9183.
+
+Date: 2004-1-16

@@ -1,0 +1,61 @@
+BriefClaim: Purpose indicates design.
+Title: Purpose and design
+Keywords: purpose
+
+Claim:
+
+A purpose for an object indicates that the object is designed.
+
+Source:
+
+Paley, William, 1802.  _Natural Theology: or, Evidences of the Existence
+ and Attributes of the Deity_.  London: J. Faulder, p. 2.
+
+Response:
+
+1. When somebody designs something, he or she usually has a purpose for
+   it, but the purpose is that of the designer, not the object designed.
+   For example, people have a purpose for windows and airbags in
+   automobiles, but the automobile itself has no such purpose.  When the
+   purpose argument is applied to life, though, the designer is
+   intentionally left entirely unknowable, and thus the purpose of the
+   designer is not part of the picture.  We know only the object's purpose
+   for part of the object, which is not relevant unless you want to claim
+   that the object designed itself.
+
+2. To the extent that traits of living things have a purpose, that
+   purpose, ultimately, is the reproductive success of the organism's
+   genes.  Such purpose is entirely consistent with evolution.
+
+3. It is not uncommon for undesigned objects to have a purpose.  The North
+   Star, for example, has a purpose in navigation, but it got that purpose
+   entirely through the chance of its being in a certain spot.
+
+   Even with designed things, it is common for purposes to come and go.
+   The same object can have different purposes at different times or even
+   multiple purposes at the same time.  It will gain and lose its purposes
+   as conditions change.
+
+4. Some life forms have no apparent purpose.  There have been species
+   in isolated caves discovered quite by chance (Decu et al. 1994).  Very
+   likely, there have been species similarly isolated that were never
+   discovered.
+
+   Some parts of life forms also appear to have no purpose: <CB130>junk
+   DNA>, for example.
+
+   Life also exists at cross-purposes.  A bobcat's purpose for a rabbit is
+   likely to be quite different from the rabbit's purpose.
+
+Links:
+
+References:
+
+1. Decu, V., M. Gruia, S. L. Keffer and S. M. Sarbu, 1994.  Stygobiotic
+   waterscorpion, _Nepa anophthalma_, n. sp. (Heteroptera: Nepidae), from
+   a sulfurous cave in Romania.  _Annals of the Entomological Society of
+   America_ 87: 755-761.
+
+Further Reading:
+
+Date: 2003-6-23, 2003-10-6

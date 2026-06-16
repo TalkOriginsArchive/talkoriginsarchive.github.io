@@ -1,0 +1,116 @@
+BriefClaim: The cosmos is fine-tuned to permit human life.
+Title: The Anthropic Principle
+Keywords: cosmology, fine-tuning, anthropic principle
+
+Claim:
+
+The cosmos is fine-tuned to permit human life.  If any of several
+fundamental constants were only slightly different, life would be
+impossible.  (This claim is also known as the weak anthropic principle.)
+
+Source:
+
+Ross, Hugh. 1994.  Astronomical evidences for a personal, transcendent
+ God.  In: _The Creation Hypothesis_, J. P. Moreland, ed., Downers Grove,
+ IL: InterVarsity Press, pp. 141-172.
+
+Response:
+
+1. The claim assumes life in its present form is a given; it applies not
+   to life but to life only as we know it.  The same outcome results if
+   life is fine-tuned to the cosmos.
+
+   We do not know what fundamental conditions would rule out any
+   possibility of any life.  For all we know, there might be intelligent
+   beings in another universe arguing that if fundamental constants were
+   only slightly different, then the absence of free quarks and the
+   extreme weakness of gravity would make life impossible.
+
+   Indeed, many examples of fine-tuning are evidence that life is
+   fine-tuned to the cosmos, not vice versa.  This is exactly what
+   evolution proposes.
+
+2. If the universe is fine-tuned for life, why is life such an extremely
+   rare part of it?
+
+3. Many fine-tuning claims are based on numbers being the "same order of
+   magnitude," but this phrase gets stretched beyond its original meaning
+   to buttress design arguments; sometimes numbers more than
+   one-thousandfold different are called the same order of magnitude (Klee
+   2002).
+
+   How fine is "fine" anyway?  That question can only be answered by a
+   human judgment call, which reduces or removes objective value from the
+   anthropic principle argument.
+
+4. The fine-tuning claim is weakened by the fact that some physical
+   constants are dependent on others, so the anthropic principle may rest
+   on only a very few initial conditions that are really fundamental (Kane
+   et al. 2000).  It is further weakened by the fact that different
+   initial conditions sometimes lead to essentially the same outcomes, as
+   with the initial mass of stars and their formation of heavy metals
+   (Nakamura et al. 1997), or that the tuning may not be very fine, as
+   with the resonance window for helium fusion within the sun (Livio et
+   al. 1989).  For all we know, a universe substantially different from
+   ours may be improbable or even impossible.
+
+5. If part of the universe were not suitable for life, we would not be
+   here to think about it.  There is nothing to rule out the possibility
+   of multiple universes, most of which would be unsuitable for life.  We
+   happen to find ourselves in one where life is conveniently possible
+   because we cannot very well be anywhere else.
+
+6. Intelligent design is not a logical conclusion of fine tuning.  Fine
+   tuning says nothing about motives or methods, which is how design is
+   defined.  (The scarcity of life and multi-billion-year delay in it
+   appearing argue against life being a motive.)  Fine-tuning, if it
+   exists, may result from other causes, as yet unknown, or for no reason
+   at all (Drange 2000).
+
+7. In fact, the anthropic principle is an argument against an omnipotent
+   creator.  If God can do anything, he could create life in a universe
+   whose conditions do not allow for it.
+
+Links:
+
+Drange, Theodore M. 2000.  The fine-tuning argument revisited (2000).
+ _Philo_ 3(2): 38-49.
+ http://www.infidels.org/library/modern/theodore_drange/tuning-revisited.html
+
+Stenger, Victor J. 1997.  Intelligent design: Humans, cockroaches, and
+ the laws of physics.  http://www.talkorigins.org/faqs/cosmo.html
+
+Stenger, Victor J. 1999 (July).  The anthropic coincidences:
+ A natural explanation.  _The Skeptical Intelligencer_ 3(3): 2-17.
+ http://www.stephenjaygould.org/ctrl/stenger_intel.html
+
+Weinberg, Steven. 1999.  A designer universe?
+ http://www.physlink.com/Education/essay_weinberg.cfm
+
+References:
+
+1. Drange, Theodore M. 2000.  The fine-tuning argument revisited (2000).
+   _Philo_ 3(2): 38-49.
+   http://www.infidels.org/library/modern/theodore_drange/tuning-revisited.html
+1. Kane, G. L., M. J. Perry, and A. N. Zytkow. 2000 (28 Jan.).  The
+   beginning of the end of the anthropic principle.  _New Astron._ 7:
+   45-53.  http://xxx.lanl.gov/abs/astro-ph/0001197
+2. Klee, Robert. 2002.  The revenge of Pythagoras: How a mathematical
+   sharp practice undermines the contemporary design argument in
+   astrophysical cosmology.  _British Journal for the Philosophy of
+   Science_ 53: 331-354.
+3. Livio, M., D. Hollowell, A. Weiss and J. Truran. 1989.  The
+   anthropic significance of the existence of an excited state of
+   <sup>12</sup>C.  _Nature_ 340: 281-284.
+4. Nakamura, Takashi, H. Uehara, and T. Chiba. 1997.
+   The minimum mass of the first stars and the anthropic principle.
+   _Progress of Theoretical Physics_ 97: 169-171.
+   http://xxx.lanl.gov/abs/astro-ph/9612113
+
+Further Reading:
+
+Goldsmith, D. 2004.  The best of all possible worlds.  _Natural History_
+ 113(6) (July/Aug.): 44-49.
+
+#Acknowledgement: Eduardo Silva for pointing out Drange reference.
+Date: 2001-2-18, 2005-8-5

@@ -1,0 +1,117 @@
+BriefClaim: The traditional peppered moth story is no longer supportable.
+Title: The peppered moth story
+Keywords: peppered moth, Biston betularia, industrial melanism, natural
+selection.
+
+Claim:
+
+According to the traditional peppered moth story, cryptic coloration
+confers protection to the moths from predators, and as the habitat changed
+due to industrial pollution, natural selection caused the frequencies of
+different color varieties of the moth to change.  As the trees became
+darker, the lighter moths stood out more, so the darker ones became more
+plentiful, and vice versa as the pollution cleared.  That story is no
+longer supportable because of flaws found in the experiments, such as
+<CB601_1>where the moths rested>, and the occurrence of contrary data,
+such as <CB601_2>unaccountable frequencies of uncamouflaged moths> in
+areas.
+
+Source:
+
+Wells, Jonathan, 1999.  Second thoughts on peppered moths. 
+ http://www.arn.org/docs/wells/jw_pepmoth.htm or
+ http://www.trueorigin.org/pepmoth1.asp
+Wells, Jonathan, 2000. _Icons of Evolution_, Washington DC: Regnery
+ Publishing Inc., pp. 137-157.
+
+Response:
+
+1. Although the experiments were not perfect, they were not fatally
+   flawed.  Even though Kettlewell released his moths in daylight when a
+   night release would have been more true to nature, he used the same
+   procedure in areas that differed only in the amount of industrial
+   pollution, showing conclusively that industrial pollution was a factor
+   responsible for the difference in predation between color varieties.
+   Similar arguments can be made for all other experiments.  Although no
+   experiment is perfect (nor can be), even imperfect experiments can give
+   supporting or disconfirming evidence.  In the case of peppered moths,
+   many experiments have been done, and they all support the traditional
+   story (Grant 1999).
+
+2. Even without the experiments, the peppered moth story would be well
+   established.  Peppered moth melanism has both risen and fallen with
+   pollution levels, and they have done so in many sites on two
+   continents (Cook 2003; Grant 1999).
+
+3. The peppered moth story is consistent with many other experiments and
+   observations of crypsis and coloration in other species.  For example,
+   bird predation maintains the colorations of _Heliconius cydno_, which
+   has different coloration in different regions, in both regions
+   mimicking a noxious _Heliconius_ species (Kapan 2001).  Natural
+   selection acting on the peppered moth would be the parsimonious
+   hypothesis even if there were no evidence to support it.
+
+4. The peppered moth story is not simple.  The full story as it is known
+   today fills thousands of pages of journal articles.  Familiarity with
+   the literature and with the moths in the field is needed to evaluate
+   all the articles.  But the research and the debates over its
+   implications have all been done in the open.  Charges of fraud and
+   misconduct stem from neglect and misrepresentation of the research by
+   the people making the charges (Grant 2000).  Of those familiar with the
+   literature, none doubt that bird predation is of primary importance
+   in the changing frequencies of melanism in peppered moths (Majerus
+   1999).
+
+   In teaching any subject to beginners, simplifying complex topics is
+   proper.  The peppered moth story is a valuable tool for helping
+   students understand how nature really works.  Teachers would be right
+   to omit the complexities from the story if they judged that their
+   students were not yet ready for that higher level of learning (Rudge
+   2000).
+
+Links:
+
+Gishlick, Alan D., n.d.  Icons of evolution? Peppered moths.
+ https://web.archive.org/web/20040221170211if_/http://www.ncseweb.org/icons/icon6moths.html
+
+Tamzek, Nic, 2002.  Icon of obfuscation.
+ http://www.talkorigins.org/faqs/wells/iconob.html#moths
+
+References:
+
+1. Cook, L. M., 2003.  The rise and fall of the _carbonaria_ form of the
+   peppered moth.  _Quarterly Review of Biology_ 78(4): 399-417.
+2. Grant, Bruce S., 1999.  Fine tuning the peppered moth paradigm. 
+   _Evolution_ 53(3): 980-984.
+3. Grant, Bruce, 2000.  Letter: Charges of fraud misleading.
+   _Pratt Tribune_, 13 Dec. 2000.  Reprinted at
+   http://www.indiana.edu/~ensiweb/lessons/icon.cr.html
+4. Kapan, Durrell D., 2001.  Three-butterfly system provides a field test
+   of mullerian mimicry.  _Nature_ 409: 338-340.
+5. Majerus, Michael E. N., 1999.  (Letter).  Quoted by Frack, Don. 1999.
+   Peppered moths, round 2, part 2.
+   http://www.calvin.edu/archive/evolution/199904/0103.html
+6. Rudge, David Wyss, 2000.  (see below)
+
+#   Pocket mice show adaptive coloration matching the light or dark rocks
+#   they live in [Nachman et al, 2003].  [but is there experimental
+#   evidence of natural selection maintaining the coloration??]
+#9. Nachman, Michael W., Hopi E. Hoekstra, and Susan L. D'Agostino, 2003.
+#   The genetic basis of adaptive melanism in pocket mice.  PNAS 100(9):
+#   5268-5273.  https://web.archive.org/web/20080820183925if_/http://www.pnas.org/cgi/content/abstract/100/9/5268
+
+Further Reading:
+
+Majerus, Michael E. N. 1998.  _Melanism: Evolution in Action_, Oxford
+ University Press, Oxford. (technical)
+
+Rudge, David Wyss. 1999. Taking the peppered moth with a grain of salt. 
+ _Biology and Philosophy_ 14: 9-37.
+
+Rudge, D. W. 2000.  Does being wrong make Kettlewell wrong for
+ science teaching?  _Journal of Biological Education_ 35(1): 5-11.
+
+Rudge, D. W. 2005.  The beauty of Kettlewell's classic experimental
+ demonstration of natural selection.  _BioScience_ 55: 369-375.
+
+Date: 2001-4-29, 2005-5-2

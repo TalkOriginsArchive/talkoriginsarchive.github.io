@@ -1,0 +1,42 @@
+BriefClaim: Mutations are accidents; things do not get built by accident.
+Title: Mutations as accidents
+Keywords: mutation.
+
+Claim:
+
+Mutations are accidents, and things do not get built by accident. 
+
+Source:
+
+LifeHow,
+ pg. 102.
+SciCre, p. 55.
+
+Response:
+
+1. There is more to evolution than mutation.  A small percentage of
+   mutations are beneficial, and selection can cause the beneficial
+   mutations to persist and the harmful mutations to die off.  The
+   combination of mutation and selection can create new useful
+   adaptations.
+
+   Sometimes things do get built by accident.  Many discoveries started
+   out as accidents that people recognized uses for.  Many other designs
+   (accidental or not) have been selected against, that is, discarded.
+   Design itself is an evolutionary process.
+
+2. Experiments and genetic analysis show that mutations (plus selection)
+   do account for new adaptations (Max 1999).
+
+Links:
+
+Max, Edward E. 1999.  The evolution of improved fitness by random
+ mutation plus selection.  http://www.talkorigins.org/faqs/fitness/
+
+References:
+
+1. Max, E. E. 1999.  (see above)
+
+Further Reading:
+
+Date: 2003-4-21

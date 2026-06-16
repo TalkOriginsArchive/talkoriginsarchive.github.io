@@ -1,0 +1,54 @@
+BriefClaim: Small changes do not imply large changes.
+Title: Evolution by small changes
+Keywords: microevolution, macroevolution, extrapolation
+
+Claim:
+
+Creationists recognize that small microevolutionary changes occur, but
+small changes do not imply large changes, so the theory of macroevolution
+is unjustified.
+
+Source:
+
+Response:
+
+1. This claim falsely assumes that the conclusion of macroevolution is
+   based solely on the observation of microevolution.  In fact,
+   microevolution is just one piece of the evidence that demonstrates
+   evolution as a whole.  Other <CA202>evidence> includes the fossil
+   record, patterns of similarities and differences between living
+   species, and genetic comparisons (Darwin 1872; Theobald 2004).
+
+2. Small changes do imply large changes under some common circumstances.
+   If there is some selective pressure for the changes to go in one
+   direction, the changes will add up.  Such a condition can happen, for
+   example, under a gradual climate change or in evolutionary arms races.
+   Even if there is no selective pressure at all, the changes will tend to
+   diverge further and further from the starting point.  Small changes
+   will not lead to large changes only
+    - if there is stabilizing selection for organisms to remain as they
+      are, or
+    - if there is too little time for much to happen, or
+    - if there are genetic mechanisms limiting change.
+   Stabilizing selection occurs sometimes but is far from universal.  We
+   know that the earth, and life on it, is <CH210>very old>.  And there is
+   no hint of a mechanism to <CB901.1>limit variation>.  Therefore, we
+   expect large changes based on basic principles.
+
+Links:
+
+Theobald, Douglas, 2004.  29+ Evidences for macroevolution: The
+ scientific case for common descent.
+ http://www.talkorigins.org/faqs/comdesc/
+
+References:
+
+1. Darwin, C. 1872. (see below)
+2. Theobald, D. 2004. (see above)
+
+Further Reading:
+
+Darwin, Charles. 1872.  _The Origin of Species_, 1st Edition.  London:
+ Senate.  http://www.talkorigins.org/faqs/origin.html
+
+Date: 2003-7-15

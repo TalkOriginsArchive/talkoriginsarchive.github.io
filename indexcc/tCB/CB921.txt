@@ -1,0 +1,40 @@
+BriefClaim: New structures would be useless until fully developed.
+Title: Half an organ?
+Keywords: evolution, structure, eye, function.
+
+Claim:
+
+New structures or organs would not develop incrementally because they
+would not function until fully developed.  For example, what use is half
+an eye?
+
+Source:
+
+SciCre, pg. 53.
+
+
+Response:
+
+1. The assumption made by the claim is false.  Structures and organs
+   function quite well when they are not fully developed.  Six-year-olds
+   may not have the strength and agility of adults, but their arms, legs,
+   and so forth function well enough to do a great deal.
+
+2. "Fully developed" is not even well defined.  Human eyes do not have the
+   acuity of hawks, the dark sight ability of owls, the color
+   discrimination of some fish, or the bee's ability to see in ultraviolet
+   (see <CB921.1>CB921.1>).  With so much more potential possible for the
+   human eye, how can one claim that our own eyes are fully developed?
+
+Links:
+
+References:
+
+Further Reading:
+
+Gould, Stephen J., 1977.  The problem of perfection, or How can a clam
+ mount a fish on its rear end?  In: _Ever Since Darwin_, New York:
+ W.W. Norton & Co., pp. 103-110.  Excerpted at
+ http://www.indiana.edu/~ensiweb/lessons/contriv.pdf
+
+Date: 2003-5-21

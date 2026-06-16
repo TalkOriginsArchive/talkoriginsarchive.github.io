@@ -1,0 +1,85 @@
+BriefClaim: Bible says the sun goes around the earth.
+Title: Bible on geocentrism
+Keywords: geocentrism, literalism, interpretation
+
+Claim:
+
+The earth is fixed at (or near) the center of the universe.  The sun and
+other planets travel around it.  That is what the Bible plainly says
+(Ps. 93:1; Ps. 19:1-6; Josh. 10:12-14) and what the evidence indicates.
+
+Source:
+
+Willis, Tom, 2000.  "The Laws of Cause and Effect, and the 1st
+ and 2nd Laws of Thermodynamics have been invalidated by modern science",
+ Part 2.  _CSA News_ 17(2) (Mar/Apr): 1-2.
+Jones, Steven, 2005.  Geocentric universe.
+ https://web.archive.org/web/20090125112525if_/http://www.midclyth.supanet.com/
+
+Response:
+
+1. A rotating earth produces observable, and observed, effects:
+    - The most noticeable is the Coriolis effect, the apparent deflection
+      of the path of an object that moves in a rotating coordinate system.
+      This affects ocean currents, wind patterns (including the path and
+      direction of the spin of hurricanes), and iceberg drift.  It must be
+      taken into account when aiming long-range missiles.
+    - The rotation of the earth is also demonstrated by a Foucault pendulum,
+      the swing of which rotates in relation to the earth's surface as the
+      earth rotates beneath it.  (The rate of rotation equals the rate of
+      earth's rotation times the sine of the latitude.)
+
+2. The orbit of the earth around the sun is also observable:
+    - The nearest stars show a parallax.  Their apparent position shifts
+      relative to more distant stars as the earth moves from one side of
+      its orbit to the other.  (The effect is the same as the apparent
+      movement of a nearby telephone pole relative to distant mountains as
+      you move a few feet to the side.)
+    - Stellar aberration shows up as the need to point the telescope
+      slightly ahead of the star's true position, due to the earth's
+      motion perpendicular to the star.  It was first measured by James
+      Bradley in 1728.
+    - Stars near the plane of the earth's orbit show a radial velocity, a
+      slight red shift as the earth moves away from them in its orbit, and
+      six months later, a slight blue shift (Herrick 1935).
+    - Related to radial velocity, the "light time" effect affects the
+      timing of pulsars and short-term variable stars.  General
+      relativistic calculations are needed to correct for it.
+    - Since the earth's orbit is elliptical, it is closer to the sun in
+      January than in June.  The difference in the apparent size of the
+      sun can be observed.
+
+   If the earth were stationary, these effects could only be explained if
+   every star in the universe were moving in unison relative to the
+   earth with a periodic variation that matched the earth's year.
+
+3. Heliocentrism falls out naturally from the law of universal
+   gravitation.
+
+4. Heliocentrism is useful.  As implied above, it is used for predicting
+   hurricane and iceberg paths and for aiming missiles.  The space program
+   would be impossible without it.  (The Cassini probe, for example, used
+   the earth's motion around the sun to slingshot the probe to Jupiter.)
+   As with all of creationism, strict geocentrism is useless.
+
+5. To the vast majority of Christians, the Bible is not plainly saying
+   that the earth is stationary.  They have accepted that reality is more
+   important than their interpretation of what is "plainly" said.
+
+Links:
+
+See for Yourself:
+
+You can make your own Foucault pendulum with a weight on a long, thin
+cable in a room with a high ceiling.  It must be long enough so that air
+resistance does not stop it before the rotation is evident, and it should
+be sheltered from winds and drafts.
+
+References:
+
+1. Herrick, Samuel, Jr., 1935.  Tables for the reduction of radial
+   velocities to the Sun.  _Lick Observatory Bulletin_ 470: 85-90.
+
+Further Reading:
+
+Date: 2003-6-11

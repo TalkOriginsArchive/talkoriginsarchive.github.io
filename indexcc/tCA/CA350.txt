@@ -1,0 +1,69 @@
+BriefClaim: No gradual biochemical evolution models have been published.
+Title: Literature on evolution of biochemical systems
+Keywords: gradual evolution, publish, article, biochemistry, model
+
+Claim:
+
+Professional literature is silent on the subject of the evolution of
+biochemical systems.
+
+Source:
+
+DBB, 68, 72, 97, 114, 115-116, 138, 185-186.
+
+Response:
+
+1. The claim is simply false.  Dozens of articles exist on the subjects
+   for which Behe claims the literature is missing.  David Ussery, for
+   example, found 107 articles on cilia evolution, 125 on flagella
+   evolution, 27 on the evolution of the entire coagulation system, 130 on
+   the evolution of vesicle transport, and 84 on "molecular evolution of
+   the immune system" (Ussery 1999).
+
+2. Behe tries to make his claim appear more dramatic by overstating our
+   understanding of the molecular workings of the cell.  For example, he
+   says, "Over the past four decades modern biochemistry has uncovered the
+   secrets of the cell" (1996, 232).  But our understanding has only just
+   begun.  In the years since Behe wrote his book, journals have been
+   filled with thousands of research articles uncovering new information,
+   and much remains to be uncovered.  When the complete _Escherichia coli_
+   genome was sequenced in 1998, the functions of a third of its genes
+   were still completely unknown, and _E. coli_ is much simpler than human
+   cells.
+
+3. Behe's work on intelligent design theory has produced no publications
+   in scientific literature.  In fact, there have been no scientific
+   publications on intelligent design by any of its proponents (Gilchrist
+   1997).
+
+Links:
+
+Catalano, John (ed.). 1998.  Publish or perish: Some published works on
+ biochemical evolution.  http://www.talkorigins.org/faqs/behe/publish.html
+
+See for Yourself:
+
+You can do a search of biological and medical research yourself at PubMed
+( http://www.ncbi.nlm.nih.gov/PubMed ).  Try keywords such as "flagella" and
+"evolution".
+
+References:
+
+1. Ussery, David. 1999.  A biochemist's response to "The biochemical
+   challenge to evolution".  _Bios_ 70: 40-45.
+   https://web.archive.org/web/20030624041733if_/http://www.cbs.dtu.dk/staff/dave/Behe.html
+2. Gilchrist, George W. 1997.  The elusive scientific basis of
+   intelligent design theory.  RNCSE 17(3): 14-15.
+   https://web.archive.org/web/20061205201531if_/http://www.ncseweb.org/resources/articles/2083_the_elusive_scientific_basis_o_3_16_2001.asp
+
+Further Reading:
+
+Cavalier-Smith, Tom. 1997.  The blind biochemist.  _Trends in Ecology and
+ Evolution_ 12(4): 162-163.
+
+Li, Wen-Hsiung. 1997. _Molecular Evolution_.  Sinauer Associates, Inc.,
+ Sunderland, MA.
+#Li, Wen-Hsiung and Dan Graur, 1991. _Fundamentals of Molecular Evolution_.
+# Sinauer Associates, Inc., Sunderland, MA.
+
+Date: 2001-2-18, 2004-8-28

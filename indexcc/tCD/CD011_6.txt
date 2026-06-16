@@ -1,0 +1,51 @@
+BriefClaim: Ancient coal and oil are C-14 dated as only 50,000 years old.
+Title: C14 date of old oil
+Keywords: radiometric dating
+
+Claim:
+
+Coal and oil are supposedly millions of years old.  Effectively all of the
+carbon-14 in a sample would have decayed in that time.  But carbon-14
+still exists in coal, implying an age of only about 50,000 years.
+
+Source:
+
+Baumgardner, John, 2003.  Carbon dating undercuts evolution's long
+ ages.  _Impact_ #364 (Oct.),
+ http://www.icr.org/index.php?module=articles&action=view&ID=117
+Baumgardner, J. R., D. R. Humphreys, A. A. Snelling, and S. A. Austin,
+ 2003.  Measurable <sup>14</sup>C in fossilized organic materials:
+ Confirming the young earth creation/Flood model. in _Proceedings of the
+ Fifth International Conference on Creationism_, R. E. Walsh, ed.,
+ Pittsburgh, PA: Creation Science Fellowship, pp. 127-142.
+#Rotta, Russell B., 2004.  Evolutionary explanations for anomalous
+# radiocarbon in coal? _Creation Research Society Quarterly_ 41: 104-112.
+
+Response:
+
+1. New <sup>14</sup>C is formed from background radiation, such as
+   radioactivity in the surrounding rocks.  In some cases, <sup>14</sup>C
+   from the atmosphere can contaminate a sample.  A few processes that can
+   add "modern" <sup>14</sup>C to coal are:
+    - Sulfur bacteria, which commonly grow in coal.
+    - Secondary carbonates from groundwater that form on fracture
+      surfaces.
+    - Whewellite, a carbon-containing mineral, that often forms as coal
+      weathers.
+
+   Minute amounts of contamination from these sources can cause apparent
+   ages around 50,000 years, which is near the limit of the maximum age
+   that carbon dating can measure.
+
+Links:
+
+Hunt, Kathleen, 2002.  Carbon-14 in coal deposits.
+ http://www.talkorigins.org/faqs/c14.html
+
+References:
+
+1. Hunt, K., 2000. (see above)
+
+Further Reading:
+
+Date: 2003-5-25, 2004-10-25

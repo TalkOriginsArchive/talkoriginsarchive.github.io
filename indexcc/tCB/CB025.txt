@@ -1,0 +1,38 @@
+BriefClaim: Not all amino acids needed for life have been formed experimentally.
+Title: Abiogenetic amino acid generation
+Keywords: amino acid, abiogenesis
+
+Claim:
+
+Stanley Miller's original abiogenesis experiment produced only four of the
+twenty amino acids from which proteins are built, and later experiments
+still have not produced all twenty amino acids under plausible conditions.
+
+Source:
+
+LifeHow, pg. 40.
+
+Response:
+
+1. Miller's experiments produced thirteen of the twenty amino acids used
+   in life (Henahan 1996).  Others may have formed via other mechanisms.
+   For example, they may have formed in space and been carried to earth on
+   meteors (Pizzarello and Weber 2004).
+
+2. It is not known which amino acids are needed for the most primitive
+   life.  It could be that the amino acids that form easily were
+   sufficient and that life later evolved to produce and rely on others.
+
+Links:
+
+References:
+
+1. Henahan, Sean. 1996.  From primordial soup to the prebiotic beach: An
+   interview with exobiology pioneer, Dr. Stanley L. Miller.
+   https://web.archive.org/web/20200229212637if_/http://www.accessexcellence.org/WN/NM/miller.html
+2. Pizzarello, S. and A. L. Weber. 2004.  Prebiotic amino acids as
+   asymmetric catalysts.  _Science_ 303: 1151.
+
+Further Reading:
+
+Date: 2003-5-7, 2004-4-26

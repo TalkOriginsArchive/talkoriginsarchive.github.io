@@ -1,0 +1,56 @@
+BriefClaim: Triassic wood from Australia was dated at 33,000 years old.
+Title: C14 date of Triassic wood
+Keywords: C14, radiometric dating, age, Geochron.
+
+Claim:
+
+A piece of wood was fossilized in the Hawkesbury Sandstone, Australia,
+which most geologists date to the middle Triassic, about 225 to 230
+million years ago.  The wood was dated by Geochron (a commercial dating
+laboratory) using the carbon-14 method. Geochron determined its age to be
+only 33,720 +/- 430 years before present.  Contamination by recent
+microbes or fungi cannot explain the discrepant age.
+
+Source:
+
+Snelling, Andrew, 1999.  Dating Dilemma: Fossil wood in 'ancient'
+ sandstone.  _Creation Ex Nihilo_ 21(3): 39-41.
+ http://www.answersingenesis.org/home/area/magazines/docs/v21n3_date-dilemma.asp
+
+Response:
+
+1. It is doubtful that the sample was even wood.  Snelling was not even
+   sure what the sample was.  Nor could the staff at Geochron tell what
+   the sample was (Walker 2000).  It may not even have retained any of
+   its original carbon.  Using carbon dating was pointless from the
+   start since it would inevitably give meaningless results.
+
+2. The sample was porous, making it likely that it would have absorbed
+   organic carbon from the groundwater.  It was probably this
+   contaminating carbon that produced the date.  Another possibility is
+   that some <sup>14</sup>C was created in situ by natural radioactivity
+   in the surrounding rocks (Hunt 2002).
+
+3. Furthermore, 33,720 years is still significantly older than the age
+   which many creationists, Snelling included, ascribe to the earth, and
+   there are no plausible sources of error to make the age younger than
+   33,000 years.
+
+Links:
+
+Meert, Joe, 2003.  Andrew Snelling and the iron concretion?
+ https://web.archive.org/web/20180603195324if_/http://gondwanaresearch.com/hp/crefaqs.htm#who
+ (Includes a letter from GeoChron labs saying that the "wood" looked like
+ an iron concretion)
+
+References:
+
+1. Hunt, Kathleen, 2002.  Carbon-14 in coal deposits.
+   http://www.talkorigins.org/faqs/c14.html
+2. Walker, Tas, 2000.  Dating dilemma deepens: Moore on ancient
+   radiocarbon.
+   https://web.archive.org/web/20080724064245if_/http://www.answersingenesis.org/home/area/feedback/negative6-26-2000.asp
+
+Further Reading:
+
+Date: 2001-2-18, 2008-1-4

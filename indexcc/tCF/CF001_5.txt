@@ -1,0 +1,35 @@
+BriefClaim: Evolution needs an energy conversion mechanism to utilize energy.
+Title: Energy conversion and the 2nd law
+Keywords: thermodynamics
+
+Claim:
+
+Energy inflow into a system is not enough to make that energy useful.
+There must also be an energy conversion mechanism.  Without that system,
+evolution cannot work.
+
+Source:
+
+Yahya, Harun, 2003.  _Darwinism Refuted_, Evolution and thermodynamics.
+ https://web.archive.org/web/20200825091544if_/http://www.darwinismrefuted.com/thermodynamics_01.html
+
+Response:
+
+1. Any atom can be an energy conversion mechanism.  Atoms routinely
+   convert between light energy, thermal energy, and chemical potential
+   energy.  The energy conversion mechanism is ubiquitous.
+
+2. A lack of an energy conversion system would not only invalidate
+   evolution; it would invalidate life itself.  Evolution requires only
+   reproduction, natural selection, and heritable variation, all of which
+   are observed in life.  The conversion of energy is a quality of life,
+   so the conversion system exists for evolution to work with.
+
+Links:
+
+References:
+
+Further Reading:
+
+Date: 2003-6-4
+

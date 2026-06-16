@@ -1,0 +1,56 @@
+BriefClaim: "Junk" DNA is not really junk.
+Title: Uses of junk DNA
+Keywords: DNA, coding
+
+Claim:
+
+So-called junk DNA is not really junk.  Functions have been found for
+noncoding DNA which was previously thought to be junk, and we cannot be
+sure that the rest of the junk DNA is not functional as well.
+
+Source:
+
+Behe, Michael J., 2003.  A functional pseudogene?: An open letter to
+ Nature.  http://www.arn.org/docs2/news/behepseudogene052003.htm
+#various posts to talk.origins, esp. by Charlie Wagner, 4/16/2003.
+
+Response:
+
+1. It has long been known that some noncoding DNA has important
+   functions.  (This was known even before the phrase "junk DNA" was
+   coined.)  However, there is good evidence that much DNA has no
+   function:
+    - Sections of DNA can be cut out or replaced with randomized sequences
+      with no apparent effect on the organism (N&oacute;brega et al. 2004).
+    - Some sections of DNA are corrupted copies of functional coding DNA,
+      but mutations in them, such as stop codons early in the sequence,
+      show that they cannot have retained the same function as the coding
+      copy.
+    - The fugu fish has a genome that is about one third as large as its
+      close relatives.
+    - Mutations in functional regions of DNA show evidence of selection --
+      nonsilent changes occur less often that one would expect by
+      chance.  In other sections of DNA, there is no evidence that any
+      changes are selected against.
+
+Links:
+
+EvoWiki, 2004.  Junk DNA.
+ https://web.archive.org/web/20060308192334if_/http://www.evowiki.org/wiki.phtml?title=Junk_DNA
+
+References:
+
+1. N&oacute;brega, Marcelo A., Yiwen Zhu, Ingrid Plajzer-Frick, Veena
+   Afzal and Edward M. Rubin, 2004.  Megabase deletions of gene deserts
+   result in viable mice.  _Nature_ 431: 988-993.
+
+Further Reading:
+
+Knight, J., 2002.  Evolutionary genetics: All genomes great and small.
+ _Nature_ 417: 374-376,
+ https://web.archive.org/web/20061222053743if_/http://www.nature.com/cgi-taf/DynaPage.taf?file=/nature/journal/v417/n6887/full/417374a_r.html
+
+CHI, 2003. DNA glossary.  https://web.archive.org/web/20191215090343if_/http://www.genomicglossaries.com/content/DNA.asp
+ (registration required)
+
+Date: 2003-4-19, 2004-11-19

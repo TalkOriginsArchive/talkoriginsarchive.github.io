@@ -1,0 +1,45 @@
+BriefClaim: There is not enough moon dust for an old universe.
+Title: Moon Dust
+Keywords: young earth
+
+Claim:
+
+Based on measured rates of planetary dust accumulation, there is too
+little moon dust for an old moon.  Before the moon landings, there was
+considerable fear that astronauts would sink in the dust.
+
+Source:
+
+SciCre, p. 152.
+
+Response:
+
+1. The high number for dust accumulation (14 million tons per year on
+   earth) comes from the high end of a single preliminary measurement
+   that has long been obsolete.  Other higher estimates come from even
+   more obsolete sources, although they are sometimes incorrectly cited as
+   being more recent.  The actual influx is about 22,000 to 44,000 tons
+   per year on earth and around 840 tons per year on the moon.
+
+   The story that scientists worried about astronauts sinking in moon dust
+   is a total fabrication.  As early as 1965, scientists were confident,
+   based on optical properties of the moon's surface, that dust was not
+   extensive.  Surveyor I, in May 1966, confirmed this.
+
+Links:
+
+Thompson, Tim, 1996.  Meteorite dust and the age of the earth. 
+ http://www.talkorigins.org/faqs/moon-dust.html
+
+Matson, Dave E., 1994.  How good are those young-earth arguments?
+ http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof2
+
+References:
+
+Further Reading:
+
+Thompson, Tim, n.d.  Is the Earth young?,
+ http://www.tim-thompson.com/young-earth.html
+# (accessed 9/2/2003, 6/3/04)
+
+Date: 2000-7-29

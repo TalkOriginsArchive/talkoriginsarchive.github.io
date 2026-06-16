@@ -1,0 +1,56 @@
+{
+  "id": "phase-2-claims-index-batch-012",
+  "phase": "phase-2-claims-index",
+  "phase_label": "Index to Creationist Claims",
+  "sequence": 12,
+  "status": "complete",
+  "page_count": 2,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "pages": [
+    {
+      "route": "/indexcc/index2.html",
+      "source_path": "indexcc/index2.html",
+      "title": "An Index to Creationist Claims",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-012",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 5470
+    },
+    {
+      "route": "/indexcc/whatsnew.html",
+      "source_path": "indexcc/whatsnew.html",
+      "title": "What's New in An Index to Creationist Claims",
+      "content_kind": "index_to_creationist_claims",
+      "phase": "phase-2-claims-index",
+      "phase_label": "Index to Creationist Claims",
+      "batch_id": "phase-2-claims-index-batch-012",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate rendered page text from the reviewed English source; do not paraphrase or modernize attributed legacy content during translation.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "source_character_count": 8788
+    }
+  ],
+  "status_counts": {
+    "translated": 8
+  },
+  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+}

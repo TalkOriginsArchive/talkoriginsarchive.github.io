@@ -1,0 +1,54 @@
+BriefClaim: Instructions are necessary to produce order.
+Title: Exceptions to the law of disorder
+Keywords: thermodynamics, entropy, second law, disorder, order, life
+
+Claim:
+
+Increasing order is possible, locally and temporarily, only if there is a
+program to direct growth and a power converter.
+
+Source:
+
+SciCre, pp. 43-45.
+
+
+Response:
+
+1. That claim is pure fantasy.  The second law of thermodynamics says
+   absolutely nothing about programs to direct growth, and the only "power
+   converter" it deals with is change in entropy.  Growth and order can be
+   seen arising without a program in many places.  Clouds form complex
+   orderly patterns.  Streams sort the size of the stones in their bed
+   along their length.  Cooling basalt forms a hexagonal pattern of
+   cracks.  All of these show an increase in organization, and none
+   involve any program.
+
+2. Increasing order is not a violation of <CF001>the second law of
+   thermodynamics>, even temporarily.  A violation would be a decrease in
+   entropy without a greater increase in entropy to go with it.  Neither
+   growth nor evolution violate the second law of thermodynamics because
+   both take advantage of local differences in entropy to get work done.
+
+3. Evolution has a program; it is called the environment.  Natural
+   selection serves to communicate information from the environment to the
+   populations of organisms (Adami et al. 2000).
+
+4. An increase in organized complexity is not the same as a decrease in
+   entropy.  The second law applies only to entropy; it says nothing at
+   all about organized complexity as such.
+
+
+Links:
+
+References:
+
+1. Adami, C., C. Ofria and T. C. Collier, 2000.  Evolution of biological
+   complexity. PNAS 97(9):
+   4463-4468. https://web.archive.org/web/20080515131819if_/http://www.pnas.org/cgi/content/full/97/9/4463
+
+Further Reading:
+
+Kauffman, Stuart A., 1993. _The Origins of Order_.  New York:
+ Oxford. (technical)
+
+Date: 2001-2-18, 2005-10-31

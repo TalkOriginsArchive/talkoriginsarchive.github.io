@@ -1,0 +1,37 @@
+BriefClaim: Finger development differs greatly between human and frog.
+Title: Amphibian/human finger development
+Keywords: finger
+
+Claim:
+
+Amphibians and mammals both have five-fingered hands, supposedly
+homologous structures indicating common descent.  However, they develop in
+completely different ways.  In humans, the limb tip (called the apical
+ectodermal ridge, AER) thickens, and then programmed cell death divides
+the AER into five regions that develop into digits.  In frogs, the digits
+grow outward from the beginning.
+
+Source:
+
+Sarfati, Jonathan, 2002.  Ostrich eggs break dino-to-bird theory.
+ _Creation_ 25(1): 34-35.
+ http://www.answersingenesis.org/docs2002/0822_ostrich_dino.asp
+
+Response:
+
+1. Frogs and mammals (and other tetrapods) use the same mechanisms of limb
+   develpment, including the same HOX genes and the same molecules.  All
+   (except a few highly derived frog species) have an AER.  The difference
+   between humans and frog is that frogs have webbed feet.  Human-like
+   programmed cell death would destroy the webbing.
+
+Links:
+
+Myers, P. Z., 2004.  Digit numbering and limb development.
+  http://pharyngula.org/index/weblog/comments/digit_numbering_and_limb_development/
+
+References:
+
+Further Reading:
+
+Date: 2004-9-17

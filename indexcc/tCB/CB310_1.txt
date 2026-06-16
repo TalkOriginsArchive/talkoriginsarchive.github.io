@@ -1,0 +1,74 @@
+BriefClaim: Bombardier beetle chemicals would explode if mixed without an inhibitor.
+Title: Bombardier Beetles and Explosions.
+Keywords: bombardier beetle, Brachinus, peroxide, hydroquinone, inhibitor
+
+Claim:
+
+The bombardier beetle would explode if the hydrogen peroxide and
+hydroquinone that produce their ejecta were mixed without a chemical
+inhibitor.  Such a combination of chemicals could not have evolved.
+
+Source:
+
+Gish, Duane T., 1977.  _Dinosaurs: Those Terrible Lizards_.  El Cajon, CA:
+ Master Book, pp. 51-52.
+Hitching, Francis, 1982.  _The Neck of the Giraffe_, New York:
+ Meridian, p. 68.
+AIG, 1990. The amazing bombardier beetle.  _Creation Ex Nihilo_ 12(1): 29.
+
+Response:
+
+1. That description of bombardier beetles' physiology is inaccurate.  It
+   is based on a sloppy translation of a 1961 German article by
+   Schildknecht and Holoubek (Kofahl 1981).  Hydrogen peroxide and
+   hydroquinone do not explode when mixed (Dawkins 1986, 86-87).  What
+   actually happens is this: Secretory cells produce a mixture of
+   hydroquinones and hydrogen peroxide (and perhaps other chemicals),
+   which collects in a reservoir.  To produce the blast, the beetle
+   releases some of this mixture into a reaction chamber, where catalases
+   and peroxidases cause the mixture to oxidize in chemical reactions that
+   generate enough heat to vaporize about a fifth of the mixture.  The
+   pressure of the released gasses causes the heated mixture to be
+   expelled explosively from the beetle's abdomen (Aneshansley and Eisner
+   1969; Aneshansley et al. 1983; Eisner et al. 1989).
+
+2. There is no reason to consider the evolution of bombardier beetles
+   implausible.  See <CB310>Bombardier Beetle Evolution>.
+
+3. The bombardier beetle is often used as an example of evidence for
+   design.  How can such arguments be taken seriously when the people
+   making them do not even know how their example works?
+
+
+Links:
+
+Isaak, Mark, 1997.  Bombardier beetles and the argument of design. 
+ http://www.talkorigins.org/faqs/bombardier.html
+
+References:
+
+1. Aneshansley, D. J. and T. Eisner, 1969.  Biochemistry at 100C: explosive
+   secretory discharge of bombardier beetles (Brachinus).  _Science_ 165:
+   61-63.
+2. Aneshansley, D. J., T. H. Jones, D. Alsop, J. Meinwald, and T. Eisner, 1983.
+   Thermal concomitants and biochemistry of the explosive discharge
+   mechanism of some little known bombardier beetles.  _Experientia_ 39:
+   366-368.
+3. Dawkins, Richard, 1986.  _The Blind Watchmaker_. New York: Norton.
+4. Eisner, T. et al., 1989.  Chemical defense of an Ozaenine bombardier
+   beetle from New Guinea.  _Psyche_ 96: 153-160.
+5. Kofahl, Robert E., 1981.  The bombardier beetle shoots back.
+   _Creation/Evolution_ 2(3): 12-14.
+
+Further Reading:
+
+Weber, C. G., 1981.  The bombardier beetle myth exploded. 
+ _Creation/Evolution_ 2(1): 1-5.
+
+See for Yourself:
+
+Hydroquinone is available from photography shops and hydrogen peroxide
+from supermarkets and drug stores.  You can mix them yourself to see that
+they do not explode.
+
+Date: 2001-2-17

@@ -1,0 +1,57 @@
+BriefClaim: Varves can form in less than a year.
+Title: Are varves annular?
+Keywords: varve
+
+Claim:
+
+Varves (layers of silt that show seasonal differences) do not necessarily
+form annually.  Individual varves can form in less than a year.  Thus,
+claims that 10,000 varve layers represent 10,000 years are unwarranted.
+
+Source:
+
+Garner, Paul, 1997.  Green River blues.  _Creation_ 19(3) (June-Aug.):
+ 18-19.
+
+Response:
+
+1. The seasonal nature of varves is sometimes indicated by the systematic
+   variation of pollen from seasonal plants (Morton 2002; citing Flint
+   1971, 400).
+
+2. There is at least one formation that contains twenty million varves.
+   That represents more than 50,000 years even if you assume varves were
+   formed at a rate of one per day.  And the fineness of the silt
+   precludes the possibility that they could have formed that rapidly.
+
+3. The 45,000-year varve record of Lake Suigetsu is consistent with
+   other dating techniques, such as carbon-14 dating and the tree ring
+   record (Kitagawa and van der Plicht 1998).
+
+4. Non-annual fine-grained layers are recognizably different from varves.
+   Layers that form rapidly tend to be much more irregular, reflecting
+   the changes in the weather conditions that cause them (Morton 1998).
+   Annual varves are observed forming today.  They produce uniform layers
+   seen also in the geologic record.
+
+Links:
+
+Morton, G. R., 1998.  Young-earth arguments: A second look.
+ https://web.archive.org/web/20111016075532if_/http://home.entouch.net/dmd/age.htm
+
+References:
+
+1. Flint, Richard Foster, 1971.  _Glacial and Quaternary Geology_. New
+   York: John Wiley and Sons.
+2. Kitagawa, H. and van der Plicht, J., 1998.  Atmospheric radiocarbon
+   calibration to 45,000 yr B.P.: Late glacial fluctuations and cosmogenic
+   isotope production. _Science_ 279: 1187-1190.  See also Kitagawa,
+   H. and van der Plicht, J., 2000.  PE-04. A 45.000 year varve chronology
+   from Japan.  https://web.archive.org/web/20010730121412if_/http://www.cio.phys.rug.nl/HTML-docs/Verslag/97/PE-04.htm
+3. Morton, Glenn R., 1998.  (see above)
+3. Morton, Glenn R., 2002.  Pollen order presents problems for the flood.
+   https://web.archive.org/web/20111009082522if_/http://home.entouch.net/dmd/pollen.htm
+
+Further Reading:
+
+Date: 2003-6-29, 2004-9-12

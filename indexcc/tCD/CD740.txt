@@ -1,0 +1,75 @@
+BriefClaim: The theory of plate tectonics is wrong.
+Title: Plate Tectonics
+Keywords: plate tectonics
+
+Claim:
+
+The theory of plate tectonics is false.
+
+Source:
+
+Brown, Walt, 1995.  _In the Beginning: Compelling evidence for creation
+ and the Flood_, 6th ed.
+ https://web.archive.org/web/20240621115217if_/http://www.creationscience.com/onlinebook/HydroplateOverview3.html
+Nevins, Stuart E., 1976.  Continental drift, plate tectonics, and
+ the Bible.  _Impact_ 32 (Feb.).  http://icr.org/pubs/imp/imp-032.htm
+
+Response:
+
+1. Plate tectonics was uncertain as recently as the 1960s, but evidence in
+   its favor has become overwhelming:
+    - Plate motions are measured directly (Davidson et al. 1997).
+    - The eastern edge of the continental shelves of North and South
+      America fit closely (within 50 km) with the western continental
+      shelves of Africa and Europe (Bishop 1981).  The Mid-Atlantic Ridge
+      has the same shape.
+    - Plant and animal fossil distributions, geological formations, and
+      indications of ancient climate match up in Africa and South America
+      as if the continents once fit together (Davidson et al. 1997).
+    - When new rocks are formed, they record the earth's current magnetic
+      field, which reverses occasionally.  The magnetic field pattern
+      recorded in the sea floor rocks shows bands mirrored across a
+      spreading center (Bishop 1981; Davidson et al. 1997).  (See also
+      <CD741>Magnetic reversals>.)
+    - Paleomagnetic studies show different polar wandering on different
+      continents, indicating that the continents moved relative to one
+      another (Bishop 1981; Davidson et al. 1997).
+    - Oceanic sediments are young and thin, indicating that sea basins
+      are relatively young (Graham 1981).
+    - Maps of earthquake locations show plate boundaries and the paths of
+      subducting plates (Davidson et al. 1997; Graham 1981).
+    - Hot spots leave trails such as volcanic island chains as the plates
+      move over them (Davidson et al. 1997).
+
+Links:
+
+Alden, Andrew, 2003.  Tectonic plate motions, Eurasia/Africa.
+ https://web.archive.org/web/20150926213938if_/http://geology.about.com/library/bl/maps/blplatemo_atlas.htm
+
+References:
+
+1. Bishop, A. C., 1981.  The development of the concept of continental
+   drift. In _The Evolving Earth_, ed. L. R. M. Cocks, London: British
+   Museum, 155-164.
+2. Davidson, Jon P., Walter E. Reed, and Paul M. Davis, 1997. _Exploring
+   Earth: An Introduction to Physical Geology_.  Upper Saddle River, NJ:
+   Prentice Hall.
+3. Graham, A. L., 1981.  Plate tectonics. In _The Evolving Earth_,
+   ed. L. R. M. Cocks, London: British Museum, 165-178.
+
+Further Reading:
+
+Cocks, L. R. M. (ed.), 1981.  _The Evolving Earth_.  London: British
+ Museum.
+
+McPhee, John, 1998.  _Annals of the Former World_.  New York: Farrar,
+ Straus and Giroux.
+
+Davidson, Jon P., Walter E. Reed, and Paul M. Davis, 1997.  _Exploring
+ Earth: An Introduction to Physical Geology_.  Upper Saddle River, NJ:
+ Prentice Hall.
+
+Plate tectonics will be covered in most any basic geology textbook.
+
+Date: 2004-2-13
+

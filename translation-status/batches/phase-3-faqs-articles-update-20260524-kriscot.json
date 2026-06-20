@@ -31,6 +31,12 @@
         "de": "ready_update",
         "pt": "ready_update"
       },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-3-faqs-articles-update-20260524-kriscot.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-3-faqs-articles-update-20260524-kriscot.jsonl",
+        "de": "/translation-status/work-orders/de/phase-3-faqs-articles-update-20260524-kriscot.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-3-faqs-articles-update-20260524-kriscot.jsonl"
+      },
       "source_character_count": 16652
     }
   ],

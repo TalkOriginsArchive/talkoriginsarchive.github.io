@@ -28,11 +28,17 @@
         "de": "translated",
         "pt": "translated"
       },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-4-archive-navigation-batch-014.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-4-archive-navigation-batch-014.jsonl",
+        "de": "/translation-status/work-orders/de/phase-4-archive-navigation-batch-014.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-4-archive-navigation-batch-014.jsonl"
+      },
       "source_character_count": 19898
     }
   ],
   "status_counts": {
     "translated": 4
   },
-  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+  "updated_at": "2026-06-20T08:16:15.210471+00:00"
 }

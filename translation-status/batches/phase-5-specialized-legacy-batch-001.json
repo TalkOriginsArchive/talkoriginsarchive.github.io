@@ -28,6 +28,12 @@
         "de": "translated",
         "pt": "translated"
       },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
+        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
+      },
       "source_character_count": 235217
     },
     {
@@ -45,6 +51,12 @@
         "fr": "translated",
         "de": "translated",
         "pt": "translated"
+      },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
+        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
       },
       "source_character_count": 235230
     },
@@ -64,6 +76,12 @@
         "de": "translated",
         "pt": "translated"
       },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
+        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
+      },
       "source_character_count": 53989
     },
     {
@@ -81,6 +99,12 @@
         "fr": "translated",
         "de": "translated",
         "pt": "translated"
+      },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
+        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
       },
       "source_character_count": 32085
     },
@@ -100,6 +124,12 @@
         "de": "translated",
         "pt": "translated"
       },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
+        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
+      },
       "source_character_count": 730
     },
     {
@@ -117,6 +147,12 @@
         "fr": "translated",
         "de": "translated",
         "pt": "translated"
+      },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
+        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
       },
       "source_character_count": 812
     },
@@ -136,11 +172,17 @@
         "de": "translated",
         "pt": "translated"
       },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
+        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
+      },
       "source_character_count": 5062
     }
   ],
   "status_counts": {
     "translated": 28
   },
-  "updated_at": "2026-06-16T10:17:17.160737+00:00"
+  "updated_at": "2026-06-20T08:16:15.210471+00:00"
 }

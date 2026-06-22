@@ -3,11 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Search unavailable in static deployment - TalkOrigins Archive</title>
-<meta name="description" content="Static placeholder for the TalkOrigins Archive search service.">
+<title>Search - TalkOrigins Archive</title>
+<meta name="description" content="Static browser-side search for the GitHub Pages edition of the TalkOrigins Archive.">
 <link rel="stylesheet" href="/theme/style.css">
 <link rel="stylesheet" href="/assets/poc3-legacy.css">
 <link rel="icon" href="/theme/assets/toa.ico" sizes="any">
+<script src="/vendor/minisearch/minisearch.min.js" defer></script>
+<script src="/search/toa-pages-index.js" defer></script>
+<script src="/search/toa-pages-search.js" defer></script>
 </head>
 <body class="theme-talkorigins-modern poc3-augmented">
 <a class="skip-link" href="#main">Skip to content</a>
@@ -17,9 +20,9 @@
 <div class="brand-row">
 <a class="brand-mark" href="/" aria-label="TalkOrigins Archive home"><img src="/theme/assets/toa_logo_001_edit_001.png" alt="TalkOrigins Archive logo"></a>
 <div class="brand-copy">
-<p class="brand-kicker">static service notice</p>
+<p class="brand-kicker">static search</p>
 <a class="brand-title" href="/">TalkOrigins Archive</a>
-<p class="brand-summary">The public archive is available as static pages on GitHub Pages.</p>
+<p class="brand-summary">Browser-side search over the public GitHub Pages archive.</p>
 </div>
 </div>
 </div>
@@ -33,10 +36,19 @@
 <main id="main">
 <section class="content-panel">
 <p class="eyebrow">Search</p>
-<h1>Search is not available in this static deployment.</h1>
-<p>The full search service depends on a managed backend and private indexing workflow. Those runtime services and operational records are not published in the GitHub Pages copy.</p>
-<p>Use the archive navigation, the Index to Creationist Claims, or your browser's page search while this site is served as static content.</p>
-<p><a class="button-link" href="/origins/faqs.html">Browse the archive</a> <a class="button-link button-link-secondary" href="/indexcc/list.html">Open the claims index</a></p>
+<h1>Search the public archive</h1>
+<form class="search-form" data-toa-search-form>
+<div class="search-row">
+<input type="search" name="q" data-toa-search-input minlength="2" maxlength="200" placeholder="Search evolution, fossils, creationist claims...">
+<button type="submit">Search</button>
+</div>
+</form>
+<p class="article-meta" data-toa-search-summary>Loading the public search index...</p>
+<div data-toa-search-results></div>
+</section>
+<section class="content-panel">
+<h2>Static search scope</h2>
+<p>This search runs entirely in your browser from a public static index. It covers archive pages, generated navigation, Foundation pages, and the Index to Creationist Claims. It does not expose private workbench state, moderation queues, source-ingestion records, model logs, or operational search backend data.</p>
 </section>
 </main>
 <footer class="site-footer">

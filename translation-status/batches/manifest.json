@@ -1,7 +1,7 @@
 {
   "schema": "scisiteforge.translation_batches.v1",
   "queue_state": "active",
-  "updated_at": "2026-06-20T08:16:15.210471+00:00",
+  "updated_at": "2026-06-22T15:39:54.764197+00:00",
   "batches": [
     {
       "id": "phase-1-front-door-batch-001",
@@ -998,7 +998,7 @@
       "phase": "phase-4-archive-navigation",
       "phase_label": "Archive Navigation and Bibliography",
       "sequence": 31,
-      "status": "partial",
+      "status": "complete",
       "page_count": 1030,
       "languages": [
         "es",
@@ -1008,8 +1008,7 @@
       ],
       "update_reason": "The bibliography has been restored from the expanded CiteGeist corpus, with DOI/source verification, abstracts where available, citation graph expansion, BibTeX exports, and a modern topic index.",
       "status_counts": {
-        "translated": 3102,
-        "ready_update": 1018
+        "translated": 4120
       }
     }
   ]

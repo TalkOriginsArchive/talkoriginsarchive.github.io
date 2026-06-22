@@ -45,21 +45,21 @@
     "missing_by_language": {
       "es": 0,
       "fr": 0,
-      "de": 484,
-      "pt": 534
+      "de": 0,
+      "pt": 0
     },
     "ready_by_language": {
       "es": 0,
       "fr": 0,
-      "de": 484,
-      "pt": 534
+      "de": 0,
+      "pt": 0
     },
     "total_source_characters": 126175542,
     "translated_by_language": {
       "es": 2866,
       "fr": 2866,
-      "de": 2382,
-      "pt": 2332
+      "de": 2866,
+      "pt": 2866
     },
     "error_by_language": {
       "es": 0,
@@ -75,25 +75,23 @@
         "translated": 2866
       },
       "de": {
-        "translated": 2382,
-        "ready_update": 484
+        "translated": 2866
       },
       "pt": {
-        "translated": 2332,
-        "ready_update": 534
+        "translated": 2866
       }
     },
     "translated_characters_by_language": {
       "es": 126175542,
       "fr": 126175542,
-      "de": 111059076,
-      "pt": 105848487
+      "de": 126175542,
+      "pt": 126175542
     },
     "missing_characters_by_language": {
       "es": 0,
       "fr": 0,
-      "de": 15116466,
-      "pt": 20327055
+      "de": 0,
+      "pt": 0
     },
     "error_characters_by_language": {
       "es": 0,
@@ -104,16 +102,16 @@
     "translated_character_percent_by_language": {
       "es": 100.0,
       "fr": 100.0,
-      "de": 88.02,
-      "pt": 83.89
+      "de": 100.0,
+      "pt": 100.0
     },
     "translated_page_percent_by_language": {
       "es": 100.0,
       "fr": 100.0,
-      "de": 83.11,
-      "pt": 81.37
+      "de": 100.0,
+      "pt": 100.0
     },
-    "updated_at": "2026-06-20T08:16:15.210471+00:00"
+    "updated_at": "2026-06-22T15:39:54.764197+00:00"
   },
   "phases": [
     {
@@ -1143,7 +1141,7 @@
       "phase": "phase-4-archive-navigation",
       "phase_label": "Archive Navigation and Bibliography",
       "sequence": 31,
-      "status": "partial",
+      "status": "complete",
       "page_count": 1030,
       "languages": [
         "es",
@@ -1153,8 +1151,7 @@
       ],
       "update_reason": "The bibliography has been restored from the expanded CiteGeist corpus, with DOI/source verification, abstracts where available, citation graph expansion, BibTeX exports, and a modern topic index.",
       "status_counts": {
-        "translated": 3102,
-        "ready_update": 1018
+        "translated": 4120
       }
     }
   ],
@@ -57295,7 +57292,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57320,7 +57317,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57345,7 +57342,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57370,7 +57367,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57395,7 +57392,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57420,7 +57417,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57445,7 +57442,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57470,7 +57467,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57495,7 +57492,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57520,7 +57517,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57545,7 +57542,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57570,7 +57567,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57595,7 +57592,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57620,7 +57617,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57645,7 +57642,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57670,7 +57667,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57695,7 +57692,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57720,7 +57717,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57745,7 +57742,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57770,7 +57767,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57795,7 +57792,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57820,7 +57817,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57845,7 +57842,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57870,7 +57867,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57895,7 +57892,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57920,7 +57917,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57945,7 +57942,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57970,7 +57967,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -57995,7 +57992,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58020,7 +58017,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58045,7 +58042,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58070,7 +58067,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58095,7 +58092,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58120,7 +58117,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58145,7 +58142,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58170,7 +58167,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58195,7 +58192,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58220,7 +58217,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58245,7 +58242,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58270,7 +58267,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58295,7 +58292,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58320,7 +58317,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58345,7 +58342,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58370,7 +58367,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58395,7 +58392,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58420,7 +58417,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58445,7 +58442,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58470,7 +58467,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58495,7 +58492,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58519,8 +58516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58544,8 +58541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58569,8 +58566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58594,8 +58591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58619,8 +58616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58644,8 +58641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58694,8 +58691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58719,8 +58716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58744,8 +58741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58769,8 +58766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58794,8 +58791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58819,8 +58816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58844,8 +58841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58869,8 +58866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58894,8 +58891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58919,8 +58916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58944,8 +58941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58969,8 +58966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -58994,8 +58991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59019,8 +59016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59044,8 +59041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59069,8 +59066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59094,8 +59091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59119,8 +59116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59144,8 +59141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59169,8 +59166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59194,8 +59191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59219,8 +59216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59244,8 +59241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59269,8 +59266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59294,8 +59291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59319,8 +59316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59344,8 +59341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59369,8 +59366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59394,8 +59391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59419,8 +59416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59444,8 +59441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59469,8 +59466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59494,8 +59491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59519,8 +59516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59544,8 +59541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59569,8 +59566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59594,8 +59591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59619,8 +59616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59644,8 +59641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59669,8 +59666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59694,8 +59691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59719,8 +59716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59744,8 +59741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59769,8 +59766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59794,8 +59791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59819,8 +59816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59844,8 +59841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59869,8 +59866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59894,8 +59891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59919,8 +59916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59944,8 +59941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59969,8 +59966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -59994,8 +59991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60019,8 +60016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60044,8 +60041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60069,8 +60066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60094,8 +60091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60119,8 +60116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60144,8 +60141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60169,8 +60166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60194,8 +60191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60219,8 +60216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60244,8 +60241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60269,8 +60266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60294,8 +60291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60319,8 +60316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60344,8 +60341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60369,8 +60366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60394,8 +60391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60419,8 +60416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60444,8 +60441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60469,8 +60466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60494,8 +60491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60519,8 +60516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60544,8 +60541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60569,8 +60566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60594,8 +60591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60619,8 +60616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60644,8 +60641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60669,8 +60666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60694,8 +60691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60719,8 +60716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60744,8 +60741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60769,8 +60766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60794,8 +60791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60819,8 +60816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60844,8 +60841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60869,8 +60866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60894,8 +60891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60919,8 +60916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60944,8 +60941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60969,8 +60966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -60994,8 +60991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61019,8 +61016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61044,8 +61041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61069,8 +61066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61094,8 +61091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61119,8 +61116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61144,8 +61141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61169,8 +61166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61194,8 +61191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61219,8 +61216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61244,8 +61241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61269,8 +61266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61294,8 +61291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61319,8 +61316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61344,8 +61341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61369,8 +61366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61394,8 +61391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61419,8 +61416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61444,8 +61441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61469,8 +61466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61494,8 +61491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61519,8 +61516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61544,8 +61541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61569,8 +61566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61594,8 +61591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61619,8 +61616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61644,8 +61641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61669,8 +61666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61694,8 +61691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61719,8 +61716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61744,8 +61741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61769,8 +61766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61794,8 +61791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61819,8 +61816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61844,8 +61841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61869,8 +61866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61894,8 +61891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61919,8 +61916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61944,8 +61941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61969,8 +61966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -61994,8 +61991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62019,8 +62016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62044,8 +62041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62069,8 +62066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62094,8 +62091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62119,8 +62116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62144,8 +62141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62169,8 +62166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62194,8 +62191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62219,8 +62216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62244,8 +62241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62269,8 +62266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62294,8 +62291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62319,8 +62316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62344,8 +62341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62369,8 +62366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62394,8 +62391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62419,8 +62416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62444,8 +62441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62469,8 +62466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62494,8 +62491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62519,8 +62516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62544,8 +62541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62569,8 +62566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62594,8 +62591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62619,8 +62616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62644,8 +62641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62669,8 +62666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62694,8 +62691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62719,8 +62716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62745,7 +62742,7 @@
         "es": "translated",
         "fr": "translated",
         "de": "translated",
-        "pt": "ready_update"
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62769,8 +62766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62794,8 +62791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62819,8 +62816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62844,8 +62841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62869,8 +62866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62894,8 +62891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62919,8 +62916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62944,8 +62941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62969,8 +62966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -62994,8 +62991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63019,8 +63016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63044,8 +63041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63069,8 +63066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63094,8 +63091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63119,8 +63116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63144,8 +63141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63169,8 +63166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63194,8 +63191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63244,8 +63241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63269,8 +63266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63294,8 +63291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63319,8 +63316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63344,8 +63341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63369,8 +63366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63394,8 +63391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63419,8 +63416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63444,8 +63441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63469,8 +63466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63494,8 +63491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63519,8 +63516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63544,8 +63541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63569,8 +63566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63594,8 +63591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63619,8 +63616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63644,8 +63641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63669,8 +63666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63694,8 +63691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63719,8 +63716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63744,8 +63741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63769,8 +63766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63794,8 +63791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63819,8 +63816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63844,8 +63841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63869,8 +63866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63894,8 +63891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63919,8 +63916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63944,8 +63941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63969,8 +63966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -63994,8 +63991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64019,8 +64016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64044,8 +64041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64069,8 +64066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64094,8 +64091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64119,8 +64116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64144,8 +64141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64169,8 +64166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64194,8 +64191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64219,8 +64216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64244,8 +64241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64269,8 +64266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64294,8 +64291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64344,8 +64341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64369,8 +64366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64394,8 +64391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64419,8 +64416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64444,8 +64441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64469,8 +64466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64494,8 +64491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64544,8 +64541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64569,8 +64566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64594,8 +64591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64619,8 +64616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64644,8 +64641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64669,8 +64666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64694,8 +64691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64719,8 +64716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64744,8 +64741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64769,8 +64766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64794,8 +64791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64819,8 +64816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64844,8 +64841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64869,8 +64866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64894,8 +64891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64919,8 +64916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64944,8 +64941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64969,8 +64966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -64994,8 +64991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65019,8 +65016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65044,8 +65041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65069,8 +65066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65094,8 +65091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65119,8 +65116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65144,8 +65141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65169,8 +65166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65194,8 +65191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65219,8 +65216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65244,8 +65241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65269,8 +65266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65294,8 +65291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65319,8 +65316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65344,8 +65341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65369,8 +65366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65394,8 +65391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65419,8 +65416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65444,8 +65441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65469,8 +65466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65494,8 +65491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65519,8 +65516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65544,8 +65541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65569,8 +65566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65594,8 +65591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65619,8 +65616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65644,8 +65641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65669,8 +65666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65694,8 +65691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65719,8 +65716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65744,8 +65741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65769,8 +65766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65794,8 +65791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65819,8 +65816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65844,8 +65841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65869,8 +65866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65894,8 +65891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65919,8 +65916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65944,8 +65941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65969,8 +65966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -65994,8 +65991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66019,8 +66016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66044,8 +66041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66069,8 +66066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66094,8 +66091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66119,8 +66116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66144,8 +66141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66169,8 +66166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66194,8 +66191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66219,8 +66216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66244,8 +66241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66269,8 +66266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66294,8 +66291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66319,8 +66316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66344,8 +66341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66369,8 +66366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66394,8 +66391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66419,8 +66416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66444,8 +66441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66469,8 +66466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66494,8 +66491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66519,8 +66516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66544,8 +66541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66569,8 +66566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66594,8 +66591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66619,8 +66616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66644,8 +66641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66669,8 +66666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66694,8 +66691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66719,8 +66716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66744,8 +66741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66769,8 +66766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66794,8 +66791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66819,8 +66816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66844,8 +66841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66869,8 +66866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66894,8 +66891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66919,8 +66916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66944,8 +66941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66969,8 +66966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -66994,8 +66991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67019,8 +67016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67044,8 +67041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67069,8 +67066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67094,8 +67091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67119,8 +67116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67144,8 +67141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67169,8 +67166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67194,8 +67191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67219,8 +67216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67244,8 +67241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67269,8 +67266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67294,8 +67291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67319,8 +67316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67344,8 +67341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67369,8 +67366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67394,8 +67391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67419,8 +67416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67444,8 +67441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67469,8 +67466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67494,8 +67491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67519,8 +67516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67544,8 +67541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67569,8 +67566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67594,8 +67591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67619,8 +67616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67644,8 +67641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67669,8 +67666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67694,8 +67691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67719,8 +67716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67744,8 +67741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67769,8 +67766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67794,8 +67791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67819,8 +67816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67844,8 +67841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67869,8 +67866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67894,8 +67891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67919,8 +67916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67944,8 +67941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67969,8 +67966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -67994,8 +67991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68019,8 +68016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68044,8 +68041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68069,8 +68066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68094,8 +68091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68119,8 +68116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68144,8 +68141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68194,8 +68191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68219,8 +68216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68244,8 +68241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68269,8 +68266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68294,8 +68291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68319,8 +68316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68344,8 +68341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68369,8 +68366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68394,8 +68391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68419,8 +68416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68444,8 +68441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68469,8 +68466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68494,8 +68491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68519,8 +68516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68544,8 +68541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68569,8 +68566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68594,8 +68591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68619,8 +68616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68644,8 +68641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68669,8 +68666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68694,8 +68691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68719,8 +68716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68744,8 +68741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68769,8 +68766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68794,8 +68791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68844,8 +68841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68869,8 +68866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68894,8 +68891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68919,8 +68916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68944,8 +68941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68969,8 +68966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -68994,8 +68991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69019,8 +69016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69044,8 +69041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69069,8 +69066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69094,8 +69091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69119,8 +69116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69144,8 +69141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69169,8 +69166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69194,8 +69191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69219,8 +69216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69244,8 +69241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69269,8 +69266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69294,8 +69291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69319,8 +69316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69344,8 +69341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69369,8 +69366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69394,8 +69391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69419,8 +69416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69444,8 +69441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69469,8 +69466,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69494,8 +69491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69519,8 +69516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69544,8 +69541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69569,8 +69566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69594,8 +69591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69619,8 +69616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69644,8 +69641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69669,8 +69666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69694,8 +69691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69719,8 +69716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69744,8 +69741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69769,8 +69766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69794,8 +69791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69819,8 +69816,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69844,8 +69841,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69869,8 +69866,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69894,8 +69891,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69919,8 +69916,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69944,8 +69941,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69969,8 +69966,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -69994,8 +69991,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70019,8 +70016,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70044,8 +70041,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70069,8 +70066,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70094,8 +70091,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70119,8 +70116,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70144,8 +70141,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70169,8 +70166,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70194,8 +70191,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70219,8 +70216,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70244,8 +70241,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70269,8 +70266,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70294,8 +70291,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70319,8 +70316,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70344,8 +70341,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70369,8 +70366,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70394,8 +70391,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70419,8 +70416,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70444,8 +70441,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70494,8 +70491,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70519,8 +70516,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70544,8 +70541,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70569,8 +70566,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70594,8 +70591,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70619,8 +70616,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70644,8 +70641,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70669,8 +70666,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70694,8 +70691,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70719,8 +70716,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70744,8 +70741,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70769,8 +70766,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",
@@ -70794,8 +70791,8 @@
       "statuses": {
         "es": "translated",
         "fr": "translated",
-        "de": "ready_update",
-        "pt": "ready_update"
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-expanded-refresh-20260528.jsonl",

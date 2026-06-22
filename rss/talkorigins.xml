@@ -6,13 +6,13 @@
     <link>https://talkorigins.org/</link>
     <description>Modernized TalkOrigins Archive preview with stable legacy routes, search, feedback, workbench, Notebook, and translation staging.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 15:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 19:56:15 GMT</lastBuildDate>
     <generator>SciSiteForge poc3 feed generator</generator>
     <item>
       <title>TalkOrigins modernized edition</title>
       <link>https://talkorigins.org/</link>
       <guid isPermaLink="false">poc3-modernization-preview</guid>
-      <pubDate>Mon, 22 Jun 2026 15:39:55 GMT</pubDate>
+      <pubDate>Mon, 22 Jun 2026 19:56:15 GMT</pubDate>
       <description>The poc3 candidate presents the Archive with responsive pages, route preservation, search, feedback, workbench, Notebook, and translation staging.</description>
     </item>
     <item>
@@ -26,28 +26,28 @@
       <title>Translation queue status</title>
       <link>https://talkorigins.org/translation-status/</link>
       <guid isPermaLink="false">poc3-translation-status</guid>
-      <pubDate>Mon, 22 Jun 2026 15:39:54 GMT</pubDate>
+      <pubDate>Mon, 22 Jun 2026 19:56:15 GMT</pubDate>
       <description>Current initial-language translation status: es: 2866 complete / 2866 queued, fr: 2866 complete / 2866 queued, de: 2866 complete / 2866 queued, pt: 2866 complete / 2866 queued.</description>
     </item>
     <item>
       <title>Index to Creationist Claims</title>
       <link>https://talkorigins.org/indexcc/list.html</link>
       <guid isPermaLink="false">poc3-indexcc</guid>
-      <pubDate>Mon, 22 Jun 2026 15:39:55 GMT</pubDate>
+      <pubDate>Mon, 22 Jun 2026 19:56:15 GMT</pubDate>
       <description>The generated claims index is available in the modernized candidate tree with route-preserving claim pages.</description>
     </item>
     <item>
       <title>Static feedback archive</title>
       <link>https://talkorigins.org/feedback/</link>
       <guid isPermaLink="false">poc3-feedback-archive</guid>
-      <pubDate>Mon, 22 Jun 2026 15:39:55 GMT</pubDate>
+      <pubDate>Mon, 22 Jun 2026 19:56:15 GMT</pubDate>
       <description>Past feedback compilations are exposed as static resources, while new submissions use the managed /fb route.</description>
     </item>
     <item>
       <title>Search, workbench, and Notebook routes</title>
       <link>https://talkorigins.org/search/</link>
       <guid isPermaLink="false">poc3-dynamic-routes</guid>
-      <pubDate>Mon, 22 Jun 2026 15:39:55 GMT</pubDate>
+      <pubDate>Mon, 22 Jun 2026 19:56:15 GMT</pubDate>
       <description>Dynamic routes are represented in the poc3 candidate for search, feedback, workbench, and Notebook support.</description>
     </item>
   </channel>

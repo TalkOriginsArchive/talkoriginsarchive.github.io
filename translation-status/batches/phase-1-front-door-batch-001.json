@@ -28,12 +28,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 3473
     },
     {
@@ -52,12 +47,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 44750
     },
     {
@@ -76,12 +66,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 44759
     },
     {
@@ -100,12 +85,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 4770
     },
     {
@@ -124,12 +104,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 4778
     },
     {
@@ -148,12 +123,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 1648
     },
     {
@@ -172,12 +142,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 58098
     },
     {
@@ -196,12 +161,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 33139
     },
     {
@@ -220,12 +180,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 186248
     },
     {
@@ -244,12 +199,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 7338
     },
     {
@@ -268,12 +218,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 14216
     },
     {
@@ -292,12 +237,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 2742
     },
     {
@@ -316,12 +256,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 7511
     },
     {
@@ -340,12 +275,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 4304
     },
     {
@@ -364,17 +294,12 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 1940
     }
   ],
   "status_counts": {
     "translated": 60
   },
-  "updated_at": "2026-06-22T15:39:54.764197+00:00"
+  "updated_at": "2026-06-22T19:56:15.630173+00:00"
 }

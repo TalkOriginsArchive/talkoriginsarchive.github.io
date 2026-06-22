@@ -28,12 +28,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 235217
     },
     {
@@ -52,12 +47,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 235230
     },
     {
@@ -76,12 +66,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 53989
     },
     {
@@ -100,12 +85,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 32085
     },
     {
@@ -124,12 +104,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 730
     },
     {
@@ -148,12 +123,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 812
     },
     {
@@ -172,17 +142,12 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-5-specialized-legacy-batch-001.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-5-specialized-legacy-batch-001.jsonl",
-        "de": "/translation-status/work-orders/de/phase-5-specialized-legacy-batch-001.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-5-specialized-legacy-batch-001.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 5062
     }
   ],
   "status_counts": {
     "translated": 28
   },
-  "updated_at": "2026-06-22T15:39:54.764197+00:00"
+  "updated_at": "2026-06-22T19:56:15.630173+00:00"
 }

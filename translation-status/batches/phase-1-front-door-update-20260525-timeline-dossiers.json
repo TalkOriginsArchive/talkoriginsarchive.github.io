@@ -31,12 +31,7 @@
         "de": "ready",
         "pt": "ready"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-update-20260525-timeline-dossiers.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 2886
     },
     {
@@ -55,12 +50,7 @@
         "de": "ready",
         "pt": "ready"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-update-20260525-timeline-dossiers.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 1381
     },
     {
@@ -79,12 +69,7 @@
         "de": "ready",
         "pt": "ready"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-update-20260525-timeline-dossiers.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 1497
     },
     {
@@ -103,12 +88,7 @@
         "de": "ready",
         "pt": "ready"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-update-20260525-timeline-dossiers.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 1480
     },
     {
@@ -127,12 +107,7 @@
         "de": "ready",
         "pt": "ready"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-update-20260525-timeline-dossiers.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 1523
     },
     {
@@ -151,12 +126,7 @@
         "de": "ready",
         "pt": "ready"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-update-20260525-timeline-dossiers.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 1562
     },
     {
@@ -175,12 +145,7 @@
         "de": "ready",
         "pt": "ready"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-update-20260525-timeline-dossiers.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 1559
     },
     {
@@ -199,12 +164,7 @@
         "de": "ready",
         "pt": "ready"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-update-20260525-timeline-dossiers.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 1399
     },
     {
@@ -223,12 +183,7 @@
         "de": "ready",
         "pt": "ready"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "de": "/translation-status/work-orders/de/phase-1-front-door-update-20260525-timeline-dossiers.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-1-front-door-update-20260525-timeline-dossiers.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 11230
     }
   ],

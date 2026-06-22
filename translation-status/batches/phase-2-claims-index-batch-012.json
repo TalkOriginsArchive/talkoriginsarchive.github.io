@@ -28,12 +28,7 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-2-claims-index-batch-012.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-2-claims-index-batch-012.jsonl",
-        "de": "/translation-status/work-orders/de/phase-2-claims-index-batch-012.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-2-claims-index-batch-012.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 5470
     },
     {
@@ -52,17 +47,12 @@
         "de": "translated",
         "pt": "translated"
       },
-      "work_orders": {
-        "es": "/translation-status/work-orders/es/phase-2-claims-index-batch-012.jsonl",
-        "fr": "/translation-status/work-orders/fr/phase-2-claims-index-batch-012.jsonl",
-        "de": "/translation-status/work-orders/de/phase-2-claims-index-batch-012.jsonl",
-        "pt": "/translation-status/work-orders/pt/phase-2-claims-index-batch-012.jsonl"
-      },
+      "work_orders": {},
       "source_character_count": 8788
     }
   ],
   "status_counts": {
     "translated": 8
   },
-  "updated_at": "2026-06-22T15:39:54.764197+00:00"
+  "updated_at": "2026-06-22T19:56:15.630173+00:00"
 }

@@ -59,7 +59,7 @@
     {
       "label": "Notebook landing page",
       "path": "/notebook/index.html",
-      "required_strings": [
+        "required_strings": [
         "/shared/evo-shell.js",
         "Notebook Sections",
         "Start With The Beginner Route",

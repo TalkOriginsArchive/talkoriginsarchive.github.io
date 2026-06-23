@@ -1,0 +1,38 @@
+{
+  "release": "toa-lite-poc3-20260623T0042Z.zip",
+  "generated_utc": "2026-06-23T00:43:47Z",
+  "archive_size": 360592452,
+  "archive_size_human": "344 MB",
+  "archive_sha256": "7442f79297e673e9c4b28e60834d8d1c401c08e761bb56b121ffbabd0da350a1",
+  "top_level_directory": "talkorigins-portable-lite",
+  "parts": [
+    {
+      "file": "toa-lite-poc3-20260623T0042Z.zip.part-000",
+      "size": 99614720,
+      "size_human": "95 MB",
+      "sha256": "e69fca43c57c8aa28dc67ed56af7835071979d426d6f627a9940d5b7612b561e"
+    },
+    {
+      "file": "toa-lite-poc3-20260623T0042Z.zip.part-001",
+      "size": 99614720,
+      "size_human": "95 MB",
+      "sha256": "febdafb9464a19fbbb0baeb6978de029912d0cb98689cd0440b3663b95486f70"
+    },
+    {
+      "file": "toa-lite-poc3-20260623T0042Z.zip.part-002",
+      "size": 99614720,
+      "size_human": "95 MB",
+      "sha256": "d1f935fab6ca5f71b810f13ce3f96e72543c79c0bef2d95d4517a9bba157f944"
+    },
+    {
+      "file": "toa-lite-poc3-20260623T0042Z.zip.part-003",
+      "size": 61748292,
+      "size_human": "59 MB",
+      "sha256": "615c91f1d9336bb0f05946d847974206990adda568be1b08333666d76fb13381"
+    }
+  ],
+  "reconstruct": {
+    "linux_macos": "cat toa-lite-poc3-20260623T0042Z.zip.part-* > toa-lite-poc3-20260623T0042Z.zip",
+    "windows_powershell": "cmd /c copy /b toa-lite-poc3-20260623T0042Z.zip.part-* toa-lite-poc3-20260623T0042Z.zip"
+  }
+}

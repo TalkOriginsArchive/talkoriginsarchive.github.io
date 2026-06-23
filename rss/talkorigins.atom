@@ -5,47 +5,47 @@
   <link href="https://talkorigins.org/" rel="alternate" />
   <link href="https://talkorigins.org/rss/talkorigins.atom" rel="self" type="application/atom+xml" />
   <id>https://talkorigins.org/</id>
-  <updated>2026-06-22T19:56:15.630173Z</updated>
+  <updated>2026-06-23T00:45:13Z</updated>
   <entry>
     <title>TalkOrigins modernized edition</title>
     <link href="https://talkorigins.org/" />
     <id>poc3-modernization-preview</id>
-    <updated>2026-06-22T19:56:15Z</updated>
+    <updated>2026-06-23T00:45:13Z</updated>
     <summary type="html">The poc3 candidate presents the Archive with responsive pages, route preservation, search, feedback, workbench, Notebook, and translation staging.</summary>
   </entry>
   <entry>
     <title>TOA Lite portable download</title>
     <link href="https://talkorigins.org/downloads/toa-lite/" />
     <id>toa-lite-download-current</id>
-    <updated>2026-05-28T19:09:37.818975Z</updated>
-    <summary type="html">The current public-files-only TOA Lite package is available for offline reading and USB distribution. Latest zip size is approximately 174 MB.</summary>
+    <updated>2026-06-23T00:43:55.269884Z</updated>
+    <summary type="html">The current public-files-only TOA Lite package is available for offline reading and USB distribution. Latest zip size is approximately 344 MB.</summary>
   </entry>
   <entry>
     <title>Translation queue status</title>
     <link href="https://talkorigins.org/translation-status/" />
     <id>poc3-translation-status</id>
-    <updated>2026-06-22T19:56:15.630173Z</updated>
+    <updated>2026-06-23T00:39:29.048971Z</updated>
     <summary type="html">Current initial-language translation status: es: 2866 complete / 2866 queued, fr: 2866 complete / 2866 queued, de: 2866 complete / 2866 queued, pt: 2866 complete / 2866 queued.</summary>
   </entry>
   <entry>
     <title>Index to Creationist Claims</title>
     <link href="https://talkorigins.org/indexcc/list.html" />
     <id>poc3-indexcc</id>
-    <updated>2026-06-22T19:56:15Z</updated>
+    <updated>2026-06-23T00:45:13Z</updated>
     <summary type="html">The generated claims index is available in the modernized candidate tree with route-preserving claim pages.</summary>
   </entry>
   <entry>
     <title>Static feedback archive</title>
     <link href="https://talkorigins.org/feedback/" />
     <id>poc3-feedback-archive</id>
-    <updated>2026-06-22T19:56:15Z</updated>
+    <updated>2026-06-23T00:45:13Z</updated>
     <summary type="html">Past feedback compilations are exposed as static resources, while new submissions use the managed /fb route.</summary>
   </entry>
   <entry>
     <title>Search, workbench, and Notebook routes</title>
     <link href="https://talkorigins.org/search/" />
     <id>poc3-dynamic-routes</id>
-    <updated>2026-06-22T19:56:15Z</updated>
+    <updated>2026-06-23T00:45:13Z</updated>
     <summary type="html">Dynamic routes are represented in the poc3 candidate for search, feedback, workbench, and Notebook support.</summary>
   </entry>
 </feed>

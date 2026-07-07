@@ -1,7 +1,7 @@
 {
   "schema": "scisiteforge.translation_batches.v1",
   "queue_state": "active",
-  "updated_at": "2026-06-22T19:56:15.630173+00:00",
+  "updated_at": "2026-07-07T15:20:40.993019+00:00",
   "batches": [
     {
       "id": "phase-1-front-door-batch-001",
@@ -977,23 +977,6 @@
       }
     },
     {
-      "id": "phase-5-specialized-legacy-batch-001",
-      "phase": "phase-5-specialized-legacy",
-      "phase_label": "Specialized Legacy Material",
-      "sequence": 1,
-      "status": "complete",
-      "page_count": 7,
-      "languages": [
-        "es",
-        "fr",
-        "de",
-        "pt"
-      ],
-      "status_counts": {
-        "translated": 28
-      }
-    },
-    {
       "id": "phase-4-bibliography-expanded-refresh-20260528",
       "phase": "phase-4-archive-navigation",
       "phase_label": "Archive Navigation and Bibliography",
@@ -1009,6 +992,80 @@
       "update_reason": "The bibliography has been restored from the expanded CiteGeist corpus, with DOI/source verification, abstracts where available, citation graph expansion, BibTeX exports, and a modern topic index.",
       "status_counts": {
         "translated": 4120
+      }
+    },
+    {
+      "id": "phase-4-bibliography-topic-additions-20260706",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "sequence": 32,
+      "status": "complete",
+      "page_count": 2,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "update_reason": "Two CiteGeist-derived bibliography topic pages were added for life-history tradeoffs and teleology/biological function. Localized index pages were patched with only the changed topic count and two topic-list rows; the new full topic pages remain queued for normal translation processing.",
+      "delta_manifest": "/translation-status/deltas/phase-4-bibliography-topic-additions-20260706-index.json",
+      "status_counts": {
+        "translated": 8
+      }
+    },
+    {
+      "id": "phase-4-bibliography-evo-devo-20260707",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "sequence": 33,
+      "status": "complete",
+      "page_count": 1,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "update_reason": "A new CiteGeist-derived TalkOrigins bibliography topic was added for evolutionary developmental biology/evo-devo. Localized index pages were patched with only the changed topic count and the new topic-list row; the new full topic page remains queued for normal translation processing.",
+      "delta_manifest": "/translation-status/deltas/phase-4-bibliography-evo-devo-20260707-index.json",
+      "status_counts": {
+        "translated": 4
+      }
+    },
+    {
+      "id": "phase-4-bibliography-crispr-technology-20260707",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "sequence": 34,
+      "status": "complete",
+      "page_count": 1,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "update_reason": "TalkOrigins bibliography topic update.",
+      "delta_manifest": "/translation-status/deltas/phase-4-bibliography-crispr-technology-20260707-index.json",
+      "status_counts": {
+        "translated": 4
+      }
+    },
+    {
+      "id": "phase-5-specialized-legacy-batch-001",
+      "phase": "phase-5-specialized-legacy",
+      "phase_label": "Specialized Legacy Material",
+      "sequence": 1,
+      "status": "complete",
+      "page_count": 7,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status_counts": {
+        "translated": 28
       }
     }
   ]

@@ -1,0 +1,72 @@
+{
+  "id": "phase-4-bibliography-topic-additions-20260706",
+  "phase": "phase-4-archive-navigation",
+  "phase_label": "Archive Navigation and Bibliography",
+  "sequence": 32,
+  "status": "complete",
+  "page_count": 2,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "update_reason": "Two CiteGeist-derived bibliography topic pages were added for life-history tradeoffs and teleology/biological function. Localized index pages were patched with only the changed topic count and two topic-list rows; the new full topic pages remain queued for normal translation processing.",
+  "delta_manifest": "/translation-status/deltas/phase-4-bibliography-topic-additions-20260706-index.json",
+  "status_counts": {
+    "translated": 8
+  },
+  "pages": [
+    {
+      "route": "/origins/biblio/life_history_tradeoffs.html",
+      "source_path": "origins/biblio/life_history_tradeoffs.html",
+      "title": "Life-history tradeoffs bibliography",
+      "content_kind": "bibliography",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "batch_id": "phase-4-bibliography-topic-additions-20260706",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate explanatory bibliography interface text from the reviewed English source. Preserve author names, citation titles, journal names, DOI values, URLs, BibTeX keys, and machine-readable BibTeX fields except where a conventional localized title exists.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-4-bibliography-topic-additions-20260706.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-4-bibliography-topic-additions-20260706.jsonl",
+        "de": "/translation-status/work-orders/de/phase-4-bibliography-topic-additions-20260706.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-4-bibliography-topic-additions-20260706.jsonl"
+      },
+      "update_reason": "Two CiteGeist-derived bibliography topic pages were added for life-history tradeoffs and teleology/biological function. Localized index pages were patched with only the changed topic count and two topic-list rows; the new full topic pages remain queued for normal translation processing.",
+      "source_character_count": 61462
+    },
+    {
+      "route": "/origins/biblio/teleology_function.html",
+      "source_path": "origins/biblio/teleology_function.html",
+      "title": "Teleology and biological function bibliography",
+      "content_kind": "bibliography",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "batch_id": "phase-4-bibliography-topic-additions-20260706",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate explanatory bibliography interface text from the reviewed English source. Preserve author names, citation titles, journal names, DOI values, URLs, BibTeX keys, and machine-readable BibTeX fields except where a conventional localized title exists.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-4-bibliography-topic-additions-20260706.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-4-bibliography-topic-additions-20260706.jsonl",
+        "de": "/translation-status/work-orders/de/phase-4-bibliography-topic-additions-20260706.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-4-bibliography-topic-additions-20260706.jsonl"
+      },
+      "update_reason": "Two CiteGeist-derived bibliography topic pages were added for life-history tradeoffs and teleology/biological function. Localized index pages were patched with only the changed topic count and two topic-list rows; the new full topic pages remain queued for normal translation processing.",
+      "source_character_count": 50822
+    }
+  ],
+  "updated_at": "2026-07-07T15:20:40.993019+00:00"
+}

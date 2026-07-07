@@ -1,0 +1,47 @@
+{
+  "id": "phase-4-bibliography-evo-devo-20260707",
+  "phase": "phase-4-archive-navigation",
+  "phase_label": "Archive Navigation and Bibliography",
+  "sequence": 33,
+  "status": "complete",
+  "page_count": 1,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "update_reason": "A new CiteGeist-derived TalkOrigins bibliography topic was added for evolutionary developmental biology/evo-devo. Localized index pages were patched with only the changed topic count and the new topic-list row; the new full topic page remains queued for normal translation processing.",
+  "delta_manifest": "/translation-status/deltas/phase-4-bibliography-evo-devo-20260707-index.json",
+  "status_counts": {
+    "translated": 4
+  },
+  "pages": [
+    {
+      "route": "/origins/biblio/evolutionary_developmental_biology.html",
+      "source_path": "origins/biblio/evolutionary_developmental_biology.html",
+      "title": "Evolutionary developmental biology bibliography",
+      "content_kind": "bibliography",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "batch_id": "phase-4-bibliography-evo-devo-20260707",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate explanatory bibliography interface text from the reviewed English source. Preserve author names, citation titles, journal names, DOI values, URLs, BibTeX keys, and machine-readable BibTeX fields except where a conventional localized title exists.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-4-bibliography-evo-devo-20260707.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-4-bibliography-evo-devo-20260707.jsonl",
+        "de": "/translation-status/work-orders/de/phase-4-bibliography-evo-devo-20260707.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-4-bibliography-evo-devo-20260707.jsonl"
+      },
+      "update_reason": "A new CiteGeist-derived TalkOrigins bibliography topic was added for evolutionary developmental biology/evo-devo. Localized index pages were patched with only the changed topic count and the new topic-list row; the new full topic page remains queued for normal translation processing.",
+      "source_character_count": 89182
+    }
+  ],
+  "updated_at": "2026-07-07T15:20:40.993019+00:00"
+}

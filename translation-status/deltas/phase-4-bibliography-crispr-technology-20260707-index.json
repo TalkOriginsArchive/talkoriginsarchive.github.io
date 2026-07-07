@@ -1,0 +1,73 @@
+{
+  "schema": "talkorigins.translation_delta.v1",
+  "batch_id": "phase-4-bibliography-crispr-technology-20260707",
+  "route": "/origins/biblio/",
+  "source_path": "origins/biblio/index.html",
+  "strategy": "localized-index-delta",
+  "update_reason": "TalkOrigins bibliography topic update.",
+  "changed_source_fragments": [
+    {
+      "selector": "dl.stats dd:first-of-type",
+      "source": "1,033"
+    },
+    {
+      "selector": "ol.topic-list",
+      "source": "<li><a href=\"/origins/biblio/crispr_technology.html\">CRISPR technology</a> <span>34 citations</span></li>"
+    }
+  ],
+  "languages": {
+    "es": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1,033"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/es/origins/biblio/crispr_technology.html\">Tecnología CRISPR</a> <span>34 citas</span></li>"
+        }
+      ],
+      "patched_path": "es/origins/biblio/index.html"
+    },
+    "fr": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1 033"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/fr/origins/biblio/crispr_technology.html\">Technologie CRISPR</a> <span>34 citations</span></li>"
+        }
+      ],
+      "patched_path": "fr/origins/biblio/index.html"
+    },
+    "de": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1.033"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/de/origins/biblio/crispr_technology.html\">CRISPR-Technologie</a> <span>34 Zitate</span></li>"
+        }
+      ],
+      "patched_path": "de/origins/biblio/index.html"
+    },
+    "pt": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1,033"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/pt/origins/biblio/crispr_technology.html\">Tecnologia CRISPR</a> <span>34 citações</span></li>"
+        }
+      ],
+      "patched_path": "pt/origins/biblio/index.html"
+    }
+  },
+  "updated_at": "2026-07-07T04:02:08.929912+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "schema": "talkorigins.translation_delta.v1",
+  "batch_id": "phase-4-bibliography-topic-additions-20260706",
+  "route": "/origins/biblio/",
+  "source_path": "origins/biblio/index.html",
+  "strategy": "localized-index-delta",
+  "update_reason": "Two CiteGeist-derived bibliography topic pages were added for life-history tradeoffs and teleology/biological function. Localized index pages were patched with only the changed topic count and two topic-list rows; the new full topic pages remain queued for normal translation processing.",
+  "changed_source_fragments": [
+    {
+      "selector": "dl.stats dd:first-of-type",
+      "source": "1,031"
+    },
+    {
+      "selector": "ol.topic-list",
+      "source": "<li><a href=\"/origins/biblio/life_history_tradeoffs.html\">Life-history tradeoffs</a> <span>22 citations</span></li>"
+    },
+    {
+      "selector": "ol.topic-list",
+      "source": "<li><a href=\"/origins/biblio/teleology_function.html\">Teleology and biological function</a> <span>17 citations</span></li>"
+    }
+  ],
+  "languages": {
+    "es": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1,031"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/es/origins/biblio/life_history_tradeoffs.html\">Compensaciones de historia de vida</a> <span>22 citas</span></li>"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/es/origins/biblio/teleology_function.html\">Teleología y función biológica</a> <span>17 citas</span></li>"
+        }
+      ],
+      "patched_path": "es/origins/biblio/index.html"
+    },
+    "fr": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1 031"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/fr/origins/biblio/life_history_tradeoffs.html\">Compromis d’histoire de vie</a> <span>22 citations</span></li>"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/fr/origins/biblio/teleology_function.html\">Téléologie et fonction biologique</a> <span>17 citations</span></li>"
+        }
+      ],
+      "patched_path": "fr/origins/biblio/index.html"
+    },
+    "de": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1.031"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/de/origins/biblio/life_history_tradeoffs.html\">Trade-offs der Lebensgeschichte</a> <span>22 Zitate</span></li>"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/de/origins/biblio/teleology_function.html\">Teleologie und biologische Funktion</a> <span>17 Zitate</span></li>"
+        }
+      ],
+      "patched_path": "de/origins/biblio/index.html"
+    },
+    "pt": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1,031"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/pt/origins/biblio/life_history_tradeoffs.html\">Trade-offs de história de vida</a> <span>22 citações</span></li>"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/pt/origins/biblio/teleology_function.html\">Teleologia e função biológica</a> <span>17 citações</span></li>"
+        }
+      ],
+      "patched_path": "pt/origins/biblio/index.html"
+    }
+  },
+  "updated_at": "2026-07-07T00:01:47.682810+00:00"
+}

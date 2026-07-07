@@ -1,0 +1,73 @@
+{
+  "schema": "talkorigins.translation_delta.v1",
+  "batch_id": "phase-4-bibliography-evo-devo-20260707",
+  "route": "/origins/biblio/",
+  "source_path": "origins/biblio/index.html",
+  "strategy": "localized-index-delta",
+  "update_reason": "A new CiteGeist-derived TalkOrigins bibliography topic was added for evolutionary developmental biology/evo-devo. Localized index pages were patched with only the changed topic count and the new topic-list row; the new full topic page remains queued for normal translation processing.",
+  "changed_source_fragments": [
+    {
+      "selector": "dl.stats dd:first-of-type",
+      "source": "1,032"
+    },
+    {
+      "selector": "ol.topic-list",
+      "source": "<li><a href=\"/origins/biblio/evolutionary_developmental_biology.html\">Evolutionary developmental biology</a> <span>17 citations</span></li>"
+    }
+  ],
+  "languages": {
+    "es": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1,032"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/es/origins/biblio/evolutionary_developmental_biology.html\">Biología evolutiva del desarrollo</a> <span>17 citas</span></li>"
+        }
+      ],
+      "patched_path": "es/origins/biblio/index.html"
+    },
+    "fr": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1 032"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/fr/origins/biblio/evolutionary_developmental_biology.html\">Biologie évolutive du développement</a> <span>17 citations</span></li>"
+        }
+      ],
+      "patched_path": "fr/origins/biblio/index.html"
+    },
+    "de": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1.032"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/de/origins/biblio/evolutionary_developmental_biology.html\">Evolutionäre Entwicklungsbiologie</a> <span>17 Zitate</span></li>"
+        }
+      ],
+      "patched_path": "de/origins/biblio/index.html"
+    },
+    "pt": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1,032"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/pt/origins/biblio/evolutionary_developmental_biology.html\">Biologia evolutiva do desenvolvimento</a> <span>17 citações</span></li>"
+        }
+      ],
+      "patched_path": "pt/origins/biblio/index.html"
+    }
+  },
+  "updated_at": "2026-07-07T00:26:14.730335+00:00"
+}

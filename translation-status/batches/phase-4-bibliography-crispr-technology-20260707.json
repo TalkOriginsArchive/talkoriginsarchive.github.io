@@ -1,0 +1,47 @@
+{
+  "id": "phase-4-bibliography-crispr-technology-20260707",
+  "phase": "phase-4-archive-navigation",
+  "phase_label": "Archive Navigation and Bibliography",
+  "sequence": 34,
+  "status": "complete",
+  "page_count": 1,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "update_reason": "TalkOrigins bibliography topic update.",
+  "delta_manifest": "/translation-status/deltas/phase-4-bibliography-crispr-technology-20260707-index.json",
+  "status_counts": {
+    "translated": 4
+  },
+  "pages": [
+    {
+      "route": "/origins/biblio/crispr_technology.html",
+      "source_path": "origins/biblio/crispr_technology.html",
+      "title": "CRISPR technology bibliography",
+      "content_kind": "bibliography",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "batch_id": "phase-4-bibliography-crispr-technology-20260707",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate explanatory bibliography interface text from the reviewed English source. Preserve author names, citation titles, journal names, DOI values, URLs, BibTeX keys, and machine-readable BibTeX fields except where a conventional localized title exists.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-4-bibliography-crispr-technology-20260707.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-4-bibliography-crispr-technology-20260707.jsonl",
+        "de": "/translation-status/work-orders/de/phase-4-bibliography-crispr-technology-20260707.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-4-bibliography-crispr-technology-20260707.jsonl"
+      },
+      "update_reason": "TalkOrigins bibliography topic update.",
+      "source_character_count": 43792
+    }
+  ],
+  "updated_at": "2026-07-07T15:20:40.993019+00:00"
+}

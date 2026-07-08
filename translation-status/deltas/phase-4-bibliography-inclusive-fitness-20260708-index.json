@@ -1,0 +1,73 @@
+{
+  "schema": "talkorigins.translation_delta.v1",
+  "batch_id": "phase-4-bibliography-inclusive-fitness-20260708",
+  "route": "/origins/biblio/",
+  "source_path": "origins/biblio/index.html",
+  "strategy": "localized-index-delta",
+  "update_reason": "New TalkOrigins bibliography topic: Inclusive fitness",
+  "changed_source_fragments": [
+    {
+      "selector": "dl.stats dd:first-of-type",
+      "source": "1,035"
+    },
+    {
+      "selector": "ol.topic-list",
+      "source": "<li><a href=\"/origins/biblio/inclusive_fitness.html\">Inclusive fitness</a> <span>12 citations</span></li>"
+    }
+  ],
+  "languages": {
+    "es": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1,035"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/es/origins/biblio/inclusive_fitness.html\">Aptitud inclusiva</a> <span>12 citas</span></li>"
+        }
+      ],
+      "patched_path": "es/origins/biblio/index.html"
+    },
+    "fr": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1 035"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/fr/origins/biblio/inclusive_fitness.html\">Aptitude inclusive</a> <span>12 citations</span></li>"
+        }
+      ],
+      "patched_path": "fr/origins/biblio/index.html"
+    },
+    "de": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1.035"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/de/origins/biblio/inclusive_fitness.html\">Inklusive Fitness</a> <span>12 Zitate</span></li>"
+        }
+      ],
+      "patched_path": "de/origins/biblio/index.html"
+    },
+    "pt": {
+      "target_fragments": [
+        {
+          "selector": "dl.stats dd:first-of-type",
+          "target": "1,035"
+        },
+        {
+          "selector": "ol.topic-list",
+          "target": "<li><a href=\"/pt/origins/biblio/inclusive_fitness.html\">Aptidão inclusiva</a> <span>12 citações</span></li>"
+        }
+      ],
+      "patched_path": "pt/origins/biblio/index.html"
+    }
+  },
+  "updated_at": "2026-07-08T12:14:18.423011+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "phase-4-bibliography-common-descent-20260707",
+  "phase": "phase-4-archive-navigation",
+  "phase_label": "Archive Navigation and Bibliography",
+  "sequence": 35,
+  "status": "complete",
+  "page_count": 1,
+  "languages": [
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "update_reason": "New TalkOrigins bibliography topic for common descent seeded from Douglas Theobald publications and CiteGeist expansion.",
+  "delta_manifest": "/translation-status/deltas/phase-4-bibliography-common-descent-20260707-index.json",
+  "status_counts": {
+    "translated": 4
+  },
+  "pages": [
+    {
+      "route": "/origins/biblio/common_descent.html",
+      "source_path": "origins/biblio/common_descent.html",
+      "title": "Common descent bibliography",
+      "content_kind": "bibliography",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "batch_id": "phase-4-bibliography-common-descent-20260707",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate explanatory bibliography interface text from the reviewed English source. Preserve author names, citation titles, journal names, DOI values, URLs, BibTeX keys, and machine-readable BibTeX fields except where a conventional localized title exists.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-4-bibliography-common-descent-20260707.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-4-bibliography-common-descent-20260707.jsonl",
+        "de": "/translation-status/work-orders/de/phase-4-bibliography-common-descent-20260707.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-4-bibliography-common-descent-20260707.jsonl"
+      },
+      "update_reason": "New TalkOrigins bibliography topic for common descent seeded from Douglas Theobald publications and CiteGeist expansion.",
+      "source_character_count": 34033
+    }
+  ],
+  "updated_at": "2026-07-08T16:01:13.589515+00:00"
+}

@@ -26,40 +26,40 @@
     }
   ],
   "summary": {
-    "total_pages": 2871,
-    "total_batches": 65,
+    "total_pages": 2872,
+    "total_batches": 66,
     "pages_by_phase": {
       "phase-1-front-door": 24,
       "phase-2-claims-index": 552,
       "phase-3-faqs-articles": 795,
-      "phase-4-archive-navigation": 1493,
+      "phase-4-archive-navigation": 1494,
       "phase-5-specialized-legacy": 7
     },
     "batches_by_phase": {
       "phase-1-front-door": 1,
       "phase-2-claims-index": 12,
       "phase-3-faqs-articles": 16,
-      "phase-4-archive-navigation": 35,
+      "phase-4-archive-navigation": 36,
       "phase-5-specialized-legacy": 1
     },
     "missing_by_language": {
-      "es": 1,
-      "fr": 1,
-      "de": 1,
-      "pt": 1
+      "es": 0,
+      "fr": 0,
+      "de": 0,
+      "pt": 0
     },
     "ready_by_language": {
-      "es": 1,
-      "fr": 1,
-      "de": 1,
-      "pt": 1
+      "es": 0,
+      "fr": 0,
+      "de": 0,
+      "pt": 0
     },
-    "total_source_characters": 126470459,
+    "total_source_characters": 126504551,
     "translated_by_language": {
-      "es": 2870,
-      "fr": 2870,
-      "de": 2870,
-      "pt": 2870
+      "es": 2872,
+      "fr": 2872,
+      "de": 2872,
+      "pt": 2872
     },
     "error_by_language": {
       "es": 0,
@@ -69,33 +69,29 @@
     },
     "status_by_language": {
       "es": {
-        "translated": 2870,
-        "ready": 1
+        "translated": 2872
       },
       "fr": {
-        "translated": 2870,
-        "ready": 1
+        "translated": 2872
       },
       "de": {
-        "translated": 2870,
-        "ready": 1
+        "translated": 2872
       },
       "pt": {
-        "translated": 2870,
-        "ready": 1
+        "translated": 2872
       }
     },
     "translated_characters_by_language": {
-      "es": 126453285,
-      "fr": 126453285,
-      "de": 126453285,
-      "pt": 126453285
+      "es": 126504551,
+      "fr": 126504551,
+      "de": 126504551,
+      "pt": 126504551
     },
     "missing_characters_by_language": {
-      "es": 17174,
-      "fr": 17174,
-      "de": 17174,
-      "pt": 17174
+      "es": 0,
+      "fr": 0,
+      "de": 0,
+      "pt": 0
     },
     "error_characters_by_language": {
       "es": 0,
@@ -104,18 +100,18 @@
       "pt": 0
     },
     "translated_character_percent_by_language": {
-      "es": 99.99,
-      "fr": 99.99,
-      "de": 99.99,
-      "pt": 99.99
+      "es": 100.0,
+      "fr": 100.0,
+      "de": 100.0,
+      "pt": 100.0
     },
     "translated_page_percent_by_language": {
-      "es": 99.97,
-      "fr": 99.97,
-      "de": 99.97,
-      "pt": 99.97
+      "es": 100.0,
+      "fr": 100.0,
+      "de": 100.0,
+      "pt": 100.0
     },
-    "updated_at": "2026-07-08T12:15:19.409170+00:00"
+    "updated_at": "2026-07-08T16:01:13.589515+00:00"
   },
   "phases": [
     {
@@ -139,8 +135,8 @@
     {
       "id": "phase-4-archive-navigation",
       "label": "Archive Navigation and Feedback",
-      "page_count": 1493,
-      "batch_count": 35
+      "page_count": 1494,
+      "batch_count": 36
     },
     {
       "id": "phase-5-specialized-legacy",
@@ -1199,11 +1195,30 @@
       }
     },
     {
+      "id": "phase-4-bibliography-common-descent-20260707",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "sequence": 35,
+      "status": "complete",
+      "page_count": 1,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "update_reason": "New TalkOrigins bibliography topic for common descent seeded from Douglas Theobald publications and CiteGeist expansion.",
+      "delta_manifest": "/translation-status/deltas/phase-4-bibliography-common-descent-20260707-index.json",
+      "status_counts": {
+        "translated": 4
+      }
+    },
+    {
       "id": "phase-4-bibliography-inclusive-fitness-20260708",
       "phase": "phase-4-archive-navigation",
       "phase_label": "Archive Navigation and Bibliography",
       "sequence": 36,
-      "status": "ready",
+      "status": "complete",
       "page_count": 1,
       "languages": [
         "es",
@@ -1214,7 +1229,7 @@
       "update_reason": "New TalkOrigins bibliography topic: Inclusive fitness",
       "delta_manifest": "/translation-status/deltas/phase-4-bibliography-inclusive-fitness-20260708-index.json",
       "status_counts": {
-        "ready": 4
+        "translated": 4
       }
     },
     {
@@ -45134,6 +45149,31 @@
       "source_character_count": 54462
     },
     {
+      "route": "/origins/biblio/common_descent.html",
+      "source_path": "origins/biblio/common_descent.html",
+      "title": "Common descent bibliography",
+      "content_kind": "bibliography",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "batch_id": "phase-4-bibliography-common-descent-20260707",
+      "translation_readiness": "ready",
+      "preservation_policy": "Translate explanatory bibliography interface text from the reviewed English source. Preserve author names, citation titles, journal names, DOI values, URLs, BibTeX keys, and machine-readable BibTeX fields except where a conventional localized title exists.",
+      "statuses": {
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
+      },
+      "work_orders": {
+        "es": "/translation-status/work-orders/es/phase-4-bibliography-common-descent-20260707.jsonl",
+        "fr": "/translation-status/work-orders/fr/phase-4-bibliography-common-descent-20260707.jsonl",
+        "de": "/translation-status/work-orders/de/phase-4-bibliography-common-descent-20260707.jsonl",
+        "pt": "/translation-status/work-orders/pt/phase-4-bibliography-common-descent-20260707.jsonl"
+      },
+      "update_reason": "New TalkOrigins bibliography topic for common descent seeded from Douglas Theobald publications and CiteGeist expansion.",
+      "source_character_count": 34033
+    },
+    {
       "route": "/origins/biblio/crispr_technology.html",
       "source_path": "origins/biblio/crispr_technology.html",
       "title": "CRISPR technology bibliography",
@@ -45206,7 +45246,7 @@
         "pt": "/translation-status/work-orders/pt/phase-4-bibliography-expanded-refresh-20260528.jsonl"
       },
       "update_reason": "The bibliography has been restored from the expanded CiteGeist corpus, with DOI/source verification, abstracts where available, citation graph expansion, BibTeX exports, and a modern topic index.",
-      "source_character_count": 29774
+      "source_character_count": 29833
     },
     {
       "route": "/origins/biblio/abiogenesis.html",
@@ -70944,10 +70984,10 @@
       "translation_readiness": "ready",
       "preservation_policy": "Translate explanatory bibliography interface text from the reviewed English source. Preserve author names, citation titles, journal names, DOI values, URLs, BibTeX keys, and machine-readable BibTeX fields except where a conventional localized title exists.",
       "statuses": {
-        "es": "ready",
-        "fr": "ready",
-        "de": "ready",
-        "pt": "ready"
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-inclusive-fitness-20260708.jsonl",

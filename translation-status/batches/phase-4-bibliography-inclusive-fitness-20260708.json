@@ -3,7 +3,7 @@
   "phase": "phase-4-archive-navigation",
   "phase_label": "Archive Navigation and Bibliography",
   "sequence": 36,
-  "status": "ready",
+  "status": "complete",
   "page_count": 1,
   "languages": [
     "es",
@@ -14,7 +14,7 @@
   "update_reason": "New TalkOrigins bibliography topic: Inclusive fitness",
   "delta_manifest": "/translation-status/deltas/phase-4-bibliography-inclusive-fitness-20260708-index.json",
   "status_counts": {
-    "ready": 4
+    "translated": 4
   },
   "pages": [
     {
@@ -28,10 +28,10 @@
       "translation_readiness": "ready",
       "preservation_policy": "Translate explanatory bibliography interface text from the reviewed English source. Preserve author names, citation titles, journal names, DOI values, URLs, BibTeX keys, and machine-readable BibTeX fields except where a conventional localized title exists.",
       "statuses": {
-        "es": "ready",
-        "fr": "ready",
-        "de": "ready",
-        "pt": "ready"
+        "es": "translated",
+        "fr": "translated",
+        "de": "translated",
+        "pt": "translated"
       },
       "work_orders": {
         "es": "/translation-status/work-orders/es/phase-4-bibliography-inclusive-fitness-20260708.jsonl",
@@ -43,5 +43,5 @@
       "source_character_count": 17174
     }
   ],
-  "updated_at": "2026-07-08T12:15:19.409170+00:00"
+  "updated_at": "2026-07-08T16:01:13.589515+00:00"
 }

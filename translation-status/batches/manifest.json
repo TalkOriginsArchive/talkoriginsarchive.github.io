@@ -1,7 +1,7 @@
 {
   "schema": "scisiteforge.translation_batches.v1",
   "queue_state": "active",
-  "updated_at": "2026-07-07T15:20:40.993019+00:00",
+  "updated_at": "2026-07-08T16:01:13.589515+00:00",
   "batches": [
     {
       "id": "phase-1-front-door-batch-001",
@@ -1047,6 +1047,44 @@
       ],
       "update_reason": "TalkOrigins bibliography topic update.",
       "delta_manifest": "/translation-status/deltas/phase-4-bibliography-crispr-technology-20260707-index.json",
+      "status_counts": {
+        "translated": 4
+      }
+    },
+    {
+      "id": "phase-4-bibliography-common-descent-20260707",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "sequence": 35,
+      "status": "complete",
+      "page_count": 1,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "update_reason": "New TalkOrigins bibliography topic for common descent seeded from Douglas Theobald publications and CiteGeist expansion.",
+      "delta_manifest": "/translation-status/deltas/phase-4-bibliography-common-descent-20260707-index.json",
+      "status_counts": {
+        "translated": 4
+      }
+    },
+    {
+      "id": "phase-4-bibliography-inclusive-fitness-20260708",
+      "phase": "phase-4-archive-navigation",
+      "phase_label": "Archive Navigation and Bibliography",
+      "sequence": 36,
+      "status": "complete",
+      "page_count": 1,
+      "languages": [
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "update_reason": "New TalkOrigins bibliography topic: Inclusive fitness",
+      "delta_manifest": "/translation-status/deltas/phase-4-bibliography-inclusive-fitness-20260708-index.json",
       "status_counts": {
         "translated": 4
       }
